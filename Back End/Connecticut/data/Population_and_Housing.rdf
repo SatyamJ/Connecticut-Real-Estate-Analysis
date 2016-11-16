@@ -1,0 +1,1528 @@
+<rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:rdfs="http://www.w3.org/2000/01/rdf-schema#"
+         xmlns:socrata="http://www.socrata.com/rdf/terms#" xmlns:dcat="http://www.w3.org/ns/dcat#"
+         xmlns:ods="http://open-data-standards.github.com/2012/01/open-data-standards#"
+         xmlns:dcterm="http://purl.org/dc/terms/" xmlns:geo="http://www.w3.org/2003/01/geo/wgs84_pos#"
+         xmlns:skos="http://www.w3.org/2004/02/skos/core#" xmlns:foaf="http://xmlns.com/foaf/0.1/"
+         xmlns:dsbase="http://data.ct.gov/resource/" xmlns:ds="http://data.ct.gov/resource/igy9-udjm/">
+    <dsbase:igy9-udjm rdf:about="http://data.ct.gov/resource/igy9-udjm/1">
+        <socrata:rowID>1</socrata:rowID>
+        <rdfs:member rdf:resource="http://data.ct.gov/resource/igy9-udjm"/>
+        <ds:municipality>Andover</ds:municipality>
+        <ds:population>3303</ds:population>
+        <ds:total_housing_units>1317</ds:total_housing_units>
+        <ds:occupied_housing_units>1244</ds:occupied_housing_units>
+        <ds:vacant_housing_units>73</ds:vacant_housing_units>
+    </dsbase:igy9-udjm>
+    <dsbase:igy9-udjm rdf:about="http://data.ct.gov/resource/igy9-udjm/2">
+        <socrata:rowID>2</socrata:rowID>
+        <rdfs:member rdf:resource="http://data.ct.gov/resource/igy9-udjm"/>
+        <ds:municipality>Ansonia</ds:municipality>
+        <ds:population>19249</ds:population>
+        <ds:total_housing_units>8148</ds:total_housing_units>
+        <ds:occupied_housing_units>7510</ds:occupied_housing_units>
+        <ds:vacant_housing_units>638</ds:vacant_housing_units>
+    </dsbase:igy9-udjm>
+    <dsbase:igy9-udjm rdf:about="http://data.ct.gov/resource/igy9-udjm/3">
+        <socrata:rowID>3</socrata:rowID>
+        <rdfs:member rdf:resource="http://data.ct.gov/resource/igy9-udjm"/>
+        <ds:municipality>Ashford</ds:municipality>
+        <ds:population>4317</ds:population>
+        <ds:total_housing_units>1903</ds:total_housing_units>
+        <ds:occupied_housing_units>1716</ds:occupied_housing_units>
+        <ds:vacant_housing_units>187</ds:vacant_housing_units>
+    </dsbase:igy9-udjm>
+    <dsbase:igy9-udjm rdf:about="http://data.ct.gov/resource/igy9-udjm/4">
+        <socrata:rowID>4</socrata:rowID>
+        <rdfs:member rdf:resource="http://data.ct.gov/resource/igy9-udjm"/>
+        <ds:municipality>Avon</ds:municipality>
+        <ds:population>18098</ds:population>
+        <ds:total_housing_units>7389</ds:total_housing_units>
+        <ds:occupied_housing_units>7009</ds:occupied_housing_units>
+        <ds:vacant_housing_units>380</ds:vacant_housing_units>
+    </dsbase:igy9-udjm>
+    <dsbase:igy9-udjm rdf:about="http://data.ct.gov/resource/igy9-udjm/5">
+        <socrata:rowID>5</socrata:rowID>
+        <rdfs:member rdf:resource="http://data.ct.gov/resource/igy9-udjm"/>
+        <ds:municipality>Barkhamsted</ds:municipality>
+        <ds:population>3799</ds:population>
+        <ds:total_housing_units>1589</ds:total_housing_units>
+        <ds:occupied_housing_units>1452</ds:occupied_housing_units>
+        <ds:vacant_housing_units>137</ds:vacant_housing_units>
+    </dsbase:igy9-udjm>
+    <dsbase:igy9-udjm rdf:about="http://data.ct.gov/resource/igy9-udjm/6">
+        <socrata:rowID>6</socrata:rowID>
+        <rdfs:member rdf:resource="http://data.ct.gov/resource/igy9-udjm"/>
+        <ds:municipality>Beacon Falls</ds:municipality>
+        <ds:population>6049</ds:population>
+        <ds:total_housing_units>2509</ds:total_housing_units>
+        <ds:occupied_housing_units>2360</ds:occupied_housing_units>
+        <ds:vacant_housing_units>149</ds:vacant_housing_units>
+    </dsbase:igy9-udjm>
+    <dsbase:igy9-udjm rdf:about="http://data.ct.gov/resource/igy9-udjm/7">
+        <socrata:rowID>7</socrata:rowID>
+        <rdfs:member rdf:resource="http://data.ct.gov/resource/igy9-udjm"/>
+        <ds:municipality>Berlin</ds:municipality>
+        <ds:population>19866</ds:population>
+        <ds:total_housing_units>8140</ds:total_housing_units>
+        <ds:occupied_housing_units>7808</ds:occupied_housing_units>
+        <ds:vacant_housing_units>332</ds:vacant_housing_units>
+    </dsbase:igy9-udjm>
+    <dsbase:igy9-udjm rdf:about="http://data.ct.gov/resource/igy9-udjm/8">
+        <socrata:rowID>8</socrata:rowID>
+        <rdfs:member rdf:resource="http://data.ct.gov/resource/igy9-udjm"/>
+        <ds:municipality>Bethany</ds:municipality>
+        <ds:population>5563</ds:population>
+        <ds:total_housing_units>2044</ds:total_housing_units>
+        <ds:occupied_housing_units>1971</ds:occupied_housing_units>
+        <ds:vacant_housing_units>73</ds:vacant_housing_units>
+    </dsbase:igy9-udjm>
+    <dsbase:igy9-udjm rdf:about="http://data.ct.gov/resource/igy9-udjm/9">
+        <socrata:rowID>9</socrata:rowID>
+        <rdfs:member rdf:resource="http://data.ct.gov/resource/igy9-udjm"/>
+        <ds:municipality>Bethel</ds:municipality>
+        <ds:population>18584</ds:population>
+        <ds:total_housing_units>7310</ds:total_housing_units>
+        <ds:occupied_housing_units>6938</ds:occupied_housing_units>
+        <ds:vacant_housing_units>372</ds:vacant_housing_units>
+    </dsbase:igy9-udjm>
+    <dsbase:igy9-udjm rdf:about="http://data.ct.gov/resource/igy9-udjm/10">
+        <socrata:rowID>10</socrata:rowID>
+        <rdfs:member rdf:resource="http://data.ct.gov/resource/igy9-udjm"/>
+        <ds:municipality>Bethlehem</ds:municipality>
+        <ds:population>3607</ds:population>
+        <ds:total_housing_units>1575</ds:total_housing_units>
+        <ds:occupied_housing_units>1411</ds:occupied_housing_units>
+        <ds:vacant_housing_units>164</ds:vacant_housing_units>
+    </dsbase:igy9-udjm>
+    <dsbase:igy9-udjm rdf:about="http://data.ct.gov/resource/igy9-udjm/11">
+        <socrata:rowID>11</socrata:rowID>
+        <rdfs:member rdf:resource="http://data.ct.gov/resource/igy9-udjm"/>
+        <ds:municipality>Bloomfield</ds:municipality>
+        <ds:population>20486</ds:population>
+        <ds:total_housing_units>9019</ds:total_housing_units>
+        <ds:occupied_housing_units>8554</ds:occupied_housing_units>
+        <ds:vacant_housing_units>465</ds:vacant_housing_units>
+    </dsbase:igy9-udjm>
+    <dsbase:igy9-udjm rdf:about="http://data.ct.gov/resource/igy9-udjm/12">
+        <socrata:rowID>12</socrata:rowID>
+        <rdfs:member rdf:resource="http://data.ct.gov/resource/igy9-udjm"/>
+        <ds:municipality>Bolton</ds:municipality>
+        <ds:population>4980</ds:population>
+        <ds:total_housing_units>2015</ds:total_housing_units>
+        <ds:occupied_housing_units>1915</ds:occupied_housing_units>
+        <ds:vacant_housing_units>100</ds:vacant_housing_units>
+    </dsbase:igy9-udjm>
+    <dsbase:igy9-udjm rdf:about="http://data.ct.gov/resource/igy9-udjm/13">
+        <socrata:rowID>13</socrata:rowID>
+        <rdfs:member rdf:resource="http://data.ct.gov/resource/igy9-udjm"/>
+        <ds:municipality>Bozrah</ds:municipality>
+        <ds:population>2627</ds:population>
+        <ds:total_housing_units>1059</ds:total_housing_units>
+        <ds:occupied_housing_units>1007</ds:occupied_housing_units>
+        <ds:vacant_housing_units>52</ds:vacant_housing_units>
+    </dsbase:igy9-udjm>
+    <dsbase:igy9-udjm rdf:about="http://data.ct.gov/resource/igy9-udjm/14">
+        <socrata:rowID>14</socrata:rowID>
+        <rdfs:member rdf:resource="http://data.ct.gov/resource/igy9-udjm"/>
+        <ds:municipality>Branford</ds:municipality>
+        <ds:population>28026</ds:population>
+        <ds:total_housing_units>13972</ds:total_housing_units>
+        <ds:occupied_housing_units>12739</ds:occupied_housing_units>
+        <ds:vacant_housing_units>1233</ds:vacant_housing_units>
+    </dsbase:igy9-udjm>
+    <dsbase:igy9-udjm rdf:about="http://data.ct.gov/resource/igy9-udjm/15">
+        <socrata:rowID>15</socrata:rowID>
+        <rdfs:member rdf:resource="http://data.ct.gov/resource/igy9-udjm"/>
+        <ds:municipality>Bridgeport</ds:municipality>
+        <ds:population>144229</ds:population>
+        <ds:total_housing_units>57012</ds:total_housing_units>
+        <ds:occupied_housing_units>51255</ds:occupied_housing_units>
+        <ds:vacant_housing_units>5757</ds:vacant_housing_units>
+    </dsbase:igy9-udjm>
+    <dsbase:igy9-udjm rdf:about="http://data.ct.gov/resource/igy9-udjm/16">
+        <socrata:rowID>16</socrata:rowID>
+        <rdfs:member rdf:resource="http://data.ct.gov/resource/igy9-udjm"/>
+        <ds:municipality>Bridgewater</ds:municipality>
+        <ds:population>1727</ds:population>
+        <ds:total_housing_units>881</ds:total_housing_units>
+        <ds:occupied_housing_units>735</ds:occupied_housing_units>
+        <ds:vacant_housing_units>146</ds:vacant_housing_units>
+    </dsbase:igy9-udjm>
+    <dsbase:igy9-udjm rdf:about="http://data.ct.gov/resource/igy9-udjm/17">
+        <socrata:rowID>17</socrata:rowID>
+        <rdfs:member rdf:resource="http://data.ct.gov/resource/igy9-udjm"/>
+        <ds:municipality>Bristol</ds:municipality>
+        <ds:population>60477</ds:population>
+        <ds:total_housing_units>27011</ds:total_housing_units>
+        <ds:occupied_housing_units>25320</ds:occupied_housing_units>
+        <ds:vacant_housing_units>1691</ds:vacant_housing_units>
+    </dsbase:igy9-udjm>
+    <dsbase:igy9-udjm rdf:about="http://data.ct.gov/resource/igy9-udjm/18">
+        <socrata:rowID>18</socrata:rowID>
+        <rdfs:member rdf:resource="http://data.ct.gov/resource/igy9-udjm"/>
+        <ds:municipality>Brookfield</ds:municipality>
+        <ds:population>16452</ds:population>
+        <ds:total_housing_units>6562</ds:total_housing_units>
+        <ds:occupied_housing_units>6129</ds:occupied_housing_units>
+        <ds:vacant_housing_units>433</ds:vacant_housing_units>
+    </dsbase:igy9-udjm>
+    <dsbase:igy9-udjm rdf:about="http://data.ct.gov/resource/igy9-udjm/19">
+        <socrata:rowID>19</socrata:rowID>
+        <rdfs:member rdf:resource="http://data.ct.gov/resource/igy9-udjm"/>
+        <ds:municipality>Brooklyn</ds:municipality>
+        <ds:population>8210</ds:population>
+        <ds:total_housing_units>3235</ds:total_housing_units>
+        <ds:occupied_housing_units>2989</ds:occupied_housing_units>
+        <ds:vacant_housing_units>246</ds:vacant_housing_units>
+    </dsbase:igy9-udjm>
+    <dsbase:igy9-udjm rdf:about="http://data.ct.gov/resource/igy9-udjm/20">
+        <socrata:rowID>20</socrata:rowID>
+        <rdfs:member rdf:resource="http://data.ct.gov/resource/igy9-udjm"/>
+        <ds:municipality>Burlington</ds:municipality>
+        <ds:population>9301</ds:population>
+        <ds:total_housing_units>3389</ds:total_housing_units>
+        <ds:occupied_housing_units>3291</ds:occupied_housing_units>
+        <ds:vacant_housing_units>98</ds:vacant_housing_units>
+    </dsbase:igy9-udjm>
+    <dsbase:igy9-udjm rdf:about="http://data.ct.gov/resource/igy9-udjm/21">
+        <socrata:rowID>21</socrata:rowID>
+        <rdfs:member rdf:resource="http://data.ct.gov/resource/igy9-udjm"/>
+        <ds:municipality>Canaan</ds:municipality>
+        <ds:population>1234</ds:population>
+        <ds:total_housing_units>779</ds:total_housing_units>
+        <ds:occupied_housing_units>583</ds:occupied_housing_units>
+        <ds:vacant_housing_units>196</ds:vacant_housing_units>
+    </dsbase:igy9-udjm>
+    <dsbase:igy9-udjm rdf:about="http://data.ct.gov/resource/igy9-udjm/22">
+        <socrata:rowID>22</socrata:rowID>
+        <rdfs:member rdf:resource="http://data.ct.gov/resource/igy9-udjm"/>
+        <ds:municipality>Canterbury</ds:municipality>
+        <ds:population>5132</ds:population>
+        <ds:total_housing_units>2043</ds:total_housing_units>
+        <ds:occupied_housing_units>1934</ds:occupied_housing_units>
+        <ds:vacant_housing_units>109</ds:vacant_housing_units>
+    </dsbase:igy9-udjm>
+    <dsbase:igy9-udjm rdf:about="http://data.ct.gov/resource/igy9-udjm/23">
+        <socrata:rowID>23</socrata:rowID>
+        <rdfs:member rdf:resource="http://data.ct.gov/resource/igy9-udjm"/>
+        <ds:municipality>Canton</ds:municipality>
+        <ds:population>10292</ds:population>
+        <ds:total_housing_units>4339</ds:total_housing_units>
+        <ds:occupied_housing_units>4150</ds:occupied_housing_units>
+        <ds:vacant_housing_units>189</ds:vacant_housing_units>
+    </dsbase:igy9-udjm>
+    <dsbase:igy9-udjm rdf:about="http://data.ct.gov/resource/igy9-udjm/24">
+        <socrata:rowID>24</socrata:rowID>
+        <rdfs:member rdf:resource="http://data.ct.gov/resource/igy9-udjm"/>
+        <ds:municipality>Chaplin</ds:municipality>
+        <ds:population>2305</ds:population>
+        <ds:total_housing_units>988</ds:total_housing_units>
+        <ds:occupied_housing_units>920</ds:occupied_housing_units>
+        <ds:vacant_housing_units>68</ds:vacant_housing_units>
+    </dsbase:igy9-udjm>
+    <dsbase:igy9-udjm rdf:about="http://data.ct.gov/resource/igy9-udjm/25">
+        <socrata:rowID>25</socrata:rowID>
+        <rdfs:member rdf:resource="http://data.ct.gov/resource/igy9-udjm"/>
+        <ds:municipality>Cheshire</ds:municipality>
+        <ds:population>29261</ds:population>
+        <ds:total_housing_units>10424</ds:total_housing_units>
+        <ds:occupied_housing_units>10041</ds:occupied_housing_units>
+        <ds:vacant_housing_units>383</ds:vacant_housing_units>
+    </dsbase:igy9-udjm>
+    <dsbase:igy9-udjm rdf:about="http://data.ct.gov/resource/igy9-udjm/26">
+        <socrata:rowID>26</socrata:rowID>
+        <rdfs:member rdf:resource="http://data.ct.gov/resource/igy9-udjm"/>
+        <ds:municipality>Chester</ds:municipality>
+        <ds:population>3994</ds:population>
+        <ds:total_housing_units>1923</ds:total_housing_units>
+        <ds:occupied_housing_units>1714</ds:occupied_housing_units>
+        <ds:vacant_housing_units>209</ds:vacant_housing_units>
+    </dsbase:igy9-udjm>
+    <dsbase:igy9-udjm rdf:about="http://data.ct.gov/resource/igy9-udjm/27">
+        <socrata:rowID>27</socrata:rowID>
+        <rdfs:member rdf:resource="http://data.ct.gov/resource/igy9-udjm"/>
+        <ds:municipality>Clinton</ds:municipality>
+        <ds:population>13260</ds:population>
+        <ds:total_housing_units>6065</ds:total_housing_units>
+        <ds:occupied_housing_units>5303</ds:occupied_housing_units>
+        <ds:vacant_housing_units>762</ds:vacant_housing_units>
+    </dsbase:igy9-udjm>
+    <dsbase:igy9-udjm rdf:about="http://data.ct.gov/resource/igy9-udjm/28">
+        <socrata:rowID>28</socrata:rowID>
+        <rdfs:member rdf:resource="http://data.ct.gov/resource/igy9-udjm"/>
+        <ds:municipality>Colchester</ds:municipality>
+        <ds:population>16068</ds:population>
+        <ds:total_housing_units>6182</ds:total_housing_units>
+        <ds:occupied_housing_units>5915</ds:occupied_housing_units>
+        <ds:vacant_housing_units>267</ds:vacant_housing_units>
+    </dsbase:igy9-udjm>
+    <dsbase:igy9-udjm rdf:about="http://data.ct.gov/resource/igy9-udjm/29">
+        <socrata:rowID>29</socrata:rowID>
+        <rdfs:member rdf:resource="http://data.ct.gov/resource/igy9-udjm"/>
+        <ds:municipality>Colebrook</ds:municipality>
+        <ds:population>1485</ds:population>
+        <ds:total_housing_units>722</ds:total_housing_units>
+        <ds:occupied_housing_units>589</ds:occupied_housing_units>
+        <ds:vacant_housing_units>133</ds:vacant_housing_units>
+    </dsbase:igy9-udjm>
+    <dsbase:igy9-udjm rdf:about="http://data.ct.gov/resource/igy9-udjm/30">
+        <socrata:rowID>30</socrata:rowID>
+        <rdfs:member rdf:resource="http://data.ct.gov/resource/igy9-udjm"/>
+        <ds:municipality>Columbia</ds:municipality>
+        <ds:population>5485</ds:population>
+        <ds:total_housing_units>2308</ds:total_housing_units>
+        <ds:occupied_housing_units>2154</ds:occupied_housing_units>
+        <ds:vacant_housing_units>154</ds:vacant_housing_units>
+    </dsbase:igy9-udjm>
+    <dsbase:igy9-udjm rdf:about="http://data.ct.gov/resource/igy9-udjm/31">
+        <socrata:rowID>31</socrata:rowID>
+        <rdfs:member rdf:resource="http://data.ct.gov/resource/igy9-udjm"/>
+        <ds:municipality>Cornwall</ds:municipality>
+        <ds:population>1420</ds:population>
+        <ds:total_housing_units>1007</ds:total_housing_units>
+        <ds:occupied_housing_units>628</ds:occupied_housing_units>
+        <ds:vacant_housing_units>379</ds:vacant_housing_units>
+    </dsbase:igy9-udjm>
+    <dsbase:igy9-udjm rdf:about="http://data.ct.gov/resource/igy9-udjm/32">
+        <socrata:rowID>32</socrata:rowID>
+        <rdfs:member rdf:resource="http://data.ct.gov/resource/igy9-udjm"/>
+        <ds:municipality>Coventry</ds:municipality>
+        <ds:population>12435</ds:population>
+        <ds:total_housing_units>5099</ds:total_housing_units>
+        <ds:occupied_housing_units>4783</ds:occupied_housing_units>
+        <ds:vacant_housing_units>316</ds:vacant_housing_units>
+    </dsbase:igy9-udjm>
+    <dsbase:igy9-udjm rdf:about="http://data.ct.gov/resource/igy9-udjm/33">
+        <socrata:rowID>33</socrata:rowID>
+        <rdfs:member rdf:resource="http://data.ct.gov/resource/igy9-udjm"/>
+        <ds:municipality>Cromwell</ds:municipality>
+        <ds:population>14005</ds:population>
+        <ds:total_housing_units>6001</ds:total_housing_units>
+        <ds:occupied_housing_units>5752</ds:occupied_housing_units>
+        <ds:vacant_housing_units>249</ds:vacant_housing_units>
+    </dsbase:igy9-udjm>
+    <dsbase:igy9-udjm rdf:about="http://data.ct.gov/resource/igy9-udjm/34">
+        <socrata:rowID>34</socrata:rowID>
+        <rdfs:member rdf:resource="http://data.ct.gov/resource/igy9-udjm"/>
+        <ds:municipality>Danbury</ds:municipality>
+        <ds:population>80893</ds:population>
+        <ds:total_housing_units>31154</ds:total_housing_units>
+        <ds:occupied_housing_units>28907</ds:occupied_housing_units>
+        <ds:vacant_housing_units>2247</ds:vacant_housing_units>
+    </dsbase:igy9-udjm>
+    <dsbase:igy9-udjm rdf:about="http://data.ct.gov/resource/igy9-udjm/35">
+        <socrata:rowID>35</socrata:rowID>
+        <rdfs:member rdf:resource="http://data.ct.gov/resource/igy9-udjm"/>
+        <ds:municipality>Darien</ds:municipality>
+        <ds:population>20732</ds:population>
+        <ds:total_housing_units>7074</ds:total_housing_units>
+        <ds:occupied_housing_units>6698</ds:occupied_housing_units>
+        <ds:vacant_housing_units>376</ds:vacant_housing_units>
+    </dsbase:igy9-udjm>
+    <dsbase:igy9-udjm rdf:about="http://data.ct.gov/resource/igy9-udjm/36">
+        <socrata:rowID>36</socrata:rowID>
+        <rdfs:member rdf:resource="http://data.ct.gov/resource/igy9-udjm"/>
+        <ds:municipality>Deep River</ds:municipality>
+        <ds:population>4629</ds:population>
+        <ds:total_housing_units>2096</ds:total_housing_units>
+        <ds:occupied_housing_units>1940</ds:occupied_housing_units>
+        <ds:vacant_housing_units>156</ds:vacant_housing_units>
+    </dsbase:igy9-udjm>
+    <dsbase:igy9-udjm rdf:about="http://data.ct.gov/resource/igy9-udjm/37">
+        <socrata:rowID>37</socrata:rowID>
+        <rdfs:member rdf:resource="http://data.ct.gov/resource/igy9-udjm"/>
+        <ds:municipality>Derby</ds:municipality>
+        <ds:population>12902</ds:population>
+        <ds:total_housing_units>5849</ds:total_housing_units>
+        <ds:occupied_housing_units>5388</ds:occupied_housing_units>
+        <ds:vacant_housing_units>461</ds:vacant_housing_units>
+    </dsbase:igy9-udjm>
+    <dsbase:igy9-udjm rdf:about="http://data.ct.gov/resource/igy9-udjm/38">
+        <socrata:rowID>38</socrata:rowID>
+        <rdfs:member rdf:resource="http://data.ct.gov/resource/igy9-udjm"/>
+        <ds:municipality>Durham</ds:municipality>
+        <ds:population>7388</ds:population>
+        <ds:total_housing_units>2694</ds:total_housing_units>
+        <ds:occupied_housing_units>2610</ds:occupied_housing_units>
+        <ds:vacant_housing_units>84</ds:vacant_housing_units>
+    </dsbase:igy9-udjm>
+    <dsbase:igy9-udjm rdf:about="http://data.ct.gov/resource/igy9-udjm/39">
+        <socrata:rowID>39</socrata:rowID>
+        <rdfs:member rdf:resource="http://data.ct.gov/resource/igy9-udjm"/>
+        <ds:municipality>East Granby</ds:municipality>
+        <ds:population>5148</ds:population>
+        <ds:total_housing_units>2152</ds:total_housing_units>
+        <ds:occupied_housing_units>2062</ds:occupied_housing_units>
+        <ds:vacant_housing_units>90</ds:vacant_housing_units>
+    </dsbase:igy9-udjm>
+    <dsbase:igy9-udjm rdf:about="http://data.ct.gov/resource/igy9-udjm/40">
+        <socrata:rowID>40</socrata:rowID>
+        <rdfs:member rdf:resource="http://data.ct.gov/resource/igy9-udjm"/>
+        <ds:municipality>East Haddam</ds:municipality>
+        <ds:population>9126</ds:population>
+        <ds:total_housing_units>4508</ds:total_housing_units>
+        <ds:occupied_housing_units>3593</ds:occupied_housing_units>
+        <ds:vacant_housing_units>915</ds:vacant_housing_units>
+    </dsbase:igy9-udjm>
+    <dsbase:igy9-udjm rdf:about="http://data.ct.gov/resource/igy9-udjm/41">
+        <socrata:rowID>41</socrata:rowID>
+        <rdfs:member rdf:resource="http://data.ct.gov/resource/igy9-udjm"/>
+        <ds:municipality>East Hampton</ds:municipality>
+        <ds:population>12959</ds:population>
+        <ds:total_housing_units>5485</ds:total_housing_units>
+        <ds:occupied_housing_units>5060</ds:occupied_housing_units>
+        <ds:vacant_housing_units>425</ds:vacant_housing_units>
+    </dsbase:igy9-udjm>
+    <dsbase:igy9-udjm rdf:about="http://data.ct.gov/resource/igy9-udjm/42">
+        <socrata:rowID>42</socrata:rowID>
+        <rdfs:member rdf:resource="http://data.ct.gov/resource/igy9-udjm"/>
+        <ds:municipality>East Hartford</ds:municipality>
+        <ds:population>51252</ds:population>
+        <ds:total_housing_units>21328</ds:total_housing_units>
+        <ds:occupied_housing_units>20195</ds:occupied_housing_units>
+        <ds:vacant_housing_units>1133</ds:vacant_housing_units>
+    </dsbase:igy9-udjm>
+    <dsbase:igy9-udjm rdf:about="http://data.ct.gov/resource/igy9-udjm/43">
+        <socrata:rowID>43</socrata:rowID>
+        <rdfs:member rdf:resource="http://data.ct.gov/resource/igy9-udjm"/>
+        <ds:municipality>East Haven</ds:municipality>
+        <ds:population>29257</ds:population>
+        <ds:total_housing_units>12533</ds:total_housing_units>
+        <ds:occupied_housing_units>11756</ds:occupied_housing_units>
+        <ds:vacant_housing_units>777</ds:vacant_housing_units>
+    </dsbase:igy9-udjm>
+    <dsbase:igy9-udjm rdf:about="http://data.ct.gov/resource/igy9-udjm/44">
+        <socrata:rowID>44</socrata:rowID>
+        <rdfs:member rdf:resource="http://data.ct.gov/resource/igy9-udjm"/>
+        <ds:municipality>East Lyme</ds:municipality>
+        <ds:population>19159</ds:population>
+        <ds:total_housing_units>8458</ds:total_housing_units>
+        <ds:occupied_housing_units>7192</ds:occupied_housing_units>
+        <ds:vacant_housing_units>1266</ds:vacant_housing_units>
+    </dsbase:igy9-udjm>
+    <dsbase:igy9-udjm rdf:about="http://data.ct.gov/resource/igy9-udjm/45">
+        <socrata:rowID>45</socrata:rowID>
+        <rdfs:member rdf:resource="http://data.ct.gov/resource/igy9-udjm"/>
+        <ds:municipality>East Windsor</ds:municipality>
+        <ds:population>11162</ds:population>
+        <ds:total_housing_units>5045</ds:total_housing_units>
+        <ds:occupied_housing_units>4750</ds:occupied_housing_units>
+        <ds:vacant_housing_units>295</ds:vacant_housing_units>
+    </dsbase:igy9-udjm>
+    <dsbase:igy9-udjm rdf:about="http://data.ct.gov/resource/igy9-udjm/46">
+        <socrata:rowID>46</socrata:rowID>
+        <rdfs:member rdf:resource="http://data.ct.gov/resource/igy9-udjm"/>
+        <ds:municipality>Eastford</ds:municipality>
+        <ds:population>1749</ds:population>
+        <ds:total_housing_units>793</ds:total_housing_units>
+        <ds:occupied_housing_units>690</ds:occupied_housing_units>
+        <ds:vacant_housing_units>103</ds:vacant_housing_units>
+    </dsbase:igy9-udjm>
+    <dsbase:igy9-udjm rdf:about="http://data.ct.gov/resource/igy9-udjm/47">
+        <socrata:rowID>47</socrata:rowID>
+        <rdfs:member rdf:resource="http://data.ct.gov/resource/igy9-udjm"/>
+        <ds:municipality>Easton</ds:municipality>
+        <ds:population>7490</ds:population>
+        <ds:total_housing_units>2715</ds:total_housing_units>
+        <ds:occupied_housing_units>2577</ds:occupied_housing_units>
+        <ds:vacant_housing_units>138</ds:vacant_housing_units>
+    </dsbase:igy9-udjm>
+    <dsbase:igy9-udjm rdf:about="http://data.ct.gov/resource/igy9-udjm/48">
+        <socrata:rowID>48</socrata:rowID>
+        <rdfs:member rdf:resource="http://data.ct.gov/resource/igy9-udjm"/>
+        <ds:municipality>Ellington</ds:municipality>
+        <ds:population>15602</ds:population>
+        <ds:total_housing_units>6665</ds:total_housing_units>
+        <ds:occupied_housing_units>6257</ds:occupied_housing_units>
+        <ds:vacant_housing_units>408</ds:vacant_housing_units>
+    </dsbase:igy9-udjm>
+    <dsbase:igy9-udjm rdf:about="http://data.ct.gov/resource/igy9-udjm/49">
+        <socrata:rowID>49</socrata:rowID>
+        <rdfs:member rdf:resource="http://data.ct.gov/resource/igy9-udjm"/>
+        <ds:municipality>Enfield</ds:municipality>
+        <ds:population>44654</ds:population>
+        <ds:total_housing_units>17558</ds:total_housing_units>
+        <ds:occupied_housing_units>16794</ds:occupied_housing_units>
+        <ds:vacant_housing_units>764</ds:vacant_housing_units>
+    </dsbase:igy9-udjm>
+    <dsbase:igy9-udjm rdf:about="http://data.ct.gov/resource/igy9-udjm/50">
+        <socrata:rowID>50</socrata:rowID>
+        <rdfs:member rdf:resource="http://data.ct.gov/resource/igy9-udjm"/>
+        <ds:municipality>Essex</ds:municipality>
+        <ds:population>6683</ds:population>
+        <ds:total_housing_units>3261</ds:total_housing_units>
+        <ds:occupied_housing_units>2916</ds:occupied_housing_units>
+        <ds:vacant_housing_units>345</ds:vacant_housing_units>
+    </dsbase:igy9-udjm>
+    <dsbase:igy9-udjm rdf:about="http://data.ct.gov/resource/igy9-udjm/51">
+        <socrata:rowID>51</socrata:rowID>
+        <rdfs:member rdf:resource="http://data.ct.gov/resource/igy9-udjm"/>
+        <ds:municipality>Fairfield</ds:municipality>
+        <ds:population>59404</ds:population>
+        <ds:total_housing_units>21648</ds:total_housing_units>
+        <ds:occupied_housing_units>20457</ds:occupied_housing_units>
+        <ds:vacant_housing_units>1191</ds:vacant_housing_units>
+    </dsbase:igy9-udjm>
+    <dsbase:igy9-udjm rdf:about="http://data.ct.gov/resource/igy9-udjm/52">
+        <socrata:rowID>52</socrata:rowID>
+        <rdfs:member rdf:resource="http://data.ct.gov/resource/igy9-udjm"/>
+        <ds:municipality>Farmington</ds:municipality>
+        <ds:population>25340</ds:population>
+        <ds:total_housing_units>11106</ds:total_housing_units>
+        <ds:occupied_housing_units>10522</ds:occupied_housing_units>
+        <ds:vacant_housing_units>584</ds:vacant_housing_units>
+    </dsbase:igy9-udjm>
+    <dsbase:igy9-udjm rdf:about="http://data.ct.gov/resource/igy9-udjm/53">
+        <socrata:rowID>53</socrata:rowID>
+        <rdfs:member rdf:resource="http://data.ct.gov/resource/igy9-udjm"/>
+        <ds:municipality>Franklin</ds:municipality>
+        <ds:population>1922</ds:population>
+        <ds:total_housing_units>771</ds:total_housing_units>
+        <ds:occupied_housing_units>729</ds:occupied_housing_units>
+        <ds:vacant_housing_units>42</ds:vacant_housing_units>
+    </dsbase:igy9-udjm>
+    <dsbase:igy9-udjm rdf:about="http://data.ct.gov/resource/igy9-udjm/54">
+        <socrata:rowID>54</socrata:rowID>
+        <rdfs:member rdf:resource="http://data.ct.gov/resource/igy9-udjm"/>
+        <ds:municipality>Glastonbury</ds:municipality>
+        <ds:population>34427</ds:population>
+        <ds:total_housing_units>13656</ds:total_housing_units>
+        <ds:occupied_housing_units>13135</ds:occupied_housing_units>
+        <ds:vacant_housing_units>521</ds:vacant_housing_units>
+    </dsbase:igy9-udjm>
+    <dsbase:igy9-udjm rdf:about="http://data.ct.gov/resource/igy9-udjm/55">
+        <socrata:rowID>55</socrata:rowID>
+        <rdfs:member rdf:resource="http://data.ct.gov/resource/igy9-udjm"/>
+        <ds:municipality>Goshen</ds:municipality>
+        <ds:population>2976</ds:population>
+        <ds:total_housing_units>1664</ds:total_housing_units>
+        <ds:occupied_housing_units>1192</ds:occupied_housing_units>
+        <ds:vacant_housing_units>472</ds:vacant_housing_units>
+    </dsbase:igy9-udjm>
+    <dsbase:igy9-udjm rdf:about="http://data.ct.gov/resource/igy9-udjm/56">
+        <socrata:rowID>56</socrata:rowID>
+        <rdfs:member rdf:resource="http://data.ct.gov/resource/igy9-udjm"/>
+        <ds:municipality>Granby</ds:municipality>
+        <ds:population>11282</ds:population>
+        <ds:total_housing_units>4360</ds:total_housing_units>
+        <ds:occupied_housing_units>4194</ds:occupied_housing_units>
+        <ds:vacant_housing_units>166</ds:vacant_housing_units>
+    </dsbase:igy9-udjm>
+    <dsbase:igy9-udjm rdf:about="http://data.ct.gov/resource/igy9-udjm/57">
+        <socrata:rowID>57</socrata:rowID>
+        <rdfs:member rdf:resource="http://data.ct.gov/resource/igy9-udjm"/>
+        <ds:municipality>Greenwich</ds:municipality>
+        <ds:population>61171</ds:population>
+        <ds:total_housing_units>25631</ds:total_housing_units>
+        <ds:occupied_housing_units>23076</ds:occupied_housing_units>
+        <ds:vacant_housing_units>2555</ds:vacant_housing_units>
+    </dsbase:igy9-udjm>
+    <dsbase:igy9-udjm rdf:about="http://data.ct.gov/resource/igy9-udjm/58">
+        <socrata:rowID>58</socrata:rowID>
+        <rdfs:member rdf:resource="http://data.ct.gov/resource/igy9-udjm"/>
+        <ds:municipality>Griswold</ds:municipality>
+        <ds:population>11951</ds:population>
+        <ds:total_housing_units>5118</ds:total_housing_units>
+        <ds:occupied_housing_units>4646</ds:occupied_housing_units>
+        <ds:vacant_housing_units>472</ds:vacant_housing_units>
+    </dsbase:igy9-udjm>
+    <dsbase:igy9-udjm rdf:about="http://data.ct.gov/resource/igy9-udjm/59">
+        <socrata:rowID>59</socrata:rowID>
+        <rdfs:member rdf:resource="http://data.ct.gov/resource/igy9-udjm"/>
+        <ds:municipality>Groton</ds:municipality>
+        <ds:population>40115</ds:population>
+        <ds:total_housing_units>17978</ds:total_housing_units>
+        <ds:occupied_housing_units>15809</ds:occupied_housing_units>
+        <ds:vacant_housing_units>2169</ds:vacant_housing_units>
+    </dsbase:igy9-udjm>
+    <dsbase:igy9-udjm rdf:about="http://data.ct.gov/resource/igy9-udjm/60">
+        <socrata:rowID>60</socrata:rowID>
+        <rdfs:member rdf:resource="http://data.ct.gov/resource/igy9-udjm"/>
+        <ds:municipality>Guilford</ds:municipality>
+        <ds:population>22375</ds:population>
+        <ds:total_housing_units>9596</ds:total_housing_units>
+        <ds:occupied_housing_units>8715</ds:occupied_housing_units>
+        <ds:vacant_housing_units>881</ds:vacant_housing_units>
+    </dsbase:igy9-udjm>
+    <dsbase:igy9-udjm rdf:about="http://data.ct.gov/resource/igy9-udjm/61">
+        <socrata:rowID>61</socrata:rowID>
+        <rdfs:member rdf:resource="http://data.ct.gov/resource/igy9-udjm"/>
+        <ds:municipality>Haddam</ds:municipality>
+        <ds:population>8346</ds:population>
+        <ds:total_housing_units>3504</ds:total_housing_units>
+        <ds:occupied_housing_units>3218</ds:occupied_housing_units>
+        <ds:vacant_housing_units>286</ds:vacant_housing_units>
+    </dsbase:igy9-udjm>
+    <dsbase:igy9-udjm rdf:about="http://data.ct.gov/resource/igy9-udjm/62">
+        <socrata:rowID>62</socrata:rowID>
+        <rdfs:member rdf:resource="http://data.ct.gov/resource/igy9-udjm"/>
+        <ds:municipality>Hamden</ds:municipality>
+        <ds:population>60960</ds:population>
+        <ds:total_housing_units>25114</ds:total_housing_units>
+        <ds:occupied_housing_units>23727</ds:occupied_housing_units>
+        <ds:vacant_housing_units>1387</ds:vacant_housing_units>
+    </dsbase:igy9-udjm>
+    <dsbase:igy9-udjm rdf:about="http://data.ct.gov/resource/igy9-udjm/63">
+        <socrata:rowID>63</socrata:rowID>
+        <rdfs:member rdf:resource="http://data.ct.gov/resource/igy9-udjm"/>
+        <ds:municipality>Hampton</ds:municipality>
+        <ds:population>1863</ds:population>
+        <ds:total_housing_units>793</ds:total_housing_units>
+        <ds:occupied_housing_units>747</ds:occupied_housing_units>
+        <ds:vacant_housing_units>46</ds:vacant_housing_units>
+    </dsbase:igy9-udjm>
+    <dsbase:igy9-udjm rdf:about="http://data.ct.gov/resource/igy9-udjm/64">
+        <socrata:rowID>64</socrata:rowID>
+        <rdfs:member rdf:resource="http://data.ct.gov/resource/igy9-udjm"/>
+        <ds:municipality>Hartford</ds:municipality>
+        <ds:population>124775</ds:population>
+        <ds:total_housing_units>51822</ds:total_housing_units>
+        <ds:occupied_housing_units>45124</ds:occupied_housing_units>
+        <ds:vacant_housing_units>6698</ds:vacant_housing_units>
+    </dsbase:igy9-udjm>
+    <dsbase:igy9-udjm rdf:about="http://data.ct.gov/resource/igy9-udjm/65">
+        <socrata:rowID>65</socrata:rowID>
+        <rdfs:member rdf:resource="http://data.ct.gov/resource/igy9-udjm"/>
+        <ds:municipality>Hartland</ds:municipality>
+        <ds:population>2114</ds:population>
+        <ds:total_housing_units>856</ds:total_housing_units>
+        <ds:occupied_housing_units>789</ds:occupied_housing_units>
+        <ds:vacant_housing_units>67</ds:vacant_housing_units>
+    </dsbase:igy9-udjm>
+    <dsbase:igy9-udjm rdf:about="http://data.ct.gov/resource/igy9-udjm/66">
+        <socrata:rowID>66</socrata:rowID>
+        <rdfs:member rdf:resource="http://data.ct.gov/resource/igy9-udjm"/>
+        <ds:municipality>Harwinton</ds:municipality>
+        <ds:population>5642</ds:population>
+        <ds:total_housing_units>2282</ds:total_housing_units>
+        <ds:occupied_housing_units>2170</ds:occupied_housing_units>
+        <ds:vacant_housing_units>112</ds:vacant_housing_units>
+    </dsbase:igy9-udjm>
+    <dsbase:igy9-udjm rdf:about="http://data.ct.gov/resource/igy9-udjm/67">
+        <socrata:rowID>67</socrata:rowID>
+        <rdfs:member rdf:resource="http://data.ct.gov/resource/igy9-udjm"/>
+        <ds:municipality>Hebron</ds:municipality>
+        <ds:population>9686</ds:population>
+        <ds:total_housing_units>3567</ds:total_housing_units>
+        <ds:occupied_housing_units>3398</ds:occupied_housing_units>
+        <ds:vacant_housing_units>169</ds:vacant_housing_units>
+    </dsbase:igy9-udjm>
+    <dsbase:igy9-udjm rdf:about="http://data.ct.gov/resource/igy9-udjm/68">
+        <socrata:rowID>68</socrata:rowID>
+        <rdfs:member rdf:resource="http://data.ct.gov/resource/igy9-udjm"/>
+        <ds:municipality>Kent</ds:municipality>
+        <ds:population>2979</ds:population>
+        <ds:total_housing_units>1665</ds:total_housing_units>
+        <ds:occupied_housing_units>1246</ds:occupied_housing_units>
+        <ds:vacant_housing_units>419</ds:vacant_housing_units>
+    </dsbase:igy9-udjm>
+    <dsbase:igy9-udjm rdf:about="http://data.ct.gov/resource/igy9-udjm/69">
+        <socrata:rowID>69</socrata:rowID>
+        <rdfs:member rdf:resource="http://data.ct.gov/resource/igy9-udjm"/>
+        <ds:municipality>Killingly</ds:municipality>
+        <ds:population>17370</ds:population>
+        <ds:total_housing_units>7592</ds:total_housing_units>
+        <ds:occupied_housing_units>6749</ds:occupied_housing_units>
+        <ds:vacant_housing_units>843</ds:vacant_housing_units>
+    </dsbase:igy9-udjm>
+    <dsbase:igy9-udjm rdf:about="http://data.ct.gov/resource/igy9-udjm/70">
+        <socrata:rowID>70</socrata:rowID>
+        <rdfs:member rdf:resource="http://data.ct.gov/resource/igy9-udjm"/>
+        <ds:municipality>Killingworth</ds:municipality>
+        <ds:population>6525</ds:population>
+        <ds:total_housing_units>2598</ds:total_housing_units>
+        <ds:occupied_housing_units>2474</ds:occupied_housing_units>
+        <ds:vacant_housing_units>124</ds:vacant_housing_units>
+    </dsbase:igy9-udjm>
+    <dsbase:igy9-udjm rdf:about="http://data.ct.gov/resource/igy9-udjm/71">
+        <socrata:rowID>71</socrata:rowID>
+        <rdfs:member rdf:resource="http://data.ct.gov/resource/igy9-udjm"/>
+        <ds:municipality>Lebanon</ds:municipality>
+        <ds:population>7308</ds:population>
+        <ds:total_housing_units>3125</ds:total_housing_units>
+        <ds:occupied_housing_units>2644</ds:occupied_housing_units>
+        <ds:vacant_housing_units>481</ds:vacant_housing_units>
+    </dsbase:igy9-udjm>
+    <dsbase:igy9-udjm rdf:about="http://data.ct.gov/resource/igy9-udjm/72">
+        <socrata:rowID>72</socrata:rowID>
+        <rdfs:member rdf:resource="http://data.ct.gov/resource/igy9-udjm"/>
+        <ds:municipality>Ledyard</ds:municipality>
+        <ds:population>15051</ds:population>
+        <ds:total_housing_units>5987</ds:total_housing_units>
+        <ds:occupied_housing_units>5634</ds:occupied_housing_units>
+        <ds:vacant_housing_units>353</ds:vacant_housing_units>
+    </dsbase:igy9-udjm>
+    <dsbase:igy9-udjm rdf:about="http://data.ct.gov/resource/igy9-udjm/73">
+        <socrata:rowID>73</socrata:rowID>
+        <rdfs:member rdf:resource="http://data.ct.gov/resource/igy9-udjm"/>
+        <ds:municipality>Lisbon</ds:municipality>
+        <ds:population>4338</ds:population>
+        <ds:total_housing_units>1730</ds:total_housing_units>
+        <ds:occupied_housing_units>1659</ds:occupied_housing_units>
+        <ds:vacant_housing_units>71</ds:vacant_housing_units>
+    </dsbase:igy9-udjm>
+    <dsbase:igy9-udjm rdf:about="http://data.ct.gov/resource/igy9-udjm/74">
+        <socrata:rowID>74</socrata:rowID>
+        <rdfs:member rdf:resource="http://data.ct.gov/resource/igy9-udjm"/>
+        <ds:municipality>Litchfield</ds:municipality>
+        <ds:population>8466</ds:population>
+        <ds:total_housing_units>3975</ds:total_housing_units>
+        <ds:occupied_housing_units>3459</ds:occupied_housing_units>
+        <ds:vacant_housing_units>516</ds:vacant_housing_units>
+    </dsbase:igy9-udjm>
+    <dsbase:igy9-udjm rdf:about="http://data.ct.gov/resource/igy9-udjm/75">
+        <socrata:rowID>75</socrata:rowID>
+        <rdfs:member rdf:resource="http://data.ct.gov/resource/igy9-udjm"/>
+        <ds:municipality>Lyme</ds:municipality>
+        <ds:population>2406</ds:population>
+        <ds:total_housing_units>1223</ds:total_housing_units>
+        <ds:occupied_housing_units>1033</ds:occupied_housing_units>
+        <ds:vacant_housing_units>190</ds:vacant_housing_units>
+    </dsbase:igy9-udjm>
+    <dsbase:igy9-udjm rdf:about="http://data.ct.gov/resource/igy9-udjm/76">
+        <socrata:rowID>76</socrata:rowID>
+        <rdfs:member rdf:resource="http://data.ct.gov/resource/igy9-udjm"/>
+        <ds:municipality>Madison</ds:municipality>
+        <ds:population>18269</ds:population>
+        <ds:total_housing_units>8049</ds:total_housing_units>
+        <ds:occupied_housing_units>6971</ds:occupied_housing_units>
+        <ds:vacant_housing_units>1078</ds:vacant_housing_units>
+    </dsbase:igy9-udjm>
+    <dsbase:igy9-udjm rdf:about="http://data.ct.gov/resource/igy9-udjm/77">
+        <socrata:rowID>77</socrata:rowID>
+        <rdfs:member rdf:resource="http://data.ct.gov/resource/igy9-udjm"/>
+        <ds:municipality>Manchester</ds:municipality>
+        <ds:population>58241</ds:population>
+        <ds:total_housing_units>25996</ds:total_housing_units>
+        <ds:occupied_housing_units>24689</ds:occupied_housing_units>
+        <ds:vacant_housing_units>1307</ds:vacant_housing_units>
+    </dsbase:igy9-udjm>
+    <dsbase:igy9-udjm rdf:about="http://data.ct.gov/resource/igy9-udjm/78">
+        <socrata:rowID>78</socrata:rowID>
+        <rdfs:member rdf:resource="http://data.ct.gov/resource/igy9-udjm"/>
+        <ds:municipality>Mansfield</ds:municipality>
+        <ds:population>26543</ds:population>
+        <ds:total_housing_units>6017</ds:total_housing_units>
+        <ds:occupied_housing_units>5586</ds:occupied_housing_units>
+        <ds:vacant_housing_units>431</ds:vacant_housing_units>
+    </dsbase:igy9-udjm>
+    <dsbase:igy9-udjm rdf:about="http://data.ct.gov/resource/igy9-udjm/79">
+        <socrata:rowID>79</socrata:rowID>
+        <rdfs:member rdf:resource="http://data.ct.gov/resource/igy9-udjm"/>
+        <ds:municipality>Marlborough</ds:municipality>
+        <ds:population>6404</ds:population>
+        <ds:total_housing_units>2389</ds:total_housing_units>
+        <ds:occupied_housing_units>2292</ds:occupied_housing_units>
+        <ds:vacant_housing_units>97</ds:vacant_housing_units>
+    </dsbase:igy9-udjm>
+    <dsbase:igy9-udjm rdf:about="http://data.ct.gov/resource/igy9-udjm/80">
+        <socrata:rowID>80</socrata:rowID>
+        <rdfs:member rdf:resource="http://data.ct.gov/resource/igy9-udjm"/>
+        <ds:municipality>Meriden</ds:municipality>
+        <ds:population>60868</ds:population>
+        <ds:total_housing_units>25892</ds:total_housing_units>
+        <ds:occupied_housing_units>23977</ds:occupied_housing_units>
+        <ds:vacant_housing_units>1915</ds:vacant_housing_units>
+    </dsbase:igy9-udjm>
+    <dsbase:igy9-udjm rdf:about="http://data.ct.gov/resource/igy9-udjm/81">
+        <socrata:rowID>81</socrata:rowID>
+        <rdfs:member rdf:resource="http://data.ct.gov/resource/igy9-udjm"/>
+        <ds:municipality>Middlebury</ds:municipality>
+        <ds:population>7575</ds:population>
+        <ds:total_housing_units>2892</ds:total_housing_units>
+        <ds:occupied_housing_units>2748</ds:occupied_housing_units>
+        <ds:vacant_housing_units>144</ds:vacant_housing_units>
+    </dsbase:igy9-udjm>
+    <dsbase:igy9-udjm rdf:about="http://data.ct.gov/resource/igy9-udjm/82">
+        <socrata:rowID>82</socrata:rowID>
+        <rdfs:member rdf:resource="http://data.ct.gov/resource/igy9-udjm"/>
+        <ds:municipality>Middlefield</ds:municipality>
+        <ds:population>4425</ds:population>
+        <ds:total_housing_units>1863</ds:total_housing_units>
+        <ds:occupied_housing_units>1742</ds:occupied_housing_units>
+        <ds:vacant_housing_units>121</ds:vacant_housing_units>
+    </dsbase:igy9-udjm>
+    <dsbase:igy9-udjm rdf:about="http://data.ct.gov/resource/igy9-udjm/83">
+        <socrata:rowID>83</socrata:rowID>
+        <rdfs:member rdf:resource="http://data.ct.gov/resource/igy9-udjm"/>
+        <ds:municipality>Middletown</ds:municipality>
+        <ds:population>47648</ds:population>
+        <ds:total_housing_units>21223</ds:total_housing_units>
+        <ds:occupied_housing_units>19863</ds:occupied_housing_units>
+        <ds:vacant_housing_units>1360</ds:vacant_housing_units>
+    </dsbase:igy9-udjm>
+    <dsbase:igy9-udjm rdf:about="http://data.ct.gov/resource/igy9-udjm/84">
+        <socrata:rowID>84</socrata:rowID>
+        <rdfs:member rdf:resource="http://data.ct.gov/resource/igy9-udjm"/>
+        <ds:municipality>Milford</ds:municipality>
+        <ds:population>52759</ds:population>
+        <ds:total_housing_units>23074</ds:total_housing_units>
+        <ds:occupied_housing_units>21708</ds:occupied_housing_units>
+        <ds:vacant_housing_units>1366</ds:vacant_housing_units>
+    </dsbase:igy9-udjm>
+    <dsbase:igy9-udjm rdf:about="http://data.ct.gov/resource/igy9-udjm/85">
+        <socrata:rowID>85</socrata:rowID>
+        <rdfs:member rdf:resource="http://data.ct.gov/resource/igy9-udjm"/>
+        <ds:municipality>Monroe</ds:municipality>
+        <ds:population>19479</ds:population>
+        <ds:total_housing_units>6918</ds:total_housing_units>
+        <ds:occupied_housing_units>6735</ds:occupied_housing_units>
+        <ds:vacant_housing_units>183</ds:vacant_housing_units>
+    </dsbase:igy9-udjm>
+    <dsbase:igy9-udjm rdf:about="http://data.ct.gov/resource/igy9-udjm/86">
+        <socrata:rowID>86</socrata:rowID>
+        <rdfs:member rdf:resource="http://data.ct.gov/resource/igy9-udjm"/>
+        <ds:municipality>Montville</ds:municipality>
+        <ds:population>19571</ds:population>
+        <ds:total_housing_units>7407</ds:total_housing_units>
+        <ds:occupied_housing_units>6942</ds:occupied_housing_units>
+        <ds:vacant_housing_units>465</ds:vacant_housing_units>
+    </dsbase:igy9-udjm>
+    <dsbase:igy9-udjm rdf:about="http://data.ct.gov/resource/igy9-udjm/87">
+        <socrata:rowID>87</socrata:rowID>
+        <rdfs:member rdf:resource="http://data.ct.gov/resource/igy9-udjm"/>
+        <ds:municipality>Morris</ds:municipality>
+        <ds:population>2388</ds:population>
+        <ds:total_housing_units>1314</ds:total_housing_units>
+        <ds:occupied_housing_units>958</ds:occupied_housing_units>
+        <ds:vacant_housing_units>356</ds:vacant_housing_units>
+    </dsbase:igy9-udjm>
+    <dsbase:igy9-udjm rdf:about="http://data.ct.gov/resource/igy9-udjm/88">
+        <socrata:rowID>88</socrata:rowID>
+        <rdfs:member rdf:resource="http://data.ct.gov/resource/igy9-udjm"/>
+        <ds:municipality>Naugatuck</ds:municipality>
+        <ds:population>31862</ds:population>
+        <ds:total_housing_units>13061</ds:total_housing_units>
+        <ds:occupied_housing_units>12339</ds:occupied_housing_units>
+        <ds:vacant_housing_units>722</ds:vacant_housing_units>
+    </dsbase:igy9-udjm>
+    <dsbase:igy9-udjm rdf:about="http://data.ct.gov/resource/igy9-udjm/89">
+        <socrata:rowID>89</socrata:rowID>
+        <rdfs:member rdf:resource="http://data.ct.gov/resource/igy9-udjm"/>
+        <ds:municipality>New Britain</ds:municipality>
+        <ds:population>73206</ds:population>
+        <ds:total_housing_units>31226</ds:total_housing_units>
+        <ds:occupied_housing_units>28158</ds:occupied_housing_units>
+        <ds:vacant_housing_units>3068</ds:vacant_housing_units>
+    </dsbase:igy9-udjm>
+    <dsbase:igy9-udjm rdf:about="http://data.ct.gov/resource/igy9-udjm/90">
+        <socrata:rowID>90</socrata:rowID>
+        <rdfs:member rdf:resource="http://data.ct.gov/resource/igy9-udjm"/>
+        <ds:municipality>New Canaan</ds:municipality>
+        <ds:population>19738</ds:population>
+        <ds:total_housing_units>7551</ds:total_housing_units>
+        <ds:occupied_housing_units>7010</ds:occupied_housing_units>
+        <ds:vacant_housing_units>541</ds:vacant_housing_units>
+    </dsbase:igy9-udjm>
+    <dsbase:igy9-udjm rdf:about="http://data.ct.gov/resource/igy9-udjm/91">
+        <socrata:rowID>91</socrata:rowID>
+        <rdfs:member rdf:resource="http://data.ct.gov/resource/igy9-udjm"/>
+        <ds:municipality>New Fairfield</ds:municipality>
+        <ds:population>13881</ds:population>
+        <ds:total_housing_units>5593</ds:total_housing_units>
+        <ds:occupied_housing_units>4802</ds:occupied_housing_units>
+        <ds:vacant_housing_units>791</ds:vacant_housing_units>
+    </dsbase:igy9-udjm>
+    <dsbase:igy9-udjm rdf:about="http://data.ct.gov/resource/igy9-udjm/92">
+        <socrata:rowID>92</socrata:rowID>
+        <rdfs:member rdf:resource="http://data.ct.gov/resource/igy9-udjm"/>
+        <ds:municipality>New Hartford</ds:municipality>
+        <ds:population>6970</ds:population>
+        <ds:total_housing_units>2923</ds:total_housing_units>
+        <ds:occupied_housing_units>2632</ds:occupied_housing_units>
+        <ds:vacant_housing_units>291</ds:vacant_housing_units>
+    </dsbase:igy9-udjm>
+    <dsbase:igy9-udjm rdf:about="http://data.ct.gov/resource/igy9-udjm/93">
+        <socrata:rowID>93</socrata:rowID>
+        <rdfs:member rdf:resource="http://data.ct.gov/resource/igy9-udjm"/>
+        <ds:municipality>New Haven</ds:municipality>
+        <ds:population>129779</ds:population>
+        <ds:total_housing_units>54967</ds:total_housing_units>
+        <ds:occupied_housing_units>48877</ds:occupied_housing_units>
+        <ds:vacant_housing_units>6090</ds:vacant_housing_units>
+    </dsbase:igy9-udjm>
+    <dsbase:igy9-udjm rdf:about="http://data.ct.gov/resource/igy9-udjm/94">
+        <socrata:rowID>94</socrata:rowID>
+        <rdfs:member rdf:resource="http://data.ct.gov/resource/igy9-udjm"/>
+        <ds:municipality>New London</ds:municipality>
+        <ds:population>27620</ds:population>
+        <ds:total_housing_units>11840</ds:total_housing_units>
+        <ds:occupied_housing_units>10373</ds:occupied_housing_units>
+        <ds:vacant_housing_units>1467</ds:vacant_housing_units>
+    </dsbase:igy9-udjm>
+    <dsbase:igy9-udjm rdf:about="http://data.ct.gov/resource/igy9-udjm/95">
+        <socrata:rowID>95</socrata:rowID>
+        <rdfs:member rdf:resource="http://data.ct.gov/resource/igy9-udjm"/>
+        <ds:municipality>New Milford</ds:municipality>
+        <ds:population>28142</ds:population>
+        <ds:total_housing_units>11731</ds:total_housing_units>
+        <ds:occupied_housing_units>10618</ds:occupied_housing_units>
+        <ds:vacant_housing_units>1113</ds:vacant_housing_units>
+    </dsbase:igy9-udjm>
+    <dsbase:igy9-udjm rdf:about="http://data.ct.gov/resource/igy9-udjm/96">
+        <socrata:rowID>96</socrata:rowID>
+        <rdfs:member rdf:resource="http://data.ct.gov/resource/igy9-udjm"/>
+        <ds:municipality>Newington</ds:municipality>
+        <ds:population>30562</ds:population>
+        <ds:total_housing_units>13011</ds:total_housing_units>
+        <ds:occupied_housing_units>12550</ds:occupied_housing_units>
+        <ds:vacant_housing_units>461</ds:vacant_housing_units>
+    </dsbase:igy9-udjm>
+    <dsbase:igy9-udjm rdf:about="http://data.ct.gov/resource/igy9-udjm/97">
+        <socrata:rowID>97</socrata:rowID>
+        <rdfs:member rdf:resource="http://data.ct.gov/resource/igy9-udjm"/>
+        <ds:municipality>Newtown</ds:municipality>
+        <ds:population>27560</ds:population>
+        <ds:total_housing_units>10061</ds:total_housing_units>
+        <ds:occupied_housing_units>9459</ds:occupied_housing_units>
+        <ds:vacant_housing_units>602</ds:vacant_housing_units>
+    </dsbase:igy9-udjm>
+    <dsbase:igy9-udjm rdf:about="http://data.ct.gov/resource/igy9-udjm/98">
+        <socrata:rowID>98</socrata:rowID>
+        <rdfs:member rdf:resource="http://data.ct.gov/resource/igy9-udjm"/>
+        <ds:municipality>Norfolk</ds:municipality>
+        <ds:population>1709</ds:population>
+        <ds:total_housing_units>967</ds:total_housing_units>
+        <ds:occupied_housing_units>720</ds:occupied_housing_units>
+        <ds:vacant_housing_units>247</ds:vacant_housing_units>
+    </dsbase:igy9-udjm>
+    <dsbase:igy9-udjm rdf:about="http://data.ct.gov/resource/igy9-udjm/99">
+        <socrata:rowID>99</socrata:rowID>
+        <rdfs:member rdf:resource="http://data.ct.gov/resource/igy9-udjm"/>
+        <ds:municipality>North Branford</ds:municipality>
+        <ds:population>14407</ds:population>
+        <ds:total_housing_units>5629</ds:total_housing_units>
+        <ds:occupied_housing_units>5441</ds:occupied_housing_units>
+        <ds:vacant_housing_units>188</ds:vacant_housing_units>
+    </dsbase:igy9-udjm>
+    <dsbase:igy9-udjm rdf:about="http://data.ct.gov/resource/igy9-udjm/100">
+        <socrata:rowID>100</socrata:rowID>
+        <rdfs:member rdf:resource="http://data.ct.gov/resource/igy9-udjm"/>
+        <ds:municipality>North Canaan</ds:municipality>
+        <ds:population>3315</ds:population>
+        <ds:total_housing_units>1587</ds:total_housing_units>
+        <ds:occupied_housing_units>1400</ds:occupied_housing_units>
+        <ds:vacant_housing_units>187</ds:vacant_housing_units>
+    </dsbase:igy9-udjm>
+    <dsbase:igy9-udjm rdf:about="http://data.ct.gov/resource/igy9-udjm/101">
+        <socrata:rowID>101</socrata:rowID>
+        <rdfs:member rdf:resource="http://data.ct.gov/resource/igy9-udjm"/>
+        <ds:municipality>North Haven</ds:municipality>
+        <ds:population>24093</ds:population>
+        <ds:total_housing_units>9491</ds:total_housing_units>
+        <ds:occupied_housing_units>9135</ds:occupied_housing_units>
+        <ds:vacant_housing_units>356</ds:vacant_housing_units>
+    </dsbase:igy9-udjm>
+    <dsbase:igy9-udjm rdf:about="http://data.ct.gov/resource/igy9-udjm/102">
+        <socrata:rowID>102</socrata:rowID>
+        <rdfs:member rdf:resource="http://data.ct.gov/resource/igy9-udjm"/>
+        <ds:municipality>North Stonington</ds:municipality>
+        <ds:population>5297</ds:population>
+        <ds:total_housing_units>2306</ds:total_housing_units>
+        <ds:occupied_housing_units>2052</ds:occupied_housing_units>
+        <ds:vacant_housing_units>254</ds:vacant_housing_units>
+    </dsbase:igy9-udjm>
+    <dsbase:igy9-udjm rdf:about="http://data.ct.gov/resource/igy9-udjm/103">
+        <socrata:rowID>103</socrata:rowID>
+        <rdfs:member rdf:resource="http://data.ct.gov/resource/igy9-udjm"/>
+        <ds:municipality>Norwalk</ds:municipality>
+        <ds:population>85603</ds:population>
+        <ds:total_housing_units>35415</ds:total_housing_units>
+        <ds:occupied_housing_units>33217</ds:occupied_housing_units>
+        <ds:vacant_housing_units>2198</ds:vacant_housing_units>
+    </dsbase:igy9-udjm>
+    <dsbase:igy9-udjm rdf:about="http://data.ct.gov/resource/igy9-udjm/104">
+        <socrata:rowID>104</socrata:rowID>
+        <rdfs:member rdf:resource="http://data.ct.gov/resource/igy9-udjm"/>
+        <ds:municipality>Norwich</ds:municipality>
+        <ds:population>40493</ds:population>
+        <ds:total_housing_units>18659</ds:total_housing_units>
+        <ds:occupied_housing_units>16599</ds:occupied_housing_units>
+        <ds:vacant_housing_units>2060</ds:vacant_housing_units>
+    </dsbase:igy9-udjm>
+    <dsbase:igy9-udjm rdf:about="http://data.ct.gov/resource/igy9-udjm/105">
+        <socrata:rowID>105</socrata:rowID>
+        <rdfs:member rdf:resource="http://data.ct.gov/resource/igy9-udjm"/>
+        <ds:municipality>Old Lyme</ds:municipality>
+        <ds:population>7603</ds:population>
+        <ds:total_housing_units>5021</ds:total_housing_units>
+        <ds:occupied_housing_units>3172</ds:occupied_housing_units>
+        <ds:vacant_housing_units>1849</ds:vacant_housing_units>
+    </dsbase:igy9-udjm>
+    <dsbase:igy9-udjm rdf:about="http://data.ct.gov/resource/igy9-udjm/106">
+        <socrata:rowID>106</socrata:rowID>
+        <rdfs:member rdf:resource="http://data.ct.gov/resource/igy9-udjm"/>
+        <ds:municipality>Old Saybrook</ds:municipality>
+        <ds:population>10242</ds:population>
+        <ds:total_housing_units>5602</ds:total_housing_units>
+        <ds:occupied_housing_units>4247</ds:occupied_housing_units>
+        <ds:vacant_housing_units>1355</ds:vacant_housing_units>
+    </dsbase:igy9-udjm>
+    <dsbase:igy9-udjm rdf:about="http://data.ct.gov/resource/igy9-udjm/107">
+        <socrata:rowID>107</socrata:rowID>
+        <rdfs:member rdf:resource="http://data.ct.gov/resource/igy9-udjm"/>
+        <ds:municipality>Orange</ds:municipality>
+        <ds:population>13956</ds:population>
+        <ds:total_housing_units>5345</ds:total_housing_units>
+        <ds:occupied_housing_units>5123</ds:occupied_housing_units>
+        <ds:vacant_housing_units>222</ds:vacant_housing_units>
+    </dsbase:igy9-udjm>
+    <dsbase:igy9-udjm rdf:about="http://data.ct.gov/resource/igy9-udjm/108">
+        <socrata:rowID>108</socrata:rowID>
+        <rdfs:member rdf:resource="http://data.ct.gov/resource/igy9-udjm"/>
+        <ds:municipality>Oxford</ds:municipality>
+        <ds:population>12683</ds:population>
+        <ds:total_housing_units>4746</ds:total_housing_units>
+        <ds:occupied_housing_units>4504</ds:occupied_housing_units>
+        <ds:vacant_housing_units>242</ds:vacant_housing_units>
+    </dsbase:igy9-udjm>
+    <dsbase:igy9-udjm rdf:about="http://data.ct.gov/resource/igy9-udjm/109">
+        <socrata:rowID>109</socrata:rowID>
+        <rdfs:member rdf:resource="http://data.ct.gov/resource/igy9-udjm"/>
+        <ds:municipality>Plainfield</ds:municipality>
+        <ds:population>15405</ds:population>
+        <ds:total_housing_units>6229</ds:total_housing_units>
+        <ds:occupied_housing_units>5726</ds:occupied_housing_units>
+        <ds:vacant_housing_units>503</ds:vacant_housing_units>
+    </dsbase:igy9-udjm>
+    <dsbase:igy9-udjm rdf:about="http://data.ct.gov/resource/igy9-udjm/110">
+        <socrata:rowID>110</socrata:rowID>
+        <rdfs:member rdf:resource="http://data.ct.gov/resource/igy9-udjm"/>
+        <ds:municipality>Plainville</ds:municipality>
+        <ds:population>17716</ds:population>
+        <ds:total_housing_units>8063</ds:total_housing_units>
+        <ds:occupied_housing_units>7580</ds:occupied_housing_units>
+        <ds:vacant_housing_units>483</ds:vacant_housing_units>
+    </dsbase:igy9-udjm>
+    <dsbase:igy9-udjm rdf:about="http://data.ct.gov/resource/igy9-udjm/111">
+        <socrata:rowID>111</socrata:rowID>
+        <rdfs:member rdf:resource="http://data.ct.gov/resource/igy9-udjm"/>
+        <ds:municipality>Plymouth</ds:municipality>
+        <ds:population>12243</ds:population>
+        <ds:total_housing_units>5109</ds:total_housing_units>
+        <ds:occupied_housing_units>4803</ds:occupied_housing_units>
+        <ds:vacant_housing_units>306</ds:vacant_housing_units>
+    </dsbase:igy9-udjm>
+    <dsbase:igy9-udjm rdf:about="http://data.ct.gov/resource/igy9-udjm/112">
+        <socrata:rowID>112</socrata:rowID>
+        <rdfs:member rdf:resource="http://data.ct.gov/resource/igy9-udjm"/>
+        <ds:municipality>Pomfret</ds:municipality>
+        <ds:population>4247</ds:population>
+        <ds:total_housing_units>1684</ds:total_housing_units>
+        <ds:occupied_housing_units>1582</ds:occupied_housing_units>
+        <ds:vacant_housing_units>102</ds:vacant_housing_units>
+    </dsbase:igy9-udjm>
+    <dsbase:igy9-udjm rdf:about="http://data.ct.gov/resource/igy9-udjm/113">
+        <socrata:rowID>113</socrata:rowID>
+        <rdfs:member rdf:resource="http://data.ct.gov/resource/igy9-udjm"/>
+        <ds:municipality>Portland</ds:municipality>
+        <ds:population>9508</ds:population>
+        <ds:total_housing_units>4077</ds:total_housing_units>
+        <ds:occupied_housing_units>3822</ds:occupied_housing_units>
+        <ds:vacant_housing_units>255</ds:vacant_housing_units>
+    </dsbase:igy9-udjm>
+    <dsbase:igy9-udjm rdf:about="http://data.ct.gov/resource/igy9-udjm/114">
+        <socrata:rowID>114</socrata:rowID>
+        <rdfs:member rdf:resource="http://data.ct.gov/resource/igy9-udjm"/>
+        <ds:municipality>Preston</ds:municipality>
+        <ds:population>4726</ds:population>
+        <ds:total_housing_units>2019</ds:total_housing_units>
+        <ds:occupied_housing_units>1869</ds:occupied_housing_units>
+        <ds:vacant_housing_units>150</ds:vacant_housing_units>
+    </dsbase:igy9-udjm>
+    <dsbase:igy9-udjm rdf:about="http://data.ct.gov/resource/igy9-udjm/115">
+        <socrata:rowID>115</socrata:rowID>
+        <rdfs:member rdf:resource="http://data.ct.gov/resource/igy9-udjm"/>
+        <ds:municipality>Prospect</ds:municipality>
+        <ds:population>9405</ds:population>
+        <ds:total_housing_units>3474</ds:total_housing_units>
+        <ds:occupied_housing_units>3357</ds:occupied_housing_units>
+        <ds:vacant_housing_units>117</ds:vacant_housing_units>
+    </dsbase:igy9-udjm>
+    <dsbase:igy9-udjm rdf:about="http://data.ct.gov/resource/igy9-udjm/116">
+        <socrata:rowID>116</socrata:rowID>
+        <rdfs:member rdf:resource="http://data.ct.gov/resource/igy9-udjm"/>
+        <ds:municipality>Putnam</ds:municipality>
+        <ds:population>9584</ds:population>
+        <ds:total_housing_units>4299</ds:total_housing_units>
+        <ds:occupied_housing_units>3950</ds:occupied_housing_units>
+        <ds:vacant_housing_units>349</ds:vacant_housing_units>
+    </dsbase:igy9-udjm>
+    <dsbase:igy9-udjm rdf:about="http://data.ct.gov/resource/igy9-udjm/117">
+        <socrata:rowID>117</socrata:rowID>
+        <rdfs:member rdf:resource="http://data.ct.gov/resource/igy9-udjm"/>
+        <ds:municipality>Redding</ds:municipality>
+        <ds:population>9158</ds:population>
+        <ds:total_housing_units>3811</ds:total_housing_units>
+        <ds:occupied_housing_units>3470</ds:occupied_housing_units>
+        <ds:vacant_housing_units>341</ds:vacant_housing_units>
+    </dsbase:igy9-udjm>
+    <dsbase:igy9-udjm rdf:about="http://data.ct.gov/resource/igy9-udjm/118">
+        <socrata:rowID>118</socrata:rowID>
+        <rdfs:member rdf:resource="http://data.ct.gov/resource/igy9-udjm"/>
+        <ds:municipality>Ridgefield</ds:municipality>
+        <ds:population>24638</ds:population>
+        <ds:total_housing_units>9420</ds:total_housing_units>
+        <ds:occupied_housing_units>8801</ds:occupied_housing_units>
+        <ds:vacant_housing_units>619</ds:vacant_housing_units>
+    </dsbase:igy9-udjm>
+    <dsbase:igy9-udjm rdf:about="http://data.ct.gov/resource/igy9-udjm/119">
+        <socrata:rowID>119</socrata:rowID>
+        <rdfs:member rdf:resource="http://data.ct.gov/resource/igy9-udjm"/>
+        <ds:municipality>Rocky Hill</ds:municipality>
+        <ds:population>19709</ds:population>
+        <ds:total_housing_units>8843</ds:total_housing_units>
+        <ds:occupied_housing_units>8307</ds:occupied_housing_units>
+        <ds:vacant_housing_units>536</ds:vacant_housing_units>
+    </dsbase:igy9-udjm>
+    <dsbase:igy9-udjm rdf:about="http://data.ct.gov/resource/igy9-udjm/120">
+        <socrata:rowID>120</socrata:rowID>
+        <rdfs:member rdf:resource="http://data.ct.gov/resource/igy9-udjm"/>
+        <ds:municipality>Roxbury</ds:municipality>
+        <ds:population>2262</ds:population>
+        <ds:total_housing_units>1167</ds:total_housing_units>
+        <ds:occupied_housing_units>936</ds:occupied_housing_units>
+        <ds:vacant_housing_units>231</ds:vacant_housing_units>
+    </dsbase:igy9-udjm>
+    <dsbase:igy9-udjm rdf:about="http://data.ct.gov/resource/igy9-udjm/121">
+        <socrata:rowID>121</socrata:rowID>
+        <rdfs:member rdf:resource="http://data.ct.gov/resource/igy9-udjm"/>
+        <ds:municipality>Salem</ds:municipality>
+        <ds:population>4151</ds:population>
+        <ds:total_housing_units>1635</ds:total_housing_units>
+        <ds:occupied_housing_units>1525</ds:occupied_housing_units>
+        <ds:vacant_housing_units>110</ds:vacant_housing_units>
+    </dsbase:igy9-udjm>
+    <dsbase:igy9-udjm rdf:about="http://data.ct.gov/resource/igy9-udjm/122">
+        <socrata:rowID>122</socrata:rowID>
+        <rdfs:member rdf:resource="http://data.ct.gov/resource/igy9-udjm"/>
+        <ds:municipality>Salisbury</ds:municipality>
+        <ds:population>3741</ds:population>
+        <ds:total_housing_units>2593</ds:total_housing_units>
+        <ds:occupied_housing_units>1693</ds:occupied_housing_units>
+        <ds:vacant_housing_units>900</ds:vacant_housing_units>
+    </dsbase:igy9-udjm>
+    <dsbase:igy9-udjm rdf:about="http://data.ct.gov/resource/igy9-udjm/123">
+        <socrata:rowID>123</socrata:rowID>
+        <rdfs:member rdf:resource="http://data.ct.gov/resource/igy9-udjm"/>
+        <ds:municipality>Scotland</ds:municipality>
+        <ds:population>1726</ds:population>
+        <ds:total_housing_units>680</ds:total_housing_units>
+        <ds:occupied_housing_units>637</ds:occupied_housing_units>
+        <ds:vacant_housing_units>43</ds:vacant_housing_units>
+    </dsbase:igy9-udjm>
+    <dsbase:igy9-udjm rdf:about="http://data.ct.gov/resource/igy9-udjm/124">
+        <socrata:rowID>124</socrata:rowID>
+        <rdfs:member rdf:resource="http://data.ct.gov/resource/igy9-udjm"/>
+        <ds:municipality>Seymour</ds:municipality>
+        <ds:population>16540</ds:population>
+        <ds:total_housing_units>6968</ds:total_housing_units>
+        <ds:occupied_housing_units>6654</ds:occupied_housing_units>
+        <ds:vacant_housing_units>314</ds:vacant_housing_units>
+    </dsbase:igy9-udjm>
+    <dsbase:igy9-udjm rdf:about="http://data.ct.gov/resource/igy9-udjm/125">
+        <socrata:rowID>125</socrata:rowID>
+        <rdfs:member rdf:resource="http://data.ct.gov/resource/igy9-udjm"/>
+        <ds:municipality>Sharon</ds:municipality>
+        <ds:population>2782</ds:population>
+        <ds:total_housing_units>1775</ds:total_housing_units>
+        <ds:occupied_housing_units>1250</ds:occupied_housing_units>
+        <ds:vacant_housing_units>525</ds:vacant_housing_units>
+    </dsbase:igy9-udjm>
+    <dsbase:igy9-udjm rdf:about="http://data.ct.gov/resource/igy9-udjm/126">
+        <socrata:rowID>126</socrata:rowID>
+        <rdfs:member rdf:resource="http://data.ct.gov/resource/igy9-udjm"/>
+        <ds:municipality>Shelton</ds:municipality>
+        <ds:population>39559</ds:population>
+        <ds:total_housing_units>16146</ds:total_housing_units>
+        <ds:occupied_housing_units>15325</ds:occupied_housing_units>
+        <ds:vacant_housing_units>821</ds:vacant_housing_units>
+    </dsbase:igy9-udjm>
+    <dsbase:igy9-udjm rdf:about="http://data.ct.gov/resource/igy9-udjm/127">
+        <socrata:rowID>127</socrata:rowID>
+        <rdfs:member rdf:resource="http://data.ct.gov/resource/igy9-udjm"/>
+        <ds:municipality>Sherman</ds:municipality>
+        <ds:population>3581</ds:population>
+        <ds:total_housing_units>1831</ds:total_housing_units>
+        <ds:occupied_housing_units>1388</ds:occupied_housing_units>
+        <ds:vacant_housing_units>443</ds:vacant_housing_units>
+    </dsbase:igy9-udjm>
+    <dsbase:igy9-udjm rdf:about="http://data.ct.gov/resource/igy9-udjm/128">
+        <socrata:rowID>128</socrata:rowID>
+        <rdfs:member rdf:resource="http://data.ct.gov/resource/igy9-udjm"/>
+        <ds:municipality>Simsbury</ds:municipality>
+        <ds:population>23511</ds:population>
+        <ds:total_housing_units>9123</ds:total_housing_units>
+        <ds:occupied_housing_units>8776</ds:occupied_housing_units>
+        <ds:vacant_housing_units>347</ds:vacant_housing_units>
+    </dsbase:igy9-udjm>
+    <dsbase:igy9-udjm rdf:about="http://data.ct.gov/resource/igy9-udjm/129">
+        <socrata:rowID>129</socrata:rowID>
+        <rdfs:member rdf:resource="http://data.ct.gov/resource/igy9-udjm"/>
+        <ds:municipality>Somers</ds:municipality>
+        <ds:population>11444</ds:population>
+        <ds:total_housing_units>3479</ds:total_housing_units>
+        <ds:occupied_housing_units>3328</ds:occupied_housing_units>
+        <ds:vacant_housing_units>151</ds:vacant_housing_units>
+    </dsbase:igy9-udjm>
+    <dsbase:igy9-udjm rdf:about="http://data.ct.gov/resource/igy9-udjm/130">
+        <socrata:rowID>130</socrata:rowID>
+        <rdfs:member rdf:resource="http://data.ct.gov/resource/igy9-udjm"/>
+        <ds:municipality>South Windsor</ds:municipality>
+        <ds:population>25709</ds:population>
+        <ds:total_housing_units>10243</ds:total_housing_units>
+        <ds:occupied_housing_units>9918</ds:occupied_housing_units>
+        <ds:vacant_housing_units>325</ds:vacant_housing_units>
+    </dsbase:igy9-udjm>
+    <dsbase:igy9-udjm rdf:about="http://data.ct.gov/resource/igy9-udjm/131">
+        <socrata:rowID>131</socrata:rowID>
+        <rdfs:member rdf:resource="http://data.ct.gov/resource/igy9-udjm"/>
+        <ds:municipality>Southbury</ds:municipality>
+        <ds:population>19904</ds:population>
+        <ds:total_housing_units>9091</ds:total_housing_units>
+        <ds:occupied_housing_units>8213</ds:occupied_housing_units>
+        <ds:vacant_housing_units>878</ds:vacant_housing_units>
+    </dsbase:igy9-udjm>
+    <dsbase:igy9-udjm rdf:about="http://data.ct.gov/resource/igy9-udjm/132">
+        <socrata:rowID>132</socrata:rowID>
+        <rdfs:member rdf:resource="http://data.ct.gov/resource/igy9-udjm"/>
+        <ds:municipality>Southington</ds:municipality>
+        <ds:population>43069</ds:population>
+        <ds:total_housing_units>17447</ds:total_housing_units>
+        <ds:occupied_housing_units>16814</ds:occupied_housing_units>
+        <ds:vacant_housing_units>633</ds:vacant_housing_units>
+    </dsbase:igy9-udjm>
+    <dsbase:igy9-udjm rdf:about="http://data.ct.gov/resource/igy9-udjm/133">
+        <socrata:rowID>133</socrata:rowID>
+        <rdfs:member rdf:resource="http://data.ct.gov/resource/igy9-udjm"/>
+        <ds:municipality>Sprague</ds:municipality>
+        <ds:population>2984</ds:population>
+        <ds:total_housing_units>1248</ds:total_housing_units>
+        <ds:occupied_housing_units>1135</ds:occupied_housing_units>
+        <ds:vacant_housing_units>113</ds:vacant_housing_units>
+    </dsbase:igy9-udjm>
+    <dsbase:igy9-udjm rdf:about="http://data.ct.gov/resource/igy9-udjm/134">
+        <socrata:rowID>134</socrata:rowID>
+        <rdfs:member rdf:resource="http://data.ct.gov/resource/igy9-udjm"/>
+        <ds:municipality>Stafford</ds:municipality>
+        <ds:population>12087</ds:population>
+        <ds:total_housing_units>5124</ds:total_housing_units>
+        <ds:occupied_housing_units>4767</ds:occupied_housing_units>
+        <ds:vacant_housing_units>357</ds:vacant_housing_units>
+    </dsbase:igy9-udjm>
+    <dsbase:igy9-udjm rdf:about="http://data.ct.gov/resource/igy9-udjm/135">
+        <socrata:rowID>135</socrata:rowID>
+        <rdfs:member rdf:resource="http://data.ct.gov/resource/igy9-udjm"/>
+        <ds:municipality>Stamford</ds:municipality>
+        <ds:population>122643</ds:population>
+        <ds:total_housing_units>50573</ds:total_housing_units>
+        <ds:occupied_housing_units>47357</ds:occupied_housing_units>
+        <ds:vacant_housing_units>3216</ds:vacant_housing_units>
+    </dsbase:igy9-udjm>
+    <dsbase:igy9-udjm rdf:about="http://data.ct.gov/resource/igy9-udjm/136">
+        <socrata:rowID>136</socrata:rowID>
+        <rdfs:member rdf:resource="http://data.ct.gov/resource/igy9-udjm"/>
+        <ds:municipality>Sterling</ds:municipality>
+        <ds:population>3830</ds:population>
+        <ds:total_housing_units>1511</ds:total_housing_units>
+        <ds:occupied_housing_units>1383</ds:occupied_housing_units>
+        <ds:vacant_housing_units>128</ds:vacant_housing_units>
+    </dsbase:igy9-udjm>
+    <dsbase:igy9-udjm rdf:about="http://data.ct.gov/resource/igy9-udjm/137">
+        <socrata:rowID>137</socrata:rowID>
+        <rdfs:member rdf:resource="http://data.ct.gov/resource/igy9-udjm"/>
+        <ds:municipality>Stonington</ds:municipality>
+        <ds:population>18545</ds:population>
+        <ds:total_housing_units>9467</ds:total_housing_units>
+        <ds:occupied_housing_units>8115</ds:occupied_housing_units>
+        <ds:vacant_housing_units>1352</ds:vacant_housing_units>
+    </dsbase:igy9-udjm>
+    <dsbase:igy9-udjm rdf:about="http://data.ct.gov/resource/igy9-udjm/138">
+        <socrata:rowID>138</socrata:rowID>
+        <rdfs:member rdf:resource="http://data.ct.gov/resource/igy9-udjm"/>
+        <ds:municipality>Stratford</ds:municipality>
+        <ds:population>51384</ds:population>
+        <ds:total_housing_units>21091</ds:total_housing_units>
+        <ds:occupied_housing_units>20095</ds:occupied_housing_units>
+        <ds:vacant_housing_units>996</ds:vacant_housing_units>
+    </dsbase:igy9-udjm>
+    <dsbase:igy9-udjm rdf:about="http://data.ct.gov/resource/igy9-udjm/139">
+        <socrata:rowID>139</socrata:rowID>
+        <rdfs:member rdf:resource="http://data.ct.gov/resource/igy9-udjm"/>
+        <ds:municipality>Suffield</ds:municipality>
+        <ds:population>15735</ds:population>
+        <ds:total_housing_units>5469</ds:total_housing_units>
+        <ds:occupied_housing_units>5155</ds:occupied_housing_units>
+        <ds:vacant_housing_units>314</ds:vacant_housing_units>
+    </dsbase:igy9-udjm>
+    <dsbase:igy9-udjm rdf:about="http://data.ct.gov/resource/igy9-udjm/140">
+        <socrata:rowID>140</socrata:rowID>
+        <rdfs:member rdf:resource="http://data.ct.gov/resource/igy9-udjm"/>
+        <ds:municipality>Thomaston</ds:municipality>
+        <ds:population>7887</ds:population>
+        <ds:total_housing_units>3276</ds:total_housing_units>
+        <ds:occupied_housing_units>3108</ds:occupied_housing_units>
+        <ds:vacant_housing_units>168</ds:vacant_housing_units>
+    </dsbase:igy9-udjm>
+    <dsbase:igy9-udjm rdf:about="http://data.ct.gov/resource/igy9-udjm/141">
+        <socrata:rowID>141</socrata:rowID>
+        <rdfs:member rdf:resource="http://data.ct.gov/resource/igy9-udjm"/>
+        <ds:municipality>Thompson</ds:municipality>
+        <ds:population>9458</ds:population>
+        <ds:total_housing_units>4171</ds:total_housing_units>
+        <ds:occupied_housing_units>3730</ds:occupied_housing_units>
+        <ds:vacant_housing_units>441</ds:vacant_housing_units>
+    </dsbase:igy9-udjm>
+    <dsbase:igy9-udjm rdf:about="http://data.ct.gov/resource/igy9-udjm/142">
+        <socrata:rowID>142</socrata:rowID>
+        <rdfs:member rdf:resource="http://data.ct.gov/resource/igy9-udjm"/>
+        <ds:municipality>Tolland</ds:municipality>
+        <ds:population>15052</ds:population>
+        <ds:total_housing_units>5451</ds:total_housing_units>
+        <ds:occupied_housing_units>5312</ds:occupied_housing_units>
+        <ds:vacant_housing_units>139</ds:vacant_housing_units>
+    </dsbase:igy9-udjm>
+    <dsbase:igy9-udjm rdf:about="http://data.ct.gov/resource/igy9-udjm/143">
+        <socrata:rowID>143</socrata:rowID>
+        <rdfs:member rdf:resource="http://data.ct.gov/resource/igy9-udjm"/>
+        <ds:municipality>Torrington</ds:municipality>
+        <ds:population>36383</ds:population>
+        <ds:total_housing_units>16761</ds:total_housing_units>
+        <ds:occupied_housing_units>15243</ds:occupied_housing_units>
+        <ds:vacant_housing_units>1518</ds:vacant_housing_units>
+    </dsbase:igy9-udjm>
+    <dsbase:igy9-udjm rdf:about="http://data.ct.gov/resource/igy9-udjm/144">
+        <socrata:rowID>144</socrata:rowID>
+        <rdfs:member rdf:resource="http://data.ct.gov/resource/igy9-udjm"/>
+        <ds:municipality>Trumbull</ds:municipality>
+        <ds:population>36018</ds:population>
+        <ds:total_housing_units>13157</ds:total_housing_units>
+        <ds:occupied_housing_units>12725</ds:occupied_housing_units>
+        <ds:vacant_housing_units>432</ds:vacant_housing_units>
+    </dsbase:igy9-udjm>
+    <dsbase:igy9-udjm rdf:about="http://data.ct.gov/resource/igy9-udjm/145">
+        <socrata:rowID>145</socrata:rowID>
+        <rdfs:member rdf:resource="http://data.ct.gov/resource/igy9-udjm"/>
+        <ds:municipality>Union</ds:municipality>
+        <ds:population>854</ds:population>
+        <ds:total_housing_units>388</ds:total_housing_units>
+        <ds:occupied_housing_units>334</ds:occupied_housing_units>
+        <ds:vacant_housing_units>54</ds:vacant_housing_units>
+    </dsbase:igy9-udjm>
+    <dsbase:igy9-udjm rdf:about="http://data.ct.gov/resource/igy9-udjm/146">
+        <socrata:rowID>146</socrata:rowID>
+        <rdfs:member rdf:resource="http://data.ct.gov/resource/igy9-udjm"/>
+        <ds:municipality>Vernon</ds:municipality>
+        <ds:population>29179</ds:population>
+        <ds:total_housing_units>13896</ds:total_housing_units>
+        <ds:occupied_housing_units>12976</ds:occupied_housing_units>
+        <ds:vacant_housing_units>920</ds:vacant_housing_units>
+    </dsbase:igy9-udjm>
+    <dsbase:igy9-udjm rdf:about="http://data.ct.gov/resource/igy9-udjm/147">
+        <socrata:rowID>147</socrata:rowID>
+        <rdfs:member rdf:resource="http://data.ct.gov/resource/igy9-udjm"/>
+        <ds:municipality>Voluntown</ds:municipality>
+        <ds:population>2603</ds:population>
+        <ds:total_housing_units>1127</ds:total_housing_units>
+        <ds:occupied_housing_units>1002</ds:occupied_housing_units>
+        <ds:vacant_housing_units>125</ds:vacant_housing_units>
+    </dsbase:igy9-udjm>
+    <dsbase:igy9-udjm rdf:about="http://data.ct.gov/resource/igy9-udjm/148">
+        <socrata:rowID>148</socrata:rowID>
+        <rdfs:member rdf:resource="http://data.ct.gov/resource/igy9-udjm"/>
+        <ds:municipality>Wallingford</ds:municipality>
+        <ds:population>45135</ds:population>
+        <ds:total_housing_units>18945</ds:total_housing_units>
+        <ds:occupied_housing_units>18032</ds:occupied_housing_units>
+        <ds:vacant_housing_units>913</ds:vacant_housing_units>
+    </dsbase:igy9-udjm>
+    <dsbase:igy9-udjm rdf:about="http://data.ct.gov/resource/igy9-udjm/149">
+        <socrata:rowID>149</socrata:rowID>
+        <rdfs:member rdf:resource="http://data.ct.gov/resource/igy9-udjm"/>
+        <ds:municipality>Warren</ds:municipality>
+        <ds:population>1461</ds:population>
+        <ds:total_housing_units>811</ds:total_housing_units>
+        <ds:occupied_housing_units>601</ds:occupied_housing_units>
+        <ds:vacant_housing_units>210</ds:vacant_housing_units>
+    </dsbase:igy9-udjm>
+    <dsbase:igy9-udjm rdf:about="http://data.ct.gov/resource/igy9-udjm/150">
+        <socrata:rowID>150</socrata:rowID>
+        <rdfs:member rdf:resource="http://data.ct.gov/resource/igy9-udjm"/>
+        <ds:municipality>Washington</ds:municipality>
+        <ds:population>3578</ds:population>
+        <ds:total_housing_units>2124</ds:total_housing_units>
+        <ds:occupied_housing_units>1512</ds:occupied_housing_units>
+        <ds:vacant_housing_units>612</ds:vacant_housing_units>
+    </dsbase:igy9-udjm>
+    <dsbase:igy9-udjm rdf:about="http://data.ct.gov/resource/igy9-udjm/151">
+        <socrata:rowID>151</socrata:rowID>
+        <rdfs:member rdf:resource="http://data.ct.gov/resource/igy9-udjm"/>
+        <ds:municipality>Waterbury</ds:municipality>
+        <ds:population>110366</ds:population>
+        <ds:total_housing_units>47991</ds:total_housing_units>
+        <ds:occupied_housing_units>42761</ds:occupied_housing_units>
+        <ds:vacant_housing_units>5230</ds:vacant_housing_units>
+    </dsbase:igy9-udjm>
+    <dsbase:igy9-udjm rdf:about="http://data.ct.gov/resource/igy9-udjm/152">
+        <socrata:rowID>152</socrata:rowID>
+        <rdfs:member rdf:resource="http://data.ct.gov/resource/igy9-udjm"/>
+        <ds:municipality>Waterford</ds:municipality>
+        <ds:population>19517</ds:population>
+        <ds:total_housing_units>8634</ds:total_housing_units>
+        <ds:occupied_housing_units>8005</ds:occupied_housing_units>
+        <ds:vacant_housing_units>629</ds:vacant_housing_units>
+    </dsbase:igy9-udjm>
+    <dsbase:igy9-udjm rdf:about="http://data.ct.gov/resource/igy9-udjm/153">
+        <socrata:rowID>153</socrata:rowID>
+        <rdfs:member rdf:resource="http://data.ct.gov/resource/igy9-udjm"/>
+        <ds:municipality>Watertown</ds:municipality>
+        <ds:population>22514</ds:population>
+        <ds:total_housing_units>9096</ds:total_housing_units>
+        <ds:occupied_housing_units>8672</ds:occupied_housing_units>
+        <ds:vacant_housing_units>424</ds:vacant_housing_units>
+    </dsbase:igy9-udjm>
+    <dsbase:igy9-udjm rdf:about="http://data.ct.gov/resource/igy9-udjm/154">
+        <socrata:rowID>154</socrata:rowID>
+        <rdfs:member rdf:resource="http://data.ct.gov/resource/igy9-udjm"/>
+        <ds:municipality>West Hartford</ds:municipality>
+        <ds:population>63268</ds:population>
+        <ds:total_housing_units>26396</ds:total_housing_units>
+        <ds:occupied_housing_units>25258</ds:occupied_housing_units>
+        <ds:vacant_housing_units>1138</ds:vacant_housing_units>
+    </dsbase:igy9-udjm>
+    <dsbase:igy9-udjm rdf:about="http://data.ct.gov/resource/igy9-udjm/155">
+        <socrata:rowID>155</socrata:rowID>
+        <rdfs:member rdf:resource="http://data.ct.gov/resource/igy9-udjm"/>
+        <ds:municipality>West Haven</ds:municipality>
+        <ds:population>55564</ds:population>
+        <ds:total_housing_units>22446</ds:total_housing_units>
+        <ds:occupied_housing_units>21112</ds:occupied_housing_units>
+        <ds:vacant_housing_units>1334</ds:vacant_housing_units>
+    </dsbase:igy9-udjm>
+    <dsbase:igy9-udjm rdf:about="http://data.ct.gov/resource/igy9-udjm/156">
+        <socrata:rowID>156</socrata:rowID>
+        <rdfs:member rdf:resource="http://data.ct.gov/resource/igy9-udjm"/>
+        <ds:municipality>Westbrook</ds:municipality>
+        <ds:population>6938</ds:population>
+        <ds:total_housing_units>3937</ds:total_housing_units>
+        <ds:occupied_housing_units>2948</ds:occupied_housing_units>
+        <ds:vacant_housing_units>989</ds:vacant_housing_units>
+    </dsbase:igy9-udjm>
+    <dsbase:igy9-udjm rdf:about="http://data.ct.gov/resource/igy9-udjm/157">
+        <socrata:rowID>157</socrata:rowID>
+        <rdfs:member rdf:resource="http://data.ct.gov/resource/igy9-udjm"/>
+        <ds:municipality>Weston</ds:municipality>
+        <ds:population>10179</ds:population>
+        <ds:total_housing_units>3674</ds:total_housing_units>
+        <ds:occupied_housing_units>3379</ds:occupied_housing_units>
+        <ds:vacant_housing_units>295</ds:vacant_housing_units>
+    </dsbase:igy9-udjm>
+    <dsbase:igy9-udjm rdf:about="http://data.ct.gov/resource/igy9-udjm/158">
+        <socrata:rowID>158</socrata:rowID>
+        <rdfs:member rdf:resource="http://data.ct.gov/resource/igy9-udjm"/>
+        <ds:municipality>Westport</ds:municipality>
+        <ds:population>26391</ds:population>
+        <ds:total_housing_units>10399</ds:total_housing_units>
+        <ds:occupied_housing_units>9573</ds:occupied_housing_units>
+        <ds:vacant_housing_units>826</ds:vacant_housing_units>
+    </dsbase:igy9-udjm>
+    <dsbase:igy9-udjm rdf:about="http://data.ct.gov/resource/igy9-udjm/159">
+        <socrata:rowID>159</socrata:rowID>
+        <rdfs:member rdf:resource="http://data.ct.gov/resource/igy9-udjm"/>
+        <ds:municipality>Wethersfield</ds:municipality>
+        <ds:population>26668</ds:population>
+        <ds:total_housing_units>11677</ds:total_housing_units>
+        <ds:occupied_housing_units>11204</ds:occupied_housing_units>
+        <ds:vacant_housing_units>473</ds:vacant_housing_units>
+    </dsbase:igy9-udjm>
+    <dsbase:igy9-udjm rdf:about="http://data.ct.gov/resource/igy9-udjm/160">
+        <socrata:rowID>160</socrata:rowID>
+        <rdfs:member rdf:resource="http://data.ct.gov/resource/igy9-udjm"/>
+        <ds:municipality>Willington</ds:municipality>
+        <ds:population>6041</ds:population>
+        <ds:total_housing_units>2637</ds:total_housing_units>
+        <ds:occupied_housing_units>2423</ds:occupied_housing_units>
+        <ds:vacant_housing_units>214</ds:vacant_housing_units>
+    </dsbase:igy9-udjm>
+    <dsbase:igy9-udjm rdf:about="http://data.ct.gov/resource/igy9-udjm/161">
+        <socrata:rowID>161</socrata:rowID>
+        <rdfs:member rdf:resource="http://data.ct.gov/resource/igy9-udjm"/>
+        <ds:municipality>Wilton</ds:municipality>
+        <ds:population>18062</ds:population>
+        <ds:total_housing_units>6475</ds:total_housing_units>
+        <ds:occupied_housing_units>6172</ds:occupied_housing_units>
+        <ds:vacant_housing_units>303</ds:vacant_housing_units>
+    </dsbase:igy9-udjm>
+    <dsbase:igy9-udjm rdf:about="http://data.ct.gov/resource/igy9-udjm/162">
+        <socrata:rowID>162</socrata:rowID>
+        <rdfs:member rdf:resource="http://data.ct.gov/resource/igy9-udjm"/>
+        <ds:municipality>Winchester</ds:municipality>
+        <ds:population>11242</ds:population>
+        <ds:total_housing_units>5613</ds:total_housing_units>
+        <ds:occupied_housing_units>4815</ds:occupied_housing_units>
+        <ds:vacant_housing_units>798</ds:vacant_housing_units>
+    </dsbase:igy9-udjm>
+    <dsbase:igy9-udjm rdf:about="http://data.ct.gov/resource/igy9-udjm/163">
+        <socrata:rowID>163</socrata:rowID>
+        <rdfs:member rdf:resource="http://data.ct.gov/resource/igy9-udjm"/>
+        <ds:municipality>Windham</ds:municipality>
+        <ds:population>25268</ds:population>
+        <ds:total_housing_units>9570</ds:total_housing_units>
+        <ds:occupied_housing_units>8906</ds:occupied_housing_units>
+        <ds:vacant_housing_units>664</ds:vacant_housing_units>
+    </dsbase:igy9-udjm>
+    <dsbase:igy9-udjm rdf:about="http://data.ct.gov/resource/igy9-udjm/164">
+        <socrata:rowID>164</socrata:rowID>
+        <rdfs:member rdf:resource="http://data.ct.gov/resource/igy9-udjm"/>
+        <ds:municipality>Windsor</ds:municipality>
+        <ds:population>29044</ds:population>
+        <ds:total_housing_units>11767</ds:total_housing_units>
+        <ds:occupied_housing_units>11233</ds:occupied_housing_units>
+        <ds:vacant_housing_units>534</ds:vacant_housing_units>
+    </dsbase:igy9-udjm>
+    <dsbase:igy9-udjm rdf:about="http://data.ct.gov/resource/igy9-udjm/165">
+        <socrata:rowID>165</socrata:rowID>
+        <rdfs:member rdf:resource="http://data.ct.gov/resource/igy9-udjm"/>
+        <ds:municipality>Windsor Locks</ds:municipality>
+        <ds:population>12498</ds:population>
+        <ds:total_housing_units>5429</ds:total_housing_units>
+        <ds:occupied_housing_units>5223</ds:occupied_housing_units>
+        <ds:vacant_housing_units>206</ds:vacant_housing_units>
+    </dsbase:igy9-udjm>
+    <dsbase:igy9-udjm rdf:about="http://data.ct.gov/resource/igy9-udjm/166">
+        <socrata:rowID>166</socrata:rowID>
+        <rdfs:member rdf:resource="http://data.ct.gov/resource/igy9-udjm"/>
+        <ds:municipality>Wolcott</ds:municipality>
+        <ds:population>16680</ds:population>
+        <ds:total_housing_units>6276</ds:total_housing_units>
+        <ds:occupied_housing_units>6007</ds:occupied_housing_units>
+        <ds:vacant_housing_units>269</ds:vacant_housing_units>
+    </dsbase:igy9-udjm>
+    <dsbase:igy9-udjm rdf:about="http://data.ct.gov/resource/igy9-udjm/167">
+        <socrata:rowID>167</socrata:rowID>
+        <rdfs:member rdf:resource="http://data.ct.gov/resource/igy9-udjm"/>
+        <ds:municipality>Woodbridge</ds:municipality>
+        <ds:population>8990</ds:population>
+        <ds:total_housing_units>3478</ds:total_housing_units>
+        <ds:occupied_housing_units>3336</ds:occupied_housing_units>
+        <ds:vacant_housing_units>142</ds:vacant_housing_units>
+    </dsbase:igy9-udjm>
+    <dsbase:igy9-udjm rdf:about="http://data.ct.gov/resource/igy9-udjm/168">
+        <socrata:rowID>168</socrata:rowID>
+        <rdfs:member rdf:resource="http://data.ct.gov/resource/igy9-udjm"/>
+        <ds:municipality>Woodbury</ds:municipality>
+        <ds:population>9975</ds:population>
+        <ds:total_housing_units>4564</ds:total_housing_units>
+        <ds:occupied_housing_units>4214</ds:occupied_housing_units>
+        <ds:vacant_housing_units>350</ds:vacant_housing_units>
+    </dsbase:igy9-udjm>
+    <dsbase:igy9-udjm rdf:about="http://data.ct.gov/resource/igy9-udjm/169">
+        <socrata:rowID>169</socrata:rowID>
+        <rdfs:member rdf:resource="http://data.ct.gov/resource/igy9-udjm"/>
+        <ds:municipality>Woodstock</ds:municipality>
+        <ds:population>7964</ds:population>
+        <ds:total_housing_units>3582</ds:total_housing_units>
+        <ds:occupied_housing_units>3151</ds:occupied_housing_units>
+        <ds:vacant_housing_units>431</ds:vacant_housing_units>
+    </dsbase:igy9-udjm>
+</rdf:RDF>
