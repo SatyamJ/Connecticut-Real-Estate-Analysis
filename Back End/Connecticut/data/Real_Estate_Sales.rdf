@@ -3,7 +3,7 @@
          xmlns:ods="http://open-data-standards.github.com/2012/01/open-data-standards#"
          xmlns:dcterm="http://purl.org/dc/terms/" xmlns:geo="http://www.w3.org/2003/01/geo/wgs84_pos#"
          xmlns:skos="http://www.w3.org/2004/02/skos/core#" xmlns:foaf="http://xmlns.com/foaf/0.1/"
-         xmlns:dsbase="http://data.ct.gov/resource/" xmlns:ds="http://data.ct.gov/resource/_8udc-aepg/"
+         xmlns:dsbase="http://data.ct.gov/resource/" xmlns:ds="http://data.ct.gov/resource/igy9-udjm/"
          xmlns:usps="http://www.w3.org/2000/10/swap/pim/usps#">
     <rdf:Description rdf:about="http://data.ct.gov/resource/_8udc-aepg/5790">
         <socrata:rowID>5790</socrata:rowID>
