@@ -2,6 +2,7 @@
  * Created by Sunil on 18-Oct-16.
  */
 import java.io.*;
+import java.util.Scanner;
 
 import org.apache.jena.query.*;
 import org.apache.jena.reasoner.Reasoner;
@@ -39,15 +40,9 @@ public class ConnRealEstate {
         connecticutRealEstate.getResults(connecticutRealEstate.inferredRelation);
 
         //Fuseki part
-        /* System.out.println("Fuseki test");
-        QueryExecution qe = QueryExecutionFactory.sparqlService(
-                "http://localhost:3030/pop/query", "PREFIX ds:<http://data.ct.gov/resource/igy9-udjm/>\n" +
-                        "select DISTINCT ?x ?name where { ?x ds:municipality ?name}");
-        ResultSet results = qe.execSelect();
-        //ResultSetFormatter.out(System.out, results);
-        ResultSetFormatter.outputAsJSON(System.out, results);
-        qe.close();
-        */
+         System.out.println("Fuseki test");
+        connecticutRealEstate.runFuseki();
+
     }
 
     private void readRDF () throws IOException
@@ -119,8 +114,8 @@ public class ConnRealEstate {
 
     public void writeToFile(ResultSet response){
         System.out.println("Writing output to file");
-        File jsonfile = new File("c:/test/jsonOutput.json");
-        File csvfile = new File("c:/test/csvOutput.csv");
+        File jsonfile = new File("output/jsonOutput.json");
+        File csvfile = new File("output/csvOutput.csv");
         FileOutputStream jsonp =null;
         FileOutputStream csvp =null;
         try {
@@ -134,5 +129,28 @@ public class ConnRealEstate {
         //Dont do both, you can do only one operation at a time. Comment one of them which you dont want
         ResultSetFormatter.outputAsJSON(jsonp, response);
         //ResultSetFormatter.outputAsCSV(csvp, response);
+    }
+
+    public void runFuseki(){
+        Scanner reader = new Scanner(System.in);  // Reading from System.in
+        System.out.println("Enter name of a town in connecticut, to get addresses in that town (case sensitive): ");
+        String name = reader.nextLine(); // Scans the next token of the input as an int.
+
+        QueryExecution qe = QueryExecutionFactory.sparqlService(
+                "http://localhost:3030/ds/query", "PREFIX ds:<http://data.ct.gov/resource/igy9-udjm/>\n" +
+                        "PREFIX xsd: <http://www.w3.org/2001/XMLSchema#>\n" +
+                        "select DISTINCT ?name ?total_pop_2015 ?address ?list_year where {\n" +
+                        "  ?ns1 ds:municipality ?name .\n" +
+                        "  ?ns2 ds:town ?name ;\n" +
+                        "       ds:_2015_total ?total_pop_2015 .\n" +
+                        "  ?ns3 ds:name ?name ;\n" +
+                        "       ds:address ?address ;\n" +
+                        "        ds:listyear ?list_year \n" +
+                        "  Filter(?name = \""+name+"\" ) \n" +
+                        "}");
+        ResultSet results = qe.execSelect();
+        //ResultSetFormatter.out(System.out, results);
+        ResultSetFormatter.outputAsJSON(System.out, results);
+        qe.close();
     }
 }
