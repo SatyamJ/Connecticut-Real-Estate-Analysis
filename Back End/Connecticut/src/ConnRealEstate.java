@@ -20,24 +20,34 @@ public class ConnRealEstate {
         ConnRealEstate connecticutRealEstate = new ConnRealEstate();
 
         //Load my housing
-        System.out.println("Load housing");
+        System.out.println("Loading RDF data");
         connecticutRealEstate.readRDF();
 
         // Add the ontologies
-        System.out.println("\nAdd the Ontologies");
+        System.out.println("Adding the Ontologies");
         schema = connt;
 
         //Align the ontologies
-        System.out.println("Adding alignment the two ontologies.");
+        System.out.println("Adding alignment");
         connecticutRealEstate.addAlignment();
 
         //Run reasoner to  align the instances
-        System.out.println("\nRun a Reasoner");
+        System.out.println("Running Reasoner");
         connecticutRealEstate.bindReasoner();
 
-        System.out.println("\nRun on final combined rdf from 2 rdfs");
+        System.out.println("Running Query on final combined rdf");
         connecticutRealEstate.getResults(connecticutRealEstate.inferredRelation);
 
+        //Fuseki part
+        /* System.out.println("Fuseki test");
+        QueryExecution qe = QueryExecutionFactory.sparqlService(
+                "http://localhost:3030/pop/query", "PREFIX ds:<http://data.ct.gov/resource/igy9-udjm/>\n" +
+                        "select DISTINCT ?x ?name where { ?x ds:municipality ?name}");
+        ResultSet results = qe.execSelect();
+        //ResultSetFormatter.out(System.out, results);
+        ResultSetFormatter.outputAsJSON(System.out, results);
+        qe.close();
+        */
     }
 
     private void readRDF () throws IOException
@@ -65,7 +75,6 @@ public class ConnRealEstate {
         prop = schema.createProperty("http://www.w3.org/2002/07/owl#equivalentClass");
         obj = schema.createResource(defaultNameSpace + "name");
         schema.add(resource,prop,obj);
-
     }
 
     private void bindReasoner()
@@ -109,6 +118,7 @@ public class ConnRealEstate {
     }
 
     public void writeToFile(ResultSet response){
+        System.out.println("Writing output to file");
         File jsonfile = new File("c:/test/jsonOutput.json");
         File csvfile = new File("c:/test/csvOutput.csv");
         FileOutputStream jsonp =null;
