@@ -1,0 +1,34 @@
+<!DOCTYPE html>
+ <html>
+      <head>
+           <title>Connecticut Real Estate Analysis</title>
+           <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.6/css/bootstrap.min.css" />
+           <script src="angular.min.js"></script>
+           <script src="app.js"></script>
+           <style src="style.css"></style>
+      </head>
+
+      <body>
+           <br /><br />
+           <div class="container" style="width:500px;">
+                <div>
+                  <h2 align="center">Real Estate in Connecticut</h2>
+                </div>
+                <br/>
+                <div ng-app="myapp" ng-controller="usercontroller">
+                     <label>Search Town</label>
+                     <input type="text" name="town" id="town" class="form-control"
+                     ng-model="town"
+                     ng-keyup="complete(town)"
+                     ng-blur="fillTextbox(town)" />
+
+                     <ul class="list-group" ng-model="hidethis"
+                                            ng-hide="hidethis">
+                          <li class="list-group-item"
+                          ng-repeat="countrydata in filterTown"
+                          ng-click="fillTextbox(countrydata)">{{countrydata}}</li>
+                     </ul>
+                </div>
+           </div>
+      </body>
+ </html>
