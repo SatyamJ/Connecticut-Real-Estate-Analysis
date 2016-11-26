@@ -1,0 +1,3352 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:rdfs="http://www.w3.org/2000/01/rdf-schema#" xmlns:socrata="http://www.socrata.com/rdf/terms#" xmlns:dcat="http://www.w3.org/ns/dcat#" xmlns:ods="http://open-data-standards.github.com/2012/01/open-data-standards#" xmlns:dcterm="http://purl.org/dc/terms/" xmlns:geo="http://www.w3.org/2003/01/geo/wgs84_pos#" xmlns:skos="http://www.w3.org/2004/02/skos/core#" xmlns:foaf="http://xmlns.com/foaf/0.1/" xmlns:dsbase="http://data.ct.gov/resource/" xmlns:ds="http://data.ct.gov/resource/_6ntu-dndh/" xmlns:usps="http://www.w3.org/2000/10/swap/pim/usps#">
+  <dsbase:_6ntu-dndh rdf:about="http://data.ct.gov/resource/_6ntu-dndh/172">
+    <socrata:rowID>172</socrata:rowID>
+    <rdfs:member rdf:resource="http://data.ct.gov/resource/_6ntu-dndh" />
+    <ds:jurisdiction_id>CT001690X</ds:jurisdiction_id>
+    <ds:jurisdiction>Yale University</ds:jurisdiction>
+    <ds:population>0</ds:population>
+    <ds:jurisdictiongeo>
+      <geo:SpatialThing>
+        <usps:deliveryAddress />
+        <usps:cityName>Yale University</usps:cityName>
+        <usps:stateAbbr>CT</usps:stateAbbr>
+        <usps:zipCode />
+      </geo:SpatialThing>
+    </ds:jurisdictiongeo>
+    <ds:crime_reported>569</ds:crime_reported>
+  </dsbase:_6ntu-dndh>
+  <dsbase:_6ntu-dndh rdf:about="http://data.ct.gov/resource/_6ntu-dndh/173">
+    <socrata:rowID>173</socrata:rowID>
+    <rdfs:member rdf:resource="http://data.ct.gov/resource/_6ntu-dndh" />
+    <ds:jurisdiction_id>CT0017000</ds:jurisdiction_id>
+    <ds:jurisdiction>UConn - Storrs</ds:jurisdiction>
+    <ds:population>0</ds:population>
+    <ds:jurisdictiongeo>
+      <geo:SpatialThing>
+        <usps:deliveryAddress />
+        <usps:cityName>UConn - Storrs</usps:cityName>
+        <usps:stateAbbr>CT</usps:stateAbbr>
+        <usps:zipCode />
+      </geo:SpatialThing>
+    </ds:jurisdictiongeo>
+    <ds:crime_reported>419</ds:crime_reported>
+  </dsbase:_6ntu-dndh>
+  <dsbase:_6ntu-dndh rdf:about="http://data.ct.gov/resource/_6ntu-dndh/174">
+    <socrata:rowID>174</socrata:rowID>
+    <rdfs:member rdf:resource="http://data.ct.gov/resource/_6ntu-dndh" />
+    <ds:jurisdiction_id>CTSP17100</ds:jurisdiction_id>
+    <ds:jurisdiction>Foxwoods Casino</ds:jurisdiction>
+    <ds:population>0</ds:population>
+    <ds:jurisdictiongeo>
+      <geo:SpatialThing>
+        <usps:deliveryAddress />
+        <usps:cityName>Foxwoods Casino</usps:cityName>
+        <usps:stateAbbr>CT</usps:stateAbbr>
+        <usps:zipCode />
+      </geo:SpatialThing>
+    </ds:jurisdictiongeo>
+    <ds:crime_reported>2</ds:crime_reported>
+  </dsbase:_6ntu-dndh>
+  <dsbase:_6ntu-dndh rdf:about="http://data.ct.gov/resource/_6ntu-dndh/177">
+    <socrata:rowID>177</socrata:rowID>
+    <rdfs:member rdf:resource="http://data.ct.gov/resource/_6ntu-dndh" />
+    <ds:jurisdiction_id>CT0019000</ds:jurisdiction_id>
+    <ds:jurisdiction>C.C.S.U.</ds:jurisdiction>
+    <ds:population>0</ds:population>
+    <ds:jurisdictiongeo>
+      <geo:SpatialThing>
+        <usps:deliveryAddress />
+        <usps:cityName>C.C.S.U.</usps:cityName>
+        <usps:stateAbbr>CT</usps:stateAbbr>
+        <usps:zipCode />
+      </geo:SpatialThing>
+    </ds:jurisdictiongeo>
+    <ds:crime_reported>76</ds:crime_reported>
+  </dsbase:_6ntu-dndh>
+  <dsbase:_6ntu-dndh rdf:about="http://data.ct.gov/resource/_6ntu-dndh/178">
+    <socrata:rowID>178</socrata:rowID>
+    <rdfs:member rdf:resource="http://data.ct.gov/resource/_6ntu-dndh" />
+    <ds:jurisdiction_id>CT0019100</ds:jurisdiction_id>
+    <ds:jurisdiction>E.C.S.U.</ds:jurisdiction>
+    <ds:population>0</ds:population>
+    <ds:jurisdictiongeo>
+      <geo:SpatialThing>
+        <usps:deliveryAddress />
+        <usps:cityName>E.C.S.U.</usps:cityName>
+        <usps:stateAbbr>CT</usps:stateAbbr>
+        <usps:zipCode />
+      </geo:SpatialThing>
+    </ds:jurisdictiongeo>
+    <ds:crime_reported>106</ds:crime_reported>
+  </dsbase:_6ntu-dndh>
+  <dsbase:_6ntu-dndh rdf:about="http://data.ct.gov/resource/_6ntu-dndh/179">
+    <socrata:rowID>179</socrata:rowID>
+    <rdfs:member rdf:resource="http://data.ct.gov/resource/_6ntu-dndh" />
+    <ds:jurisdiction_id>CT0019200</ds:jurisdiction_id>
+    <ds:jurisdiction>UConn Health Ctr</ds:jurisdiction>
+    <ds:population>0</ds:population>
+    <ds:jurisdictiongeo>
+      <geo:SpatialThing>
+        <usps:deliveryAddress />
+        <usps:cityName>UConn Health Ctr</usps:cityName>
+        <usps:stateAbbr>CT</usps:stateAbbr>
+        <usps:zipCode />
+      </geo:SpatialThing>
+    </ds:jurisdictiongeo>
+    <ds:crime_reported>33</ds:crime_reported>
+  </dsbase:_6ntu-dndh>
+  <dsbase:_6ntu-dndh rdf:about="http://data.ct.gov/resource/_6ntu-dndh/180">
+    <socrata:rowID>180</socrata:rowID>
+    <rdfs:member rdf:resource="http://data.ct.gov/resource/_6ntu-dndh" />
+    <ds:jurisdiction_id>CT0019300</ds:jurisdiction_id>
+    <ds:jurisdiction>W.C.S.U.</ds:jurisdiction>
+    <ds:population>0</ds:population>
+    <ds:jurisdictiongeo>
+      <geo:SpatialThing>
+        <usps:deliveryAddress />
+        <usps:cityName>W.C.S.U.</usps:cityName>
+        <usps:stateAbbr>CT</usps:stateAbbr>
+        <usps:zipCode />
+      </geo:SpatialThing>
+    </ds:jurisdictiongeo>
+    <ds:crime_reported>80</ds:crime_reported>
+  </dsbase:_6ntu-dndh>
+  <dsbase:_6ntu-dndh rdf:about="http://data.ct.gov/resource/_6ntu-dndh/181">
+    <socrata:rowID>181</socrata:rowID>
+    <rdfs:member rdf:resource="http://data.ct.gov/resource/_6ntu-dndh" />
+    <ds:jurisdiction_id>CT0019400</ds:jurisdiction_id>
+    <ds:jurisdiction>S.C.S.U.</ds:jurisdiction>
+    <ds:population>0</ds:population>
+    <ds:jurisdictiongeo>
+      <geo:SpatialThing>
+        <usps:deliveryAddress />
+        <usps:cityName>S.C.S.U.</usps:cityName>
+        <usps:stateAbbr>CT</usps:stateAbbr>
+        <usps:zipCode />
+      </geo:SpatialThing>
+    </ds:jurisdictiongeo>
+    <ds:crime_reported>110</ds:crime_reported>
+  </dsbase:_6ntu-dndh>
+  <dsbase:_6ntu-dndh rdf:about="http://data.ct.gov/resource/_6ntu-dndh/185">
+    <socrata:rowID>185</socrata:rowID>
+    <rdfs:member rdf:resource="http://data.ct.gov/resource/_6ntu-dndh" />
+    <ds:jurisdiction_id>CTSPOther</ds:jurisdiction_id>
+    <ds:jurisdiction>State Police Misc.*</ds:jurisdiction>
+    <ds:population>3065578</ds:population>
+    <ds:jurisdictiongeo>
+      <geo:SpatialThing>
+        <usps:deliveryAddress />
+        <usps:cityName>State Police Misc.*</usps:cityName>
+        <usps:stateAbbr>CT</usps:stateAbbr>
+        <usps:zipCode />
+      </geo:SpatialThing>
+    </ds:jurisdictiongeo>
+    <ds:crime_reported>744</ds:crime_reported>
+  </dsbase:_6ntu-dndh>
+  <dsbase:_6ntu-dndh rdf:about="http://data.ct.gov/resource/_6ntu-dndh/166">
+    <socrata:rowID>166</socrata:rowID>
+    <rdfs:member rdf:resource="http://data.ct.gov/resource/_6ntu-dndh" />
+    <ds:jurisdiction_id>CT0016400</ds:jurisdiction_id>
+    <ds:jurisdiction>Windsor</ds:jurisdiction>
+    <ds:population>29751</ds:population>
+    <ds:jurisdictiongeo>
+      <geo:SpatialThing>
+        <usps:deliveryAddress />
+        <usps:cityName>Windsor</usps:cityName>
+        <geo:lat>41.852781</geo:lat>
+        <geo:long>-72.64379</geo:long>
+        <usps:stateAbbr>CT</usps:stateAbbr>
+        <usps:zipCode />
+      </geo:SpatialThing>
+    </ds:jurisdictiongeo>
+    <ds:crime_reported>1156</ds:crime_reported>
+  </dsbase:_6ntu-dndh>
+  <dsbase:_6ntu-dndh rdf:about="http://data.ct.gov/resource/_6ntu-dndh/141">
+    <socrata:rowID>141</socrata:rowID>
+    <rdfs:member rdf:resource="http://data.ct.gov/resource/_6ntu-dndh" />
+    <ds:jurisdiction_id>CT0014000</ds:jurisdiction_id>
+    <ds:jurisdiction>Thomaston</ds:jurisdiction>
+    <ds:population>7906</ds:population>
+    <ds:jurisdictiongeo>
+      <geo:SpatialThing>
+        <usps:deliveryAddress />
+        <usps:cityName>Thomaston</usps:cityName>
+        <geo:lat>41.674124</geo:lat>
+        <geo:long>-73.073189</geo:long>
+        <usps:stateAbbr>CT</usps:stateAbbr>
+        <usps:zipCode />
+      </geo:SpatialThing>
+    </ds:jurisdictiongeo>
+    <ds:crime_reported>205</ds:crime_reported>
+  </dsbase:_6ntu-dndh>
+  <dsbase:_6ntu-dndh rdf:about="http://data.ct.gov/resource/_6ntu-dndh/118">
+    <socrata:rowID>118</socrata:rowID>
+    <rdfs:member rdf:resource="http://data.ct.gov/resource/_6ntu-dndh" />
+    <ds:jurisdiction_id>CT0011700</ds:jurisdiction_id>
+    <ds:jurisdiction>Redding</ds:jurisdiction>
+    <ds:population>8714</ds:population>
+    <ds:jurisdictiongeo>
+      <geo:SpatialThing>
+        <usps:deliveryAddress />
+        <usps:cityName>Redding</usps:cityName>
+        <geo:lat>41.304131</geo:lat>
+        <geo:long>-73.379918</geo:long>
+        <usps:stateAbbr>CT</usps:stateAbbr>
+        <usps:zipCode />
+      </geo:SpatialThing>
+    </ds:jurisdictiongeo>
+    <ds:crime_reported>127</ds:crime_reported>
+  </dsbase:_6ntu-dndh>
+  <dsbase:_6ntu-dndh rdf:about="http://data.ct.gov/resource/_6ntu-dndh/154">
+    <socrata:rowID>154</socrata:rowID>
+    <rdfs:member rdf:resource="http://data.ct.gov/resource/_6ntu-dndh" />
+    <ds:jurisdiction_id>CT0015300</ds:jurisdiction_id>
+    <ds:jurisdiction>Watertown</ds:jurisdiction>
+    <ds:population>22821</ds:population>
+    <ds:jurisdictiongeo>
+      <geo:SpatialThing>
+        <usps:deliveryAddress />
+        <usps:cityName>Watertown</usps:cityName>
+        <geo:lat>41.606284</geo:lat>
+        <geo:long>-73.11839</geo:long>
+        <usps:stateAbbr>CT</usps:stateAbbr>
+        <usps:zipCode />
+      </geo:SpatialThing>
+    </ds:jurisdictiongeo>
+    <ds:crime_reported>1068</ds:crime_reported>
+  </dsbase:_6ntu-dndh>
+  <dsbase:_6ntu-dndh rdf:about="http://data.ct.gov/resource/_6ntu-dndh/11">
+    <socrata:rowID>11</socrata:rowID>
+    <rdfs:member rdf:resource="http://data.ct.gov/resource/_6ntu-dndh" />
+    <ds:jurisdiction_id>CT0001100</ds:jurisdiction_id>
+    <ds:jurisdiction>Bloomfield</ds:jurisdiction>
+    <ds:population>20637</ds:population>
+    <ds:jurisdictiongeo>
+      <geo:SpatialThing>
+        <usps:deliveryAddress />
+        <usps:cityName>Bloomfield</usps:cityName>
+        <geo:lat>41.830957</geo:lat>
+        <geo:long>-72.737425</geo:long>
+        <usps:stateAbbr>CT</usps:stateAbbr>
+        <usps:zipCode />
+      </geo:SpatialThing>
+    </ds:jurisdictiongeo>
+    <ds:crime_reported>1324</ds:crime_reported>
+  </dsbase:_6ntu-dndh>
+  <dsbase:_6ntu-dndh rdf:about="http://data.ct.gov/resource/_6ntu-dndh/163">
+    <socrata:rowID>163</socrata:rowID>
+    <rdfs:member rdf:resource="http://data.ct.gov/resource/_6ntu-dndh" />
+    <ds:jurisdiction_id>CT0016200</ds:jurisdiction_id>
+    <ds:jurisdiction>Winchester</ds:jurisdiction>
+    <ds:population>11237</ds:population>
+    <ds:jurisdictiongeo>
+      <geo:SpatialThing>
+        <usps:deliveryAddress />
+        <usps:cityName>Winchester</usps:cityName>
+        <geo:lat>41.901973</geo:lat>
+        <geo:long>-73.133851</geo:long>
+        <usps:stateAbbr>CT</usps:stateAbbr>
+        <usps:zipCode />
+      </geo:SpatialThing>
+    </ds:jurisdictiongeo>
+    <ds:crime_reported>633</ds:crime_reported>
+  </dsbase:_6ntu-dndh>
+  <dsbase:_6ntu-dndh rdf:about="http://data.ct.gov/resource/_6ntu-dndh/111">
+    <socrata:rowID>111</socrata:rowID>
+    <rdfs:member rdf:resource="http://data.ct.gov/resource/_6ntu-dndh" />
+    <ds:jurisdiction_id>CT0011100</ds:jurisdiction_id>
+    <ds:jurisdiction>Plymouth</ds:jurisdiction>
+    <ds:population>12257</ds:population>
+    <ds:jurisdictiongeo>
+      <geo:SpatialThing>
+        <usps:deliveryAddress />
+        <usps:cityName>Plymouth</usps:cityName>
+        <geo:lat>41.671982</geo:lat>
+        <geo:long>-73.052909</geo:long>
+        <usps:stateAbbr>CT</usps:stateAbbr>
+        <usps:zipCode />
+      </geo:SpatialThing>
+    </ds:jurisdictiongeo>
+    <ds:crime_reported>408</ds:crime_reported>
+  </dsbase:_6ntu-dndh>
+  <dsbase:_6ntu-dndh rdf:about="http://data.ct.gov/resource/_6ntu-dndh/183">
+    <socrata:rowID>183</socrata:rowID>
+    <rdfs:member rdf:resource="http://data.ct.gov/resource/_6ntu-dndh" />
+    <ds:jurisdiction_id>CT00A5900</ds:jurisdiction_id>
+    <ds:jurisdiction>Groton Town</ds:jurisdiction>
+    <ds:population>31662</ds:population>
+    <ds:jurisdictiongeo>
+      <geo:SpatialThing>
+        <usps:deliveryAddress />
+        <usps:cityName>Groton Town</usps:cityName>
+        <geo:lat>41.343693</geo:lat>
+        <geo:long>-72.07877</geo:long>
+        <usps:stateAbbr>CT</usps:stateAbbr>
+        <usps:zipCode />
+      </geo:SpatialThing>
+    </ds:jurisdictiongeo>
+    <ds:crime_reported>1215</ds:crime_reported>
+  </dsbase:_6ntu-dndh>
+  <dsbase:_6ntu-dndh rdf:about="http://data.ct.gov/resource/_6ntu-dndh/103">
+    <socrata:rowID>103</socrata:rowID>
+    <rdfs:member rdf:resource="http://data.ct.gov/resource/_6ntu-dndh" />
+    <ds:jurisdiction_id>CT0010300</ds:jurisdiction_id>
+    <ds:jurisdiction>Norwalk</ds:jurisdiction>
+    <ds:population>87397</ds:population>
+    <ds:jurisdictiongeo>
+      <geo:SpatialThing>
+        <usps:deliveryAddress />
+        <usps:cityName>Norwalk</usps:cityName>
+        <geo:lat>41.11805</geo:lat>
+        <geo:long>-73.412906</geo:long>
+        <usps:stateAbbr>CT</usps:stateAbbr>
+        <usps:zipCode />
+      </geo:SpatialThing>
+    </ds:jurisdictiongeo>
+    <ds:crime_reported>4242</ds:crime_reported>
+  </dsbase:_6ntu-dndh>
+  <dsbase:_6ntu-dndh rdf:about="http://data.ct.gov/resource/_6ntu-dndh/77">
+    <socrata:rowID>77</socrata:rowID>
+    <rdfs:member rdf:resource="http://data.ct.gov/resource/_6ntu-dndh" />
+    <ds:jurisdiction_id>CT0007700</ds:jurisdiction_id>
+    <ds:jurisdiction>Manchester</ds:jurisdiction>
+    <ds:population>57675</ds:population>
+    <ds:jurisdictiongeo>
+      <geo:SpatialThing>
+        <usps:deliveryAddress />
+        <usps:cityName>Manchester</usps:cityName>
+        <geo:lat>41.770668</geo:lat>
+        <geo:long>-72.520868</geo:long>
+        <usps:stateAbbr>CT</usps:stateAbbr>
+        <usps:zipCode />
+      </geo:SpatialThing>
+    </ds:jurisdictiongeo>
+    <ds:crime_reported>3763</ds:crime_reported>
+  </dsbase:_6ntu-dndh>
+  <dsbase:_6ntu-dndh rdf:about="http://data.ct.gov/resource/_6ntu-dndh/175">
+    <socrata:rowID>175</socrata:rowID>
+    <rdfs:member rdf:resource="http://data.ct.gov/resource/_6ntu-dndh" />
+    <ds:jurisdiction_id>CTSP17200</ds:jurisdiction_id>
+    <ds:jurisdiction>Mohegan Sun Casino</ds:jurisdiction>
+    <ds:population>0</ds:population>
+    <ds:jurisdictiongeo>
+      <geo:SpatialThing>
+        <usps:deliveryAddress />
+        <usps:cityName>Mohegan Sun Casino</usps:cityName>
+        <geo:lat>41.968899</geo:lat>
+        <geo:long>-72.794197</geo:long>
+        <usps:stateAbbr>CT</usps:stateAbbr>
+        <usps:zipCode />
+      </geo:SpatialThing>
+    </ds:jurisdictiongeo>
+    <ds:crime_reported>1</ds:crime_reported>
+  </dsbase:_6ntu-dndh>
+  <dsbase:_6ntu-dndh rdf:about="http://data.ct.gov/resource/_6ntu-dndh/20">
+    <socrata:rowID>20</socrata:rowID>
+    <rdfs:member rdf:resource="http://data.ct.gov/resource/_6ntu-dndh" />
+    <ds:jurisdiction_id>CTSP02000</ds:jurisdiction_id>
+    <ds:jurisdiction>Burlington</ds:jurisdiction>
+    <ds:population>8629</ds:population>
+    <ds:jurisdictiongeo>
+      <geo:SpatialThing>
+        <usps:deliveryAddress />
+        <usps:cityName>Burlington</usps:cityName>
+        <geo:lat>41.769828</geo:lat>
+        <geo:long>-72.962087</geo:long>
+        <usps:stateAbbr>CT</usps:stateAbbr>
+        <usps:zipCode />
+      </geo:SpatialThing>
+    </ds:jurisdictiongeo>
+    <ds:crime_reported>56</ds:crime_reported>
+  </dsbase:_6ntu-dndh>
+  <dsbase:_6ntu-dndh rdf:about="http://data.ct.gov/resource/_6ntu-dndh/59">
+    <socrata:rowID>59</socrata:rowID>
+    <rdfs:member rdf:resource="http://data.ct.gov/resource/_6ntu-dndh" />
+    <ds:jurisdiction_id>CT0005900</ds:jurisdiction_id>
+    <ds:jurisdiction>Groton City</ds:jurisdiction>
+    <ds:population>9753</ds:population>
+    <ds:jurisdictiongeo>
+      <geo:SpatialThing>
+        <usps:deliveryAddress />
+        <usps:cityName>Groton City</usps:cityName>
+        <geo:lat>41.343693</geo:lat>
+        <geo:long>-72.07877</geo:long>
+        <usps:stateAbbr>CT</usps:stateAbbr>
+        <usps:zipCode />
+      </geo:SpatialThing>
+    </ds:jurisdictiongeo>
+    <ds:crime_reported>591</ds:crime_reported>
+  </dsbase:_6ntu-dndh>
+  <dsbase:_6ntu-dndh rdf:about="http://data.ct.gov/resource/_6ntu-dndh/81">
+    <socrata:rowID>81</socrata:rowID>
+    <rdfs:member rdf:resource="http://data.ct.gov/resource/_6ntu-dndh" />
+    <ds:jurisdiction_id>CT0008100</ds:jurisdiction_id>
+    <ds:jurisdiction>Middlebury</ds:jurisdiction>
+    <ds:population>6797</ds:population>
+    <ds:jurisdictiongeo>
+      <geo:SpatialThing>
+        <usps:deliveryAddress />
+        <usps:cityName>Middlebury</usps:cityName>
+        <geo:lat>41.529492</geo:lat>
+        <geo:long>-73.127625</geo:long>
+        <usps:stateAbbr>CT</usps:stateAbbr>
+        <usps:zipCode />
+      </geo:SpatialThing>
+    </ds:jurisdictiongeo>
+    <ds:crime_reported>140</ds:crime_reported>
+  </dsbase:_6ntu-dndh>
+  <dsbase:_6ntu-dndh rdf:about="http://data.ct.gov/resource/_6ntu-dndh/42">
+    <socrata:rowID>42</socrata:rowID>
+    <rdfs:member rdf:resource="http://data.ct.gov/resource/_6ntu-dndh" />
+    <ds:jurisdiction_id>CT0004200</ds:jurisdiction_id>
+    <ds:jurisdiction>East Hampton</ds:jurisdiction>
+    <ds:population>14069</ds:population>
+    <ds:jurisdictiongeo>
+      <geo:SpatialThing>
+        <usps:deliveryAddress />
+        <usps:cityName>East Hampton</usps:cityName>
+        <geo:lat>41.575581</geo:lat>
+        <geo:long>-72.502526</geo:long>
+        <usps:stateAbbr>CT</usps:stateAbbr>
+        <usps:zipCode />
+      </geo:SpatialThing>
+    </ds:jurisdictiongeo>
+    <ds:crime_reported>182</ds:crime_reported>
+  </dsbase:_6ntu-dndh>
+  <dsbase:_6ntu-dndh rdf:about="http://data.ct.gov/resource/_6ntu-dndh/94">
+    <socrata:rowID>94</socrata:rowID>
+    <rdfs:member rdf:resource="http://data.ct.gov/resource/_6ntu-dndh" />
+    <ds:jurisdiction_id>CT0009400</ds:jurisdiction_id>
+    <ds:jurisdiction>Newington</ds:jurisdiction>
+    <ds:population>30878</ds:population>
+    <ds:jurisdictiongeo>
+      <geo:SpatialThing>
+        <usps:deliveryAddress />
+        <usps:cityName>Newington</usps:cityName>
+        <geo:lat>41.698002</geo:lat>
+        <geo:long>-72.723843</geo:long>
+        <usps:stateAbbr>CT</usps:stateAbbr>
+        <usps:zipCode />
+      </geo:SpatialThing>
+    </ds:jurisdictiongeo>
+    <ds:crime_reported>1804</ds:crime_reported>
+  </dsbase:_6ntu-dndh>
+  <dsbase:_6ntu-dndh rdf:about="http://data.ct.gov/resource/_6ntu-dndh/159">
+    <socrata:rowID>159</socrata:rowID>
+    <rdfs:member rdf:resource="http://data.ct.gov/resource/_6ntu-dndh" />
+    <ds:jurisdiction_id>CT0015800</ds:jurisdiction_id>
+    <ds:jurisdiction>Westport</ds:jurisdiction>
+    <ds:population>27131</ds:population>
+    <ds:jurisdictiongeo>
+      <geo:SpatialThing>
+        <usps:deliveryAddress />
+        <usps:cityName>Westport</usps:cityName>
+        <geo:lat>41.14044</geo:lat>
+        <geo:long>-73.353182</geo:long>
+        <usps:stateAbbr>CT</usps:stateAbbr>
+        <usps:zipCode />
+      </geo:SpatialThing>
+    </ds:jurisdictiongeo>
+    <ds:crime_reported>609</ds:crime_reported>
+  </dsbase:_6ntu-dndh>
+  <dsbase:_6ntu-dndh rdf:about="http://data.ct.gov/resource/_6ntu-dndh/99">
+    <socrata:rowID>99</socrata:rowID>
+    <rdfs:member rdf:resource="http://data.ct.gov/resource/_6ntu-dndh" />
+    <ds:jurisdiction_id>CT0009900</ds:jurisdiction_id>
+    <ds:jurisdiction>North Branford</ds:jurisdiction>
+    <ds:population>14653</ds:population>
+    <ds:jurisdictiongeo>
+      <geo:SpatialThing>
+        <usps:deliveryAddress />
+        <usps:cityName>North Branford</usps:cityName>
+        <geo:lat>41.324919</geo:lat>
+        <geo:long>-72.770281</geo:long>
+        <usps:stateAbbr>CT</usps:stateAbbr>
+        <usps:zipCode />
+      </geo:SpatialThing>
+    </ds:jurisdictiongeo>
+    <ds:crime_reported>417</ds:crime_reported>
+  </dsbase:_6ntu-dndh>
+  <dsbase:_6ntu-dndh rdf:about="http://data.ct.gov/resource/_6ntu-dndh/129">
+    <socrata:rowID>129</socrata:rowID>
+    <rdfs:member rdf:resource="http://data.ct.gov/resource/_6ntu-dndh" />
+    <ds:jurisdiction_id>CT0012800</ds:jurisdiction_id>
+    <ds:jurisdiction>Simsbury</ds:jurisdiction>
+    <ds:population>24481</ds:population>
+    <ds:jurisdictiongeo>
+      <geo:SpatialThing>
+        <usps:deliveryAddress />
+        <usps:cityName>Simsbury</usps:cityName>
+        <geo:lat>41.875874</geo:lat>
+        <geo:long>-72.801404</geo:long>
+        <usps:stateAbbr>CT</usps:stateAbbr>
+        <usps:zipCode />
+      </geo:SpatialThing>
+    </ds:jurisdictiongeo>
+    <ds:crime_reported>330</ds:crime_reported>
+  </dsbase:_6ntu-dndh>
+  <dsbase:_6ntu-dndh rdf:about="http://data.ct.gov/resource/_6ntu-dndh/160">
+    <socrata:rowID>160</socrata:rowID>
+    <rdfs:member rdf:resource="http://data.ct.gov/resource/_6ntu-dndh" />
+    <ds:jurisdiction_id>CT0015900</ds:jurisdiction_id>
+    <ds:jurisdiction>Wethersfield</ds:jurisdiction>
+    <ds:population>27679</ds:population>
+    <ds:jurisdictiongeo>
+      <geo:SpatialThing>
+        <usps:deliveryAddress />
+        <usps:cityName>Wethersfield</usps:cityName>
+        <geo:lat>41.712487</geo:lat>
+        <geo:long>-72.663607</geo:long>
+        <usps:stateAbbr>CT</usps:stateAbbr>
+        <usps:zipCode />
+      </geo:SpatialThing>
+    </ds:jurisdictiongeo>
+    <ds:crime_reported>832</ds:crime_reported>
+  </dsbase:_6ntu-dndh>
+  <dsbase:_6ntu-dndh rdf:about="http://data.ct.gov/resource/_6ntu-dndh/106">
+    <socrata:rowID>106</socrata:rowID>
+    <rdfs:member rdf:resource="http://data.ct.gov/resource/_6ntu-dndh" />
+    <ds:jurisdiction_id>CT0010600</ds:jurisdiction_id>
+    <ds:jurisdiction>Old Saybrook</ds:jurisdiction>
+    <ds:population>10922</ds:population>
+    <ds:jurisdictiongeo>
+      <geo:SpatialThing>
+        <usps:deliveryAddress />
+        <usps:cityName>Old Saybrook</usps:cityName>
+        <geo:lat>41.295121</geo:lat>
+        <geo:long>-72.382292</geo:long>
+        <usps:stateAbbr>CT</usps:stateAbbr>
+        <usps:zipCode />
+      </geo:SpatialThing>
+    </ds:jurisdictiongeo>
+    <ds:crime_reported>281</ds:crime_reported>
+  </dsbase:_6ntu-dndh>
+  <dsbase:_6ntu-dndh rdf:about="http://data.ct.gov/resource/_6ntu-dndh/115">
+    <socrata:rowID>115</socrata:rowID>
+    <rdfs:member rdf:resource="http://data.ct.gov/resource/_6ntu-dndh" />
+    <ds:jurisdiction_id>CTSP11500</ds:jurisdiction_id>
+    <ds:jurisdiction>Prospect</ds:jurisdiction>
+    <ds:population>9174</ds:population>
+    <ds:jurisdictiongeo>
+      <geo:SpatialThing>
+        <usps:deliveryAddress />
+        <usps:cityName>Prospect</usps:cityName>
+        <geo:lat>41.502629</geo:lat>
+        <geo:long>-72.979046</geo:long>
+        <usps:stateAbbr>CT</usps:stateAbbr>
+        <usps:zipCode />
+      </geo:SpatialThing>
+    </ds:jurisdictiongeo>
+    <ds:crime_reported>182</ds:crime_reported>
+  </dsbase:_6ntu-dndh>
+  <dsbase:_6ntu-dndh rdf:about="http://data.ct.gov/resource/_6ntu-dndh/26">
+    <socrata:rowID>26</socrata:rowID>
+    <rdfs:member rdf:resource="http://data.ct.gov/resource/_6ntu-dndh" />
+    <ds:jurisdiction_id>CTSP02600</ds:jurisdiction_id>
+    <ds:jurisdiction>Chester</ds:jurisdiction>
+    <ds:population>3943</ds:population>
+    <ds:jurisdictiongeo>
+      <geo:SpatialThing>
+        <usps:deliveryAddress />
+        <usps:cityName>Chester</usps:cityName>
+        <geo:lat>41.40159</geo:lat>
+        <geo:long>-72.453465</geo:long>
+        <usps:stateAbbr>CT</usps:stateAbbr>
+        <usps:zipCode />
+      </geo:SpatialThing>
+    </ds:jurisdictiongeo>
+    <ds:crime_reported>31</ds:crime_reported>
+  </dsbase:_6ntu-dndh>
+  <dsbase:_6ntu-dndh rdf:about="http://data.ct.gov/resource/_6ntu-dndh/109">
+    <socrata:rowID>109</socrata:rowID>
+    <rdfs:member rdf:resource="http://data.ct.gov/resource/_6ntu-dndh" />
+    <ds:jurisdiction_id>CT0010900</ds:jurisdiction_id>
+    <ds:jurisdiction>Plainfield</ds:jurisdiction>
+    <ds:population>15402</ds:population>
+    <ds:jurisdictiongeo>
+      <geo:SpatialThing>
+        <usps:deliveryAddress />
+        <usps:cityName>Plainfield</usps:cityName>
+        <geo:lat>41.67731</geo:lat>
+        <geo:long>-71.918131</geo:long>
+        <usps:stateAbbr>CT</usps:stateAbbr>
+        <usps:zipCode />
+      </geo:SpatialThing>
+    </ds:jurisdictiongeo>
+    <ds:crime_reported>299</ds:crime_reported>
+  </dsbase:_6ntu-dndh>
+  <dsbase:_6ntu-dndh rdf:about="http://data.ct.gov/resource/_6ntu-dndh/71">
+    <socrata:rowID>71</socrata:rowID>
+    <rdfs:member rdf:resource="http://data.ct.gov/resource/_6ntu-dndh" />
+    <ds:jurisdiction_id>CTSP07100</ds:jurisdiction_id>
+    <ds:jurisdiction>Lebanon</ds:jurisdiction>
+    <ds:population>7279</ds:population>
+    <ds:jurisdictiongeo>
+      <geo:SpatialThing>
+        <usps:deliveryAddress />
+        <usps:cityName>Lebanon</usps:cityName>
+        <geo:lat>41.636294</geo:lat>
+        <geo:long>-72.212599</geo:long>
+        <usps:stateAbbr>CT</usps:stateAbbr>
+        <usps:zipCode />
+      </geo:SpatialThing>
+    </ds:jurisdictiongeo>
+    <ds:crime_reported>92</ds:crime_reported>
+  </dsbase:_6ntu-dndh>
+  <dsbase:_6ntu-dndh rdf:about="http://data.ct.gov/resource/_6ntu-dndh/152">
+    <socrata:rowID>152</socrata:rowID>
+    <rdfs:member rdf:resource="http://data.ct.gov/resource/_6ntu-dndh" />
+    <ds:jurisdiction_id>CT0015100</ds:jurisdiction_id>
+    <ds:jurisdiction>Waterbury</ds:jurisdiction>
+    <ds:population>113022</ds:population>
+    <ds:jurisdictiongeo>
+      <geo:SpatialThing>
+        <usps:deliveryAddress />
+        <usps:cityName>Waterbury</usps:cityName>
+        <geo:lat>41.554261</geo:lat>
+        <geo:long>-73.043069</geo:long>
+        <usps:stateAbbr>CT</usps:stateAbbr>
+        <usps:zipCode />
+      </geo:SpatialThing>
+    </ds:jurisdictiongeo>
+    <ds:crime_reported>10019</ds:crime_reported>
+  </dsbase:_6ntu-dndh>
+  <dsbase:_6ntu-dndh rdf:about="http://data.ct.gov/resource/_6ntu-dndh/47">
+    <socrata:rowID>47</socrata:rowID>
+    <rdfs:member rdf:resource="http://data.ct.gov/resource/_6ntu-dndh" />
+    <ds:jurisdiction_id>CT0004700</ds:jurisdiction_id>
+    <ds:jurisdiction>East Windsor</ds:jurisdiction>
+    <ds:population>10344</ds:population>
+    <ds:jurisdictiongeo>
+      <geo:SpatialThing>
+        <usps:deliveryAddress />
+        <usps:cityName>East Windsor</usps:cityName>
+        <geo:lat>41.899986</geo:lat>
+        <geo:long>-72.58032</geo:long>
+        <usps:stateAbbr>CT</usps:stateAbbr>
+        <usps:zipCode />
+      </geo:SpatialThing>
+    </ds:jurisdictiongeo>
+    <ds:crime_reported>773</ds:crime_reported>
+  </dsbase:_6ntu-dndh>
+  <dsbase:_6ntu-dndh rdf:about="http://data.ct.gov/resource/_6ntu-dndh/31">
+    <socrata:rowID>31</socrata:rowID>
+    <rdfs:member rdf:resource="http://data.ct.gov/resource/_6ntu-dndh" />
+    <ds:jurisdiction_id>CTSP03100</ds:jurisdiction_id>
+    <ds:jurisdiction>Cornwall</ds:jurisdiction>
+    <ds:population>1513</ds:population>
+    <ds:jurisdictiongeo>
+      <geo:SpatialThing>
+        <usps:deliveryAddress />
+        <usps:cityName>Cornwall</usps:cityName>
+        <geo:lat>41.844248</geo:lat>
+        <geo:long>-73.33229</geo:long>
+        <usps:stateAbbr>CT</usps:stateAbbr>
+        <usps:zipCode />
+      </geo:SpatialThing>
+    </ds:jurisdictiongeo>
+    <ds:crime_reported>15</ds:crime_reported>
+  </dsbase:_6ntu-dndh>
+  <dsbase:_6ntu-dndh rdf:about="http://data.ct.gov/resource/_6ntu-dndh/167">
+    <socrata:rowID>167</socrata:rowID>
+    <rdfs:member rdf:resource="http://data.ct.gov/resource/_6ntu-dndh" />
+    <ds:jurisdiction_id>CT0016500</ds:jurisdiction_id>
+    <ds:jurisdiction>Windsor Locks</ds:jurisdiction>
+    <ds:population>12689</ds:population>
+    <ds:jurisdictiongeo>
+      <geo:SpatialThing>
+        <usps:deliveryAddress />
+        <usps:cityName>Windsor Locks</usps:cityName>
+        <geo:lat>41.924953</geo:lat>
+        <geo:long>-72.627177</geo:long>
+        <usps:stateAbbr>CT</usps:stateAbbr>
+        <usps:zipCode />
+      </geo:SpatialThing>
+    </ds:jurisdictiongeo>
+    <ds:crime_reported>508</ds:crime_reported>
+  </dsbase:_6ntu-dndh>
+  <dsbase:_6ntu-dndh rdf:about="http://data.ct.gov/resource/_6ntu-dndh/134">
+    <socrata:rowID>134</socrata:rowID>
+    <rdfs:member rdf:resource="http://data.ct.gov/resource/_6ntu-dndh" />
+    <ds:jurisdiction_id>CTSP13300</ds:jurisdiction_id>
+    <ds:jurisdiction>Sprague</ds:jurisdiction>
+    <ds:population>3132</ds:population>
+    <ds:jurisdictiongeo>
+      <geo:SpatialThing>
+        <usps:deliveryAddress />
+        <usps:cityName>Sprague</usps:cityName>
+        <geo:lat>41.640692</geo:lat>
+        <geo:long>-72.066224</geo:long>
+        <usps:stateAbbr>CT</usps:stateAbbr>
+        <usps:zipCode />
+      </geo:SpatialThing>
+    </ds:jurisdictiongeo>
+    <ds:crime_reported>60</ds:crime_reported>
+  </dsbase:_6ntu-dndh>
+  <dsbase:_6ntu-dndh rdf:about="http://data.ct.gov/resource/_6ntu-dndh/153">
+    <socrata:rowID>153</socrata:rowID>
+    <rdfs:member rdf:resource="http://data.ct.gov/resource/_6ntu-dndh" />
+    <ds:jurisdiction_id>CT0015200</ds:jurisdiction_id>
+    <ds:jurisdiction>Waterford</ds:jurisdiction>
+    <ds:population>20179</ds:population>
+    <ds:jurisdictiongeo>
+      <geo:SpatialThing>
+        <usps:deliveryAddress />
+        <usps:cityName>Waterford</usps:cityName>
+        <geo:lat>41.342158</geo:lat>
+        <geo:long>-72.125831</geo:long>
+        <usps:stateAbbr>CT</usps:stateAbbr>
+        <usps:zipCode />
+      </geo:SpatialThing>
+    </ds:jurisdictiongeo>
+    <ds:crime_reported>977</ds:crime_reported>
+  </dsbase:_6ntu-dndh>
+  <dsbase:_6ntu-dndh rdf:about="http://data.ct.gov/resource/_6ntu-dndh/78">
+    <socrata:rowID>78</socrata:rowID>
+    <rdfs:member rdf:resource="http://data.ct.gov/resource/_6ntu-dndh" />
+    <ds:jurisdiction_id>CTSP07800</ds:jurisdiction_id>
+    <ds:jurisdiction>Mansfield</ds:jurisdiction>
+    <ds:population>21833</ds:population>
+    <ds:jurisdictiongeo>
+      <geo:SpatialThing>
+        <usps:deliveryAddress />
+        <usps:cityName>Mansfield</usps:cityName>
+        <geo:lat>41.765926</geo:lat>
+        <geo:long>-72.233779</geo:long>
+        <usps:stateAbbr>CT</usps:stateAbbr>
+        <usps:zipCode />
+      </geo:SpatialThing>
+    </ds:jurisdictiongeo>
+    <ds:crime_reported>310</ds:crime_reported>
+  </dsbase:_6ntu-dndh>
+  <dsbase:_6ntu-dndh rdf:about="http://data.ct.gov/resource/_6ntu-dndh/40">
+    <socrata:rowID>40</socrata:rowID>
+    <rdfs:member rdf:resource="http://data.ct.gov/resource/_6ntu-dndh" />
+    <ds:jurisdiction_id>CTSP04000</ds:jurisdiction_id>
+    <ds:jurisdiction>East Granby</ds:jurisdiction>
+    <ds:population>4999</ds:population>
+    <ds:jurisdictiongeo>
+      <geo:SpatialThing>
+        <usps:deliveryAddress />
+        <usps:cityName>East Granby</usps:cityName>
+        <geo:lat>41.943168</geo:lat>
+        <geo:long>-72.72611</geo:long>
+        <usps:stateAbbr>CT</usps:stateAbbr>
+        <usps:zipCode />
+      </geo:SpatialThing>
+    </ds:jurisdictiongeo>
+    <ds:crime_reported>93</ds:crime_reported>
+  </dsbase:_6ntu-dndh>
+  <dsbase:_6ntu-dndh rdf:about="http://data.ct.gov/resource/_6ntu-dndh/85">
+    <socrata:rowID>85</socrata:rowID>
+    <rdfs:member rdf:resource="http://data.ct.gov/resource/_6ntu-dndh" />
+    <ds:jurisdiction_id>CT0008500</ds:jurisdiction_id>
+    <ds:jurisdiction>Monroe</ds:jurisdiction>
+    <ds:population>20276</ds:population>
+    <ds:jurisdictiongeo>
+      <geo:SpatialThing>
+        <usps:deliveryAddress />
+        <usps:cityName>Monroe</usps:cityName>
+        <geo:lat>41.331612</geo:lat>
+        <geo:long>-73.206797</geo:long>
+        <usps:stateAbbr>CT</usps:stateAbbr>
+        <usps:zipCode />
+      </geo:SpatialThing>
+    </ds:jurisdictiongeo>
+    <ds:crime_reported>267</ds:crime_reported>
+  </dsbase:_6ntu-dndh>
+  <dsbase:_6ntu-dndh rdf:about="http://data.ct.gov/resource/_6ntu-dndh/4">
+    <socrata:rowID>4</socrata:rowID>
+    <rdfs:member rdf:resource="http://data.ct.gov/resource/_6ntu-dndh" />
+    <ds:jurisdiction_id>CT0000400</ds:jurisdiction_id>
+    <ds:jurisdiction>Avon</ds:jurisdiction>
+    <ds:population>16679</ds:population>
+    <ds:jurisdictiongeo>
+      <geo:SpatialThing>
+        <usps:deliveryAddress />
+        <usps:cityName>Avon</usps:cityName>
+        <geo:lat>41.809641</geo:lat>
+        <geo:long>-72.830547</geo:long>
+        <usps:stateAbbr>CT</usps:stateAbbr>
+        <usps:zipCode />
+      </geo:SpatialThing>
+    </ds:jurisdictiongeo>
+    <ds:crime_reported>323</ds:crime_reported>
+  </dsbase:_6ntu-dndh>
+  <dsbase:_6ntu-dndh rdf:about="http://data.ct.gov/resource/_6ntu-dndh/182">
+    <socrata:rowID>182</socrata:rowID>
+    <rdfs:member rdf:resource="http://data.ct.gov/resource/_6ntu-dndh" />
+    <ds:jurisdiction_id>CT0020000</ds:jurisdiction_id>
+    <ds:jurisdiction>State Capitol</ds:jurisdiction>
+    <ds:population>0</ds:population>
+    <ds:jurisdictiongeo>
+      <geo:SpatialThing>
+        <usps:deliveryAddress />
+        <usps:cityName>State Capitol</usps:cityName>
+        <geo:lat>41.937941</geo:lat>
+        <geo:long>-71.959706</geo:long>
+        <usps:stateAbbr>CT</usps:stateAbbr>
+        <usps:zipCode />
+      </geo:SpatialThing>
+    </ds:jurisdictiongeo>
+    <ds:crime_reported>5</ds:crime_reported>
+  </dsbase:_6ntu-dndh>
+  <dsbase:_6ntu-dndh rdf:about="http://data.ct.gov/resource/_6ntu-dndh/68">
+    <socrata:rowID>68</socrata:rowID>
+    <rdfs:member rdf:resource="http://data.ct.gov/resource/_6ntu-dndh" />
+    <ds:jurisdiction_id>CTSP06800</ds:jurisdiction_id>
+    <ds:jurisdiction>Kent</ds:jurisdiction>
+    <ds:population>3012</ds:population>
+    <ds:jurisdictiongeo>
+      <geo:SpatialThing>
+        <usps:deliveryAddress />
+        <usps:cityName>Kent</usps:cityName>
+        <geo:lat>41.724646</geo:lat>
+        <geo:long>-73.477079</geo:long>
+        <usps:stateAbbr>CT</usps:stateAbbr>
+        <usps:zipCode />
+      </geo:SpatialThing>
+    </ds:jurisdictiongeo>
+    <ds:crime_reported>38</ds:crime_reported>
+  </dsbase:_6ntu-dndh>
+  <dsbase:_6ntu-dndh rdf:about="http://data.ct.gov/resource/_6ntu-dndh/156">
+    <socrata:rowID>156</socrata:rowID>
+    <rdfs:member rdf:resource="http://data.ct.gov/resource/_6ntu-dndh" />
+    <ds:jurisdiction_id>CT0015500</ds:jurisdiction_id>
+    <ds:jurisdiction>West Hartford</ds:jurisdiction>
+    <ds:population>66997</ds:population>
+    <ds:jurisdictiongeo>
+      <geo:SpatialThing>
+        <usps:deliveryAddress />
+        <usps:cityName>West Hartford</usps:cityName>
+        <geo:lat>41.762008</geo:lat>
+        <geo:long>-72.741807</geo:long>
+        <usps:stateAbbr>CT</usps:stateAbbr>
+        <usps:zipCode />
+      </geo:SpatialThing>
+    </ds:jurisdictiongeo>
+    <ds:crime_reported>3163</ds:crime_reported>
+  </dsbase:_6ntu-dndh>
+  <dsbase:_6ntu-dndh rdf:about="http://data.ct.gov/resource/_6ntu-dndh/107">
+    <socrata:rowID>107</socrata:rowID>
+    <rdfs:member rdf:resource="http://data.ct.gov/resource/_6ntu-dndh" />
+    <ds:jurisdiction_id>CT0010700</ds:jurisdiction_id>
+    <ds:jurisdiction>Orange</ds:jurisdiction>
+    <ds:population>13944</ds:population>
+    <ds:jurisdictiongeo>
+      <geo:SpatialThing>
+        <usps:deliveryAddress />
+        <usps:cityName>Orange</usps:cityName>
+        <geo:lat>41.282731</geo:lat>
+        <geo:long>-73.028426</geo:long>
+        <usps:stateAbbr>CT</usps:stateAbbr>
+        <usps:zipCode />
+      </geo:SpatialThing>
+    </ds:jurisdictiongeo>
+    <ds:crime_reported>808</ds:crime_reported>
+  </dsbase:_6ntu-dndh>
+  <dsbase:_6ntu-dndh rdf:about="http://data.ct.gov/resource/_6ntu-dndh/140">
+    <socrata:rowID>140</socrata:rowID>
+    <rdfs:member rdf:resource="http://data.ct.gov/resource/_6ntu-dndh" />
+    <ds:jurisdiction_id>CT0013900</ds:jurisdiction_id>
+    <ds:jurisdiction>Suffield</ds:jurisdiction>
+    <ds:population>14279</ds:population>
+    <ds:jurisdictiongeo>
+      <geo:SpatialThing>
+        <usps:deliveryAddress />
+        <usps:cityName>Suffield</usps:cityName>
+        <geo:lat>41.983549</geo:lat>
+        <geo:long>-72.663124</geo:long>
+        <usps:stateAbbr>CT</usps:stateAbbr>
+        <usps:zipCode />
+      </geo:SpatialThing>
+    </ds:jurisdictiongeo>
+    <ds:crime_reported>229</ds:crime_reported>
+  </dsbase:_6ntu-dndh>
+  <dsbase:_6ntu-dndh rdf:about="http://data.ct.gov/resource/_6ntu-dndh/65">
+    <socrata:rowID>65</socrata:rowID>
+    <rdfs:member rdf:resource="http://data.ct.gov/resource/_6ntu-dndh" />
+    <ds:jurisdiction_id>CTSP06500</ds:jurisdiction_id>
+    <ds:jurisdiction>Hartland</ds:jurisdiction>
+    <ds:population>2121</ds:population>
+    <ds:jurisdictiongeo>
+      <geo:SpatialThing>
+        <usps:deliveryAddress />
+        <usps:cityName>Hartland</usps:cityName>
+        <geo:lat>41.991104</geo:lat>
+        <geo:long>-72.997217</geo:long>
+        <usps:stateAbbr>CT</usps:stateAbbr>
+        <usps:zipCode />
+      </geo:SpatialThing>
+    </ds:jurisdictiongeo>
+    <ds:crime_reported>17</ds:crime_reported>
+  </dsbase:_6ntu-dndh>
+  <dsbase:_6ntu-dndh rdf:about="http://data.ct.gov/resource/_6ntu-dndh/13">
+    <socrata:rowID>13</socrata:rowID>
+    <rdfs:member rdf:resource="http://data.ct.gov/resource/_6ntu-dndh" />
+    <ds:jurisdiction_id>CTSP01300</ds:jurisdiction_id>
+    <ds:jurisdiction>Bozrah</ds:jurisdiction>
+    <ds:population>2484</ds:population>
+    <ds:jurisdictiongeo>
+      <geo:SpatialThing>
+        <usps:deliveryAddress />
+        <usps:cityName>Bozrah</usps:cityName>
+        <geo:lat>41.544947</geo:lat>
+        <geo:long>-72.175639</geo:long>
+        <usps:stateAbbr>CT</usps:stateAbbr>
+        <usps:zipCode />
+      </geo:SpatialThing>
+    </ds:jurisdictiongeo>
+    <ds:crime_reported>27</ds:crime_reported>
+  </dsbase:_6ntu-dndh>
+  <dsbase:_6ntu-dndh rdf:about="http://data.ct.gov/resource/_6ntu-dndh/187">
+    <socrata:rowID>187</socrata:rowID>
+    <rdfs:member rdf:resource="http://data.ct.gov/resource/_6ntu-dndh" />
+    <ds:jurisdiction_id>CTDI00300</ds:jurisdiction_id>
+    <ds:jurisdiction>Mohegan Tribal PD</ds:jurisdiction>
+    <ds:population>0</ds:population>
+    <ds:jurisdictiongeo>
+      <geo:SpatialThing>
+        <usps:deliveryAddress />
+        <usps:cityName>Mohegan Tribal PD</usps:cityName>
+        <geo:lat>41.471499</geo:lat>
+        <geo:long>-71.956392</geo:long>
+        <usps:stateAbbr>CT</usps:stateAbbr>
+        <usps:zipCode />
+      </geo:SpatialThing>
+    </ds:jurisdictiongeo>
+    <ds:crime_reported>661</ds:crime_reported>
+  </dsbase:_6ntu-dndh>
+  <dsbase:_6ntu-dndh rdf:about="http://data.ct.gov/resource/_6ntu-dndh/49">
+    <socrata:rowID>49</socrata:rowID>
+    <rdfs:member rdf:resource="http://data.ct.gov/resource/_6ntu-dndh" />
+    <ds:jurisdiction_id>CT0004900</ds:jurisdiction_id>
+    <ds:jurisdiction>Enfield</ds:jurisdiction>
+    <ds:population>47637</ds:population>
+    <ds:jurisdictiongeo>
+      <geo:SpatialThing>
+        <usps:deliveryAddress />
+        <usps:cityName>Enfield</usps:cityName>
+        <geo:lat>41.976501</geo:lat>
+        <geo:long>-72.591985</geo:long>
+        <usps:stateAbbr>CT</usps:stateAbbr>
+        <usps:zipCode />
+      </geo:SpatialThing>
+    </ds:jurisdictiongeo>
+    <ds:crime_reported>1855</ds:crime_reported>
+  </dsbase:_6ntu-dndh>
+  <dsbase:_6ntu-dndh rdf:about="http://data.ct.gov/resource/_6ntu-dndh/19">
+    <socrata:rowID>19</socrata:rowID>
+    <rdfs:member rdf:resource="http://data.ct.gov/resource/_6ntu-dndh" />
+    <ds:jurisdiction_id>CTSP01900</ds:jurisdiction_id>
+    <ds:jurisdiction>Brooklyn</ds:jurisdiction>
+    <ds:population>7558</ds:population>
+    <ds:jurisdictiongeo>
+      <geo:SpatialThing>
+        <usps:deliveryAddress />
+        <usps:cityName>Brooklyn</usps:cityName>
+        <geo:lat>41.788252</geo:lat>
+        <geo:long>-71.949628</geo:long>
+        <usps:stateAbbr>CT</usps:stateAbbr>
+        <usps:zipCode />
+      </geo:SpatialThing>
+    </ds:jurisdictiongeo>
+    <ds:crime_reported>225</ds:crime_reported>
+  </dsbase:_6ntu-dndh>
+  <dsbase:_6ntu-dndh rdf:about="http://data.ct.gov/resource/_6ntu-dndh/64">
+    <socrata:rowID>64</socrata:rowID>
+    <rdfs:member rdf:resource="http://data.ct.gov/resource/_6ntu-dndh" />
+    <ds:jurisdiction_id>CT0006400</ds:jurisdiction_id>
+    <ds:jurisdiction>Hartford</ds:jurisdiction>
+    <ds:population>128095</ds:population>
+    <ds:jurisdictiongeo>
+      <geo:SpatialThing>
+        <usps:deliveryAddress />
+        <usps:cityName>Hartford</usps:cityName>
+        <geo:lat>41.765775</geo:lat>
+        <geo:long>-72.673356</geo:long>
+        <usps:stateAbbr>CT</usps:stateAbbr>
+        <usps:zipCode />
+      </geo:SpatialThing>
+    </ds:jurisdictiongeo>
+    <ds:crime_reported>13679</ds:crime_reported>
+  </dsbase:_6ntu-dndh>
+  <dsbase:_6ntu-dndh rdf:about="http://data.ct.gov/resource/_6ntu-dndh/5">
+    <socrata:rowID>5</socrata:rowID>
+    <rdfs:member rdf:resource="http://data.ct.gov/resource/_6ntu-dndh" />
+    <ds:jurisdiction_id>CTSP00500</ds:jurisdiction_id>
+    <ds:jurisdiction>Barkhamsted</ds:jurisdiction>
+    <ds:population>3680</ds:population>
+    <ds:jurisdictiongeo>
+      <geo:SpatialThing>
+        <usps:deliveryAddress />
+        <usps:cityName>Barkhamsted</usps:cityName>
+        <geo:lat>41.927066</geo:lat>
+        <geo:long>-72.911918</geo:long>
+        <usps:stateAbbr>CT</usps:stateAbbr>
+        <usps:zipCode />
+      </geo:SpatialThing>
+    </ds:jurisdictiongeo>
+    <ds:crime_reported>44</ds:crime_reported>
+  </dsbase:_6ntu-dndh>
+  <dsbase:_6ntu-dndh rdf:about="http://data.ct.gov/resource/_6ntu-dndh/124">
+    <socrata:rowID>124</socrata:rowID>
+    <rdfs:member rdf:resource="http://data.ct.gov/resource/_6ntu-dndh" />
+    <ds:jurisdiction_id>CTSP12300</ds:jurisdiction_id>
+    <ds:jurisdiction>Scotland</ds:jurisdiction>
+    <ds:population>1638</ds:population>
+    <ds:jurisdictiongeo>
+      <geo:SpatialThing>
+        <usps:deliveryAddress />
+        <usps:cityName>Scotland</usps:cityName>
+        <geo:lat>41.6975</geo:lat>
+        <geo:long>-72.119465</geo:long>
+        <usps:stateAbbr>CT</usps:stateAbbr>
+        <usps:zipCode />
+      </geo:SpatialThing>
+    </ds:jurisdictiongeo>
+    <ds:crime_reported>25</ds:crime_reported>
+  </dsbase:_6ntu-dndh>
+  <dsbase:_6ntu-dndh rdf:about="http://data.ct.gov/resource/_6ntu-dndh/60">
+    <socrata:rowID>60</socrata:rowID>
+    <rdfs:member rdf:resource="http://data.ct.gov/resource/_6ntu-dndh" />
+    <ds:jurisdiction_id>CT0006000</ds:jurisdiction_id>
+    <ds:jurisdiction>Guilford</ds:jurisdiction>
+    <ds:population>22546</ds:population>
+    <ds:jurisdictiongeo>
+      <geo:SpatialThing>
+        <usps:deliveryAddress />
+        <usps:cityName>Guilford</usps:cityName>
+        <geo:lat>41.281228</geo:lat>
+        <geo:long>-72.681651</geo:long>
+        <usps:stateAbbr>CT</usps:stateAbbr>
+        <usps:zipCode />
+      </geo:SpatialThing>
+    </ds:jurisdictiongeo>
+    <ds:crime_reported>435</ds:crime_reported>
+  </dsbase:_6ntu-dndh>
+  <dsbase:_6ntu-dndh rdf:about="http://data.ct.gov/resource/_6ntu-dndh/148">
+    <socrata:rowID>148</socrata:rowID>
+    <rdfs:member rdf:resource="http://data.ct.gov/resource/_6ntu-dndh" />
+    <ds:jurisdiction_id>CTSP14700</ds:jurisdiction_id>
+    <ds:jurisdiction>Voluntown</ds:jurisdiction>
+    <ds:population>2663</ds:population>
+    <ds:jurisdictiongeo>
+      <geo:SpatialThing>
+        <usps:deliveryAddress />
+        <usps:cityName>Voluntown</usps:cityName>
+        <geo:lat>41.573883</geo:lat>
+        <geo:long>-71.862923</geo:long>
+        <usps:stateAbbr>CT</usps:stateAbbr>
+        <usps:zipCode />
+      </geo:SpatialThing>
+    </ds:jurisdictiongeo>
+    <ds:crime_reported>34</ds:crime_reported>
+  </dsbase:_6ntu-dndh>
+  <dsbase:_6ntu-dndh rdf:about="http://data.ct.gov/resource/_6ntu-dndh/157">
+    <socrata:rowID>157</socrata:rowID>
+    <rdfs:member rdf:resource="http://data.ct.gov/resource/_6ntu-dndh" />
+    <ds:jurisdiction_id>CT0015600</ds:jurisdiction_id>
+    <ds:jurisdiction>West Haven</ds:jurisdiction>
+    <ds:population>55167</ds:population>
+    <ds:jurisdictiongeo>
+      <geo:SpatialThing>
+        <usps:deliveryAddress />
+        <usps:cityName>West Haven</usps:cityName>
+        <geo:lat>41.272336</geo:lat>
+        <geo:long>-72.949817</geo:long>
+        <usps:stateAbbr>CT</usps:stateAbbr>
+        <usps:zipCode />
+      </geo:SpatialThing>
+    </ds:jurisdictiongeo>
+    <ds:crime_reported>2068</ds:crime_reported>
+  </dsbase:_6ntu-dndh>
+  <dsbase:_6ntu-dndh rdf:about="http://data.ct.gov/resource/_6ntu-dndh/84">
+    <socrata:rowID>84</socrata:rowID>
+    <rdfs:member rdf:resource="http://data.ct.gov/resource/_6ntu-dndh" />
+    <ds:jurisdiction_id>CT0008400</ds:jurisdiction_id>
+    <ds:jurisdiction>Milford</ds:jurisdiction>
+    <ds:population>55111</ds:population>
+    <ds:jurisdictiongeo>
+      <geo:SpatialThing>
+        <usps:deliveryAddress />
+        <usps:cityName>Milford</usps:cityName>
+        <geo:lat>41.224276</geo:lat>
+        <geo:long>-73.057564</geo:long>
+        <usps:stateAbbr>CT</usps:stateAbbr>
+        <usps:zipCode />
+      </geo:SpatialThing>
+    </ds:jurisdictiongeo>
+    <ds:crime_reported>2814</ds:crime_reported>
+  </dsbase:_6ntu-dndh>
+  <dsbase:_6ntu-dndh rdf:about="http://data.ct.gov/resource/_6ntu-dndh/146">
+    <socrata:rowID>146</socrata:rowID>
+    <rdfs:member rdf:resource="http://data.ct.gov/resource/_6ntu-dndh" />
+    <ds:jurisdiction_id>CTSP14500</ds:jurisdiction_id>
+    <ds:jurisdiction>Union</ds:jurisdiction>
+    <ds:population>728</ds:population>
+    <ds:jurisdictiongeo>
+      <geo:SpatialThing>
+        <usps:deliveryAddress />
+        <usps:cityName>Union</usps:cityName>
+        <geo:lat>41.99388</geo:lat>
+        <geo:long>-72.155248</geo:long>
+        <usps:stateAbbr>CT</usps:stateAbbr>
+        <usps:zipCode />
+      </geo:SpatialThing>
+    </ds:jurisdictiongeo>
+    <ds:crime_reported>10</ds:crime_reported>
+  </dsbase:_6ntu-dndh>
+  <dsbase:_6ntu-dndh rdf:about="http://data.ct.gov/resource/_6ntu-dndh/66">
+    <socrata:rowID>66</socrata:rowID>
+    <rdfs:member rdf:resource="http://data.ct.gov/resource/_6ntu-dndh" />
+    <ds:jurisdiction_id>CTSP06600</ds:jurisdiction_id>
+    <ds:jurisdiction>Harwinton</ds:jurisdiction>
+    <ds:population>5564</ds:population>
+    <ds:jurisdictiongeo>
+      <geo:SpatialThing>
+        <usps:deliveryAddress />
+        <usps:cityName>Harwinton</usps:cityName>
+        <geo:lat>41.771487</geo:lat>
+        <geo:long>-73.059941</geo:long>
+        <usps:stateAbbr>CT</usps:stateAbbr>
+        <usps:zipCode />
+      </geo:SpatialThing>
+    </ds:jurisdictiongeo>
+    <ds:crime_reported>71</ds:crime_reported>
+  </dsbase:_6ntu-dndh>
+  <dsbase:_6ntu-dndh rdf:about="http://data.ct.gov/resource/_6ntu-dndh/168">
+    <socrata:rowID>168</socrata:rowID>
+    <rdfs:member rdf:resource="http://data.ct.gov/resource/_6ntu-dndh" />
+    <ds:jurisdiction_id>CT0016600</ds:jurisdiction_id>
+    <ds:jurisdiction>Wolcott</ds:jurisdiction>
+    <ds:population>16030</ds:population>
+    <ds:jurisdictiongeo>
+      <geo:SpatialThing>
+        <usps:deliveryAddress />
+        <usps:cityName>Wolcott</usps:cityName>
+        <geo:lat>41.601588</geo:lat>
+        <geo:long>-72.986414</geo:long>
+        <usps:stateAbbr>CT</usps:stateAbbr>
+        <usps:zipCode />
+      </geo:SpatialThing>
+    </ds:jurisdictiongeo>
+    <ds:crime_reported>514</ds:crime_reported>
+  </dsbase:_6ntu-dndh>
+  <dsbase:_6ntu-dndh rdf:about="http://data.ct.gov/resource/_6ntu-dndh/93">
+    <socrata:rowID>93</socrata:rowID>
+    <rdfs:member rdf:resource="http://data.ct.gov/resource/_6ntu-dndh" />
+    <ds:jurisdiction_id>CT0009300</ds:jurisdiction_id>
+    <ds:jurisdiction>New Haven</ds:jurisdiction>
+    <ds:population>130252</ds:population>
+    <ds:jurisdictiongeo>
+      <geo:SpatialThing>
+        <usps:deliveryAddress />
+        <usps:cityName>New Haven</usps:cityName>
+        <geo:lat>41.308252</geo:lat>
+        <geo:long>-72.924161</geo:long>
+        <usps:stateAbbr>CT</usps:stateAbbr>
+        <usps:zipCode />
+      </geo:SpatialThing>
+    </ds:jurisdictiongeo>
+    <ds:crime_reported>15587</ds:crime_reported>
+  </dsbase:_6ntu-dndh>
+  <dsbase:_6ntu-dndh rdf:about="http://data.ct.gov/resource/_6ntu-dndh/162">
+    <socrata:rowID>162</socrata:rowID>
+    <rdfs:member rdf:resource="http://data.ct.gov/resource/_6ntu-dndh" />
+    <ds:jurisdiction_id>CT0016100</ds:jurisdiction_id>
+    <ds:jurisdiction>Wilton</ds:jurisdiction>
+    <ds:population>18578</ds:population>
+    <ds:jurisdictiongeo>
+      <geo:SpatialThing>
+        <usps:deliveryAddress />
+        <usps:cityName>Wilton</usps:cityName>
+        <geo:lat>41.19444</geo:lat>
+        <geo:long>-73.432397</geo:long>
+        <usps:stateAbbr>CT</usps:stateAbbr>
+        <usps:zipCode />
+      </geo:SpatialThing>
+    </ds:jurisdictiongeo>
+    <ds:crime_reported>164</ds:crime_reported>
+  </dsbase:_6ntu-dndh>
+  <dsbase:_6ntu-dndh rdf:about="http://data.ct.gov/resource/_6ntu-dndh/128">
+    <socrata:rowID>128</socrata:rowID>
+    <rdfs:member rdf:resource="http://data.ct.gov/resource/_6ntu-dndh" />
+    <ds:jurisdiction_id>CTSP12700</ds:jurisdiction_id>
+    <ds:jurisdiction>Sherman</ds:jurisdiction>
+    <ds:population>4034</ds:population>
+    <ds:jurisdictiongeo>
+      <geo:SpatialThing>
+        <usps:deliveryAddress />
+        <usps:cityName>Sherman</usps:cityName>
+        <geo:lat>41.578959</geo:lat>
+        <geo:long>-73.496536</geo:long>
+        <usps:stateAbbr>CT</usps:stateAbbr>
+        <usps:zipCode />
+      </geo:SpatialThing>
+    </ds:jurisdictiongeo>
+    <ds:crime_reported>16</ds:crime_reported>
+  </dsbase:_6ntu-dndh>
+  <dsbase:_6ntu-dndh rdf:about="http://data.ct.gov/resource/_6ntu-dndh/23">
+    <socrata:rowID>23</socrata:rowID>
+    <rdfs:member rdf:resource="http://data.ct.gov/resource/_6ntu-dndh" />
+    <ds:jurisdiction_id>CT0002300</ds:jurisdiction_id>
+    <ds:jurisdiction>Canton</ds:jurisdiction>
+    <ds:population>9313</ds:population>
+    <ds:jurisdictiongeo>
+      <geo:SpatialThing>
+        <usps:deliveryAddress />
+        <usps:cityName>Canton</usps:cityName>
+        <geo:lat>41.824474</geo:lat>
+        <geo:long>-72.896794</geo:long>
+        <usps:stateAbbr>CT</usps:stateAbbr>
+        <usps:zipCode />
+      </geo:SpatialThing>
+    </ds:jurisdictiongeo>
+    <ds:crime_reported>102</ds:crime_reported>
+  </dsbase:_6ntu-dndh>
+  <dsbase:_6ntu-dndh rdf:about="http://data.ct.gov/resource/_6ntu-dndh/113">
+    <socrata:rowID>113</socrata:rowID>
+    <rdfs:member rdf:resource="http://data.ct.gov/resource/_6ntu-dndh" />
+    <ds:jurisdiction_id>CT0011300</ds:jurisdiction_id>
+    <ds:jurisdiction>Portland</ds:jurisdiction>
+    <ds:population>9200</ds:population>
+    <ds:jurisdictiongeo>
+      <geo:SpatialThing>
+        <usps:deliveryAddress />
+        <usps:cityName>Portland</usps:cityName>
+        <geo:lat>41.581345</geo:lat>
+        <geo:long>-72.634112</geo:long>
+        <usps:stateAbbr>CT</usps:stateAbbr>
+        <usps:zipCode />
+      </geo:SpatialThing>
+    </ds:jurisdictiongeo>
+    <ds:crime_reported>145</ds:crime_reported>
+  </dsbase:_6ntu-dndh>
+  <dsbase:_6ntu-dndh rdf:about="http://data.ct.gov/resource/_6ntu-dndh/17">
+    <socrata:rowID>17</socrata:rowID>
+    <rdfs:member rdf:resource="http://data.ct.gov/resource/_6ntu-dndh" />
+    <ds:jurisdiction_id>CT0001700</ds:jurisdiction_id>
+    <ds:jurisdiction>Bristol</ds:jurisdiction>
+    <ds:population>63281</ds:population>
+    <ds:jurisdictiongeo>
+      <geo:SpatialThing>
+        <usps:deliveryAddress />
+        <usps:cityName>Bristol</usps:cityName>
+        <geo:lat>41.673037</geo:lat>
+        <geo:long>-72.945791</geo:long>
+        <usps:stateAbbr>CT</usps:stateAbbr>
+        <usps:zipCode />
+      </geo:SpatialThing>
+    </ds:jurisdictiongeo>
+    <ds:crime_reported>3178</ds:crime_reported>
+  </dsbase:_6ntu-dndh>
+  <dsbase:_6ntu-dndh rdf:about="http://data.ct.gov/resource/_6ntu-dndh/121">
+    <socrata:rowID>121</socrata:rowID>
+    <rdfs:member rdf:resource="http://data.ct.gov/resource/_6ntu-dndh" />
+    <ds:jurisdiction_id>CTSP12000</ds:jurisdiction_id>
+    <ds:jurisdiction>Roxbury</ds:jurisdiction>
+    <ds:population>2250</ds:population>
+    <ds:jurisdictiongeo>
+      <geo:SpatialThing>
+        <usps:deliveryAddress />
+        <usps:cityName>Roxbury</usps:cityName>
+        <geo:lat>41.556245</geo:lat>
+        <geo:long>-73.309401</geo:long>
+        <usps:stateAbbr>CT</usps:stateAbbr>
+        <usps:zipCode />
+      </geo:SpatialThing>
+    </ds:jurisdictiongeo>
+    <ds:crime_reported>28</ds:crime_reported>
+  </dsbase:_6ntu-dndh>
+  <dsbase:_6ntu-dndh rdf:about="http://data.ct.gov/resource/_6ntu-dndh/29">
+    <socrata:rowID>29</socrata:rowID>
+    <rdfs:member rdf:resource="http://data.ct.gov/resource/_6ntu-dndh" />
+    <ds:jurisdiction_id>CTSP02900</ds:jurisdiction_id>
+    <ds:jurisdiction>Colebrook</ds:jurisdiction>
+    <ds:population>1551</ds:population>
+    <ds:jurisdictiongeo>
+      <geo:SpatialThing>
+        <usps:deliveryAddress />
+        <usps:cityName>Colebrook</usps:cityName>
+        <geo:lat>41.991381</geo:lat>
+        <geo:long>-73.097592</geo:long>
+        <usps:stateAbbr>CT</usps:stateAbbr>
+        <usps:zipCode />
+      </geo:SpatialThing>
+    </ds:jurisdictiongeo>
+    <ds:crime_reported>16</ds:crime_reported>
+  </dsbase:_6ntu-dndh>
+  <dsbase:_6ntu-dndh rdf:about="http://data.ct.gov/resource/_6ntu-dndh/110">
+    <socrata:rowID>110</socrata:rowID>
+    <rdfs:member rdf:resource="http://data.ct.gov/resource/_6ntu-dndh" />
+    <ds:jurisdiction_id>CT0011000</ds:jurisdiction_id>
+    <ds:jurisdiction>Plainville</ds:jurisdiction>
+    <ds:population>18257</ds:population>
+    <ds:jurisdictiongeo>
+      <geo:SpatialThing>
+        <usps:deliveryAddress />
+        <usps:cityName>Plainville</usps:cityName>
+        <geo:lat>41.674474</geo:lat>
+        <geo:long>-72.85835</geo:long>
+        <usps:stateAbbr>CT</usps:stateAbbr>
+        <usps:zipCode />
+      </geo:SpatialThing>
+    </ds:jurisdictiongeo>
+    <ds:crime_reported>1052</ds:crime_reported>
+  </dsbase:_6ntu-dndh>
+  <dsbase:_6ntu-dndh rdf:about="http://data.ct.gov/resource/_6ntu-dndh/98">
+    <socrata:rowID>98</socrata:rowID>
+    <rdfs:member rdf:resource="http://data.ct.gov/resource/_6ntu-dndh" />
+    <ds:jurisdiction_id>CTSP09800</ds:jurisdiction_id>
+    <ds:jurisdiction>Norfolk</ds:jurisdiction>
+    <ds:population>1748</ds:population>
+    <ds:jurisdictiongeo>
+      <geo:SpatialThing>
+        <usps:deliveryAddress />
+        <usps:cityName>Norfolk</usps:cityName>
+        <geo:lat>41.993599</geo:lat>
+        <geo:long>-73.201621</geo:long>
+        <usps:stateAbbr>CT</usps:stateAbbr>
+        <usps:zipCode />
+      </geo:SpatialThing>
+    </ds:jurisdictiongeo>
+    <ds:crime_reported>25</ds:crime_reported>
+  </dsbase:_6ntu-dndh>
+  <dsbase:_6ntu-dndh rdf:about="http://data.ct.gov/resource/_6ntu-dndh/51">
+    <socrata:rowID>51</socrata:rowID>
+    <rdfs:member rdf:resource="http://data.ct.gov/resource/_6ntu-dndh" />
+    <ds:jurisdiction_id>CT0005100</ds:jurisdiction_id>
+    <ds:jurisdiction>Fairfield</ds:jurisdiction>
+    <ds:population>60415</ds:population>
+    <ds:jurisdictiongeo>
+      <geo:SpatialThing>
+        <usps:deliveryAddress />
+        <usps:cityName>Fairfield</usps:cityName>
+        <geo:lat>41.143322</geo:lat>
+        <geo:long>-73.249812</geo:long>
+        <usps:stateAbbr>CT</usps:stateAbbr>
+        <usps:zipCode />
+      </geo:SpatialThing>
+    </ds:jurisdictiongeo>
+    <ds:crime_reported>1965</ds:crime_reported>
+  </dsbase:_6ntu-dndh>
+  <dsbase:_6ntu-dndh rdf:about="http://data.ct.gov/resource/_6ntu-dndh/91">
+    <socrata:rowID>91</socrata:rowID>
+    <rdfs:member rdf:resource="http://data.ct.gov/resource/_6ntu-dndh" />
+    <ds:jurisdiction_id>CTSP09100</ds:jurisdiction_id>
+    <ds:jurisdiction>New Fairfield</ds:jurisdiction>
+    <ds:population>14702</ds:population>
+    <ds:jurisdictiongeo>
+      <geo:SpatialThing>
+        <usps:deliveryAddress />
+        <usps:cityName>New Fairfield</usps:cityName>
+        <geo:lat>41.466074</geo:lat>
+        <geo:long>-73.485613</geo:long>
+        <usps:stateAbbr>CT</usps:stateAbbr>
+        <usps:zipCode />
+      </geo:SpatialThing>
+    </ds:jurisdictiongeo>
+    <ds:crime_reported>51</ds:crime_reported>
+  </dsbase:_6ntu-dndh>
+  <dsbase:_6ntu-dndh rdf:about="http://data.ct.gov/resource/_6ntu-dndh/133">
+    <socrata:rowID>133</socrata:rowID>
+    <rdfs:member rdf:resource="http://data.ct.gov/resource/_6ntu-dndh" />
+    <ds:jurisdiction_id>CT0013200</ds:jurisdiction_id>
+    <ds:jurisdiction>South Windsor</ds:jurisdiction>
+    <ds:population>25720</ds:population>
+    <ds:jurisdictiongeo>
+      <geo:SpatialThing>
+        <usps:deliveryAddress />
+        <usps:cityName>South Windsor</usps:cityName>
+        <geo:lat>41.826827</geo:lat>
+        <geo:long>-72.553262</geo:long>
+        <usps:stateAbbr>CT</usps:stateAbbr>
+        <usps:zipCode />
+      </geo:SpatialThing>
+    </ds:jurisdictiongeo>
+    <ds:crime_reported>719</ds:crime_reported>
+  </dsbase:_6ntu-dndh>
+  <dsbase:_6ntu-dndh rdf:about="http://data.ct.gov/resource/_6ntu-dndh/70">
+    <socrata:rowID>70</socrata:rowID>
+    <rdfs:member rdf:resource="http://data.ct.gov/resource/_6ntu-dndh" />
+    <ds:jurisdiction_id>CTSP07000</ds:jurisdiction_id>
+    <ds:jurisdiction>Killingworth</ds:jurisdiction>
+    <ds:population>6341</ds:population>
+    <ds:jurisdictiongeo>
+      <geo:SpatialThing>
+        <usps:deliveryAddress />
+        <usps:cityName>Killingworth</usps:cityName>
+        <geo:lat>41.357274</geo:lat>
+        <geo:long>-72.554824</geo:long>
+        <usps:stateAbbr>CT</usps:stateAbbr>
+        <usps:zipCode />
+      </geo:SpatialThing>
+    </ds:jurisdictiongeo>
+    <ds:crime_reported>54</ds:crime_reported>
+  </dsbase:_6ntu-dndh>
+  <dsbase:_6ntu-dndh rdf:about="http://data.ct.gov/resource/_6ntu-dndh/34">
+    <socrata:rowID>34</socrata:rowID>
+    <rdfs:member rdf:resource="http://data.ct.gov/resource/_6ntu-dndh" />
+    <ds:jurisdiction_id>CT0003400</ds:jurisdiction_id>
+    <ds:jurisdiction>Danbury</ds:jurisdiction>
+    <ds:population>78861</ds:population>
+    <ds:jurisdictiongeo>
+      <geo:SpatialThing>
+        <usps:deliveryAddress />
+        <usps:cityName>Danbury</usps:cityName>
+        <geo:lat>41.393666</geo:lat>
+        <geo:long>-73.451539</geo:long>
+        <usps:stateAbbr>CT</usps:stateAbbr>
+        <usps:zipCode />
+      </geo:SpatialThing>
+    </ds:jurisdictiongeo>
+    <ds:crime_reported>3689</ds:crime_reported>
+  </dsbase:_6ntu-dndh>
+  <dsbase:_6ntu-dndh rdf:about="http://data.ct.gov/resource/_6ntu-dndh/122">
+    <socrata:rowID>122</socrata:rowID>
+    <rdfs:member rdf:resource="http://data.ct.gov/resource/_6ntu-dndh" />
+    <ds:jurisdiction_id>CTSP12100</ds:jurisdiction_id>
+    <ds:jurisdiction>Salem</ds:jurisdiction>
+    <ds:population>4065</ds:population>
+    <ds:jurisdictiongeo>
+      <geo:SpatialThing>
+        <usps:deliveryAddress />
+        <usps:cityName>Salem</usps:cityName>
+        <geo:lat>41.487106</geo:lat>
+        <geo:long>-72.274406</geo:long>
+        <usps:stateAbbr>CT</usps:stateAbbr>
+        <usps:zipCode />
+      </geo:SpatialThing>
+    </ds:jurisdictiongeo>
+    <ds:crime_reported>41</ds:crime_reported>
+  </dsbase:_6ntu-dndh>
+  <dsbase:_6ntu-dndh rdf:about="http://data.ct.gov/resource/_6ntu-dndh/15">
+    <socrata:rowID>15</socrata:rowID>
+    <rdfs:member rdf:resource="http://data.ct.gov/resource/_6ntu-dndh" />
+    <ds:jurisdiction_id>CT0001500</ds:jurisdiction_id>
+    <ds:jurisdiction>Bridgeport</ds:jurisdiction>
+    <ds:population>147010</ds:population>
+    <ds:jurisdictiongeo>
+      <geo:SpatialThing>
+        <usps:deliveryAddress />
+        <usps:cityName>Bridgeport</usps:cityName>
+        <geo:lat>41.179195</geo:lat>
+        <geo:long>-73.189476</geo:long>
+        <usps:stateAbbr>CT</usps:stateAbbr>
+        <usps:zipCode />
+      </geo:SpatialThing>
+    </ds:jurisdictiongeo>
+    <ds:crime_reported>9825</ds:crime_reported>
+  </dsbase:_6ntu-dndh>
+  <dsbase:_6ntu-dndh rdf:about="http://data.ct.gov/resource/_6ntu-dndh/39">
+    <socrata:rowID>39</socrata:rowID>
+    <rdfs:member rdf:resource="http://data.ct.gov/resource/_6ntu-dndh" />
+    <ds:jurisdiction_id>CTSP03900</ds:jurisdiction_id>
+    <ds:jurisdiction>Eastford</ds:jurisdiction>
+    <ds:population>1705</ds:population>
+    <ds:jurisdictiongeo>
+      <geo:SpatialThing>
+        <usps:deliveryAddress />
+        <usps:cityName>Eastford</usps:cityName>
+        <geo:lat>41.902117</geo:lat>
+        <geo:long>-72.082503</geo:long>
+        <usps:stateAbbr>CT</usps:stateAbbr>
+        <usps:zipCode />
+      </geo:SpatialThing>
+    </ds:jurisdictiongeo>
+    <ds:crime_reported>17</ds:crime_reported>
+  </dsbase:_6ntu-dndh>
+  <dsbase:_6ntu-dndh rdf:about="http://data.ct.gov/resource/_6ntu-dndh/36">
+    <socrata:rowID>36</socrata:rowID>
+    <rdfs:member rdf:resource="http://data.ct.gov/resource/_6ntu-dndh" />
+    <ds:jurisdiction_id>CTSP03600</ds:jurisdiction_id>
+    <ds:jurisdiction>Deep River</ds:jurisdiction>
+    <ds:population>4858</ds:population>
+    <ds:jurisdictiongeo>
+      <geo:SpatialThing>
+        <usps:deliveryAddress />
+        <usps:cityName>Deep River</usps:cityName>
+        <geo:lat>41.385619</geo:lat>
+        <geo:long>-72.435658</geo:long>
+        <usps:stateAbbr>CT</usps:stateAbbr>
+        <usps:zipCode />
+      </geo:SpatialThing>
+    </ds:jurisdictiongeo>
+    <ds:crime_reported>46</ds:crime_reported>
+  </dsbase:_6ntu-dndh>
+  <dsbase:_6ntu-dndh rdf:about="http://data.ct.gov/resource/_6ntu-dndh/27">
+    <socrata:rowID>27</socrata:rowID>
+    <rdfs:member rdf:resource="http://data.ct.gov/resource/_6ntu-dndh" />
+    <ds:jurisdiction_id>CT0002700</ds:jurisdiction_id>
+    <ds:jurisdiction>Clinton</ds:jurisdiction>
+    <ds:population>13798</ds:population>
+    <ds:jurisdictiongeo>
+      <geo:SpatialThing>
+        <usps:deliveryAddress />
+        <usps:cityName>Clinton</usps:cityName>
+        <geo:lat>41.278677</geo:lat>
+        <geo:long>-72.528067</geo:long>
+        <usps:stateAbbr>CT</usps:stateAbbr>
+        <usps:zipCode />
+      </geo:SpatialThing>
+    </ds:jurisdictiongeo>
+    <ds:crime_reported>733</ds:crime_reported>
+  </dsbase:_6ntu-dndh>
+  <dsbase:_6ntu-dndh rdf:about="http://data.ct.gov/resource/_6ntu-dndh/142">
+    <socrata:rowID>142</socrata:rowID>
+    <rdfs:member rdf:resource="http://data.ct.gov/resource/_6ntu-dndh" />
+    <ds:jurisdiction_id>CTSP14100</ds:jurisdiction_id>
+    <ds:jurisdiction>Thompson</ds:jurisdiction>
+    <ds:population>9353</ds:population>
+    <ds:jurisdictiongeo>
+      <geo:SpatialThing>
+        <usps:deliveryAddress />
+        <usps:cityName>Thompson</usps:cityName>
+        <geo:lat>41.958546</geo:lat>
+        <geo:long>-71.86272</geo:long>
+        <usps:stateAbbr>CT</usps:stateAbbr>
+        <usps:zipCode />
+      </geo:SpatialThing>
+    </ds:jurisdictiongeo>
+    <ds:crime_reported>169</ds:crime_reported>
+  </dsbase:_6ntu-dndh>
+  <dsbase:_6ntu-dndh rdf:about="http://data.ct.gov/resource/_6ntu-dndh/89">
+    <socrata:rowID>89</socrata:rowID>
+    <rdfs:member rdf:resource="http://data.ct.gov/resource/_6ntu-dndh" />
+    <ds:jurisdiction_id>CT0008900</ds:jurisdiction_id>
+    <ds:jurisdiction>New Britain</ds:jurisdiction>
+    <ds:population>75373</ds:population>
+    <ds:jurisdictiongeo>
+      <geo:SpatialThing>
+        <usps:deliveryAddress />
+        <usps:cityName>New Britain</usps:cityName>
+        <geo:lat>41.667528</geo:lat>
+        <geo:long>-72.783437</geo:long>
+        <usps:stateAbbr>CT</usps:stateAbbr>
+        <usps:zipCode />
+      </geo:SpatialThing>
+    </ds:jurisdictiongeo>
+    <ds:crime_reported>4960</ds:crime_reported>
+  </dsbase:_6ntu-dndh>
+  <dsbase:_6ntu-dndh rdf:about="http://data.ct.gov/resource/_6ntu-dndh/145">
+    <socrata:rowID>145</socrata:rowID>
+    <rdfs:member rdf:resource="http://data.ct.gov/resource/_6ntu-dndh" />
+    <ds:jurisdiction_id>CT0014400</ds:jurisdiction_id>
+    <ds:jurisdiction>Trumbull</ds:jurisdiction>
+    <ds:population>36076</ds:population>
+    <ds:jurisdictiongeo>
+      <geo:SpatialThing>
+        <usps:deliveryAddress />
+        <usps:cityName>Trumbull</usps:cityName>
+        <geo:lat>41.257379</geo:lat>
+        <geo:long>-73.219533</geo:long>
+        <usps:stateAbbr>CT</usps:stateAbbr>
+        <usps:zipCode />
+      </geo:SpatialThing>
+    </ds:jurisdictiongeo>
+    <ds:crime_reported>1940</ds:crime_reported>
+  </dsbase:_6ntu-dndh>
+  <dsbase:_6ntu-dndh rdf:about="http://data.ct.gov/resource/_6ntu-dndh/150">
+    <socrata:rowID>150</socrata:rowID>
+    <rdfs:member rdf:resource="http://data.ct.gov/resource/_6ntu-dndh" />
+    <ds:jurisdiction_id>CTSP14900</ds:jurisdiction_id>
+    <ds:jurisdiction>Warren</ds:jurisdiction>
+    <ds:population>1322</ds:population>
+    <ds:jurisdictiongeo>
+      <geo:SpatialThing>
+        <usps:deliveryAddress />
+        <usps:cityName>Warren</usps:cityName>
+        <geo:lat>41.744496</geo:lat>
+        <geo:long>-73.348848</geo:long>
+        <usps:stateAbbr>CT</usps:stateAbbr>
+        <usps:zipCode />
+      </geo:SpatialThing>
+    </ds:jurisdictiongeo>
+    <ds:crime_reported>7</ds:crime_reported>
+  </dsbase:_6ntu-dndh>
+  <dsbase:_6ntu-dndh rdf:about="http://data.ct.gov/resource/_6ntu-dndh/63">
+    <socrata:rowID>63</socrata:rowID>
+    <rdfs:member rdf:resource="http://data.ct.gov/resource/_6ntu-dndh" />
+    <ds:jurisdiction_id>CTSP06300</ds:jurisdiction_id>
+    <ds:jurisdiction>Hampton</ds:jurisdiction>
+    <ds:population>1851</ds:population>
+    <ds:jurisdictiongeo>
+      <geo:SpatialThing>
+        <usps:deliveryAddress />
+        <usps:cityName>Hampton</usps:cityName>
+        <geo:lat>41.73871</geo:lat>
+        <geo:long>-72.067063</geo:long>
+        <usps:stateAbbr>CT</usps:stateAbbr>
+        <usps:zipCode />
+      </geo:SpatialThing>
+    </ds:jurisdictiongeo>
+    <ds:crime_reported>20</ds:crime_reported>
+  </dsbase:_6ntu-dndh>
+  <dsbase:_6ntu-dndh rdf:about="http://data.ct.gov/resource/_6ntu-dndh/33">
+    <socrata:rowID>33</socrata:rowID>
+    <rdfs:member rdf:resource="http://data.ct.gov/resource/_6ntu-dndh" />
+    <ds:jurisdiction_id>CT0003300</ds:jurisdiction_id>
+    <ds:jurisdiction>Cromwell</ds:jurisdiction>
+    <ds:population>13559</ds:population>
+    <ds:jurisdictiongeo>
+      <geo:SpatialThing>
+        <usps:deliveryAddress />
+        <usps:cityName>Cromwell</usps:cityName>
+        <geo:lat>41.595859</geo:lat>
+        <geo:long>-72.645562</geo:long>
+        <usps:stateAbbr>CT</usps:stateAbbr>
+        <usps:zipCode />
+      </geo:SpatialThing>
+    </ds:jurisdictiongeo>
+    <ds:crime_reported>761</ds:crime_reported>
+  </dsbase:_6ntu-dndh>
+  <dsbase:_6ntu-dndh rdf:about="http://data.ct.gov/resource/_6ntu-dndh/10">
+    <socrata:rowID>10</socrata:rowID>
+    <rdfs:member rdf:resource="http://data.ct.gov/resource/_6ntu-dndh" />
+    <ds:jurisdiction_id>CTSP01000</ds:jurisdiction_id>
+    <ds:jurisdiction>Bethlehem</ds:jurisdiction>
+    <ds:population>3604</ds:population>
+    <ds:jurisdictiongeo>
+      <geo:SpatialThing>
+        <usps:deliveryAddress />
+        <usps:cityName>Bethlehem</usps:cityName>
+        <geo:lat>41.639532</geo:lat>
+        <geo:long>-73.20938</geo:long>
+        <usps:stateAbbr>CT</usps:stateAbbr>
+        <usps:zipCode />
+      </geo:SpatialThing>
+    </ds:jurisdictiongeo>
+    <ds:crime_reported>26</ds:crime_reported>
+  </dsbase:_6ntu-dndh>
+  <dsbase:_6ntu-dndh rdf:about="http://data.ct.gov/resource/_6ntu-dndh/46">
+    <socrata:rowID>46</socrata:rowID>
+    <rdfs:member rdf:resource="http://data.ct.gov/resource/_6ntu-dndh" />
+    <ds:jurisdiction_id>CT0004600</ds:jurisdiction_id>
+    <ds:jurisdiction>Easton</ds:jurisdiction>
+    <ds:population>7661</ds:population>
+    <ds:jurisdictiongeo>
+      <geo:SpatialThing>
+        <usps:deliveryAddress />
+        <usps:cityName>Easton</usps:cityName>
+        <geo:lat>41.252848</geo:lat>
+        <geo:long>-73.297472</geo:long>
+        <usps:stateAbbr>CT</usps:stateAbbr>
+        <usps:zipCode />
+      </geo:SpatialThing>
+    </ds:jurisdictiongeo>
+    <ds:crime_reported>50</ds:crime_reported>
+  </dsbase:_6ntu-dndh>
+  <dsbase:_6ntu-dndh rdf:about="http://data.ct.gov/resource/_6ntu-dndh/90">
+    <socrata:rowID>90</socrata:rowID>
+    <rdfs:member rdf:resource="http://data.ct.gov/resource/_6ntu-dndh" />
+    <ds:jurisdiction_id>CT0009000</ds:jurisdiction_id>
+    <ds:jurisdiction>New Canaan</ds:jurisdiction>
+    <ds:population>20436</ds:population>
+    <ds:jurisdictiongeo>
+      <geo:SpatialThing>
+        <usps:deliveryAddress />
+        <usps:cityName>New Canaan</usps:cityName>
+        <geo:lat>41.148498</geo:lat>
+        <geo:long>-73.493705</geo:long>
+        <usps:stateAbbr>CT</usps:stateAbbr>
+        <usps:zipCode />
+      </geo:SpatialThing>
+    </ds:jurisdictiongeo>
+    <ds:crime_reported>306</ds:crime_reported>
+  </dsbase:_6ntu-dndh>
+  <dsbase:_6ntu-dndh rdf:about="http://data.ct.gov/resource/_6ntu-dndh/55">
+    <socrata:rowID>55</socrata:rowID>
+    <rdfs:member rdf:resource="http://data.ct.gov/resource/_6ntu-dndh" />
+    <ds:jurisdiction_id>CTSP05500</ds:jurisdiction_id>
+    <ds:jurisdiction>Goshen</ds:jurisdiction>
+    <ds:population>2841</ds:population>
+    <ds:jurisdictiongeo>
+      <geo:SpatialThing>
+        <usps:deliveryAddress />
+        <usps:cityName>Goshen</usps:cityName>
+        <geo:lat>41.831925</geo:lat>
+        <geo:long>-73.225323</geo:long>
+        <usps:stateAbbr>CT</usps:stateAbbr>
+        <usps:zipCode />
+      </geo:SpatialThing>
+    </ds:jurisdictiongeo>
+    <ds:crime_reported>24</ds:crime_reported>
+  </dsbase:_6ntu-dndh>
+  <dsbase:_6ntu-dndh rdf:about="http://data.ct.gov/resource/_6ntu-dndh/58">
+    <socrata:rowID>58</socrata:rowID>
+    <rdfs:member rdf:resource="http://data.ct.gov/resource/_6ntu-dndh" />
+    <ds:jurisdiction_id>CTSP05800</ds:jurisdiction_id>
+    <ds:jurisdiction>Griswold</ds:jurisdiction>
+    <ds:population>11388</ds:population>
+    <ds:jurisdictiongeo>
+      <geo:SpatialThing>
+        <usps:deliveryAddress />
+        <usps:cityName>Griswold</usps:cityName>
+        <geo:lat>41.614599</geo:lat>
+        <geo:long>-71.960584</geo:long>
+        <usps:stateAbbr>CT</usps:stateAbbr>
+        <usps:zipCode />
+      </geo:SpatialThing>
+    </ds:jurisdictiongeo>
+    <ds:crime_reported>192</ds:crime_reported>
+  </dsbase:_6ntu-dndh>
+  <dsbase:_6ntu-dndh rdf:about="http://data.ct.gov/resource/_6ntu-dndh/137">
+    <socrata:rowID>137</socrata:rowID>
+    <rdfs:member rdf:resource="http://data.ct.gov/resource/_6ntu-dndh" />
+    <ds:jurisdiction_id>CTSP13600</ds:jurisdiction_id>
+    <ds:jurisdiction>Sterling</ds:jurisdiction>
+    <ds:population>3266</ds:population>
+    <ds:jurisdictiongeo>
+      <geo:SpatialThing>
+        <usps:deliveryAddress />
+        <usps:cityName>Sterling</usps:cityName>
+        <geo:lat>41.707458</geo:lat>
+        <geo:long>-71.829067</geo:long>
+        <usps:stateAbbr>CT</usps:stateAbbr>
+        <usps:zipCode />
+      </geo:SpatialThing>
+    </ds:jurisdictiongeo>
+    <ds:crime_reported>45</ds:crime_reported>
+  </dsbase:_6ntu-dndh>
+  <dsbase:_6ntu-dndh rdf:about="http://data.ct.gov/resource/_6ntu-dndh/30">
+    <socrata:rowID>30</socrata:rowID>
+    <rdfs:member rdf:resource="http://data.ct.gov/resource/_6ntu-dndh" />
+    <ds:jurisdiction_id>CTSP03000</ds:jurisdiction_id>
+    <ds:jurisdiction>Columbia</ds:jurisdiction>
+    <ds:population>5236</ds:population>
+    <ds:jurisdictiongeo>
+      <geo:SpatialThing>
+        <usps:deliveryAddress />
+        <usps:cityName>Columbia</usps:cityName>
+        <geo:lat>41.701926</geo:lat>
+        <geo:long>-72.302082</geo:long>
+        <usps:stateAbbr>CT</usps:stateAbbr>
+        <usps:zipCode />
+      </geo:SpatialThing>
+    </ds:jurisdictiongeo>
+    <ds:crime_reported>47</ds:crime_reported>
+  </dsbase:_6ntu-dndh>
+  <dsbase:_6ntu-dndh rdf:about="http://data.ct.gov/resource/_6ntu-dndh/138">
+    <socrata:rowID>138</socrata:rowID>
+    <rdfs:member rdf:resource="http://data.ct.gov/resource/_6ntu-dndh" />
+    <ds:jurisdiction_id>CT0013700</ds:jurisdiction_id>
+    <ds:jurisdiction>Stonington</ds:jurisdiction>
+    <ds:population>18866</ds:population>
+    <ds:jurisdictiongeo>
+      <geo:SpatialThing>
+        <usps:deliveryAddress />
+        <usps:cityName>Stonington</usps:cityName>
+        <geo:lat>41.337685</geo:lat>
+        <geo:long>-71.907182</geo:long>
+        <usps:stateAbbr>CT</usps:stateAbbr>
+        <usps:zipCode />
+      </geo:SpatialThing>
+    </ds:jurisdictiongeo>
+    <ds:crime_reported>757</ds:crime_reported>
+  </dsbase:_6ntu-dndh>
+  <dsbase:_6ntu-dndh rdf:about="http://data.ct.gov/resource/_6ntu-dndh/158">
+    <socrata:rowID>158</socrata:rowID>
+    <rdfs:member rdf:resource="http://data.ct.gov/resource/_6ntu-dndh" />
+    <ds:jurisdiction_id>CT0015700</ds:jurisdiction_id>
+    <ds:jurisdiction>Weston</ds:jurisdiction>
+    <ds:population>10575</ds:population>
+    <ds:jurisdictiongeo>
+      <geo:SpatialThing>
+        <usps:deliveryAddress />
+        <usps:cityName>Weston</usps:cityName>
+        <geo:lat>41.200939</geo:lat>
+        <geo:long>-73.380701</geo:long>
+        <usps:stateAbbr>CT</usps:stateAbbr>
+        <usps:zipCode />
+      </geo:SpatialThing>
+    </ds:jurisdictiongeo>
+    <ds:crime_reported>68</ds:crime_reported>
+  </dsbase:_6ntu-dndh>
+  <dsbase:_6ntu-dndh rdf:about="http://data.ct.gov/resource/_6ntu-dndh/83">
+    <socrata:rowID>83</socrata:rowID>
+    <rdfs:member rdf:resource="http://data.ct.gov/resource/_6ntu-dndh" />
+    <ds:jurisdiction_id>CT0008300</ds:jurisdiction_id>
+    <ds:jurisdiction>Middletown</ds:jurisdiction>
+    <ds:population>45480</ds:population>
+    <ds:jurisdictiongeo>
+      <geo:SpatialThing>
+        <usps:deliveryAddress />
+        <usps:cityName>Middletown</usps:cityName>
+        <geo:lat>41.544654</geo:lat>
+        <geo:long>-72.651713</geo:long>
+        <usps:stateAbbr>CT</usps:stateAbbr>
+        <usps:zipCode />
+      </geo:SpatialThing>
+    </ds:jurisdictiongeo>
+    <ds:crime_reported>2172</ds:crime_reported>
+  </dsbase:_6ntu-dndh>
+  <dsbase:_6ntu-dndh rdf:about="http://data.ct.gov/resource/_6ntu-dndh/79">
+    <socrata:rowID>79</socrata:rowID>
+    <rdfs:member rdf:resource="http://data.ct.gov/resource/_6ntu-dndh" />
+    <ds:jurisdiction_id>CTSP07900</ds:jurisdiction_id>
+    <ds:jurisdiction>Marlborough</ds:jurisdiction>
+    <ds:population>6016</ds:population>
+    <ds:jurisdictiongeo>
+      <geo:SpatialThing>
+        <usps:deliveryAddress />
+        <usps:cityName>Marlborough</usps:cityName>
+        <geo:lat>41.632043</geo:lat>
+        <geo:long>-72.461309</geo:long>
+        <usps:stateAbbr>CT</usps:stateAbbr>
+        <usps:zipCode />
+      </geo:SpatialThing>
+    </ds:jurisdictiongeo>
+    <ds:crime_reported>58</ds:crime_reported>
+  </dsbase:_6ntu-dndh>
+  <dsbase:_6ntu-dndh rdf:about="http://data.ct.gov/resource/_6ntu-dndh/105">
+    <socrata:rowID>105</socrata:rowID>
+    <rdfs:member rdf:resource="http://data.ct.gov/resource/_6ntu-dndh" />
+    <ds:jurisdiction_id>CTSP10500</ds:jurisdiction_id>
+    <ds:jurisdiction>Old Lyme</ds:jurisdiction>
+    <ds:population>7803</ds:population>
+    <ds:jurisdictiongeo>
+      <geo:SpatialThing>
+        <usps:deliveryAddress />
+        <usps:cityName>Old Lyme</usps:cityName>
+        <geo:lat>41.313043</geo:lat>
+        <geo:long>-72.331317</geo:long>
+        <usps:stateAbbr>CT</usps:stateAbbr>
+        <usps:zipCode />
+      </geo:SpatialThing>
+    </ds:jurisdictiongeo>
+    <ds:crime_reported>110</ds:crime_reported>
+  </dsbase:_6ntu-dndh>
+  <dsbase:_6ntu-dndh rdf:about="http://data.ct.gov/resource/_6ntu-dndh/171">
+    <socrata:rowID>171</socrata:rowID>
+    <rdfs:member rdf:resource="http://data.ct.gov/resource/_6ntu-dndh" />
+    <ds:jurisdiction_id>CTSP16900</ds:jurisdiction_id>
+    <ds:jurisdiction>Woodstock</ds:jurisdiction>
+    <ds:population>7607</ds:population>
+    <ds:jurisdictiongeo>
+      <geo:SpatialThing>
+        <usps:deliveryAddress />
+        <usps:cityName>Woodstock</usps:cityName>
+        <geo:lat>41.950652</geo:lat>
+        <geo:long>-71.977285</geo:long>
+        <usps:stateAbbr>CT</usps:stateAbbr>
+        <usps:zipCode />
+      </geo:SpatialThing>
+    </ds:jurisdictiongeo>
+    <ds:crime_reported>111</ds:crime_reported>
+  </dsbase:_6ntu-dndh>
+  <dsbase:_6ntu-dndh rdf:about="http://data.ct.gov/resource/_6ntu-dndh/117">
+    <socrata:rowID>117</socrata:rowID>
+    <rdfs:member rdf:resource="http://data.ct.gov/resource/_6ntu-dndh" />
+    <ds:jurisdiction_id>CTSP11600</ds:jurisdiction_id>
+    <ds:jurisdiction>Putnam</ds:jurisdiction>
+    <ds:population>2238</ds:population>
+    <ds:jurisdictiongeo>
+      <geo:SpatialThing>
+        <usps:deliveryAddress />
+        <usps:cityName>Putnam</usps:cityName>
+        <geo:lat>41.914993</geo:lat>
+        <geo:long>-71.911904</geo:long>
+        <usps:stateAbbr>CT</usps:stateAbbr>
+        <usps:zipCode />
+      </geo:SpatialThing>
+    </ds:jurisdictiongeo>
+    <ds:crime_reported>141</ds:crime_reported>
+  </dsbase:_6ntu-dndh>
+  <dsbase:_6ntu-dndh rdf:about="http://data.ct.gov/resource/_6ntu-dndh/45">
+    <socrata:rowID>45</socrata:rowID>
+    <rdfs:member rdf:resource="http://data.ct.gov/resource/_6ntu-dndh" />
+    <ds:jurisdiction_id>CTSP04500</ds:jurisdiction_id>
+    <ds:jurisdiction>East Lyme</ds:jurisdiction>
+    <ds:population>19090</ds:population>
+    <ds:jurisdictiongeo>
+      <geo:SpatialThing>
+        <usps:deliveryAddress />
+        <usps:cityName>East Lyme</usps:cityName>
+        <geo:lat>41.36677</geo:lat>
+        <geo:long>-72.229584</geo:long>
+        <usps:stateAbbr>CT</usps:stateAbbr>
+        <usps:zipCode />
+      </geo:SpatialThing>
+    </ds:jurisdictiongeo>
+    <ds:crime_reported>326</ds:crime_reported>
+  </dsbase:_6ntu-dndh>
+  <dsbase:_6ntu-dndh rdf:about="http://data.ct.gov/resource/_6ntu-dndh/108">
+    <socrata:rowID>108</socrata:rowID>
+    <rdfs:member rdf:resource="http://data.ct.gov/resource/_6ntu-dndh" />
+    <ds:jurisdiction_id>CTSP10800</ds:jurisdiction_id>
+    <ds:jurisdiction>Oxford</ds:jurisdiction>
+    <ds:population>10347</ds:population>
+    <ds:jurisdictiongeo>
+      <geo:SpatialThing>
+        <usps:deliveryAddress />
+        <usps:cityName>Oxford</usps:cityName>
+        <geo:lat>41.434813</geo:lat>
+        <geo:long>-73.117134</geo:long>
+        <usps:stateAbbr>CT</usps:stateAbbr>
+        <usps:zipCode />
+      </geo:SpatialThing>
+    </ds:jurisdictiongeo>
+    <ds:crime_reported>161</ds:crime_reported>
+  </dsbase:_6ntu-dndh>
+  <dsbase:_6ntu-dndh rdf:about="http://data.ct.gov/resource/_6ntu-dndh/184">
+    <socrata:rowID>184</socrata:rowID>
+    <rdfs:member rdf:resource="http://data.ct.gov/resource/_6ntu-dndh" />
+    <ds:jurisdiction_id>CT00B5900</ds:jurisdiction_id>
+    <ds:jurisdiction>Groton Long Pt.</ds:jurisdiction>
+    <ds:population>633</ds:population>
+    <ds:jurisdictiongeo>
+      <geo:SpatialThing>
+        <usps:deliveryAddress />
+        <usps:cityName>Groton Long Pt.</usps:cityName>
+        <geo:lat>41.343693</geo:lat>
+        <geo:long>-72.07877</geo:long>
+        <usps:stateAbbr>CT</usps:stateAbbr>
+        <usps:zipCode />
+      </geo:SpatialThing>
+    </ds:jurisdictiongeo>
+    <ds:crime_reported>22</ds:crime_reported>
+  </dsbase:_6ntu-dndh>
+  <dsbase:_6ntu-dndh rdf:about="http://data.ct.gov/resource/_6ntu-dndh/119">
+    <socrata:rowID>119</socrata:rowID>
+    <rdfs:member rdf:resource="http://data.ct.gov/resource/_6ntu-dndh" />
+    <ds:jurisdiction_id>CT0011800</ds:jurisdiction_id>
+    <ds:jurisdiction>Ridgefield</ds:jurisdiction>
+    <ds:population>24911</ds:population>
+    <ds:jurisdictiongeo>
+      <geo:SpatialThing>
+        <usps:deliveryAddress />
+        <usps:cityName>Ridgefield</usps:cityName>
+        <geo:lat>41.281456</geo:lat>
+        <geo:long>-73.49843</geo:long>
+        <usps:stateAbbr>CT</usps:stateAbbr>
+        <usps:zipCode />
+      </geo:SpatialThing>
+    </ds:jurisdictiongeo>
+    <ds:crime_reported>248</ds:crime_reported>
+  </dsbase:_6ntu-dndh>
+  <dsbase:_6ntu-dndh rdf:about="http://data.ct.gov/resource/_6ntu-dndh/50">
+    <socrata:rowID>50</socrata:rowID>
+    <rdfs:member rdf:resource="http://data.ct.gov/resource/_6ntu-dndh" />
+    <ds:jurisdiction_id>CTSP05000</ds:jurisdiction_id>
+    <ds:jurisdiction>Essex</ds:jurisdiction>
+    <ds:population>6855</ds:population>
+    <ds:jurisdictiongeo>
+      <geo:SpatialThing>
+        <usps:deliveryAddress />
+        <usps:cityName>Essex</usps:cityName>
+        <geo:lat>41.353832</geo:lat>
+        <geo:long>-72.396436</geo:long>
+        <usps:stateAbbr>CT</usps:stateAbbr>
+        <usps:zipCode />
+      </geo:SpatialThing>
+    </ds:jurisdictiongeo>
+    <ds:crime_reported>52</ds:crime_reported>
+  </dsbase:_6ntu-dndh>
+  <dsbase:_6ntu-dndh rdf:about="http://data.ct.gov/resource/_6ntu-dndh/73">
+    <socrata:rowID>73</socrata:rowID>
+    <rdfs:member rdf:resource="http://data.ct.gov/resource/_6ntu-dndh" />
+    <ds:jurisdiction_id>CTSP07300</ds:jurisdiction_id>
+    <ds:jurisdiction>Lisbon</ds:jurisdiction>
+    <ds:population>4287</ds:population>
+    <ds:jurisdictiongeo>
+      <geo:SpatialThing>
+        <usps:deliveryAddress />
+        <usps:cityName>Lisbon</usps:cityName>
+        <geo:lat>41.614599</geo:lat>
+        <geo:long>-71.960584</geo:long>
+        <usps:stateAbbr>CT</usps:stateAbbr>
+        <usps:zipCode />
+      </geo:SpatialThing>
+    </ds:jurisdictiongeo>
+    <ds:crime_reported>181</ds:crime_reported>
+  </dsbase:_6ntu-dndh>
+  <dsbase:_6ntu-dndh rdf:about="http://data.ct.gov/resource/_6ntu-dndh/35">
+    <socrata:rowID>35</socrata:rowID>
+    <rdfs:member rdf:resource="http://data.ct.gov/resource/_6ntu-dndh" />
+    <ds:jurisdiction_id>CT0003500</ds:jurisdiction_id>
+    <ds:jurisdiction>Darien</ds:jurisdiction>
+    <ds:population>20658</ds:population>
+    <ds:jurisdictiongeo>
+      <geo:SpatialThing>
+        <usps:deliveryAddress />
+        <usps:cityName>Darien</usps:cityName>
+        <geo:lat>41.080002</geo:lat>
+        <geo:long>-73.467371</geo:long>
+        <usps:stateAbbr>CT</usps:stateAbbr>
+        <usps:zipCode />
+      </geo:SpatialThing>
+    </ds:jurisdictiongeo>
+    <ds:crime_reported>467</ds:crime_reported>
+  </dsbase:_6ntu-dndh>
+  <dsbase:_6ntu-dndh rdf:about="http://data.ct.gov/resource/_6ntu-dndh/14">
+    <socrata:rowID>14</socrata:rowID>
+    <rdfs:member rdf:resource="http://data.ct.gov/resource/_6ntu-dndh" />
+    <ds:jurisdiction_id>CT0001400</ds:jurisdiction_id>
+    <ds:jurisdiction>Branford</ds:jurisdiction>
+    <ds:population>30220</ds:population>
+    <ds:jurisdictiongeo>
+      <geo:SpatialThing>
+        <usps:deliveryAddress />
+        <usps:cityName>Branford</usps:cityName>
+        <geo:lat>41.279802</geo:lat>
+        <geo:long>-72.81404</geo:long>
+        <usps:stateAbbr>CT</usps:stateAbbr>
+        <usps:zipCode />
+      </geo:SpatialThing>
+    </ds:jurisdictiongeo>
+    <ds:crime_reported>1587</ds:crime_reported>
+  </dsbase:_6ntu-dndh>
+  <dsbase:_6ntu-dndh rdf:about="http://data.ct.gov/resource/_6ntu-dndh/21">
+    <socrata:rowID>21</socrata:rowID>
+    <rdfs:member rdf:resource="http://data.ct.gov/resource/_6ntu-dndh" />
+    <ds:jurisdiction_id>CTSP02100</ds:jurisdiction_id>
+    <ds:jurisdiction>Canaan</ds:jurisdiction>
+    <ds:population>1137</ds:population>
+    <ds:jurisdictiongeo>
+      <geo:SpatialThing>
+        <usps:deliveryAddress />
+        <usps:cityName>Canaan</usps:cityName>
+        <geo:lat>41.963458</geo:lat>
+        <geo:long>-73.334414</geo:long>
+        <usps:stateAbbr>CT</usps:stateAbbr>
+        <usps:zipCode />
+      </geo:SpatialThing>
+    </ds:jurisdictiongeo>
+    <ds:crime_reported>16</ds:crime_reported>
+  </dsbase:_6ntu-dndh>
+  <dsbase:_6ntu-dndh rdf:about="http://data.ct.gov/resource/_6ntu-dndh/8">
+    <socrata:rowID>8</socrata:rowID>
+    <rdfs:member rdf:resource="http://data.ct.gov/resource/_6ntu-dndh" />
+    <ds:jurisdiction_id>CTSP00800</ds:jurisdiction_id>
+    <ds:jurisdiction>Bethany</ds:jurisdiction>
+    <ds:population>5309</ds:population>
+    <ds:jurisdictiongeo>
+      <geo:SpatialThing>
+        <usps:deliveryAddress />
+        <usps:cityName>Bethany</usps:cityName>
+        <geo:lat>41.428339</geo:lat>
+        <geo:long>-72.994834</geo:long>
+        <usps:stateAbbr>CT</usps:stateAbbr>
+        <usps:zipCode />
+      </geo:SpatialThing>
+    </ds:jurisdictiongeo>
+    <ds:crime_reported>76</ds:crime_reported>
+  </dsbase:_6ntu-dndh>
+  <dsbase:_6ntu-dndh rdf:about="http://data.ct.gov/resource/_6ntu-dndh/57">
+    <socrata:rowID>57</socrata:rowID>
+    <rdfs:member rdf:resource="http://data.ct.gov/resource/_6ntu-dndh" />
+    <ds:jurisdiction_id>CT0005700</ds:jurisdiction_id>
+    <ds:jurisdiction>Greenwich</ds:jurisdiction>
+    <ds:population>64376</ds:population>
+    <ds:jurisdictiongeo>
+      <geo:SpatialThing>
+        <usps:deliveryAddress />
+        <usps:cityName>Greenwich</usps:cityName>
+        <geo:lat>41.026526</geo:lat>
+        <geo:long>-73.628549</geo:long>
+        <usps:stateAbbr>CT</usps:stateAbbr>
+        <usps:zipCode />
+      </geo:SpatialThing>
+    </ds:jurisdictiongeo>
+    <ds:crime_reported>856</ds:crime_reported>
+  </dsbase:_6ntu-dndh>
+  <dsbase:_6ntu-dndh rdf:about="http://data.ct.gov/resource/_6ntu-dndh/96">
+    <socrata:rowID>96</socrata:rowID>
+    <rdfs:member rdf:resource="http://data.ct.gov/resource/_6ntu-dndh" />
+    <ds:jurisdiction_id>CT0009600</ds:jurisdiction_id>
+    <ds:jurisdiction>New Milford</ds:jurisdiction>
+    <ds:population>28574</ds:population>
+    <ds:jurisdictiongeo>
+      <geo:SpatialThing>
+        <usps:deliveryAddress />
+        <usps:cityName>New Milford</usps:cityName>
+        <geo:lat>41.576633</geo:lat>
+        <geo:long>-73.408713</geo:long>
+        <usps:stateAbbr>CT</usps:stateAbbr>
+        <usps:zipCode />
+      </geo:SpatialThing>
+    </ds:jurisdictiongeo>
+    <ds:crime_reported>1062</ds:crime_reported>
+  </dsbase:_6ntu-dndh>
+  <dsbase:_6ntu-dndh rdf:about="http://data.ct.gov/resource/_6ntu-dndh/151">
+    <socrata:rowID>151</socrata:rowID>
+    <rdfs:member rdf:resource="http://data.ct.gov/resource/_6ntu-dndh" />
+    <ds:jurisdiction_id>CTSP15000</ds:jurisdiction_id>
+    <ds:jurisdiction>Washington</ds:jurisdiction>
+    <ds:population>3788</ds:population>
+    <ds:jurisdictiongeo>
+      <geo:SpatialThing>
+        <usps:deliveryAddress />
+        <usps:cityName>Washington</usps:cityName>
+        <geo:lat>41.631357</geo:lat>
+        <geo:long>-73.310688</geo:long>
+        <usps:stateAbbr>CT</usps:stateAbbr>
+        <usps:zipCode />
+      </geo:SpatialThing>
+    </ds:jurisdictiongeo>
+    <ds:crime_reported>47</ds:crime_reported>
+  </dsbase:_6ntu-dndh>
+  <dsbase:_6ntu-dndh rdf:about="http://data.ct.gov/resource/_6ntu-dndh/186">
+    <socrata:rowID>186</socrata:rowID>
+    <rdfs:member rdf:resource="http://data.ct.gov/resource/_6ntu-dndh" />
+    <ds:jurisdiction_id>CTDI00200</ds:jurisdiction_id>
+    <ds:jurisdiction>Mashantucket Tribal PD</ds:jurisdiction>
+    <ds:population>0</ds:population>
+    <ds:jurisdictiongeo>
+      <geo:SpatialThing>
+        <usps:deliveryAddress />
+        <usps:cityName>Mashantucket Tribal PD</usps:cityName>
+        <geo:lat>41.471499</geo:lat>
+        <geo:long>-71.956392</geo:long>
+        <usps:stateAbbr>CT</usps:stateAbbr>
+        <usps:zipCode />
+      </geo:SpatialThing>
+    </ds:jurisdictiongeo>
+    <ds:crime_reported>386</ds:crime_reported>
+  </dsbase:_6ntu-dndh>
+  <dsbase:_6ntu-dndh rdf:about="http://data.ct.gov/resource/_6ntu-dndh/22">
+    <socrata:rowID>22</socrata:rowID>
+    <rdfs:member rdf:resource="http://data.ct.gov/resource/_6ntu-dndh" />
+    <ds:jurisdiction_id>CTSP02200</ds:jurisdiction_id>
+    <ds:jurisdiction>Canterbury</ds:jurisdiction>
+    <ds:population>4944</ds:population>
+    <ds:jurisdictiongeo>
+      <geo:SpatialThing>
+        <usps:deliveryAddress />
+        <usps:cityName>Canterbury</usps:cityName>
+        <geo:lat>41.698351</geo:lat>
+        <geo:long>-71.971118</geo:long>
+        <usps:stateAbbr>CT</usps:stateAbbr>
+        <usps:zipCode />
+      </geo:SpatialThing>
+    </ds:jurisdictiongeo>
+    <ds:crime_reported>35</ds:crime_reported>
+  </dsbase:_6ntu-dndh>
+  <dsbase:_6ntu-dndh rdf:about="http://data.ct.gov/resource/_6ntu-dndh/44">
+    <socrata:rowID>44</socrata:rowID>
+    <rdfs:member rdf:resource="http://data.ct.gov/resource/_6ntu-dndh" />
+    <ds:jurisdiction_id>CT0004400</ds:jurisdiction_id>
+    <ds:jurisdiction>East Haven</ds:jurisdiction>
+    <ds:population>29699</ds:population>
+    <ds:jurisdictiongeo>
+      <geo:SpatialThing>
+        <usps:deliveryAddress />
+        <usps:cityName>East Haven</usps:cityName>
+        <geo:lat>41.277971</geo:lat>
+        <geo:long>-72.871954</geo:long>
+        <usps:stateAbbr>CT</usps:stateAbbr>
+        <usps:zipCode />
+      </geo:SpatialThing>
+    </ds:jurisdictiongeo>
+    <ds:crime_reported>1636</ds:crime_reported>
+  </dsbase:_6ntu-dndh>
+  <dsbase:_6ntu-dndh rdf:about="http://data.ct.gov/resource/_6ntu-dndh/92">
+    <socrata:rowID>92</socrata:rowID>
+    <rdfs:member rdf:resource="http://data.ct.gov/resource/_6ntu-dndh" />
+    <ds:jurisdiction_id>CTSP09200</ds:jurisdiction_id>
+    <ds:jurisdiction>New Hartford</ds:jurisdiction>
+    <ds:population>6414</ds:population>
+    <ds:jurisdictiongeo>
+      <geo:SpatialThing>
+        <usps:deliveryAddress />
+        <usps:cityName>New Hartford</usps:cityName>
+        <geo:lat>41.879454</geo:lat>
+        <geo:long>-72.976047</geo:long>
+        <usps:stateAbbr>CT</usps:stateAbbr>
+        <usps:zipCode />
+      </geo:SpatialThing>
+    </ds:jurisdictiongeo>
+    <ds:crime_reported>78</ds:crime_reported>
+  </dsbase:_6ntu-dndh>
+  <dsbase:_6ntu-dndh rdf:about="http://data.ct.gov/resource/_6ntu-dndh/67">
+    <socrata:rowID>67</socrata:rowID>
+    <rdfs:member rdf:resource="http://data.ct.gov/resource/_6ntu-dndh" />
+    <ds:jurisdiction_id>CTSP06700</ds:jurisdiction_id>
+    <ds:jurisdiction>Hebron</ds:jurisdiction>
+    <ds:population>9070</ds:population>
+    <ds:jurisdictiongeo>
+      <geo:SpatialThing>
+        <usps:deliveryAddress />
+        <usps:cityName>Hebron</usps:cityName>
+        <geo:lat>41.658069</geo:lat>
+        <geo:long>-72.366324</geo:long>
+        <usps:stateAbbr>CT</usps:stateAbbr>
+        <usps:zipCode />
+      </geo:SpatialThing>
+    </ds:jurisdictiongeo>
+    <ds:crime_reported>65</ds:crime_reported>
+  </dsbase:_6ntu-dndh>
+  <dsbase:_6ntu-dndh rdf:about="http://data.ct.gov/resource/_6ntu-dndh/82">
+    <socrata:rowID>82</socrata:rowID>
+    <rdfs:member rdf:resource="http://data.ct.gov/resource/_6ntu-dndh" />
+    <ds:jurisdiction_id>CTSP08200</ds:jurisdiction_id>
+    <ds:jurisdiction>Middlefield</ds:jurisdiction>
+    <ds:population>4428</ds:population>
+    <ds:jurisdictiongeo>
+      <geo:SpatialThing>
+        <usps:deliveryAddress />
+        <usps:cityName>Middlefield</usps:cityName>
+        <geo:lat>41.515997</geo:lat>
+        <geo:long>-72.712263</geo:long>
+        <usps:stateAbbr>CT</usps:stateAbbr>
+        <usps:zipCode />
+      </geo:SpatialThing>
+    </ds:jurisdictiongeo>
+    <ds:crime_reported>57</ds:crime_reported>
+  </dsbase:_6ntu-dndh>
+  <dsbase:_6ntu-dndh rdf:about="http://data.ct.gov/resource/_6ntu-dndh/120">
+    <socrata:rowID>120</socrata:rowID>
+    <rdfs:member rdf:resource="http://data.ct.gov/resource/_6ntu-dndh" />
+    <ds:jurisdiction_id>CT0011900</ds:jurisdiction_id>
+    <ds:jurisdiction>Rocky Hill</ds:jurisdiction>
+    <ds:population>18930</ds:population>
+    <ds:jurisdictiongeo>
+      <geo:SpatialThing>
+        <usps:deliveryAddress />
+        <usps:cityName>Rocky Hill</usps:cityName>
+        <geo:lat>41.667775</geo:lat>
+        <geo:long>-72.636739</geo:long>
+        <usps:stateAbbr>CT</usps:stateAbbr>
+        <usps:zipCode />
+      </geo:SpatialThing>
+    </ds:jurisdictiongeo>
+    <ds:crime_reported>723</ds:crime_reported>
+  </dsbase:_6ntu-dndh>
+  <dsbase:_6ntu-dndh rdf:about="http://data.ct.gov/resource/_6ntu-dndh/1">
+    <socrata:rowID>1</socrata:rowID>
+    <rdfs:member rdf:resource="http://data.ct.gov/resource/_6ntu-dndh" />
+    <ds:jurisdiction_id>CTSP00100</ds:jurisdiction_id>
+    <ds:jurisdiction>Andover</ds:jurisdiction>
+    <ds:population>3200</ds:population>
+    <ds:jurisdictiongeo>
+      <geo:SpatialThing>
+        <usps:deliveryAddress />
+        <usps:cityName>Andover</usps:cityName>
+        <geo:lat>41.728789</geo:lat>
+        <geo:long>-72.370309</geo:long>
+        <usps:stateAbbr>CT</usps:stateAbbr>
+        <usps:zipCode />
+      </geo:SpatialThing>
+    </ds:jurisdictiongeo>
+    <ds:crime_reported>36</ds:crime_reported>
+  </dsbase:_6ntu-dndh>
+  <dsbase:_6ntu-dndh rdf:about="http://data.ct.gov/resource/_6ntu-dndh/24">
+    <socrata:rowID>24</socrata:rowID>
+    <rdfs:member rdf:resource="http://data.ct.gov/resource/_6ntu-dndh" />
+    <ds:jurisdiction_id>CTSP02400</ds:jurisdiction_id>
+    <ds:jurisdiction>Chaplin</ds:jurisdiction>
+    <ds:population>2367</ds:population>
+    <ds:jurisdictiongeo>
+      <geo:SpatialThing>
+        <usps:deliveryAddress />
+        <usps:cityName>Chaplin</usps:cityName>
+        <geo:lat>41.797715</geo:lat>
+        <geo:long>-72.129312</geo:long>
+        <usps:stateAbbr>CT</usps:stateAbbr>
+        <usps:zipCode />
+      </geo:SpatialThing>
+    </ds:jurisdictiongeo>
+    <ds:crime_reported>33</ds:crime_reported>
+  </dsbase:_6ntu-dndh>
+  <dsbase:_6ntu-dndh rdf:about="http://data.ct.gov/resource/_6ntu-dndh/18">
+    <socrata:rowID>18</socrata:rowID>
+    <rdfs:member rdf:resource="http://data.ct.gov/resource/_6ntu-dndh" />
+    <ds:jurisdiction_id>CT0001800</ds:jurisdiction_id>
+    <ds:jurisdiction>Brookfield</ds:jurisdiction>
+    <ds:population>16504</ds:population>
+    <ds:jurisdictiongeo>
+      <geo:SpatialThing>
+        <usps:deliveryAddress />
+        <usps:cityName>Brookfield</usps:cityName>
+        <geo:lat>41.482447</geo:lat>
+        <geo:long>-73.409561</geo:long>
+        <usps:stateAbbr>CT</usps:stateAbbr>
+        <usps:zipCode />
+      </geo:SpatialThing>
+    </ds:jurisdictiongeo>
+    <ds:crime_reported>340</ds:crime_reported>
+  </dsbase:_6ntu-dndh>
+  <dsbase:_6ntu-dndh rdf:about="http://data.ct.gov/resource/_6ntu-dndh/43">
+    <socrata:rowID>43</socrata:rowID>
+    <rdfs:member rdf:resource="http://data.ct.gov/resource/_6ntu-dndh" />
+    <ds:jurisdiction_id>CT0004300</ds:jurisdiction_id>
+    <ds:jurisdiction>East Hartford</ds:jurisdiction>
+    <ds:population>52233</ds:population>
+    <ds:jurisdictiongeo>
+      <geo:SpatialThing>
+        <usps:deliveryAddress />
+        <usps:cityName>East Hartford</usps:cityName>
+        <geo:lat>41.769319</geo:lat>
+        <geo:long>-72.643785</geo:long>
+        <usps:stateAbbr>CT</usps:stateAbbr>
+        <usps:zipCode />
+      </geo:SpatialThing>
+    </ds:jurisdictiongeo>
+    <ds:crime_reported>3271</ds:crime_reported>
+  </dsbase:_6ntu-dndh>
+  <dsbase:_6ntu-dndh rdf:about="http://data.ct.gov/resource/_6ntu-dndh/149">
+    <socrata:rowID>149</socrata:rowID>
+    <rdfs:member rdf:resource="http://data.ct.gov/resource/_6ntu-dndh" />
+    <ds:jurisdiction_id>CT0014800</ds:jurisdiction_id>
+    <ds:jurisdiction>Wallingford</ds:jurisdiction>
+    <ds:population>45333</ds:population>
+    <ds:jurisdictiongeo>
+      <geo:SpatialThing>
+        <usps:deliveryAddress />
+        <usps:cityName>Wallingford</usps:cityName>
+        <geo:lat>41.454408</geo:lat>
+        <geo:long>-72.818414</geo:long>
+        <usps:stateAbbr>CT</usps:stateAbbr>
+        <usps:zipCode />
+      </geo:SpatialThing>
+    </ds:jurisdictiongeo>
+    <ds:crime_reported>1384</ds:crime_reported>
+  </dsbase:_6ntu-dndh>
+  <dsbase:_6ntu-dndh rdf:about="http://data.ct.gov/resource/_6ntu-dndh/136">
+    <socrata:rowID>136</socrata:rowID>
+    <rdfs:member rdf:resource="http://data.ct.gov/resource/_6ntu-dndh" />
+    <ds:jurisdiction_id>CT0013500</ds:jurisdiction_id>
+    <ds:jurisdiction>Stamford</ds:jurisdiction>
+    <ds:population>123359</ds:population>
+    <ds:jurisdictiongeo>
+      <geo:SpatialThing>
+        <usps:deliveryAddress />
+        <usps:cityName>Stamford</usps:cityName>
+        <geo:lat>41.051924</geo:lat>
+        <geo:long>-73.539475</geo:long>
+        <usps:stateAbbr>CT</usps:stateAbbr>
+        <usps:zipCode />
+      </geo:SpatialThing>
+    </ds:jurisdictiongeo>
+    <ds:crime_reported>4972</ds:crime_reported>
+  </dsbase:_6ntu-dndh>
+  <dsbase:_6ntu-dndh rdf:about="http://data.ct.gov/resource/_6ntu-dndh/116">
+    <socrata:rowID>116</socrata:rowID>
+    <rdfs:member rdf:resource="http://data.ct.gov/resource/_6ntu-dndh" />
+    <ds:jurisdiction_id>CT0011600</ds:jurisdiction_id>
+    <ds:jurisdiction>Putnam Municipal</ds:jurisdiction>
+    <ds:population>7247</ds:population>
+    <ds:jurisdictiongeo>
+      <geo:SpatialThing>
+        <usps:deliveryAddress />
+        <usps:cityName>Putnam Municipal</usps:cityName>
+        <geo:lat>41.914993</geo:lat>
+        <geo:long>-71.911904</geo:long>
+        <usps:stateAbbr>CT</usps:stateAbbr>
+        <usps:zipCode />
+      </geo:SpatialThing>
+    </ds:jurisdictiongeo>
+    <ds:crime_reported>348</ds:crime_reported>
+  </dsbase:_6ntu-dndh>
+  <dsbase:_6ntu-dndh rdf:about="http://data.ct.gov/resource/_6ntu-dndh/61">
+    <socrata:rowID>61</socrata:rowID>
+    <rdfs:member rdf:resource="http://data.ct.gov/resource/_6ntu-dndh" />
+    <ds:jurisdiction_id>CTSP06100</ds:jurisdiction_id>
+    <ds:jurisdiction>Haddam</ds:jurisdiction>
+    <ds:population>7540</ds:population>
+    <ds:jurisdictiongeo>
+      <geo:SpatialThing>
+        <usps:deliveryAddress />
+        <usps:cityName>Haddam</usps:cityName>
+        <geo:lat>41.477264</geo:lat>
+        <geo:long>-72.512292</geo:long>
+        <usps:stateAbbr>CT</usps:stateAbbr>
+        <usps:zipCode />
+      </geo:SpatialThing>
+    </ds:jurisdictiongeo>
+    <ds:crime_reported>91</ds:crime_reported>
+  </dsbase:_6ntu-dndh>
+  <dsbase:_6ntu-dndh rdf:about="http://data.ct.gov/resource/_6ntu-dndh/53">
+    <socrata:rowID>53</socrata:rowID>
+    <rdfs:member rdf:resource="http://data.ct.gov/resource/_6ntu-dndh" />
+    <ds:jurisdiction_id>CTSP05300</ds:jurisdiction_id>
+    <ds:jurisdiction>Franklin</ds:jurisdiction>
+    <ds:population>1934</ds:population>
+    <ds:jurisdictiongeo>
+      <geo:SpatialThing>
+        <usps:deliveryAddress />
+        <usps:cityName>Franklin</usps:cityName>
+        <geo:lat>41.611549</geo:lat>
+        <geo:long>-72.145949</geo:long>
+        <usps:stateAbbr>CT</usps:stateAbbr>
+        <usps:zipCode />
+      </geo:SpatialThing>
+    </ds:jurisdictiongeo>
+    <ds:crime_reported>55</ds:crime_reported>
+  </dsbase:_6ntu-dndh>
+  <dsbase:_6ntu-dndh rdf:about="http://data.ct.gov/resource/_6ntu-dndh/72">
+    <socrata:rowID>72</socrata:rowID>
+    <rdfs:member rdf:resource="http://data.ct.gov/resource/_6ntu-dndh" />
+    <ds:jurisdiction_id>CTSP07200</ds:jurisdiction_id>
+    <ds:jurisdiction>Ledyard</ds:jurisdiction>
+    <ds:population>15475</ds:population>
+    <ds:jurisdictiongeo>
+      <geo:SpatialThing>
+        <usps:deliveryAddress />
+        <usps:cityName>Ledyard</usps:cityName>
+        <geo:lat>41.445618</geo:lat>
+        <geo:long>-72.018188</geo:long>
+        <usps:stateAbbr>CT</usps:stateAbbr>
+        <usps:zipCode />
+      </geo:SpatialThing>
+    </ds:jurisdictiongeo>
+    <ds:crime_reported>171</ds:crime_reported>
+  </dsbase:_6ntu-dndh>
+  <dsbase:_6ntu-dndh rdf:about="http://data.ct.gov/resource/_6ntu-dndh/125">
+    <socrata:rowID>125</socrata:rowID>
+    <rdfs:member rdf:resource="http://data.ct.gov/resource/_6ntu-dndh" />
+    <ds:jurisdiction_id>CT0012400</ds:jurisdiction_id>
+    <ds:jurisdiction>Seymour</ds:jurisdiction>
+    <ds:population>16283</ds:population>
+    <ds:jurisdictiongeo>
+      <geo:SpatialThing>
+        <usps:deliveryAddress />
+        <usps:cityName>Seymour</usps:cityName>
+        <geo:lat>41.395594</geo:lat>
+        <geo:long>-73.073581</geo:long>
+        <usps:stateAbbr>CT</usps:stateAbbr>
+        <usps:zipCode />
+      </geo:SpatialThing>
+    </ds:jurisdictiongeo>
+    <ds:crime_reported>425</ds:crime_reported>
+  </dsbase:_6ntu-dndh>
+  <dsbase:_6ntu-dndh rdf:about="http://data.ct.gov/resource/_6ntu-dndh/69">
+    <socrata:rowID>69</socrata:rowID>
+    <rdfs:member rdf:resource="http://data.ct.gov/resource/_6ntu-dndh" />
+    <ds:jurisdiction_id>CTSP06900</ds:jurisdiction_id>
+    <ds:jurisdiction>Killingly</ds:jurisdiction>
+    <ds:population>17354</ds:population>
+    <ds:jurisdictiongeo>
+      <geo:SpatialThing>
+        <usps:deliveryAddress />
+        <usps:cityName>Killingly</usps:cityName>
+        <geo:lat>41.803361</geo:lat>
+        <geo:long>-71.885766</geo:long>
+        <usps:stateAbbr>CT</usps:stateAbbr>
+        <usps:zipCode />
+      </geo:SpatialThing>
+    </ds:jurisdictiongeo>
+    <ds:crime_reported>382</ds:crime_reported>
+  </dsbase:_6ntu-dndh>
+  <dsbase:_6ntu-dndh rdf:about="http://data.ct.gov/resource/_6ntu-dndh/54">
+    <socrata:rowID>54</socrata:rowID>
+    <rdfs:member rdf:resource="http://data.ct.gov/resource/_6ntu-dndh" />
+    <ds:jurisdiction_id>CT0005400</ds:jurisdiction_id>
+    <ds:jurisdiction>Glastonbury</ds:jurisdiction>
+    <ds:population>33584</ds:population>
+    <ds:jurisdictiongeo>
+      <geo:SpatialThing>
+        <usps:deliveryAddress />
+        <usps:cityName>Glastonbury</usps:cityName>
+        <geo:lat>41.707618</geo:lat>
+        <geo:long>-72.608041</geo:long>
+        <usps:stateAbbr>CT</usps:stateAbbr>
+        <usps:zipCode />
+      </geo:SpatialThing>
+    </ds:jurisdictiongeo>
+    <ds:crime_reported>845</ds:crime_reported>
+  </dsbase:_6ntu-dndh>
+  <dsbase:_6ntu-dndh rdf:about="http://data.ct.gov/resource/_6ntu-dndh/25">
+    <socrata:rowID>25</socrata:rowID>
+    <rdfs:member rdf:resource="http://data.ct.gov/resource/_6ntu-dndh" />
+    <ds:jurisdiction_id>CT0002500</ds:jurisdiction_id>
+    <ds:jurisdiction>Cheshire</ds:jurisdiction>
+    <ds:population>30074</ds:population>
+    <ds:jurisdictiongeo>
+      <geo:SpatialThing>
+        <usps:deliveryAddress />
+        <usps:cityName>Cheshire</usps:cityName>
+        <geo:lat>41.498834</geo:lat>
+        <geo:long>-72.901448</geo:long>
+        <usps:stateAbbr>CT</usps:stateAbbr>
+        <usps:zipCode />
+      </geo:SpatialThing>
+    </ds:jurisdictiongeo>
+    <ds:crime_reported>484</ds:crime_reported>
+  </dsbase:_6ntu-dndh>
+  <dsbase:_6ntu-dndh rdf:about="http://data.ct.gov/resource/_6ntu-dndh/2">
+    <socrata:rowID>2</socrata:rowID>
+    <rdfs:member rdf:resource="http://data.ct.gov/resource/_6ntu-dndh" />
+    <ds:jurisdiction_id>CT0000200</ds:jurisdiction_id>
+    <ds:jurisdiction>Ansonia</ds:jurisdiction>
+    <ds:population>19548</ds:population>
+    <ds:jurisdictiongeo>
+      <geo:SpatialThing>
+        <usps:deliveryAddress />
+        <usps:cityName>Ansonia</usps:cityName>
+        <geo:lat>41.34198</geo:lat>
+        <geo:long>-73.078296</geo:long>
+        <usps:stateAbbr>CT</usps:stateAbbr>
+        <usps:zipCode />
+      </geo:SpatialThing>
+    </ds:jurisdictiongeo>
+    <ds:crime_reported>925</ds:crime_reported>
+  </dsbase:_6ntu-dndh>
+  <dsbase:_6ntu-dndh rdf:about="http://data.ct.gov/resource/_6ntu-dndh/101">
+    <socrata:rowID>101</socrata:rowID>
+    <rdfs:member rdf:resource="http://data.ct.gov/resource/_6ntu-dndh" />
+    <ds:jurisdiction_id>CT0010100</ds:jurisdiction_id>
+    <ds:jurisdiction>North Haven</ds:jurisdiction>
+    <ds:population>24269</ds:population>
+    <ds:jurisdictiongeo>
+      <geo:SpatialThing>
+        <usps:deliveryAddress />
+        <usps:cityName>North Haven</usps:cityName>
+        <geo:lat>41.38864</geo:lat>
+        <geo:long>-72.860826</geo:long>
+        <usps:stateAbbr>CT</usps:stateAbbr>
+        <usps:zipCode />
+      </geo:SpatialThing>
+    </ds:jurisdictiongeo>
+    <ds:crime_reported>1314</ds:crime_reported>
+  </dsbase:_6ntu-dndh>
+  <dsbase:_6ntu-dndh rdf:about="http://data.ct.gov/resource/_6ntu-dndh/48">
+    <socrata:rowID>48</socrata:rowID>
+    <rdfs:member rdf:resource="http://data.ct.gov/resource/_6ntu-dndh" />
+    <ds:jurisdiction_id>CTSP04800</ds:jurisdiction_id>
+    <ds:jurisdiction>Ellington</ds:jurisdiction>
+    <ds:population>13614</ds:population>
+    <ds:jurisdictiongeo>
+      <geo:SpatialThing>
+        <usps:deliveryAddress />
+        <usps:cityName>Ellington</usps:cityName>
+        <geo:lat>41.903847</geo:lat>
+        <geo:long>-72.470262</geo:long>
+        <usps:stateAbbr>CT</usps:stateAbbr>
+        <usps:zipCode />
+      </geo:SpatialThing>
+    </ds:jurisdictiongeo>
+    <ds:crime_reported>139</ds:crime_reported>
+  </dsbase:_6ntu-dndh>
+  <dsbase:_6ntu-dndh rdf:about="http://data.ct.gov/resource/_6ntu-dndh/164">
+    <socrata:rowID>164</socrata:rowID>
+    <rdfs:member rdf:resource="http://data.ct.gov/resource/_6ntu-dndh" />
+    <ds:jurisdiction_id>CT0016300</ds:jurisdiction_id>
+    <ds:jurisdiction>Willimantic</ds:jurisdiction>
+    <ds:population>17363</ds:population>
+    <ds:jurisdictiongeo>
+      <geo:SpatialThing>
+        <usps:deliveryAddress />
+        <usps:cityName>Willimantic</usps:cityName>
+        <geo:lat>41.711724</geo:lat>
+        <geo:long>-72.211975</geo:long>
+        <usps:stateAbbr>CT</usps:stateAbbr>
+        <usps:zipCode />
+      </geo:SpatialThing>
+    </ds:jurisdictiongeo>
+    <ds:crime_reported>680</ds:crime_reported>
+  </dsbase:_6ntu-dndh>
+  <dsbase:_6ntu-dndh rdf:about="http://data.ct.gov/resource/_6ntu-dndh/97">
+    <socrata:rowID>97</socrata:rowID>
+    <rdfs:member rdf:resource="http://data.ct.gov/resource/_6ntu-dndh" />
+    <ds:jurisdiction_id>CT0009700</ds:jurisdiction_id>
+    <ds:jurisdiction>Newtown</ds:jurisdiction>
+    <ds:population>26373</ds:population>
+    <ds:jurisdictiongeo>
+      <geo:SpatialThing>
+        <usps:deliveryAddress />
+        <usps:cityName>Newtown</usps:cityName>
+        <geo:lat>41.413516</geo:lat>
+        <geo:long>-73.308842</geo:long>
+        <usps:stateAbbr>CT</usps:stateAbbr>
+        <usps:zipCode />
+      </geo:SpatialThing>
+    </ds:jurisdictiongeo>
+    <ds:crime_reported>371</ds:crime_reported>
+  </dsbase:_6ntu-dndh>
+  <dsbase:_6ntu-dndh rdf:about="http://data.ct.gov/resource/_6ntu-dndh/74">
+    <socrata:rowID>74</socrata:rowID>
+    <rdfs:member rdf:resource="http://data.ct.gov/resource/_6ntu-dndh" />
+    <ds:jurisdiction_id>CTSP07400</ds:jurisdiction_id>
+    <ds:jurisdiction>Litchfield</ds:jurisdiction>
+    <ds:population>8763</ds:population>
+    <ds:jurisdictiongeo>
+      <geo:SpatialThing>
+        <usps:deliveryAddress />
+        <usps:cityName>Litchfield</usps:cityName>
+        <geo:lat>41.746861</geo:lat>
+        <geo:long>-73.189234</geo:long>
+        <usps:stateAbbr>CT</usps:stateAbbr>
+        <usps:zipCode />
+      </geo:SpatialThing>
+    </ds:jurisdictiongeo>
+    <ds:crime_reported>169</ds:crime_reported>
+  </dsbase:_6ntu-dndh>
+  <dsbase:_6ntu-dndh rdf:about="http://data.ct.gov/resource/_6ntu-dndh/75">
+    <socrata:rowID>75</socrata:rowID>
+    <rdfs:member rdf:resource="http://data.ct.gov/resource/_6ntu-dndh" />
+    <ds:jurisdiction_id>CTSP07500</ds:jurisdiction_id>
+    <ds:jurisdiction>Lyme</ds:jurisdiction>
+    <ds:population>2125</ds:population>
+    <ds:jurisdictiongeo>
+      <geo:SpatialThing>
+        <usps:deliveryAddress />
+        <usps:cityName>Lyme</usps:cityName>
+        <geo:lat>41.3293</geo:lat>
+        <geo:long>-72.306297</geo:long>
+        <usps:stateAbbr>CT</usps:stateAbbr>
+        <usps:zipCode />
+      </geo:SpatialThing>
+    </ds:jurisdictiongeo>
+    <ds:crime_reported>30</ds:crime_reported>
+  </dsbase:_6ntu-dndh>
+  <dsbase:_6ntu-dndh rdf:about="http://data.ct.gov/resource/_6ntu-dndh/135">
+    <socrata:rowID>135</socrata:rowID>
+    <rdfs:member rdf:resource="http://data.ct.gov/resource/_6ntu-dndh" />
+    <ds:jurisdiction_id>CTSP13400</ds:jurisdiction_id>
+    <ds:jurisdiction>Stafford</ds:jurisdiction>
+    <ds:population>11912</ds:population>
+    <ds:jurisdictiongeo>
+      <geo:SpatialThing>
+        <usps:deliveryAddress />
+        <usps:cityName>Stafford</usps:cityName>
+        <geo:lat>41.98469</geo:lat>
+        <geo:long>-72.290196</geo:long>
+        <usps:stateAbbr>CT</usps:stateAbbr>
+        <usps:zipCode />
+      </geo:SpatialThing>
+    </ds:jurisdictiongeo>
+    <ds:crime_reported>149</ds:crime_reported>
+  </dsbase:_6ntu-dndh>
+  <dsbase:_6ntu-dndh rdf:about="http://data.ct.gov/resource/_6ntu-dndh/37">
+    <socrata:rowID>37</socrata:rowID>
+    <rdfs:member rdf:resource="http://data.ct.gov/resource/_6ntu-dndh" />
+    <ds:jurisdiction_id>CT0003700</ds:jurisdiction_id>
+    <ds:jurisdiction>Derby</ds:jurisdiction>
+    <ds:population>13055</ds:population>
+    <ds:jurisdictiongeo>
+      <geo:SpatialThing>
+        <usps:deliveryAddress />
+        <usps:cityName>Derby</usps:cityName>
+        <geo:lat>41.322959</geo:lat>
+        <geo:long>-73.089594</geo:long>
+        <usps:stateAbbr>CT</usps:stateAbbr>
+        <usps:zipCode />
+      </geo:SpatialThing>
+    </ds:jurisdictiongeo>
+    <ds:crime_reported>941</ds:crime_reported>
+  </dsbase:_6ntu-dndh>
+  <dsbase:_6ntu-dndh rdf:about="http://data.ct.gov/resource/_6ntu-dndh/7">
+    <socrata:rowID>7</socrata:rowID>
+    <rdfs:member rdf:resource="http://data.ct.gov/resource/_6ntu-dndh" />
+    <ds:jurisdiction_id>CT0000700</ds:jurisdiction_id>
+    <ds:jurisdiction>Berlin</ds:jurisdiction>
+    <ds:population>19192</ds:population>
+    <ds:jurisdictiongeo>
+      <geo:SpatialThing>
+        <usps:deliveryAddress />
+        <usps:cityName>Berlin</usps:cityName>
+        <geo:lat>41.626049</geo:lat>
+        <geo:long>-72.749301</geo:long>
+        <usps:stateAbbr>CT</usps:stateAbbr>
+        <usps:zipCode />
+      </geo:SpatialThing>
+    </ds:jurisdictiongeo>
+    <ds:crime_reported>786</ds:crime_reported>
+  </dsbase:_6ntu-dndh>
+  <dsbase:_6ntu-dndh rdf:about="http://data.ct.gov/resource/_6ntu-dndh/80">
+    <socrata:rowID>80</socrata:rowID>
+    <rdfs:member rdf:resource="http://data.ct.gov/resource/_6ntu-dndh" />
+    <ds:jurisdiction_id>CT0008000</ds:jurisdiction_id>
+    <ds:jurisdiction>Meriden</ds:jurisdiction>
+    <ds:population>61365</ds:population>
+    <ds:jurisdictiongeo>
+      <geo:SpatialThing>
+        <usps:deliveryAddress />
+        <usps:cityName>Meriden</usps:cityName>
+        <geo:lat>41.537589</geo:lat>
+        <geo:long>-72.8011</geo:long>
+        <usps:stateAbbr>CT</usps:stateAbbr>
+        <usps:zipCode />
+      </geo:SpatialThing>
+    </ds:jurisdictiongeo>
+    <ds:crime_reported>3963</ds:crime_reported>
+  </dsbase:_6ntu-dndh>
+  <dsbase:_6ntu-dndh rdf:about="http://data.ct.gov/resource/_6ntu-dndh/165">
+    <socrata:rowID>165</socrata:rowID>
+    <rdfs:member rdf:resource="http://data.ct.gov/resource/_6ntu-dndh" />
+    <ds:jurisdiction_id>CTSP16300</ds:jurisdiction_id>
+    <ds:jurisdiction>Windham</ds:jurisdiction>
+    <ds:population>6719</ds:population>
+    <ds:jurisdictiongeo>
+      <geo:SpatialThing>
+        <usps:deliveryAddress />
+        <usps:cityName>Windham</usps:cityName>
+        <geo:lat>41.699744</geo:lat>
+        <geo:long>-72.157703</geo:long>
+        <usps:stateAbbr>CT</usps:stateAbbr>
+        <usps:zipCode />
+      </geo:SpatialThing>
+    </ds:jurisdictiongeo>
+    <ds:crime_reported>213</ds:crime_reported>
+  </dsbase:_6ntu-dndh>
+  <dsbase:_6ntu-dndh rdf:about="http://data.ct.gov/resource/_6ntu-dndh/52">
+    <socrata:rowID>52</socrata:rowID>
+    <rdfs:member rdf:resource="http://data.ct.gov/resource/_6ntu-dndh" />
+    <ds:jurisdiction_id>CT0005200</ds:jurisdiction_id>
+    <ds:jurisdiction>Farmington</ds:jurisdiction>
+    <ds:population>24909</ds:population>
+    <ds:jurisdictiongeo>
+      <geo:SpatialThing>
+        <usps:deliveryAddress />
+        <usps:cityName>Farmington</usps:cityName>
+        <geo:lat>41.72651</geo:lat>
+        <geo:long>-72.824947</geo:long>
+        <usps:stateAbbr>CT</usps:stateAbbr>
+        <usps:zipCode />
+      </geo:SpatialThing>
+    </ds:jurisdictiongeo>
+    <ds:crime_reported>1253</ds:crime_reported>
+  </dsbase:_6ntu-dndh>
+  <dsbase:_6ntu-dndh rdf:about="http://data.ct.gov/resource/_6ntu-dndh/16">
+    <socrata:rowID>16</socrata:rowID>
+    <rdfs:member rdf:resource="http://data.ct.gov/resource/_6ntu-dndh" />
+    <ds:jurisdiction_id>CTSP01600</ds:jurisdiction_id>
+    <ds:jurisdiction>Bridgewater</ds:jurisdiction>
+    <ds:population>1923</ds:population>
+    <ds:jurisdictiongeo>
+      <geo:SpatialThing>
+        <usps:deliveryAddress />
+        <usps:cityName>Bridgewater</usps:cityName>
+        <geo:lat>41.535109</geo:lat>
+        <geo:long>-73.366386</geo:long>
+        <usps:stateAbbr>CT</usps:stateAbbr>
+        <usps:zipCode />
+      </geo:SpatialThing>
+    </ds:jurisdictiongeo>
+    <ds:crime_reported>9</ds:crime_reported>
+  </dsbase:_6ntu-dndh>
+  <dsbase:_6ntu-dndh rdf:about="http://data.ct.gov/resource/_6ntu-dndh/12">
+    <socrata:rowID>12</socrata:rowID>
+    <rdfs:member rdf:resource="http://data.ct.gov/resource/_6ntu-dndh" />
+    <ds:jurisdiction_id>CTSP01200</ds:jurisdiction_id>
+    <ds:jurisdiction>Bolton</ds:jurisdiction>
+    <ds:population>5285</ds:population>
+    <ds:jurisdictiongeo>
+      <geo:SpatialThing>
+        <usps:deliveryAddress />
+        <usps:cityName>Bolton</usps:cityName>
+        <geo:lat>41.770886</geo:lat>
+        <geo:long>-72.443722</geo:long>
+        <usps:stateAbbr>CT</usps:stateAbbr>
+        <usps:zipCode />
+      </geo:SpatialThing>
+    </ds:jurisdictiongeo>
+    <ds:crime_reported>61</ds:crime_reported>
+  </dsbase:_6ntu-dndh>
+  <dsbase:_6ntu-dndh rdf:about="http://data.ct.gov/resource/_6ntu-dndh/88">
+    <socrata:rowID>88</socrata:rowID>
+    <rdfs:member rdf:resource="http://data.ct.gov/resource/_6ntu-dndh" />
+    <ds:jurisdiction_id>CT0008800</ds:jurisdiction_id>
+    <ds:jurisdiction>Naugatuck</ds:jurisdiction>
+    <ds:population>32650</ds:population>
+    <ds:jurisdictiongeo>
+      <geo:SpatialThing>
+        <usps:deliveryAddress />
+        <usps:cityName>Naugatuck</usps:cityName>
+        <geo:lat>41.491113</geo:lat>
+        <geo:long>-73.056564</geo:long>
+        <usps:stateAbbr>CT</usps:stateAbbr>
+        <usps:zipCode />
+      </geo:SpatialThing>
+    </ds:jurisdictiongeo>
+    <ds:crime_reported>1401</ds:crime_reported>
+  </dsbase:_6ntu-dndh>
+  <dsbase:_6ntu-dndh rdf:about="http://data.ct.gov/resource/_6ntu-dndh/147">
+    <socrata:rowID>147</socrata:rowID>
+    <rdfs:member rdf:resource="http://data.ct.gov/resource/_6ntu-dndh" />
+    <ds:jurisdiction_id>CT0014600</ds:jurisdiction_id>
+    <ds:jurisdiction>Vernon</ds:jurisdiction>
+    <ds:population>29565</ds:population>
+    <ds:jurisdictiongeo>
+      <geo:SpatialThing>
+        <usps:deliveryAddress />
+        <usps:cityName>Vernon</usps:cityName>
+        <geo:lat>41.818792</geo:lat>
+        <geo:long>-72.479029</geo:long>
+        <usps:stateAbbr>CT</usps:stateAbbr>
+        <usps:zipCode />
+      </geo:SpatialThing>
+    </ds:jurisdictiongeo>
+    <ds:crime_reported>903</ds:crime_reported>
+  </dsbase:_6ntu-dndh>
+  <dsbase:_6ntu-dndh rdf:about="http://data.ct.gov/resource/_6ntu-dndh/127">
+    <socrata:rowID>127</socrata:rowID>
+    <rdfs:member rdf:resource="http://data.ct.gov/resource/_6ntu-dndh" />
+    <ds:jurisdiction_id>CT0012600</ds:jurisdiction_id>
+    <ds:jurisdiction>Shelton</ds:jurisdiction>
+    <ds:population>40144</ds:population>
+    <ds:jurisdictiongeo>
+      <geo:SpatialThing>
+        <usps:deliveryAddress />
+        <usps:cityName>Shelton</usps:cityName>
+        <geo:lat>41.316843</geo:lat>
+        <geo:long>-73.092968</geo:long>
+        <usps:stateAbbr>CT</usps:stateAbbr>
+        <usps:zipCode />
+      </geo:SpatialThing>
+    </ds:jurisdictiongeo>
+    <ds:crime_reported>1053</ds:crime_reported>
+  </dsbase:_6ntu-dndh>
+  <dsbase:_6ntu-dndh rdf:about="http://data.ct.gov/resource/_6ntu-dndh/143">
+    <socrata:rowID>143</socrata:rowID>
+    <rdfs:member rdf:resource="http://data.ct.gov/resource/_6ntu-dndh" />
+    <ds:jurisdiction_id>CTSP14200</ds:jurisdiction_id>
+    <ds:jurisdiction>Tolland</ds:jurisdiction>
+    <ds:population>13851</ds:population>
+    <ds:jurisdictiongeo>
+      <geo:SpatialThing>
+        <usps:deliveryAddress />
+        <usps:cityName>Tolland</usps:cityName>
+        <geo:lat>41.872445</geo:lat>
+        <geo:long>-72.369671</geo:long>
+        <usps:stateAbbr>CT</usps:stateAbbr>
+        <usps:zipCode />
+      </geo:SpatialThing>
+    </ds:jurisdictiongeo>
+    <ds:crime_reported>114</ds:crime_reported>
+  </dsbase:_6ntu-dndh>
+  <dsbase:_6ntu-dndh rdf:about="http://data.ct.gov/resource/_6ntu-dndh/62">
+    <socrata:rowID>62</socrata:rowID>
+    <rdfs:member rdf:resource="http://data.ct.gov/resource/_6ntu-dndh" />
+    <ds:jurisdiction_id>CT0006200</ds:jurisdiction_id>
+    <ds:jurisdiction>Hamden</ds:jurisdiction>
+    <ds:population>59963</ds:population>
+    <ds:jurisdictiongeo>
+      <geo:SpatialThing>
+        <usps:deliveryAddress />
+        <usps:cityName>Hamden</usps:cityName>
+        <geo:lat>41.382918</geo:lat>
+        <geo:long>-72.907743</geo:long>
+        <usps:stateAbbr>CT</usps:stateAbbr>
+        <usps:zipCode />
+      </geo:SpatialThing>
+    </ds:jurisdictiongeo>
+    <ds:crime_reported>3001</ds:crime_reported>
+  </dsbase:_6ntu-dndh>
+  <dsbase:_6ntu-dndh rdf:about="http://data.ct.gov/resource/_6ntu-dndh/139">
+    <socrata:rowID>139</socrata:rowID>
+    <rdfs:member rdf:resource="http://data.ct.gov/resource/_6ntu-dndh" />
+    <ds:jurisdiction_id>CT0013800</ds:jurisdiction_id>
+    <ds:jurisdiction>Stratford</ds:jurisdiction>
+    <ds:population>52653</ds:population>
+    <ds:jurisdictiongeo>
+      <geo:SpatialThing>
+        <usps:deliveryAddress />
+        <usps:cityName>Stratford</usps:cityName>
+        <geo:lat>41.200888</geo:lat>
+        <geo:long>-73.131323</geo:long>
+        <usps:stateAbbr>CT</usps:stateAbbr>
+        <usps:zipCode />
+      </geo:SpatialThing>
+    </ds:jurisdictiongeo>
+    <ds:crime_reported>2721</ds:crime_reported>
+  </dsbase:_6ntu-dndh>
+  <dsbase:_6ntu-dndh rdf:about="http://data.ct.gov/resource/_6ntu-dndh/161">
+    <socrata:rowID>161</socrata:rowID>
+    <rdfs:member rdf:resource="http://data.ct.gov/resource/_6ntu-dndh" />
+    <ds:jurisdiction_id>CTSP16000</ds:jurisdiction_id>
+    <ds:jurisdiction>Willington</ds:jurisdiction>
+    <ds:population>6279</ds:population>
+    <ds:jurisdictiongeo>
+      <geo:SpatialThing>
+        <usps:deliveryAddress />
+        <usps:cityName>Willington</usps:cityName>
+        <geo:lat>41.87481</geo:lat>
+        <geo:long>-72.262753</geo:long>
+        <usps:stateAbbr>CT</usps:stateAbbr>
+        <usps:zipCode />
+      </geo:SpatialThing>
+    </ds:jurisdictiongeo>
+    <ds:crime_reported>65</ds:crime_reported>
+  </dsbase:_6ntu-dndh>
+  <dsbase:_6ntu-dndh rdf:about="http://data.ct.gov/resource/_6ntu-dndh/3">
+    <socrata:rowID>3</socrata:rowID>
+    <rdfs:member rdf:resource="http://data.ct.gov/resource/_6ntu-dndh" />
+    <ds:jurisdiction_id>CTSP00300</ds:jurisdiction_id>
+    <ds:jurisdiction>Ashford</ds:jurisdiction>
+    <ds:population>4317</ds:population>
+    <ds:jurisdictiongeo>
+      <geo:SpatialThing>
+        <usps:deliveryAddress />
+        <usps:cityName>Ashford</usps:cityName>
+        <geo:lat>41.871915</geo:lat>
+        <geo:long>-72.124128</geo:long>
+        <usps:stateAbbr>CT</usps:stateAbbr>
+        <usps:zipCode />
+      </geo:SpatialThing>
+    </ds:jurisdictiongeo>
+    <ds:crime_reported>40</ds:crime_reported>
+  </dsbase:_6ntu-dndh>
+  <dsbase:_6ntu-dndh rdf:about="http://data.ct.gov/resource/_6ntu-dndh/123">
+    <socrata:rowID>123</socrata:rowID>
+    <rdfs:member rdf:resource="http://data.ct.gov/resource/_6ntu-dndh" />
+    <ds:jurisdiction_id>CTSP12200</ds:jurisdiction_id>
+    <ds:jurisdiction>Salisbury</ds:jurisdiction>
+    <ds:population>4191</ds:population>
+    <ds:jurisdictiongeo>
+      <geo:SpatialThing>
+        <usps:deliveryAddress />
+        <usps:cityName>Salisbury</usps:cityName>
+        <geo:lat>41.983411</geo:lat>
+        <geo:long>-73.422268</geo:long>
+        <usps:stateAbbr>CT</usps:stateAbbr>
+        <usps:zipCode />
+      </geo:SpatialThing>
+    </ds:jurisdictiongeo>
+    <ds:crime_reported>39</ds:crime_reported>
+  </dsbase:_6ntu-dndh>
+  <dsbase:_6ntu-dndh rdf:about="http://data.ct.gov/resource/_6ntu-dndh/130">
+    <socrata:rowID>130</socrata:rowID>
+    <rdfs:member rdf:resource="http://data.ct.gov/resource/_6ntu-dndh" />
+    <ds:jurisdiction_id>CTSP12900</ds:jurisdiction_id>
+    <ds:jurisdiction>Somers</ds:jurisdiction>
+    <ds:population>10974</ds:population>
+    <ds:jurisdictiongeo>
+      <geo:SpatialThing>
+        <usps:deliveryAddress />
+        <usps:cityName>Somers</usps:cityName>
+        <geo:lat>41.985524</geo:lat>
+        <geo:long>-72.447503</geo:long>
+        <usps:stateAbbr>CT</usps:stateAbbr>
+        <usps:zipCode />
+      </geo:SpatialThing>
+    </ds:jurisdictiongeo>
+    <ds:crime_reported>112</ds:crime_reported>
+  </dsbase:_6ntu-dndh>
+  <dsbase:_6ntu-dndh rdf:about="http://data.ct.gov/resource/_6ntu-dndh/87">
+    <socrata:rowID>87</socrata:rowID>
+    <rdfs:member rdf:resource="http://data.ct.gov/resource/_6ntu-dndh" />
+    <ds:jurisdiction_id>CTSP08700</ds:jurisdiction_id>
+    <ds:jurisdiction>Morris</ds:jurisdiction>
+    <ds:population>2425</ds:population>
+    <ds:jurisdictiongeo>
+      <geo:SpatialThing>
+        <usps:deliveryAddress />
+        <usps:cityName>Morris</usps:cityName>
+        <geo:lat>41.684395</geo:lat>
+        <geo:long>-73.196691</geo:long>
+        <usps:stateAbbr>CT</usps:stateAbbr>
+        <usps:zipCode />
+      </geo:SpatialThing>
+    </ds:jurisdictiongeo>
+    <ds:crime_reported>39</ds:crime_reported>
+  </dsbase:_6ntu-dndh>
+  <dsbase:_6ntu-dndh rdf:about="http://data.ct.gov/resource/_6ntu-dndh/169">
+    <socrata:rowID>169</socrata:rowID>
+    <rdfs:member rdf:resource="http://data.ct.gov/resource/_6ntu-dndh" />
+    <ds:jurisdiction_id>CT0016700</ds:jurisdiction_id>
+    <ds:jurisdiction>Woodbridge</ds:jurisdiction>
+    <ds:population>9463</ds:population>
+    <ds:jurisdictiongeo>
+      <geo:SpatialThing>
+        <usps:deliveryAddress />
+        <usps:cityName>Woodbridge</usps:cityName>
+        <geo:lat>41.352933</geo:lat>
+        <geo:long>-73.014356</geo:long>
+        <usps:stateAbbr>CT</usps:stateAbbr>
+        <usps:zipCode />
+      </geo:SpatialThing>
+    </ds:jurisdictiongeo>
+    <ds:crime_reported>271</ds:crime_reported>
+  </dsbase:_6ntu-dndh>
+  <dsbase:_6ntu-dndh rdf:about="http://data.ct.gov/resource/_6ntu-dndh/28">
+    <socrata:rowID>28</socrata:rowID>
+    <rdfs:member rdf:resource="http://data.ct.gov/resource/_6ntu-dndh" />
+    <ds:jurisdiction_id>CTSP02800</ds:jurisdiction_id>
+    <ds:jurisdiction>Colchester</ds:jurisdiction>
+    <ds:population>15330</ds:population>
+    <ds:jurisdictiongeo>
+      <geo:SpatialThing>
+        <usps:deliveryAddress />
+        <usps:cityName>Colchester</usps:cityName>
+        <geo:lat>41.57348</geo:lat>
+        <geo:long>-72.332129</geo:long>
+        <usps:stateAbbr>CT</usps:stateAbbr>
+        <usps:zipCode />
+      </geo:SpatialThing>
+    </ds:jurisdictiongeo>
+    <ds:crime_reported>147</ds:crime_reported>
+  </dsbase:_6ntu-dndh>
+  <dsbase:_6ntu-dndh rdf:about="http://data.ct.gov/resource/_6ntu-dndh/170">
+    <socrata:rowID>170</socrata:rowID>
+    <rdfs:member rdf:resource="http://data.ct.gov/resource/_6ntu-dndh" />
+    <ds:jurisdiction_id>CTSP16800</ds:jurisdiction_id>
+    <ds:jurisdiction>Woodbury</ds:jurisdiction>
+    <ds:population>9692</ds:population>
+    <ds:jurisdictiongeo>
+      <geo:SpatialThing>
+        <usps:deliveryAddress />
+        <usps:cityName>Woodbury</usps:cityName>
+        <geo:lat>41.545058</geo:lat>
+        <geo:long>-73.208654</geo:long>
+        <usps:stateAbbr>CT</usps:stateAbbr>
+        <usps:zipCode />
+      </geo:SpatialThing>
+    </ds:jurisdictiongeo>
+    <ds:crime_reported>86</ds:crime_reported>
+  </dsbase:_6ntu-dndh>
+  <dsbase:_6ntu-dndh rdf:about="http://data.ct.gov/resource/_6ntu-dndh/32">
+    <socrata:rowID>32</socrata:rowID>
+    <rdfs:member rdf:resource="http://data.ct.gov/resource/_6ntu-dndh" />
+    <ds:jurisdiction_id>CT0003200</ds:jurisdiction_id>
+    <ds:jurisdiction>Coventry</ds:jurisdiction>
+    <ds:population>12121</ds:population>
+    <ds:jurisdictiongeo>
+      <geo:SpatialThing>
+        <usps:deliveryAddress />
+        <usps:cityName>Coventry</usps:cityName>
+        <geo:lat>41.774042</geo:lat>
+        <geo:long>-72.309999</geo:long>
+        <usps:stateAbbr>CT</usps:stateAbbr>
+        <usps:zipCode />
+      </geo:SpatialThing>
+    </ds:jurisdictiongeo>
+    <ds:crime_reported>252</ds:crime_reported>
+  </dsbase:_6ntu-dndh>
+  <dsbase:_6ntu-dndh rdf:about="http://data.ct.gov/resource/_6ntu-dndh/132">
+    <socrata:rowID>132</socrata:rowID>
+    <rdfs:member rdf:resource="http://data.ct.gov/resource/_6ntu-dndh" />
+    <ds:jurisdiction_id>CT0013100</ds:jurisdiction_id>
+    <ds:jurisdiction>Southington</ds:jurisdiction>
+    <ds:population>41858</ds:population>
+    <ds:jurisdictiongeo>
+      <geo:SpatialThing>
+        <usps:deliveryAddress />
+        <usps:cityName>Southington</usps:cityName>
+        <geo:lat>41.600428</geo:lat>
+        <geo:long>-72.878105</geo:long>
+        <usps:stateAbbr>CT</usps:stateAbbr>
+        <usps:zipCode />
+      </geo:SpatialThing>
+    </ds:jurisdictiongeo>
+    <ds:crime_reported>1894</ds:crime_reported>
+  </dsbase:_6ntu-dndh>
+  <dsbase:_6ntu-dndh rdf:about="http://data.ct.gov/resource/_6ntu-dndh/100">
+    <socrata:rowID>100</socrata:rowID>
+    <rdfs:member rdf:resource="http://data.ct.gov/resource/_6ntu-dndh" />
+    <ds:jurisdiction_id>CTSP10000</ds:jurisdiction_id>
+    <ds:jurisdiction>North Canaan</ds:jurisdiction>
+    <ds:population>3530</ds:population>
+    <ds:jurisdictiongeo>
+      <geo:SpatialThing>
+        <usps:deliveryAddress />
+        <usps:cityName>North Canaan</usps:cityName>
+        <geo:lat>42.025992</geo:lat>
+        <geo:long>-73.32814</geo:long>
+        <usps:stateAbbr>CT</usps:stateAbbr>
+        <usps:zipCode />
+      </geo:SpatialThing>
+    </ds:jurisdictiongeo>
+    <ds:crime_reported>88</ds:crime_reported>
+  </dsbase:_6ntu-dndh>
+  <dsbase:_6ntu-dndh rdf:about="http://data.ct.gov/resource/_6ntu-dndh/114">
+    <socrata:rowID>114</socrata:rowID>
+    <rdfs:member rdf:resource="http://data.ct.gov/resource/_6ntu-dndh" />
+    <ds:jurisdiction_id>CTSP11400</ds:jurisdiction_id>
+    <ds:jurisdiction>Preston</ds:jurisdiction>
+    <ds:population>4939</ds:population>
+    <ds:jurisdictiongeo>
+      <geo:SpatialThing>
+        <usps:deliveryAddress />
+        <usps:cityName>Preston</usps:cityName>
+        <geo:lat>41.530948</geo:lat>
+        <geo:long>-71.97251</geo:long>
+        <usps:stateAbbr>CT</usps:stateAbbr>
+        <usps:zipCode />
+      </geo:SpatialThing>
+    </ds:jurisdictiongeo>
+    <ds:crime_reported>66</ds:crime_reported>
+  </dsbase:_6ntu-dndh>
+  <dsbase:_6ntu-dndh rdf:about="http://data.ct.gov/resource/_6ntu-dndh/102">
+    <socrata:rowID>102</socrata:rowID>
+    <rdfs:member rdf:resource="http://data.ct.gov/resource/_6ntu-dndh" />
+    <ds:jurisdiction_id>CTSP10200</ds:jurisdiction_id>
+    <ds:jurisdiction>North Stonington</ds:jurisdiction>
+    <ds:population>5259</ds:population>
+    <ds:jurisdictiongeo>
+      <geo:SpatialThing>
+        <usps:deliveryAddress />
+        <usps:cityName>North Stonington</usps:cityName>
+        <geo:lat>41.43775</geo:lat>
+        <geo:long>-71.879919</geo:long>
+        <usps:stateAbbr>CT</usps:stateAbbr>
+        <usps:zipCode />
+      </geo:SpatialThing>
+    </ds:jurisdictiongeo>
+    <ds:crime_reported>50</ds:crime_reported>
+  </dsbase:_6ntu-dndh>
+  <dsbase:_6ntu-dndh rdf:about="http://data.ct.gov/resource/_6ntu-dndh/9">
+    <socrata:rowID>9</socrata:rowID>
+    <rdfs:member rdf:resource="http://data.ct.gov/resource/_6ntu-dndh" />
+    <ds:jurisdiction_id>CT0000900</ds:jurisdiction_id>
+    <ds:jurisdiction>Bethel</ds:jurisdiction>
+    <ds:population>19034</ds:population>
+    <ds:jurisdictiongeo>
+      <geo:SpatialThing>
+        <usps:deliveryAddress />
+        <usps:cityName>Bethel</usps:cityName>
+        <geo:lat>41.371727</geo:lat>
+        <geo:long>-73.407448</geo:long>
+        <usps:stateAbbr>CT</usps:stateAbbr>
+        <usps:zipCode />
+      </geo:SpatialThing>
+    </ds:jurisdictiongeo>
+    <ds:crime_reported>380</ds:crime_reported>
+  </dsbase:_6ntu-dndh>
+  <dsbase:_6ntu-dndh rdf:about="http://data.ct.gov/resource/_6ntu-dndh/95">
+    <socrata:rowID>95</socrata:rowID>
+    <rdfs:member rdf:resource="http://data.ct.gov/resource/_6ntu-dndh" />
+    <ds:jurisdiction_id>CT0009500</ds:jurisdiction_id>
+    <ds:jurisdiction>New London</ds:jurisdiction>
+    <ds:population>27048</ds:population>
+    <ds:jurisdictiongeo>
+      <geo:SpatialThing>
+        <usps:deliveryAddress />
+        <usps:cityName>New London</usps:cityName>
+        <geo:lat>41.355167</geo:lat>
+        <geo:long>-72.099561</geo:long>
+        <usps:stateAbbr>CT</usps:stateAbbr>
+        <usps:zipCode />
+      </geo:SpatialThing>
+    </ds:jurisdictiongeo>
+    <ds:crime_reported>1852</ds:crime_reported>
+  </dsbase:_6ntu-dndh>
+  <dsbase:_6ntu-dndh rdf:about="http://data.ct.gov/resource/_6ntu-dndh/176">
+    <socrata:rowID>176</socrata:rowID>
+    <rdfs:member rdf:resource="http://data.ct.gov/resource/_6ntu-dndh" />
+    <ds:jurisdiction_id>CT0018500</ds:jurisdiction_id>
+    <ds:jurisdiction>MTA</ds:jurisdiction>
+    <ds:population>0</ds:population>
+    <ds:jurisdictiongeo>
+      <geo:SpatialThing>
+        <usps:deliveryAddress />
+        <usps:cityName>MTA</usps:cityName>
+        <geo:lat>41.3414</geo:lat>
+        <geo:long>-72.033897</geo:long>
+        <usps:stateAbbr>CT</usps:stateAbbr>
+        <usps:zipCode />
+      </geo:SpatialThing>
+    </ds:jurisdictiongeo>
+    <ds:crime_reported>159</ds:crime_reported>
+  </dsbase:_6ntu-dndh>
+  <dsbase:_6ntu-dndh rdf:about="http://data.ct.gov/resource/_6ntu-dndh/6">
+    <socrata:rowID>6</socrata:rowID>
+    <rdfs:member rdf:resource="http://data.ct.gov/resource/_6ntu-dndh" />
+    <ds:jurisdiction_id>CTSP00600</ds:jurisdiction_id>
+    <ds:jurisdiction>Beacon Falls</ds:jurisdiction>
+    <ds:population>5527</ds:population>
+    <ds:jurisdictiongeo>
+      <geo:SpatialThing>
+        <usps:deliveryAddress />
+        <usps:cityName>Beacon Falls</usps:cityName>
+        <geo:lat>41.444336</geo:lat>
+        <geo:long>-73.060658</geo:long>
+        <usps:stateAbbr>CT</usps:stateAbbr>
+        <usps:zipCode />
+      </geo:SpatialThing>
+    </ds:jurisdictiongeo>
+    <ds:crime_reported>109</ds:crime_reported>
+  </dsbase:_6ntu-dndh>
+  <dsbase:_6ntu-dndh rdf:about="http://data.ct.gov/resource/_6ntu-dndh/56">
+    <socrata:rowID>56</socrata:rowID>
+    <rdfs:member rdf:resource="http://data.ct.gov/resource/_6ntu-dndh" />
+    <ds:jurisdiction_id>CT0005600</ds:jurisdiction_id>
+    <ds:jurisdiction>Granby</ds:jurisdiction>
+    <ds:population>10900</ds:population>
+    <ds:jurisdictiongeo>
+      <geo:SpatialThing>
+        <usps:deliveryAddress />
+        <usps:cityName>Granby</usps:cityName>
+        <geo:lat>41.951103</geo:lat>
+        <geo:long>-72.786055</geo:long>
+        <usps:stateAbbr>CT</usps:stateAbbr>
+        <usps:zipCode />
+      </geo:SpatialThing>
+    </ds:jurisdictiongeo>
+    <ds:crime_reported>222</ds:crime_reported>
+  </dsbase:_6ntu-dndh>
+  <dsbase:_6ntu-dndh rdf:about="http://data.ct.gov/resource/_6ntu-dndh/155">
+    <socrata:rowID>155</socrata:rowID>
+    <rdfs:member rdf:resource="http://data.ct.gov/resource/_6ntu-dndh" />
+    <ds:jurisdiction_id>CTSP15400</ds:jurisdiction_id>
+    <ds:jurisdiction>Westbrook</ds:jurisdiction>
+    <ds:population>6628</ds:population>
+    <ds:jurisdictiongeo>
+      <geo:SpatialThing>
+        <usps:deliveryAddress />
+        <usps:cityName>Westbrook</usps:cityName>
+        <geo:lat>41.283357</geo:lat>
+        <geo:long>-72.441654</geo:long>
+        <usps:stateAbbr>CT</usps:stateAbbr>
+        <usps:zipCode />
+      </geo:SpatialThing>
+    </ds:jurisdictiongeo>
+    <ds:crime_reported>92</ds:crime_reported>
+  </dsbase:_6ntu-dndh>
+  <dsbase:_6ntu-dndh rdf:about="http://data.ct.gov/resource/_6ntu-dndh/41">
+    <socrata:rowID>41</socrata:rowID>
+    <rdfs:member rdf:resource="http://data.ct.gov/resource/_6ntu-dndh" />
+    <ds:jurisdiction_id>CTSP04100</ds:jurisdiction_id>
+    <ds:jurisdiction>East Haddam</ds:jurisdiction>
+    <ds:population>8781</ds:population>
+    <ds:jurisdictiongeo>
+      <geo:SpatialThing>
+        <usps:deliveryAddress />
+        <usps:cityName>East Haddam</usps:cityName>
+        <geo:lat>41.452557</geo:lat>
+        <geo:long>-72.461201</geo:long>
+        <usps:stateAbbr>CT</usps:stateAbbr>
+        <usps:zipCode />
+      </geo:SpatialThing>
+    </ds:jurisdictiongeo>
+    <ds:crime_reported>95</ds:crime_reported>
+  </dsbase:_6ntu-dndh>
+  <dsbase:_6ntu-dndh rdf:about="http://data.ct.gov/resource/_6ntu-dndh/104">
+    <socrata:rowID>104</socrata:rowID>
+    <rdfs:member rdf:resource="http://data.ct.gov/resource/_6ntu-dndh" />
+    <ds:jurisdiction_id>CT0010400</ds:jurisdiction_id>
+    <ds:jurisdiction>Norwich</ds:jurisdiction>
+    <ds:population>38055</ds:population>
+    <ds:jurisdictiongeo>
+      <geo:SpatialThing>
+        <usps:deliveryAddress />
+        <usps:cityName>Norwich</usps:cityName>
+        <geo:lat>41.524304</geo:lat>
+        <geo:long>-72.075821</geo:long>
+        <usps:stateAbbr>CT</usps:stateAbbr>
+        <usps:zipCode />
+      </geo:SpatialThing>
+    </ds:jurisdictiongeo>
+    <ds:crime_reported>2074</ds:crime_reported>
+  </dsbase:_6ntu-dndh>
+  <dsbase:_6ntu-dndh rdf:about="http://data.ct.gov/resource/_6ntu-dndh/126">
+    <socrata:rowID>126</socrata:rowID>
+    <rdfs:member rdf:resource="http://data.ct.gov/resource/_6ntu-dndh" />
+    <ds:jurisdiction_id>CTSP12500</ds:jurisdiction_id>
+    <ds:jurisdiction>Sharon</ds:jurisdiction>
+    <ds:population>3129</ds:population>
+    <ds:jurisdictiongeo>
+      <geo:SpatialThing>
+        <usps:deliveryAddress />
+        <usps:cityName>Sharon</usps:cityName>
+        <geo:lat>41.87943</geo:lat>
+        <geo:long>-73.478873</geo:long>
+        <usps:stateAbbr>CT</usps:stateAbbr>
+        <usps:zipCode />
+      </geo:SpatialThing>
+    </ds:jurisdictiongeo>
+    <ds:crime_reported>24</ds:crime_reported>
+  </dsbase:_6ntu-dndh>
+  <dsbase:_6ntu-dndh rdf:about="http://data.ct.gov/resource/_6ntu-dndh/112">
+    <socrata:rowID>112</socrata:rowID>
+    <rdfs:member rdf:resource="http://data.ct.gov/resource/_6ntu-dndh" />
+    <ds:jurisdiction_id>CTSP11200</ds:jurisdiction_id>
+    <ds:jurisdiction>Pomfret</ds:jurisdiction>
+    <ds:population>4002</ds:population>
+    <ds:jurisdictiongeo>
+      <geo:SpatialThing>
+        <usps:deliveryAddress />
+        <usps:cityName>Pomfret</usps:cityName>
+        <geo:lat>41.897524</geo:lat>
+        <geo:long>-71.962064</geo:long>
+        <usps:stateAbbr>CT</usps:stateAbbr>
+        <usps:zipCode />
+      </geo:SpatialThing>
+    </ds:jurisdictiongeo>
+    <ds:crime_reported>33</ds:crime_reported>
+  </dsbase:_6ntu-dndh>
+  <dsbase:_6ntu-dndh rdf:about="http://data.ct.gov/resource/_6ntu-dndh/86">
+    <socrata:rowID>86</socrata:rowID>
+    <rdfs:member rdf:resource="http://data.ct.gov/resource/_6ntu-dndh" />
+    <ds:jurisdiction_id>CTSP08600</ds:jurisdiction_id>
+    <ds:jurisdiction>Montville</ds:jurisdiction>
+    <ds:population>19539</ds:population>
+    <ds:jurisdictiongeo>
+      <geo:SpatialThing>
+        <usps:deliveryAddress />
+        <usps:cityName>Montville</usps:cityName>
+        <geo:lat>41.45303</geo:lat>
+        <geo:long>-72.136336</geo:long>
+        <usps:stateAbbr>CT</usps:stateAbbr>
+        <usps:zipCode />
+      </geo:SpatialThing>
+    </ds:jurisdictiongeo>
+    <ds:crime_reported>323</ds:crime_reported>
+  </dsbase:_6ntu-dndh>
+  <dsbase:_6ntu-dndh rdf:about="http://data.ct.gov/resource/_6ntu-dndh/131">
+    <socrata:rowID>131</socrata:rowID>
+    <rdfs:member rdf:resource="http://data.ct.gov/resource/_6ntu-dndh" />
+    <ds:jurisdiction_id>CTSP13000</ds:jurisdiction_id>
+    <ds:jurisdiction>Southbury</ds:jurisdiction>
+    <ds:population>19561</ds:population>
+    <ds:jurisdictiongeo>
+      <geo:SpatialThing>
+        <usps:deliveryAddress />
+        <usps:cityName>Southbury</usps:cityName>
+        <geo:lat>41.466592</geo:lat>
+        <geo:long>-73.203497</geo:long>
+        <usps:stateAbbr>CT</usps:stateAbbr>
+        <usps:zipCode />
+      </geo:SpatialThing>
+    </ds:jurisdictiongeo>
+    <ds:crime_reported>425</ds:crime_reported>
+  </dsbase:_6ntu-dndh>
+  <dsbase:_6ntu-dndh rdf:about="http://data.ct.gov/resource/_6ntu-dndh/144">
+    <socrata:rowID>144</socrata:rowID>
+    <rdfs:member rdf:resource="http://data.ct.gov/resource/_6ntu-dndh" />
+    <ds:jurisdiction_id>CT0014300</ds:jurisdiction_id>
+    <ds:jurisdiction>Torrington</ds:jurisdiction>
+    <ds:population>37088</ds:population>
+    <ds:jurisdictiongeo>
+      <geo:SpatialThing>
+        <usps:deliveryAddress />
+        <usps:cityName>Torrington</usps:cityName>
+        <geo:lat>41.812186</geo:lat>
+        <geo:long>-73.101552</geo:long>
+        <usps:stateAbbr>CT</usps:stateAbbr>
+        <usps:zipCode />
+      </geo:SpatialThing>
+    </ds:jurisdictiongeo>
+    <ds:crime_reported>1737</ds:crime_reported>
+  </dsbase:_6ntu-dndh>
+  <dsbase:_6ntu-dndh rdf:about="http://data.ct.gov/resource/_6ntu-dndh/38">
+    <socrata:rowID>38</socrata:rowID>
+    <rdfs:member rdf:resource="http://data.ct.gov/resource/_6ntu-dndh" />
+    <ds:jurisdiction_id>CTSP03800</ds:jurisdiction_id>
+    <ds:jurisdiction>Durham</ds:jurisdiction>
+    <ds:population>6982</ds:population>
+    <ds:jurisdictiongeo>
+      <geo:SpatialThing>
+        <usps:deliveryAddress />
+        <usps:cityName>Durham</usps:cityName>
+        <geo:lat>41.485881</geo:lat>
+        <geo:long>-72.681864</geo:long>
+        <usps:stateAbbr>CT</usps:stateAbbr>
+        <usps:zipCode />
+      </geo:SpatialThing>
+    </ds:jurisdictiongeo>
+    <ds:crime_reported>55</ds:crime_reported>
+  </dsbase:_6ntu-dndh>
+  <dsbase:_6ntu-dndh rdf:about="http://data.ct.gov/resource/_6ntu-dndh/76">
+    <socrata:rowID>76</socrata:rowID>
+    <rdfs:member rdf:resource="http://data.ct.gov/resource/_6ntu-dndh" />
+    <ds:jurisdiction_id>CT0007600</ds:jurisdiction_id>
+    <ds:jurisdiction>Madison</ds:jurisdiction>
+    <ds:population>18816</ds:population>
+    <ds:jurisdictiongeo>
+      <geo:SpatialThing>
+        <usps:deliveryAddress />
+        <usps:cityName>Madison</usps:cityName>
+        <geo:lat>41.271447</geo:lat>
+        <geo:long>-72.60086</geo:long>
+        <usps:stateAbbr>CT</usps:stateAbbr>
+        <usps:zipCode />
+      </geo:SpatialThing>
+    </ds:jurisdictiongeo>
+    <ds:crime_reported>128</ds:crime_reported>
+  </dsbase:_6ntu-dndh>
+</rdf:RDF>
+

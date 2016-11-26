@@ -1,0 +1,1180 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:rdfs="http://www.w3.org/2000/01/rdf-schema#" xmlns:socrata="http://www.socrata.com/rdf/terms#" xmlns:dcat="http://www.w3.org/ns/dcat#" xmlns:ods="http://open-data-standards.github.com/2012/01/open-data-standards#" xmlns:dcterm="http://purl.org/dc/terms/" xmlns:geo="http://www.w3.org/2003/01/geo/wgs84_pos#" xmlns:skos="http://www.w3.org/2004/02/skos/core#" xmlns:foaf="http://xmlns.com/foaf/0.1/" xmlns:dsbase="http://data.ct.gov/resource/" xmlns:ds="http://data.ct.gov/resource/r6vz-twt4/">
+  <dsbase:r6vz-twt4 rdf:about="http://data.ct.gov/resource/r6vz-twt4/1">
+    <socrata:rowID>1</socrata:rowID>
+    <rdfs:member rdf:resource="http://data.ct.gov/resource/r6vz-twt4/" />
+    <ds:stat_index>1</ds:stat_index>
+    <ds:andover>27</ds:andover>
+  </dsbase:r6vz-twt4>
+  <dsbase:r6vz-twt4 rdf:about="http://data.ct.gov/resource/r6vz-twt4/2">
+    <socrata:rowID>2</socrata:rowID>
+    <rdfs:member rdf:resource="http://data.ct.gov/resource/r6vz-twt4/" />
+    <ds:stat_index>2</ds:stat_index>
+    <ds:ansonia>823</ds:ansonia>
+  </dsbase:r6vz-twt4>
+  <dsbase:r6vz-twt4 rdf:about="http://data.ct.gov/resource/r6vz-twt4/3">
+    <socrata:rowID>3</socrata:rowID>
+    <rdfs:member rdf:resource="http://data.ct.gov/resource/r6vz-twt4/" />
+    <ds:stat_index>3</ds:stat_index>
+    <ds:ashford>36</ds:ashford>
+  </dsbase:r6vz-twt4>
+  <dsbase:r6vz-twt4 rdf:about="http://data.ct.gov/resource/r6vz-twt4/4">
+    <socrata:rowID>4</socrata:rowID>
+    <rdfs:member rdf:resource="http://data.ct.gov/resource/r6vz-twt4/" />
+    <ds:stat_index>4</ds:stat_index>
+    <ds:avon>211</ds:avon>
+  </dsbase:r6vz-twt4>
+  <dsbase:r6vz-twt4 rdf:about="http://data.ct.gov/resource/r6vz-twt4/5">
+    <socrata:rowID>5</socrata:rowID>
+    <rdfs:member rdf:resource="http://data.ct.gov/resource/r6vz-twt4/" />
+    <ds:stat_index>5</ds:stat_index>
+    <ds:barkhamsted>45</ds:barkhamsted>
+  </dsbase:r6vz-twt4>
+  <dsbase:r6vz-twt4 rdf:about="http://data.ct.gov/resource/r6vz-twt4/6">
+    <socrata:rowID>6</socrata:rowID>
+    <rdfs:member rdf:resource="http://data.ct.gov/resource/r6vz-twt4/" />
+    <ds:stat_index>6</ds:stat_index>
+    <ds:beacon_falls>30</ds:beacon_falls>
+  </dsbase:r6vz-twt4>
+  <dsbase:r6vz-twt4 rdf:about="http://data.ct.gov/resource/r6vz-twt4/7">
+    <socrata:rowID>7</socrata:rowID>
+    <rdfs:member rdf:resource="http://data.ct.gov/resource/r6vz-twt4/" />
+    <ds:stat_index>7</ds:stat_index>
+    <ds:berlin>519</ds:berlin>
+  </dsbase:r6vz-twt4>
+  <dsbase:r6vz-twt4 rdf:about="http://data.ct.gov/resource/r6vz-twt4/8">
+    <socrata:rowID>8</socrata:rowID>
+    <rdfs:member rdf:resource="http://data.ct.gov/resource/r6vz-twt4/" />
+    <ds:stat_index>8</ds:stat_index>
+    <ds:bethany>30</ds:bethany>
+  </dsbase:r6vz-twt4>
+  <dsbase:r6vz-twt4 rdf:about="http://data.ct.gov/resource/r6vz-twt4/9">
+    <socrata:rowID>9</socrata:rowID>
+    <rdfs:member rdf:resource="http://data.ct.gov/resource/r6vz-twt4/" />
+    <ds:stat_index>9</ds:stat_index>
+    <ds:bethel>234</ds:bethel>
+  </dsbase:r6vz-twt4>
+  <dsbase:r6vz-twt4 rdf:about="http://data.ct.gov/resource/r6vz-twt4/10">
+    <socrata:rowID>10</socrata:rowID>
+    <rdfs:member rdf:resource="http://data.ct.gov/resource/r6vz-twt4/" />
+    <ds:stat_index>10</ds:stat_index>
+    <ds:bethlehem>13</ds:bethlehem>
+  </dsbase:r6vz-twt4>
+  <dsbase:r6vz-twt4 rdf:about="http://data.ct.gov/resource/r6vz-twt4/11">
+    <socrata:rowID>11</socrata:rowID>
+    <rdfs:member rdf:resource="http://data.ct.gov/resource/r6vz-twt4/" />
+    <ds:stat_index>11</ds:stat_index>
+    <ds:bloomfield>682</ds:bloomfield>
+  </dsbase:r6vz-twt4>
+  <dsbase:r6vz-twt4 rdf:about="http://data.ct.gov/resource/r6vz-twt4/12">
+    <socrata:rowID>12</socrata:rowID>
+    <rdfs:member rdf:resource="http://data.ct.gov/resource/r6vz-twt4/" />
+    <ds:stat_index>12</ds:stat_index>
+    <ds:bolton>21</ds:bolton>
+  </dsbase:r6vz-twt4>
+  <dsbase:r6vz-twt4 rdf:about="http://data.ct.gov/resource/r6vz-twt4/13">
+    <socrata:rowID>13</socrata:rowID>
+    <rdfs:member rdf:resource="http://data.ct.gov/resource/r6vz-twt4/" />
+    <ds:stat_index>13</ds:stat_index>
+    <ds:bozrah>6</ds:bozrah>
+  </dsbase:r6vz-twt4>
+  <dsbase:r6vz-twt4 rdf:about="http://data.ct.gov/resource/r6vz-twt4/14">
+    <socrata:rowID>14</socrata:rowID>
+    <rdfs:member rdf:resource="http://data.ct.gov/resource/r6vz-twt4/" />
+    <ds:stat_index>14</ds:stat_index>
+    <ds:branford>1008</ds:branford>
+  </dsbase:r6vz-twt4>
+  <dsbase:r6vz-twt4 rdf:about="http://data.ct.gov/resource/r6vz-twt4/15">
+    <socrata:rowID>15</socrata:rowID>
+    <rdfs:member rdf:resource="http://data.ct.gov/resource/r6vz-twt4/" />
+    <ds:stat_index>15</ds:stat_index>
+    <ds:bridgeport>4913</ds:bridgeport>
+  </dsbase:r6vz-twt4>
+  <dsbase:r6vz-twt4 rdf:about="http://data.ct.gov/resource/r6vz-twt4/16">
+    <socrata:rowID>16</socrata:rowID>
+    <rdfs:member rdf:resource="http://data.ct.gov/resource/r6vz-twt4/" />
+    <ds:stat_index>16</ds:stat_index>
+    <ds:bridgewater>15</ds:bridgewater>
+  </dsbase:r6vz-twt4>
+  <dsbase:r6vz-twt4 rdf:about="http://data.ct.gov/resource/r6vz-twt4/17">
+    <socrata:rowID>17</socrata:rowID>
+    <rdfs:member rdf:resource="http://data.ct.gov/resource/r6vz-twt4/" />
+    <ds:stat_index>17</ds:stat_index>
+    <ds:bristol>2491</ds:bristol>
+  </dsbase:r6vz-twt4>
+  <dsbase:r6vz-twt4 rdf:about="http://data.ct.gov/resource/r6vz-twt4/18">
+    <socrata:rowID>18</socrata:rowID>
+    <rdfs:member rdf:resource="http://data.ct.gov/resource/r6vz-twt4/" />
+    <ds:stat_index>18</ds:stat_index>
+    <ds:brookfield>267</ds:brookfield>
+  </dsbase:r6vz-twt4>
+  <dsbase:r6vz-twt4 rdf:about="http://data.ct.gov/resource/r6vz-twt4/19">
+    <socrata:rowID>19</socrata:rowID>
+    <rdfs:member rdf:resource="http://data.ct.gov/resource/r6vz-twt4/" />
+    <ds:stat_index>19</ds:stat_index>
+    <ds:brooklyn>216</ds:brooklyn>
+  </dsbase:r6vz-twt4>
+  <dsbase:r6vz-twt4 rdf:about="http://data.ct.gov/resource/r6vz-twt4/20">
+    <socrata:rowID>20</socrata:rowID>
+    <rdfs:member rdf:resource="http://data.ct.gov/resource/r6vz-twt4/" />
+    <ds:stat_index>20</ds:stat_index>
+    <ds:burlington>30</ds:burlington>
+  </dsbase:r6vz-twt4>
+  <dsbase:r6vz-twt4 rdf:about="http://data.ct.gov/resource/r6vz-twt4/21">
+    <socrata:rowID>21</socrata:rowID>
+    <rdfs:member rdf:resource="http://data.ct.gov/resource/r6vz-twt4/" />
+    <ds:stat_index>21</ds:stat_index>
+    <ds:canaan>21</ds:canaan>
+  </dsbase:r6vz-twt4>
+  <dsbase:r6vz-twt4 rdf:about="http://data.ct.gov/resource/r6vz-twt4/22">
+    <socrata:rowID>22</socrata:rowID>
+    <rdfs:member rdf:resource="http://data.ct.gov/resource/r6vz-twt4/" />
+    <ds:stat_index>22</ds:stat_index>
+    <ds:canterbury>27</ds:canterbury>
+  </dsbase:r6vz-twt4>
+  <dsbase:r6vz-twt4 rdf:about="http://data.ct.gov/resource/r6vz-twt4/23">
+    <socrata:rowID>23</socrata:rowID>
+    <rdfs:member rdf:resource="http://data.ct.gov/resource/r6vz-twt4/" />
+    <ds:stat_index>23</ds:stat_index>
+    <ds:canton>93</ds:canton>
+  </dsbase:r6vz-twt4>
+  <dsbase:r6vz-twt4 rdf:about="http://data.ct.gov/resource/r6vz-twt4/24">
+    <socrata:rowID>24</socrata:rowID>
+    <rdfs:member rdf:resource="http://data.ct.gov/resource/r6vz-twt4/" />
+    <ds:stat_index>24</ds:stat_index>
+    <ds:chaplin>48</ds:chaplin>
+  </dsbase:r6vz-twt4>
+  <dsbase:r6vz-twt4 rdf:about="http://data.ct.gov/resource/r6vz-twt4/25">
+    <socrata:rowID>25</socrata:rowID>
+    <rdfs:member rdf:resource="http://data.ct.gov/resource/r6vz-twt4/" />
+    <ds:stat_index>25</ds:stat_index>
+    <ds:cheshire>393</ds:cheshire>
+  </dsbase:r6vz-twt4>
+  <dsbase:r6vz-twt4 rdf:about="http://data.ct.gov/resource/r6vz-twt4/26">
+    <socrata:rowID>26</socrata:rowID>
+    <rdfs:member rdf:resource="http://data.ct.gov/resource/r6vz-twt4/" />
+    <ds:stat_index>26</ds:stat_index>
+    <ds:chester>30</ds:chester>
+  </dsbase:r6vz-twt4>
+  <dsbase:r6vz-twt4 rdf:about="http://data.ct.gov/resource/r6vz-twt4/27">
+    <socrata:rowID>27</socrata:rowID>
+    <rdfs:member rdf:resource="http://data.ct.gov/resource/r6vz-twt4/" />
+    <ds:stat_index>27</ds:stat_index>
+    <ds:clinton>546</ds:clinton>
+  </dsbase:r6vz-twt4>
+  <dsbase:r6vz-twt4 rdf:about="http://data.ct.gov/resource/r6vz-twt4/28">
+    <socrata:rowID>28</socrata:rowID>
+    <rdfs:member rdf:resource="http://data.ct.gov/resource/r6vz-twt4/" />
+    <ds:stat_index>28</ds:stat_index>
+    <ds:colchester>124</ds:colchester>
+  </dsbase:r6vz-twt4>
+  <dsbase:r6vz-twt4 rdf:about="http://data.ct.gov/resource/r6vz-twt4/29">
+    <socrata:rowID>29</socrata:rowID>
+    <rdfs:member rdf:resource="http://data.ct.gov/resource/r6vz-twt4/" />
+    <ds:stat_index>29</ds:stat_index>
+    <ds:colebrook>3</ds:colebrook>
+  </dsbase:r6vz-twt4>
+  <dsbase:r6vz-twt4 rdf:about="http://data.ct.gov/resource/r6vz-twt4/30">
+    <socrata:rowID>30</socrata:rowID>
+    <rdfs:member rdf:resource="http://data.ct.gov/resource/r6vz-twt4/" />
+    <ds:stat_index>30</ds:stat_index>
+    <ds:columbia>33</ds:columbia>
+  </dsbase:r6vz-twt4>
+  <dsbase:r6vz-twt4 rdf:about="http://data.ct.gov/resource/r6vz-twt4/31">
+    <socrata:rowID>31</socrata:rowID>
+    <rdfs:member rdf:resource="http://data.ct.gov/resource/r6vz-twt4/" />
+    <ds:stat_index>31</ds:stat_index>
+    <ds:cornwall>6</ds:cornwall>
+  </dsbase:r6vz-twt4>
+  <dsbase:r6vz-twt4 rdf:about="http://data.ct.gov/resource/r6vz-twt4/32">
+    <socrata:rowID>32</socrata:rowID>
+    <rdfs:member rdf:resource="http://data.ct.gov/resource/r6vz-twt4/" />
+    <ds:stat_index>32</ds:stat_index>
+    <ds:coventry>183</ds:coventry>
+  </dsbase:r6vz-twt4>
+  <dsbase:r6vz-twt4 rdf:about="http://data.ct.gov/resource/r6vz-twt4/33">
+    <socrata:rowID>33</socrata:rowID>
+    <rdfs:member rdf:resource="http://data.ct.gov/resource/r6vz-twt4/" />
+    <ds:stat_index>33</ds:stat_index>
+    <ds:cromwell>639</ds:cromwell>
+  </dsbase:r6vz-twt4>
+  <dsbase:r6vz-twt4 rdf:about="http://data.ct.gov/resource/r6vz-twt4/34">
+    <socrata:rowID>34</socrata:rowID>
+    <rdfs:member rdf:resource="http://data.ct.gov/resource/r6vz-twt4/" />
+    <ds:stat_index>34</ds:stat_index>
+    <ds:danbury>3961</ds:danbury>
+  </dsbase:r6vz-twt4>
+  <dsbase:r6vz-twt4 rdf:about="http://data.ct.gov/resource/r6vz-twt4/35">
+    <socrata:rowID>35</socrata:rowID>
+    <rdfs:member rdf:resource="http://data.ct.gov/resource/r6vz-twt4/" />
+    <ds:stat_index>35</ds:stat_index>
+    <ds:darien>144</ds:darien>
+  </dsbase:r6vz-twt4>
+  <dsbase:r6vz-twt4 rdf:about="http://data.ct.gov/resource/r6vz-twt4/36">
+    <socrata:rowID>36</socrata:rowID>
+    <rdfs:member rdf:resource="http://data.ct.gov/resource/r6vz-twt4/" />
+    <ds:stat_index>36</ds:stat_index>
+    <ds:deep_river>57</ds:deep_river>
+  </dsbase:r6vz-twt4>
+  <dsbase:r6vz-twt4 rdf:about="http://data.ct.gov/resource/r6vz-twt4/37">
+    <socrata:rowID>37</socrata:rowID>
+    <rdfs:member rdf:resource="http://data.ct.gov/resource/r6vz-twt4/" />
+    <ds:stat_index>37</ds:stat_index>
+    <ds:derby>804</ds:derby>
+  </dsbase:r6vz-twt4>
+  <dsbase:r6vz-twt4 rdf:about="http://data.ct.gov/resource/r6vz-twt4/38">
+    <socrata:rowID>38</socrata:rowID>
+    <rdfs:member rdf:resource="http://data.ct.gov/resource/r6vz-twt4/" />
+    <ds:stat_index>38</ds:stat_index>
+    <ds:durham>27</ds:durham>
+  </dsbase:r6vz-twt4>
+  <dsbase:r6vz-twt4 rdf:about="http://data.ct.gov/resource/r6vz-twt4/39">
+    <socrata:rowID>39</socrata:rowID>
+    <rdfs:member rdf:resource="http://data.ct.gov/resource/r6vz-twt4/" />
+    <ds:stat_index>39</ds:stat_index>
+    <ds:eastford>6</ds:eastford>
+  </dsbase:r6vz-twt4>
+  <dsbase:r6vz-twt4 rdf:about="http://data.ct.gov/resource/r6vz-twt4/40">
+    <socrata:rowID>40</socrata:rowID>
+    <rdfs:member rdf:resource="http://data.ct.gov/resource/r6vz-twt4/" />
+    <ds:stat_index>40</ds:stat_index>
+    <ds:east_granby>30</ds:east_granby>
+  </dsbase:r6vz-twt4>
+  <dsbase:r6vz-twt4 rdf:about="http://data.ct.gov/resource/r6vz-twt4/41">
+    <socrata:rowID>41</socrata:rowID>
+    <rdfs:member rdf:resource="http://data.ct.gov/resource/r6vz-twt4/" />
+    <ds:stat_index>41</ds:stat_index>
+    <ds:east_haddam>39</ds:east_haddam>
+  </dsbase:r6vz-twt4>
+  <dsbase:r6vz-twt4 rdf:about="http://data.ct.gov/resource/r6vz-twt4/42">
+    <socrata:rowID>42</socrata:rowID>
+    <rdfs:member rdf:resource="http://data.ct.gov/resource/r6vz-twt4/" />
+    <ds:stat_index>42</ds:stat_index>
+    <ds:east_hampton>64</ds:east_hampton>
+  </dsbase:r6vz-twt4>
+  <dsbase:r6vz-twt4 rdf:about="http://data.ct.gov/resource/r6vz-twt4/43">
+    <socrata:rowID>43</socrata:rowID>
+    <rdfs:member rdf:resource="http://data.ct.gov/resource/r6vz-twt4/" />
+    <ds:stat_index>43</ds:stat_index>
+    <ds:east_hartford>3182</ds:east_hartford>
+  </dsbase:r6vz-twt4>
+  <dsbase:r6vz-twt4 rdf:about="http://data.ct.gov/resource/r6vz-twt4/44">
+    <socrata:rowID>44</socrata:rowID>
+    <rdfs:member rdf:resource="http://data.ct.gov/resource/r6vz-twt4/" />
+    <ds:stat_index>44</ds:stat_index>
+    <ds:east_haven>847</ds:east_haven>
+  </dsbase:r6vz-twt4>
+  <dsbase:r6vz-twt4 rdf:about="http://data.ct.gov/resource/r6vz-twt4/45">
+    <socrata:rowID>45</socrata:rowID>
+    <rdfs:member rdf:resource="http://data.ct.gov/resource/r6vz-twt4/" />
+    <ds:stat_index>45</ds:stat_index>
+    <ds:east_lyme>184</ds:east_lyme>
+  </dsbase:r6vz-twt4>
+  <dsbase:r6vz-twt4 rdf:about="http://data.ct.gov/resource/r6vz-twt4/46">
+    <socrata:rowID>46</socrata:rowID>
+    <rdfs:member rdf:resource="http://data.ct.gov/resource/r6vz-twt4/" />
+    <ds:stat_index>46</ds:stat_index>
+    <ds:easton>18</ds:easton>
+  </dsbase:r6vz-twt4>
+  <dsbase:r6vz-twt4 rdf:about="http://data.ct.gov/resource/r6vz-twt4/47">
+    <socrata:rowID>47</socrata:rowID>
+    <rdfs:member rdf:resource="http://data.ct.gov/resource/r6vz-twt4/" />
+    <ds:stat_index>47</ds:stat_index>
+    <ds:east_windsor>483</ds:east_windsor>
+  </dsbase:r6vz-twt4>
+  <dsbase:r6vz-twt4 rdf:about="http://data.ct.gov/resource/r6vz-twt4/48">
+    <socrata:rowID>48</socrata:rowID>
+    <rdfs:member rdf:resource="http://data.ct.gov/resource/r6vz-twt4/" />
+    <ds:stat_index>48</ds:stat_index>
+    <ds:ellington>69</ds:ellington>
+  </dsbase:r6vz-twt4>
+  <dsbase:r6vz-twt4 rdf:about="http://data.ct.gov/resource/r6vz-twt4/49">
+    <socrata:rowID>49</socrata:rowID>
+    <rdfs:member rdf:resource="http://data.ct.gov/resource/r6vz-twt4/" />
+    <ds:stat_index>49</ds:stat_index>
+    <ds:enfield>1821</ds:enfield>
+  </dsbase:r6vz-twt4>
+  <dsbase:r6vz-twt4 rdf:about="http://data.ct.gov/resource/r6vz-twt4/50">
+    <socrata:rowID>50</socrata:rowID>
+    <rdfs:member rdf:resource="http://data.ct.gov/resource/r6vz-twt4/" />
+    <ds:stat_index>50</ds:stat_index>
+    <ds:essex>30</ds:essex>
+  </dsbase:r6vz-twt4>
+  <dsbase:r6vz-twt4 rdf:about="http://data.ct.gov/resource/r6vz-twt4/51">
+    <socrata:rowID>51</socrata:rowID>
+    <rdfs:member rdf:resource="http://data.ct.gov/resource/r6vz-twt4/" />
+    <ds:stat_index>51</ds:stat_index>
+    <ds:fairfield>1081</ds:fairfield>
+  </dsbase:r6vz-twt4>
+  <dsbase:r6vz-twt4 rdf:about="http://data.ct.gov/resource/r6vz-twt4/52">
+    <socrata:rowID>52</socrata:rowID>
+    <rdfs:member rdf:resource="http://data.ct.gov/resource/r6vz-twt4/" />
+    <ds:stat_index>52</ds:stat_index>
+    <ds:farmington>1019</ds:farmington>
+  </dsbase:r6vz-twt4>
+  <dsbase:r6vz-twt4 rdf:about="http://data.ct.gov/resource/r6vz-twt4/53">
+    <socrata:rowID>53</socrata:rowID>
+    <rdfs:member rdf:resource="http://data.ct.gov/resource/r6vz-twt4/" />
+    <ds:stat_index>53</ds:stat_index>
+    <ds:franklin>18</ds:franklin>
+  </dsbase:r6vz-twt4>
+  <dsbase:r6vz-twt4 rdf:about="http://data.ct.gov/resource/r6vz-twt4/54">
+    <socrata:rowID>54</socrata:rowID>
+    <rdfs:member rdf:resource="http://data.ct.gov/resource/r6vz-twt4/" />
+    <ds:stat_index>54</ds:stat_index>
+    <ds:glastonbury>873</ds:glastonbury>
+  </dsbase:r6vz-twt4>
+  <dsbase:r6vz-twt4 rdf:about="http://data.ct.gov/resource/r6vz-twt4/55">
+    <socrata:rowID>55</socrata:rowID>
+    <rdfs:member rdf:resource="http://data.ct.gov/resource/r6vz-twt4/" />
+    <ds:stat_index>55</ds:stat_index>
+    <ds:goshen>21</ds:goshen>
+  </dsbase:r6vz-twt4>
+  <dsbase:r6vz-twt4 rdf:about="http://data.ct.gov/resource/r6vz-twt4/56">
+    <socrata:rowID>56</socrata:rowID>
+    <rdfs:member rdf:resource="http://data.ct.gov/resource/r6vz-twt4/" />
+    <ds:stat_index>56</ds:stat_index>
+    <ds:granby>166</ds:granby>
+  </dsbase:r6vz-twt4>
+  <dsbase:r6vz-twt4 rdf:about="http://data.ct.gov/resource/r6vz-twt4/57">
+    <socrata:rowID>57</socrata:rowID>
+    <rdfs:member rdf:resource="http://data.ct.gov/resource/r6vz-twt4/" />
+    <ds:stat_index>57</ds:stat_index>
+    <ds:greenwich>315</ds:greenwich>
+  </dsbase:r6vz-twt4>
+  <dsbase:r6vz-twt4 rdf:about="http://data.ct.gov/resource/r6vz-twt4/58">
+    <socrata:rowID>58</socrata:rowID>
+    <rdfs:member rdf:resource="http://data.ct.gov/resource/r6vz-twt4/" />
+    <ds:stat_index>58</ds:stat_index>
+    <ds:griswold>175</ds:griswold>
+  </dsbase:r6vz-twt4>
+  <dsbase:r6vz-twt4 rdf:about="http://data.ct.gov/resource/r6vz-twt4/59">
+    <socrata:rowID>59</socrata:rowID>
+    <rdfs:member rdf:resource="http://data.ct.gov/resource/r6vz-twt4/" />
+    <ds:stat_index>59</ds:stat_index>
+    <ds:groton_city>688</ds:groton_city>
+  </dsbase:r6vz-twt4>
+  <dsbase:r6vz-twt4 rdf:about="http://data.ct.gov/resource/r6vz-twt4/60">
+    <socrata:rowID>60</socrata:rowID>
+    <rdfs:member rdf:resource="http://data.ct.gov/resource/r6vz-twt4/" />
+    <ds:stat_index>60</ds:stat_index>
+    <ds:guilford>186</ds:guilford>
+  </dsbase:r6vz-twt4>
+  <dsbase:r6vz-twt4 rdf:about="http://data.ct.gov/resource/r6vz-twt4/61">
+    <socrata:rowID>61</socrata:rowID>
+    <rdfs:member rdf:resource="http://data.ct.gov/resource/r6vz-twt4/" />
+    <ds:stat_index>61</ds:stat_index>
+    <ds:haddam>63</ds:haddam>
+  </dsbase:r6vz-twt4>
+  <dsbase:r6vz-twt4 rdf:about="http://data.ct.gov/resource/r6vz-twt4/62">
+    <socrata:rowID>62</socrata:rowID>
+    <rdfs:member rdf:resource="http://data.ct.gov/resource/r6vz-twt4/" />
+    <ds:stat_index>62</ds:stat_index>
+    <ds:hamden>1443</ds:hamden>
+  </dsbase:r6vz-twt4>
+  <dsbase:r6vz-twt4 rdf:about="http://data.ct.gov/resource/r6vz-twt4/63">
+    <socrata:rowID>63</socrata:rowID>
+    <rdfs:member rdf:resource="http://data.ct.gov/resource/r6vz-twt4/" />
+    <ds:stat_index>63</ds:stat_index>
+    <ds:hampton>33</ds:hampton>
+  </dsbase:r6vz-twt4>
+  <dsbase:r6vz-twt4 rdf:about="http://data.ct.gov/resource/r6vz-twt4/64">
+    <socrata:rowID>64</socrata:rowID>
+    <rdfs:member rdf:resource="http://data.ct.gov/resource/r6vz-twt4/" />
+    <ds:stat_index>64</ds:stat_index>
+    <ds:hartford>12801</ds:hartford>
+  </dsbase:r6vz-twt4>
+  <dsbase:r6vz-twt4 rdf:about="http://data.ct.gov/resource/r6vz-twt4/65">
+    <socrata:rowID>65</socrata:rowID>
+    <rdfs:member rdf:resource="http://data.ct.gov/resource/r6vz-twt4/" />
+    <ds:stat_index>65</ds:stat_index>
+    <ds:hartland>7</ds:hartland>
+  </dsbase:r6vz-twt4>
+  <dsbase:r6vz-twt4 rdf:about="http://data.ct.gov/resource/r6vz-twt4/66">
+    <socrata:rowID>66</socrata:rowID>
+    <rdfs:member rdf:resource="http://data.ct.gov/resource/r6vz-twt4/" />
+    <ds:stat_index>66</ds:stat_index>
+    <ds:harwinton>42</ds:harwinton>
+  </dsbase:r6vz-twt4>
+  <dsbase:r6vz-twt4 rdf:about="http://data.ct.gov/resource/r6vz-twt4/67">
+    <socrata:rowID>67</socrata:rowID>
+    <rdfs:member rdf:resource="http://data.ct.gov/resource/r6vz-twt4/" />
+    <ds:stat_index>67</ds:stat_index>
+    <ds:hebron>21</ds:hebron>
+  </dsbase:r6vz-twt4>
+  <dsbase:r6vz-twt4 rdf:about="http://data.ct.gov/resource/r6vz-twt4/68">
+    <socrata:rowID>68</socrata:rowID>
+    <rdfs:member rdf:resource="http://data.ct.gov/resource/r6vz-twt4/" />
+    <ds:stat_index>68</ds:stat_index>
+    <ds:kent>24</ds:kent>
+  </dsbase:r6vz-twt4>
+  <dsbase:r6vz-twt4 rdf:about="http://data.ct.gov/resource/r6vz-twt4/69">
+    <socrata:rowID>69</socrata:rowID>
+    <rdfs:member rdf:resource="http://data.ct.gov/resource/r6vz-twt4/" />
+    <ds:stat_index>69</ds:stat_index>
+    <ds:killingly>448</ds:killingly>
+  </dsbase:r6vz-twt4>
+  <dsbase:r6vz-twt4 rdf:about="http://data.ct.gov/resource/r6vz-twt4/70">
+    <socrata:rowID>70</socrata:rowID>
+    <rdfs:member rdf:resource="http://data.ct.gov/resource/r6vz-twt4/" />
+    <ds:stat_index>70</ds:stat_index>
+    <ds:killingworth>33</ds:killingworth>
+  </dsbase:r6vz-twt4>
+  <dsbase:r6vz-twt4 rdf:about="http://data.ct.gov/resource/r6vz-twt4/71">
+    <socrata:rowID>71</socrata:rowID>
+    <rdfs:member rdf:resource="http://data.ct.gov/resource/r6vz-twt4/" />
+    <ds:stat_index>71</ds:stat_index>
+    <ds:lebanon>42</ds:lebanon>
+  </dsbase:r6vz-twt4>
+  <dsbase:r6vz-twt4 rdf:about="http://data.ct.gov/resource/r6vz-twt4/72">
+    <socrata:rowID>72</socrata:rowID>
+    <rdfs:member rdf:resource="http://data.ct.gov/resource/r6vz-twt4/" />
+    <ds:stat_index>72</ds:stat_index>
+    <ds:ledyard>111</ds:ledyard>
+  </dsbase:r6vz-twt4>
+  <dsbase:r6vz-twt4 rdf:about="http://data.ct.gov/resource/r6vz-twt4/73">
+    <socrata:rowID>73</socrata:rowID>
+    <rdfs:member rdf:resource="http://data.ct.gov/resource/r6vz-twt4/" />
+    <ds:stat_index>73</ds:stat_index>
+    <ds:lisbon>204</ds:lisbon>
+  </dsbase:r6vz-twt4>
+  <dsbase:r6vz-twt4 rdf:about="http://data.ct.gov/resource/r6vz-twt4/74">
+    <socrata:rowID>74</socrata:rowID>
+    <rdfs:member rdf:resource="http://data.ct.gov/resource/r6vz-twt4/" />
+    <ds:stat_index>74</ds:stat_index>
+    <ds:litchfield>114</ds:litchfield>
+  </dsbase:r6vz-twt4>
+  <dsbase:r6vz-twt4 rdf:about="http://data.ct.gov/resource/r6vz-twt4/75">
+    <socrata:rowID>75</socrata:rowID>
+    <rdfs:member rdf:resource="http://data.ct.gov/resource/r6vz-twt4/" />
+    <ds:stat_index>75</ds:stat_index>
+    <ds:lyme>15</ds:lyme>
+  </dsbase:r6vz-twt4>
+  <dsbase:r6vz-twt4 rdf:about="http://data.ct.gov/resource/r6vz-twt4/76">
+    <socrata:rowID>76</socrata:rowID>
+    <rdfs:member rdf:resource="http://data.ct.gov/resource/r6vz-twt4/" />
+    <ds:stat_index>76</ds:stat_index>
+    <ds:madison>63</ds:madison>
+  </dsbase:r6vz-twt4>
+  <dsbase:r6vz-twt4 rdf:about="http://data.ct.gov/resource/r6vz-twt4/77">
+    <socrata:rowID>77</socrata:rowID>
+    <rdfs:member rdf:resource="http://data.ct.gov/resource/r6vz-twt4/" />
+    <ds:stat_index>77</ds:stat_index>
+    <ds:manchester>5529</ds:manchester>
+  </dsbase:r6vz-twt4>
+  <dsbase:r6vz-twt4 rdf:about="http://data.ct.gov/resource/r6vz-twt4/78">
+    <socrata:rowID>78</socrata:rowID>
+    <rdfs:member rdf:resource="http://data.ct.gov/resource/r6vz-twt4/" />
+    <ds:stat_index>78</ds:stat_index>
+    <ds:mansfield>319</ds:mansfield>
+  </dsbase:r6vz-twt4>
+  <dsbase:r6vz-twt4 rdf:about="http://data.ct.gov/resource/r6vz-twt4/79">
+    <socrata:rowID>79</socrata:rowID>
+    <rdfs:member rdf:resource="http://data.ct.gov/resource/r6vz-twt4/" />
+    <ds:stat_index>79</ds:stat_index>
+    <ds:marlborough>51</ds:marlborough>
+  </dsbase:r6vz-twt4>
+  <dsbase:r6vz-twt4 rdf:about="http://data.ct.gov/resource/r6vz-twt4/80">
+    <socrata:rowID>80</socrata:rowID>
+    <rdfs:member rdf:resource="http://data.ct.gov/resource/r6vz-twt4/" />
+    <ds:stat_index>80</ds:stat_index>
+    <ds:meriden>3966</ds:meriden>
+  </dsbase:r6vz-twt4>
+  <dsbase:r6vz-twt4 rdf:about="http://data.ct.gov/resource/r6vz-twt4/81">
+    <socrata:rowID>81</socrata:rowID>
+    <rdfs:member rdf:resource="http://data.ct.gov/resource/r6vz-twt4/" />
+    <ds:stat_index>81</ds:stat_index>
+    <ds:middlebury>74</ds:middlebury>
+  </dsbase:r6vz-twt4>
+  <dsbase:r6vz-twt4 rdf:about="http://data.ct.gov/resource/r6vz-twt4/82">
+    <socrata:rowID>82</socrata:rowID>
+    <rdfs:member rdf:resource="http://data.ct.gov/resource/r6vz-twt4/" />
+    <ds:stat_index>82</ds:stat_index>
+    <ds:middlefield>39</ds:middlefield>
+  </dsbase:r6vz-twt4>
+  <dsbase:r6vz-twt4 rdf:about="http://data.ct.gov/resource/r6vz-twt4/83">
+    <socrata:rowID>83</socrata:rowID>
+    <rdfs:member rdf:resource="http://data.ct.gov/resource/r6vz-twt4/" />
+    <ds:stat_index>83</ds:stat_index>
+    <ds:middletown>1789</ds:middletown>
+  </dsbase:r6vz-twt4>
+  <dsbase:r6vz-twt4 rdf:about="http://data.ct.gov/resource/r6vz-twt4/84">
+    <socrata:rowID>84</socrata:rowID>
+    <rdfs:member rdf:resource="http://data.ct.gov/resource/r6vz-twt4/" />
+    <ds:stat_index>84</ds:stat_index>
+    <ds:milford>2803</ds:milford>
+  </dsbase:r6vz-twt4>
+  <dsbase:r6vz-twt4 rdf:about="http://data.ct.gov/resource/r6vz-twt4/85">
+    <socrata:rowID>85</socrata:rowID>
+    <rdfs:member rdf:resource="http://data.ct.gov/resource/r6vz-twt4/" />
+    <ds:stat_index>85</ds:stat_index>
+    <ds:monroe>201</ds:monroe>
+  </dsbase:r6vz-twt4>
+  <dsbase:r6vz-twt4 rdf:about="http://data.ct.gov/resource/r6vz-twt4/86">
+    <socrata:rowID>86</socrata:rowID>
+    <rdfs:member rdf:resource="http://data.ct.gov/resource/r6vz-twt4/" />
+    <ds:stat_index>86</ds:stat_index>
+    <ds:montville>229</ds:montville>
+  </dsbase:r6vz-twt4>
+  <dsbase:r6vz-twt4 rdf:about="http://data.ct.gov/resource/r6vz-twt4/87">
+    <socrata:rowID>87</socrata:rowID>
+    <rdfs:member rdf:resource="http://data.ct.gov/resource/r6vz-twt4/" />
+    <ds:stat_index>87</ds:stat_index>
+    <ds:morris>9</ds:morris>
+  </dsbase:r6vz-twt4>
+  <dsbase:r6vz-twt4 rdf:about="http://data.ct.gov/resource/r6vz-twt4/88">
+    <socrata:rowID>88</socrata:rowID>
+    <rdfs:member rdf:resource="http://data.ct.gov/resource/r6vz-twt4/" />
+    <ds:stat_index>88</ds:stat_index>
+    <ds:naugatuck>1117</ds:naugatuck>
+  </dsbase:r6vz-twt4>
+  <dsbase:r6vz-twt4 rdf:about="http://data.ct.gov/resource/r6vz-twt4/89">
+    <socrata:rowID>89</socrata:rowID>
+    <rdfs:member rdf:resource="http://data.ct.gov/resource/r6vz-twt4/" />
+    <ds:stat_index>89</ds:stat_index>
+    <ds:new_britain>4239</ds:new_britain>
+  </dsbase:r6vz-twt4>
+  <dsbase:r6vz-twt4 rdf:about="http://data.ct.gov/resource/r6vz-twt4/90">
+    <socrata:rowID>90</socrata:rowID>
+    <rdfs:member rdf:resource="http://data.ct.gov/resource/r6vz-twt4/" />
+    <ds:stat_index>90</ds:stat_index>
+    <ds:new_canaan>117</ds:new_canaan>
+  </dsbase:r6vz-twt4>
+  <dsbase:r6vz-twt4 rdf:about="http://data.ct.gov/resource/r6vz-twt4/91">
+    <socrata:rowID>91</socrata:rowID>
+    <rdfs:member rdf:resource="http://data.ct.gov/resource/r6vz-twt4/" />
+    <ds:stat_index>91</ds:stat_index>
+    <ds:new_fairfield>45</ds:new_fairfield>
+  </dsbase:r6vz-twt4>
+  <dsbase:r6vz-twt4 rdf:about="http://data.ct.gov/resource/r6vz-twt4/92">
+    <socrata:rowID>92</socrata:rowID>
+    <rdfs:member rdf:resource="http://data.ct.gov/resource/r6vz-twt4/" />
+    <ds:stat_index>92</ds:stat_index>
+    <ds:new_hartford>85</ds:new_hartford>
+  </dsbase:r6vz-twt4>
+  <dsbase:r6vz-twt4 rdf:about="http://data.ct.gov/resource/r6vz-twt4/93">
+    <socrata:rowID>93</socrata:rowID>
+    <rdfs:member rdf:resource="http://data.ct.gov/resource/r6vz-twt4/" />
+    <ds:stat_index>93</ds:stat_index>
+    <ds:new_haven>6352</ds:new_haven>
+  </dsbase:r6vz-twt4>
+  <dsbase:r6vz-twt4 rdf:about="http://data.ct.gov/resource/r6vz-twt4/94">
+    <socrata:rowID>94</socrata:rowID>
+    <rdfs:member rdf:resource="http://data.ct.gov/resource/r6vz-twt4/" />
+    <ds:stat_index>94</ds:stat_index>
+    <ds:newington>1439</ds:newington>
+  </dsbase:r6vz-twt4>
+  <dsbase:r6vz-twt4 rdf:about="http://data.ct.gov/resource/r6vz-twt4/95">
+    <socrata:rowID>95</socrata:rowID>
+    <rdfs:member rdf:resource="http://data.ct.gov/resource/r6vz-twt4/" />
+    <ds:stat_index>95</ds:stat_index>
+    <ds:new_london>1679</ds:new_london>
+  </dsbase:r6vz-twt4>
+  <dsbase:r6vz-twt4 rdf:about="http://data.ct.gov/resource/r6vz-twt4/96">
+    <socrata:rowID>96</socrata:rowID>
+    <rdfs:member rdf:resource="http://data.ct.gov/resource/r6vz-twt4/" />
+    <ds:stat_index>96</ds:stat_index>
+    <ds:new_milford>991</ds:new_milford>
+  </dsbase:r6vz-twt4>
+  <dsbase:r6vz-twt4 rdf:about="http://data.ct.gov/resource/r6vz-twt4/97">
+    <socrata:rowID>97</socrata:rowID>
+    <rdfs:member rdf:resource="http://data.ct.gov/resource/r6vz-twt4/" />
+    <ds:stat_index>97</ds:stat_index>
+    <ds:newtown>228</ds:newtown>
+  </dsbase:r6vz-twt4>
+  <dsbase:r6vz-twt4 rdf:about="http://data.ct.gov/resource/r6vz-twt4/98">
+    <socrata:rowID>98</socrata:rowID>
+    <rdfs:member rdf:resource="http://data.ct.gov/resource/r6vz-twt4/" />
+    <ds:stat_index>98</ds:stat_index>
+    <ds:norfolk>6</ds:norfolk>
+  </dsbase:r6vz-twt4>
+  <dsbase:r6vz-twt4 rdf:about="http://data.ct.gov/resource/r6vz-twt4/99">
+    <socrata:rowID>99</socrata:rowID>
+    <rdfs:member rdf:resource="http://data.ct.gov/resource/r6vz-twt4/" />
+    <ds:stat_index>99</ds:stat_index>
+    <ds:north_branford>210</ds:north_branford>
+  </dsbase:r6vz-twt4>
+  <dsbase:r6vz-twt4 rdf:about="http://data.ct.gov/resource/r6vz-twt4/100">
+    <socrata:rowID>100</socrata:rowID>
+    <rdfs:member rdf:resource="http://data.ct.gov/resource/r6vz-twt4/" />
+    <ds:stat_index>100</ds:stat_index>
+    <ds:north_canaan>72</ds:north_canaan>
+  </dsbase:r6vz-twt4>
+  <dsbase:r6vz-twt4 rdf:about="http://data.ct.gov/resource/r6vz-twt4/101">
+    <socrata:rowID>101</socrata:rowID>
+    <rdfs:member rdf:resource="http://data.ct.gov/resource/r6vz-twt4/" />
+    <ds:stat_index>101</ds:stat_index>
+    <ds:north_haven>463</ds:north_haven>
+  </dsbase:r6vz-twt4>
+  <dsbase:r6vz-twt4 rdf:about="http://data.ct.gov/resource/r6vz-twt4/102">
+    <socrata:rowID>102</socrata:rowID>
+    <rdfs:member rdf:resource="http://data.ct.gov/resource/r6vz-twt4/" />
+    <ds:stat_index>102</ds:stat_index>
+    <ds:north_stonington>42</ds:north_stonington>
+  </dsbase:r6vz-twt4>
+  <dsbase:r6vz-twt4 rdf:about="http://data.ct.gov/resource/r6vz-twt4/103">
+    <socrata:rowID>103</socrata:rowID>
+    <rdfs:member rdf:resource="http://data.ct.gov/resource/r6vz-twt4/" />
+    <ds:stat_index>103</ds:stat_index>
+    <ds:norwalk>3604</ds:norwalk>
+  </dsbase:r6vz-twt4>
+  <dsbase:r6vz-twt4 rdf:about="http://data.ct.gov/resource/r6vz-twt4/104">
+    <socrata:rowID>104</socrata:rowID>
+    <rdfs:member rdf:resource="http://data.ct.gov/resource/r6vz-twt4/" />
+    <ds:stat_index>104</ds:stat_index>
+    <ds:norwich>2975</ds:norwich>
+  </dsbase:r6vz-twt4>
+  <dsbase:r6vz-twt4 rdf:about="http://data.ct.gov/resource/r6vz-twt4/105">
+    <socrata:rowID>105</socrata:rowID>
+    <rdfs:member rdf:resource="http://data.ct.gov/resource/r6vz-twt4/" />
+    <ds:stat_index>105</ds:stat_index>
+    <ds:old_lyme>54</ds:old_lyme>
+  </dsbase:r6vz-twt4>
+  <dsbase:r6vz-twt4 rdf:about="http://data.ct.gov/resource/r6vz-twt4/106">
+    <socrata:rowID>106</socrata:rowID>
+    <rdfs:member rdf:resource="http://data.ct.gov/resource/r6vz-twt4/" />
+    <ds:stat_index>106</ds:stat_index>
+    <ds:old_saybrook>342</ds:old_saybrook>
+  </dsbase:r6vz-twt4>
+  <dsbase:r6vz-twt4 rdf:about="http://data.ct.gov/resource/r6vz-twt4/107">
+    <socrata:rowID>107</socrata:rowID>
+    <rdfs:member rdf:resource="http://data.ct.gov/resource/r6vz-twt4/" />
+    <ds:stat_index>107</ds:stat_index>
+    <ds:orange>597</ds:orange>
+  </dsbase:r6vz-twt4>
+  <dsbase:r6vz-twt4 rdf:about="http://data.ct.gov/resource/r6vz-twt4/108">
+    <socrata:rowID>108</socrata:rowID>
+    <rdfs:member rdf:resource="http://data.ct.gov/resource/r6vz-twt4/" />
+    <ds:stat_index>108</ds:stat_index>
+    <ds:oxford>73</ds:oxford>
+  </dsbase:r6vz-twt4>
+  <dsbase:r6vz-twt4 rdf:about="http://data.ct.gov/resource/r6vz-twt4/109">
+    <socrata:rowID>109</socrata:rowID>
+    <rdfs:member rdf:resource="http://data.ct.gov/resource/r6vz-twt4/" />
+    <ds:stat_index>109</ds:stat_index>
+    <ds:plainfield>297</ds:plainfield>
+  </dsbase:r6vz-twt4>
+  <dsbase:r6vz-twt4 rdf:about="http://data.ct.gov/resource/r6vz-twt4/110">
+    <socrata:rowID>110</socrata:rowID>
+    <rdfs:member rdf:resource="http://data.ct.gov/resource/r6vz-twt4/" />
+    <ds:stat_index>110</ds:stat_index>
+    <ds:plainville>757</ds:plainville>
+  </dsbase:r6vz-twt4>
+  <dsbase:r6vz-twt4 rdf:about="http://data.ct.gov/resource/r6vz-twt4/111">
+    <socrata:rowID>111</socrata:rowID>
+    <rdfs:member rdf:resource="http://data.ct.gov/resource/r6vz-twt4/" />
+    <ds:stat_index>111</ds:stat_index>
+    <ds:plymouth>250</ds:plymouth>
+  </dsbase:r6vz-twt4>
+  <dsbase:r6vz-twt4 rdf:about="http://data.ct.gov/resource/r6vz-twt4/112">
+    <socrata:rowID>112</socrata:rowID>
+    <rdfs:member rdf:resource="http://data.ct.gov/resource/r6vz-twt4/" />
+    <ds:stat_index>112</ds:stat_index>
+    <ds:pomfret>3</ds:pomfret>
+  </dsbase:r6vz-twt4>
+  <dsbase:r6vz-twt4 rdf:about="http://data.ct.gov/resource/r6vz-twt4/113">
+    <socrata:rowID>113</socrata:rowID>
+    <rdfs:member rdf:resource="http://data.ct.gov/resource/r6vz-twt4/" />
+    <ds:stat_index>113</ds:stat_index>
+    <ds:portland>198</ds:portland>
+  </dsbase:r6vz-twt4>
+  <dsbase:r6vz-twt4 rdf:about="http://data.ct.gov/resource/r6vz-twt4/114">
+    <socrata:rowID>114</socrata:rowID>
+    <rdfs:member rdf:resource="http://data.ct.gov/resource/r6vz-twt4/" />
+    <ds:stat_index>114</ds:stat_index>
+    <ds:preston>54</ds:preston>
+  </dsbase:r6vz-twt4>
+  <dsbase:r6vz-twt4 rdf:about="http://data.ct.gov/resource/r6vz-twt4/115">
+    <socrata:rowID>115</socrata:rowID>
+    <rdfs:member rdf:resource="http://data.ct.gov/resource/r6vz-twt4/" />
+    <ds:stat_index>115</ds:stat_index>
+    <ds:prospect>75</ds:prospect>
+  </dsbase:r6vz-twt4>
+  <dsbase:r6vz-twt4 rdf:about="http://data.ct.gov/resource/r6vz-twt4/116">
+    <socrata:rowID>116</socrata:rowID>
+    <rdfs:member rdf:resource="http://data.ct.gov/resource/r6vz-twt4/" />
+    <ds:stat_index>116</ds:stat_index>
+    <ds:putnam_municipal>240</ds:putnam_municipal>
+  </dsbase:r6vz-twt4>
+  <dsbase:r6vz-twt4 rdf:about="http://data.ct.gov/resource/r6vz-twt4/117">
+    <socrata:rowID>117</socrata:rowID>
+    <rdfs:member rdf:resource="http://data.ct.gov/resource/r6vz-twt4/" />
+    <ds:stat_index>117</ds:stat_index>
+    <ds:putnam>153</ds:putnam>
+  </dsbase:r6vz-twt4>
+  <dsbase:r6vz-twt4 rdf:about="http://data.ct.gov/resource/r6vz-twt4/118">
+    <socrata:rowID>118</socrata:rowID>
+    <rdfs:member rdf:resource="http://data.ct.gov/resource/r6vz-twt4/" />
+    <ds:stat_index>118</ds:stat_index>
+    <ds:redding>42</ds:redding>
+  </dsbase:r6vz-twt4>
+  <dsbase:r6vz-twt4 rdf:about="http://data.ct.gov/resource/r6vz-twt4/119">
+    <socrata:rowID>119</socrata:rowID>
+    <rdfs:member rdf:resource="http://data.ct.gov/resource/r6vz-twt4/" />
+    <ds:stat_index>119</ds:stat_index>
+    <ds:ridgefield>210</ds:ridgefield>
+  </dsbase:r6vz-twt4>
+  <dsbase:r6vz-twt4 rdf:about="http://data.ct.gov/resource/r6vz-twt4/120">
+    <socrata:rowID>120</socrata:rowID>
+    <rdfs:member rdf:resource="http://data.ct.gov/resource/r6vz-twt4/" />
+    <ds:stat_index>120</ds:stat_index>
+    <ds:rocky_hill>459</ds:rocky_hill>
+  </dsbase:r6vz-twt4>
+  <dsbase:r6vz-twt4 rdf:about="http://data.ct.gov/resource/r6vz-twt4/121">
+    <socrata:rowID>121</socrata:rowID>
+    <rdfs:member rdf:resource="http://data.ct.gov/resource/r6vz-twt4/" />
+    <ds:stat_index>121</ds:stat_index>
+    <ds:roxbury>6</ds:roxbury>
+  </dsbase:r6vz-twt4>
+  <dsbase:r6vz-twt4 rdf:about="http://data.ct.gov/resource/r6vz-twt4/122">
+    <socrata:rowID>122</socrata:rowID>
+    <rdfs:member rdf:resource="http://data.ct.gov/resource/r6vz-twt4/" />
+    <ds:stat_index>122</ds:stat_index>
+    <ds:salem>19</ds:salem>
+  </dsbase:r6vz-twt4>
+  <dsbase:r6vz-twt4 rdf:about="http://data.ct.gov/resource/r6vz-twt4/123">
+    <socrata:rowID>123</socrata:rowID>
+    <rdfs:member rdf:resource="http://data.ct.gov/resource/r6vz-twt4/" />
+    <ds:stat_index>123</ds:stat_index>
+    <ds:salisbury>36</ds:salisbury>
+  </dsbase:r6vz-twt4>
+  <dsbase:r6vz-twt4 rdf:about="http://data.ct.gov/resource/r6vz-twt4/124">
+    <socrata:rowID>124</socrata:rowID>
+    <rdfs:member rdf:resource="http://data.ct.gov/resource/r6vz-twt4/" />
+    <ds:stat_index>124</ds:stat_index>
+    <ds:scotland>9</ds:scotland>
+  </dsbase:r6vz-twt4>
+  <dsbase:r6vz-twt4 rdf:about="http://data.ct.gov/resource/r6vz-twt4/125">
+    <socrata:rowID>125</socrata:rowID>
+    <rdfs:member rdf:resource="http://data.ct.gov/resource/r6vz-twt4/" />
+    <ds:stat_index>125</ds:stat_index>
+    <ds:seymour>363</ds:seymour>
+  </dsbase:r6vz-twt4>
+  <dsbase:r6vz-twt4 rdf:about="http://data.ct.gov/resource/r6vz-twt4/126">
+    <socrata:rowID>126</socrata:rowID>
+    <rdfs:member rdf:resource="http://data.ct.gov/resource/r6vz-twt4/" />
+    <ds:stat_index>126</ds:stat_index>
+    <ds:sharon>9</ds:sharon>
+  </dsbase:r6vz-twt4>
+  <dsbase:r6vz-twt4 rdf:about="http://data.ct.gov/resource/r6vz-twt4/127">
+    <socrata:rowID>127</socrata:rowID>
+    <rdfs:member rdf:resource="http://data.ct.gov/resource/r6vz-twt4/" />
+    <ds:stat_index>127</ds:stat_index>
+    <ds:shelton>723</ds:shelton>
+  </dsbase:r6vz-twt4>
+  <dsbase:r6vz-twt4 rdf:about="http://data.ct.gov/resource/r6vz-twt4/128">
+    <socrata:rowID>128</socrata:rowID>
+    <rdfs:member rdf:resource="http://data.ct.gov/resource/r6vz-twt4/" />
+    <ds:stat_index>128</ds:stat_index>
+    <ds:sherman>9</ds:sherman>
+  </dsbase:r6vz-twt4>
+  <dsbase:r6vz-twt4 rdf:about="http://data.ct.gov/resource/r6vz-twt4/129">
+    <socrata:rowID>129</socrata:rowID>
+    <rdfs:member rdf:resource="http://data.ct.gov/resource/r6vz-twt4/" />
+    <ds:stat_index>129</ds:stat_index>
+    <ds:simsbury>223</ds:simsbury>
+  </dsbase:r6vz-twt4>
+  <dsbase:r6vz-twt4 rdf:about="http://data.ct.gov/resource/r6vz-twt4/130">
+    <socrata:rowID>130</socrata:rowID>
+    <rdfs:member rdf:resource="http://data.ct.gov/resource/r6vz-twt4/" />
+    <ds:stat_index>130</ds:stat_index>
+    <ds:somers>87</ds:somers>
+  </dsbase:r6vz-twt4>
+  <dsbase:r6vz-twt4 rdf:about="http://data.ct.gov/resource/r6vz-twt4/131">
+    <socrata:rowID>131</socrata:rowID>
+    <rdfs:member rdf:resource="http://data.ct.gov/resource/r6vz-twt4/" />
+    <ds:stat_index>131</ds:stat_index>
+    <ds:southbury>195</ds:southbury>
+  </dsbase:r6vz-twt4>
+  <dsbase:r6vz-twt4 rdf:about="http://data.ct.gov/resource/r6vz-twt4/132">
+    <socrata:rowID>132</socrata:rowID>
+    <rdfs:member rdf:resource="http://data.ct.gov/resource/r6vz-twt4/" />
+    <ds:stat_index>132</ds:stat_index>
+    <ds:southington>1478</ds:southington>
+  </dsbase:r6vz-twt4>
+  <dsbase:r6vz-twt4 rdf:about="http://data.ct.gov/resource/r6vz-twt4/133">
+    <socrata:rowID>133</socrata:rowID>
+    <rdfs:member rdf:resource="http://data.ct.gov/resource/r6vz-twt4/" />
+    <ds:stat_index>133</ds:stat_index>
+    <ds:south_windsor>630</ds:south_windsor>
+  </dsbase:r6vz-twt4>
+  <dsbase:r6vz-twt4 rdf:about="http://data.ct.gov/resource/r6vz-twt4/134">
+    <socrata:rowID>134</socrata:rowID>
+    <rdfs:member rdf:resource="http://data.ct.gov/resource/r6vz-twt4/" />
+    <ds:stat_index>134</ds:stat_index>
+    <ds:sprague>75</ds:sprague>
+  </dsbase:r6vz-twt4>
+  <dsbase:r6vz-twt4 rdf:about="http://data.ct.gov/resource/r6vz-twt4/135">
+    <socrata:rowID>135</socrata:rowID>
+    <rdfs:member rdf:resource="http://data.ct.gov/resource/r6vz-twt4/" />
+    <ds:stat_index>135</ds:stat_index>
+    <ds:stafford>182</ds:stafford>
+  </dsbase:r6vz-twt4>
+  <dsbase:r6vz-twt4 rdf:about="http://data.ct.gov/resource/r6vz-twt4/136">
+    <socrata:rowID>136</socrata:rowID>
+    <rdfs:member rdf:resource="http://data.ct.gov/resource/r6vz-twt4/" />
+    <ds:stat_index>136</ds:stat_index>
+    <ds:stamford>3695</ds:stamford>
+  </dsbase:r6vz-twt4>
+  <dsbase:r6vz-twt4 rdf:about="http://data.ct.gov/resource/r6vz-twt4/137">
+    <socrata:rowID>137</socrata:rowID>
+    <rdfs:member rdf:resource="http://data.ct.gov/resource/r6vz-twt4/" />
+    <ds:stat_index>137</ds:stat_index>
+    <ds:sterling>39</ds:sterling>
+  </dsbase:r6vz-twt4>
+  <dsbase:r6vz-twt4 rdf:about="http://data.ct.gov/resource/r6vz-twt4/138">
+    <socrata:rowID>138</socrata:rowID>
+    <rdfs:member rdf:resource="http://data.ct.gov/resource/r6vz-twt4/" />
+    <ds:stat_index>138</ds:stat_index>
+    <ds:stonington>642</ds:stonington>
+  </dsbase:r6vz-twt4>
+  <dsbase:r6vz-twt4 rdf:about="http://data.ct.gov/resource/r6vz-twt4/139">
+    <socrata:rowID>139</socrata:rowID>
+    <rdfs:member rdf:resource="http://data.ct.gov/resource/r6vz-twt4/" />
+    <ds:stat_index>139</ds:stat_index>
+    <ds:stratford>1911</ds:stratford>
+  </dsbase:r6vz-twt4>
+  <dsbase:r6vz-twt4 rdf:about="http://data.ct.gov/resource/r6vz-twt4/140">
+    <socrata:rowID>140</socrata:rowID>
+    <rdfs:member rdf:resource="http://data.ct.gov/resource/r6vz-twt4/" />
+    <ds:stat_index>140</ds:stat_index>
+    <ds:suffield>93</ds:suffield>
+  </dsbase:r6vz-twt4>
+  <dsbase:r6vz-twt4 rdf:about="http://data.ct.gov/resource/r6vz-twt4/141">
+    <socrata:rowID>141</socrata:rowID>
+    <rdfs:member rdf:resource="http://data.ct.gov/resource/r6vz-twt4/" />
+    <ds:stat_index>141</ds:stat_index>
+    <ds:thomaston>172</ds:thomaston>
+  </dsbase:r6vz-twt4>
+  <dsbase:r6vz-twt4 rdf:about="http://data.ct.gov/resource/r6vz-twt4/142">
+    <socrata:rowID>142</socrata:rowID>
+    <rdfs:member rdf:resource="http://data.ct.gov/resource/r6vz-twt4/" />
+    <ds:stat_index>142</ds:stat_index>
+    <ds:thompson>165</ds:thompson>
+  </dsbase:r6vz-twt4>
+  <dsbase:r6vz-twt4 rdf:about="http://data.ct.gov/resource/r6vz-twt4/143">
+    <socrata:rowID>143</socrata:rowID>
+    <rdfs:member rdf:resource="http://data.ct.gov/resource/r6vz-twt4/" />
+    <ds:stat_index>143</ds:stat_index>
+    <ds:tolland>129</ds:tolland>
+  </dsbase:r6vz-twt4>
+  <dsbase:r6vz-twt4 rdf:about="http://data.ct.gov/resource/r6vz-twt4/144">
+    <socrata:rowID>144</socrata:rowID>
+    <rdfs:member rdf:resource="http://data.ct.gov/resource/r6vz-twt4/" />
+    <ds:stat_index>144</ds:stat_index>
+    <ds:torrington>1522</ds:torrington>
+  </dsbase:r6vz-twt4>
+  <dsbase:r6vz-twt4 rdf:about="http://data.ct.gov/resource/r6vz-twt4/145">
+    <socrata:rowID>145</socrata:rowID>
+    <rdfs:member rdf:resource="http://data.ct.gov/resource/r6vz-twt4/" />
+    <ds:stat_index>145</ds:stat_index>
+    <ds:trumbull>1402</ds:trumbull>
+  </dsbase:r6vz-twt4>
+  <dsbase:r6vz-twt4 rdf:about="http://data.ct.gov/resource/r6vz-twt4/146">
+    <socrata:rowID>146</socrata:rowID>
+    <rdfs:member rdf:resource="http://data.ct.gov/resource/r6vz-twt4/" />
+    <ds:stat_index>146</ds:stat_index>
+    <ds:union>6</ds:union>
+  </dsbase:r6vz-twt4>
+  <dsbase:r6vz-twt4 rdf:about="http://data.ct.gov/resource/r6vz-twt4/147">
+    <socrata:rowID>147</socrata:rowID>
+    <rdfs:member rdf:resource="http://data.ct.gov/resource/r6vz-twt4/" />
+    <ds:stat_index>147</ds:stat_index>
+    <ds:vernon>838</ds:vernon>
+  </dsbase:r6vz-twt4>
+  <dsbase:r6vz-twt4 rdf:about="http://data.ct.gov/resource/r6vz-twt4/148">
+    <socrata:rowID>148</socrata:rowID>
+    <rdfs:member rdf:resource="http://data.ct.gov/resource/r6vz-twt4/" />
+    <ds:stat_index>148</ds:stat_index>
+    <ds:voluntown>18</ds:voluntown>
+  </dsbase:r6vz-twt4>
+  <dsbase:r6vz-twt4 rdf:about="http://data.ct.gov/resource/r6vz-twt4/149">
+    <socrata:rowID>149</socrata:rowID>
+    <rdfs:member rdf:resource="http://data.ct.gov/resource/r6vz-twt4/" />
+    <ds:stat_index>149</ds:stat_index>
+    <ds:wallingford>1047</ds:wallingford>
+  </dsbase:r6vz-twt4>
+  <dsbase:r6vz-twt4 rdf:about="http://data.ct.gov/resource/r6vz-twt4/150">
+    <socrata:rowID>150</socrata:rowID>
+    <rdfs:member rdf:resource="http://data.ct.gov/resource/r6vz-twt4/" />
+    <ds:stat_index>150</ds:stat_index>
+    <ds:warren>0</ds:warren>
+  </dsbase:r6vz-twt4>
+  <dsbase:r6vz-twt4 rdf:about="http://data.ct.gov/resource/r6vz-twt4/151">
+    <socrata:rowID>151</socrata:rowID>
+    <rdfs:member rdf:resource="http://data.ct.gov/resource/r6vz-twt4/" />
+    <ds:stat_index>151</ds:stat_index>
+    <ds:washington>33</ds:washington>
+  </dsbase:r6vz-twt4>
+  <dsbase:r6vz-twt4 rdf:about="http://data.ct.gov/resource/r6vz-twt4/152">
+    <socrata:rowID>152</socrata:rowID>
+    <rdfs:member rdf:resource="http://data.ct.gov/resource/r6vz-twt4/" />
+    <ds:stat_index>152</ds:stat_index>
+    <ds:waterbury>6939</ds:waterbury>
+  </dsbase:r6vz-twt4>
+  <dsbase:r6vz-twt4 rdf:about="http://data.ct.gov/resource/r6vz-twt4/153">
+    <socrata:rowID>153</socrata:rowID>
+    <rdfs:member rdf:resource="http://data.ct.gov/resource/r6vz-twt4/" />
+    <ds:stat_index>153</ds:stat_index>
+    <ds:waterford>1479</ds:waterford>
+  </dsbase:r6vz-twt4>
+  <dsbase:r6vz-twt4 rdf:about="http://data.ct.gov/resource/r6vz-twt4/154">
+    <socrata:rowID>154</socrata:rowID>
+    <rdfs:member rdf:resource="http://data.ct.gov/resource/r6vz-twt4/" />
+    <ds:stat_index>154</ds:stat_index>
+    <ds:watertown>834</ds:watertown>
+  </dsbase:r6vz-twt4>
+  <dsbase:r6vz-twt4 rdf:about="http://data.ct.gov/resource/r6vz-twt4/155">
+    <socrata:rowID>155</socrata:rowID>
+    <rdfs:member rdf:resource="http://data.ct.gov/resource/r6vz-twt4/" />
+    <ds:stat_index>155</ds:stat_index>
+    <ds:westbrook>54</ds:westbrook>
+  </dsbase:r6vz-twt4>
+  <dsbase:r6vz-twt4 rdf:about="http://data.ct.gov/resource/r6vz-twt4/156">
+    <socrata:rowID>156</socrata:rowID>
+    <rdfs:member rdf:resource="http://data.ct.gov/resource/r6vz-twt4/" />
+    <ds:stat_index>156</ds:stat_index>
+    <ds:west_hartford>1887</ds:west_hartford>
+  </dsbase:r6vz-twt4>
+  <dsbase:r6vz-twt4 rdf:about="http://data.ct.gov/resource/r6vz-twt4/157">
+    <socrata:rowID>157</socrata:rowID>
+    <rdfs:member rdf:resource="http://data.ct.gov/resource/r6vz-twt4/" />
+    <ds:stat_index>157</ds:stat_index>
+    <ds:west_haven>891</ds:west_haven>
+  </dsbase:r6vz-twt4>
+  <dsbase:r6vz-twt4 rdf:about="http://data.ct.gov/resource/r6vz-twt4/158">
+    <socrata:rowID>158</socrata:rowID>
+    <rdfs:member rdf:resource="http://data.ct.gov/resource/r6vz-twt4/" />
+    <ds:stat_index>158</ds:stat_index>
+    <ds:weston>51</ds:weston>
+  </dsbase:r6vz-twt4>
+  <dsbase:r6vz-twt4 rdf:about="http://data.ct.gov/resource/r6vz-twt4/159">
+    <socrata:rowID>159</socrata:rowID>
+    <rdfs:member rdf:resource="http://data.ct.gov/resource/r6vz-twt4/" />
+    <ds:stat_index>159</ds:stat_index>
+    <ds:westport>405</ds:westport>
+  </dsbase:r6vz-twt4>
+  <dsbase:r6vz-twt4 rdf:about="http://data.ct.gov/resource/r6vz-twt4/160">
+    <socrata:rowID>160</socrata:rowID>
+    <rdfs:member rdf:resource="http://data.ct.gov/resource/r6vz-twt4/" />
+    <ds:stat_index>160</ds:stat_index>
+    <ds:wethersfield>1019</ds:wethersfield>
+  </dsbase:r6vz-twt4>
+  <dsbase:r6vz-twt4 rdf:about="http://data.ct.gov/resource/r6vz-twt4/161">
+    <socrata:rowID>161</socrata:rowID>
+    <rdfs:member rdf:resource="http://data.ct.gov/resource/r6vz-twt4/" />
+    <ds:stat_index>161</ds:stat_index>
+    <ds:willington>69</ds:willington>
+  </dsbase:r6vz-twt4>
+  <dsbase:r6vz-twt4 rdf:about="http://data.ct.gov/resource/r6vz-twt4/162">
+    <socrata:rowID>162</socrata:rowID>
+    <rdfs:member rdf:resource="http://data.ct.gov/resource/r6vz-twt4/" />
+    <ds:stat_index>162</ds:stat_index>
+    <ds:wilton>147</ds:wilton>
+  </dsbase:r6vz-twt4>
+  <dsbase:r6vz-twt4 rdf:about="http://data.ct.gov/resource/r6vz-twt4/163">
+    <socrata:rowID>163</socrata:rowID>
+    <rdfs:member rdf:resource="http://data.ct.gov/resource/r6vz-twt4/" />
+    <ds:stat_index>163</ds:stat_index>
+    <ds:winchester>298</ds:winchester>
+  </dsbase:r6vz-twt4>
+  <dsbase:r6vz-twt4 rdf:about="http://data.ct.gov/resource/r6vz-twt4/164">
+    <socrata:rowID>164</socrata:rowID>
+    <rdfs:member rdf:resource="http://data.ct.gov/resource/r6vz-twt4/" />
+    <ds:stat_index>164</ds:stat_index>
+    <ds:willimantic>726</ds:willimantic>
+  </dsbase:r6vz-twt4>
+  <dsbase:r6vz-twt4 rdf:about="http://data.ct.gov/resource/r6vz-twt4/165">
+    <socrata:rowID>165</socrata:rowID>
+    <rdfs:member rdf:resource="http://data.ct.gov/resource/r6vz-twt4/" />
+    <ds:stat_index>165</ds:stat_index>
+    <ds:windham>103</ds:windham>
+  </dsbase:r6vz-twt4>
+  <dsbase:r6vz-twt4 rdf:about="http://data.ct.gov/resource/r6vz-twt4/166">
+    <socrata:rowID>166</socrata:rowID>
+    <rdfs:member rdf:resource="http://data.ct.gov/resource/r6vz-twt4/" />
+    <ds:stat_index>166</ds:stat_index>
+    <ds:windsor>1017</ds:windsor>
+  </dsbase:r6vz-twt4>
+  <dsbase:r6vz-twt4 rdf:about="http://data.ct.gov/resource/r6vz-twt4/167">
+    <socrata:rowID>167</socrata:rowID>
+    <rdfs:member rdf:resource="http://data.ct.gov/resource/r6vz-twt4/" />
+    <ds:stat_index>167</ds:stat_index>
+    <ds:windsor_locks>465</ds:windsor_locks>
+  </dsbase:r6vz-twt4>
+  <dsbase:r6vz-twt4 rdf:about="http://data.ct.gov/resource/r6vz-twt4/168">
+    <socrata:rowID>168</socrata:rowID>
+    <rdfs:member rdf:resource="http://data.ct.gov/resource/r6vz-twt4/" />
+    <ds:stat_index>168</ds:stat_index>
+    <ds:wolcott>334</ds:wolcott>
+  </dsbase:r6vz-twt4>
+  <dsbase:r6vz-twt4 rdf:about="http://data.ct.gov/resource/r6vz-twt4/169">
+    <socrata:rowID>169</socrata:rowID>
+    <rdfs:member rdf:resource="http://data.ct.gov/resource/r6vz-twt4/" />
+    <ds:stat_index>169</ds:stat_index>
+    <ds:woodbridge>63</ds:woodbridge>
+  </dsbase:r6vz-twt4>
+  <dsbase:r6vz-twt4 rdf:about="http://data.ct.gov/resource/r6vz-twt4/170">
+    <socrata:rowID>170</socrata:rowID>
+    <rdfs:member rdf:resource="http://data.ct.gov/resource/r6vz-twt4/" />
+    <ds:stat_index>170</ds:stat_index>
+    <ds:woodbury>78</ds:woodbury>
+  </dsbase:r6vz-twt4>
+  <dsbase:r6vz-twt4 rdf:about="http://data.ct.gov/resource/r6vz-twt4/171">
+    <socrata:rowID>171</socrata:rowID>
+    <rdfs:member rdf:resource="http://data.ct.gov/resource/r6vz-twt4/" />
+    <ds:stat_index>171</ds:stat_index>
+    <ds:woodstock>78</ds:woodstock>
+  </dsbase:r6vz-twt4>
+  <dsbase:r6vz-twt4 rdf:about="http://data.ct.gov/resource/r6vz-twt4/172">
+    <socrata:rowID>172</socrata:rowID>
+    <rdfs:member rdf:resource="http://data.ct.gov/resource/r6vz-twt4/" />
+    <ds:stat_index>172</ds:stat_index>
+    <ds:yale_university>102</ds:yale_university>
+  </dsbase:r6vz-twt4>
+  <dsbase:r6vz-twt4 rdf:about="http://data.ct.gov/resource/r6vz-twt4/173">
+    <socrata:rowID>173</socrata:rowID>
+    <rdfs:member rdf:resource="http://data.ct.gov/resource/r6vz-twt4/" />
+    <ds:stat_index>173</ds:stat_index>
+    <ds:uconn_storrs>225</ds:uconn_storrs>
+  </dsbase:r6vz-twt4>
+  <dsbase:r6vz-twt4 rdf:about="http://data.ct.gov/resource/r6vz-twt4/174">
+    <socrata:rowID>174</socrata:rowID>
+    <rdfs:member rdf:resource="http://data.ct.gov/resource/r6vz-twt4/" />
+    <ds:stat_index>174</ds:stat_index>
+    <ds:foxwoods_casino>18</ds:foxwoods_casino>
+  </dsbase:r6vz-twt4>
+  <dsbase:r6vz-twt4 rdf:about="http://data.ct.gov/resource/r6vz-twt4/175">
+    <socrata:rowID>175</socrata:rowID>
+    <rdfs:member rdf:resource="http://data.ct.gov/resource/r6vz-twt4/" />
+    <ds:stat_index>175</ds:stat_index>
+    <ds:mohegan_sun_casino>12</ds:mohegan_sun_casino>
+  </dsbase:r6vz-twt4>
+  <dsbase:r6vz-twt4 rdf:about="http://data.ct.gov/resource/r6vz-twt4/176">
+    <socrata:rowID>176</socrata:rowID>
+    <rdfs:member rdf:resource="http://data.ct.gov/resource/r6vz-twt4/" />
+    <ds:stat_index>176</ds:stat_index>
+    <ds:mta>108</ds:mta>
+  </dsbase:r6vz-twt4>
+  <dsbase:r6vz-twt4 rdf:about="http://data.ct.gov/resource/r6vz-twt4/177">
+    <socrata:rowID>177</socrata:rowID>
+    <rdfs:member rdf:resource="http://data.ct.gov/resource/r6vz-twt4/" />
+    <ds:stat_index>177</ds:stat_index>
+    <ds:c_c_s_u>13</ds:c_c_s_u>
+  </dsbase:r6vz-twt4>
+  <dsbase:r6vz-twt4 rdf:about="http://data.ct.gov/resource/r6vz-twt4/178">
+    <socrata:rowID>178</socrata:rowID>
+    <rdfs:member rdf:resource="http://data.ct.gov/resource/r6vz-twt4/" />
+    <ds:stat_index>178</ds:stat_index>
+    <ds:e_c_s_u>15</ds:e_c_s_u>
+  </dsbase:r6vz-twt4>
+  <dsbase:r6vz-twt4 rdf:about="http://data.ct.gov/resource/r6vz-twt4/179">
+    <socrata:rowID>179</socrata:rowID>
+    <rdfs:member rdf:resource="http://data.ct.gov/resource/r6vz-twt4/" />
+    <ds:stat_index>179</ds:stat_index>
+    <ds:uconn_health_ctr>9</ds:uconn_health_ctr>
+  </dsbase:r6vz-twt4>
+  <dsbase:r6vz-twt4 rdf:about="http://data.ct.gov/resource/r6vz-twt4/180">
+    <socrata:rowID>180</socrata:rowID>
+    <rdfs:member rdf:resource="http://data.ct.gov/resource/r6vz-twt4/" />
+    <ds:stat_index>180</ds:stat_index>
+    <ds:w_c_s_u>15</ds:w_c_s_u>
+  </dsbase:r6vz-twt4>
+  <dsbase:r6vz-twt4 rdf:about="http://data.ct.gov/resource/r6vz-twt4/181">
+    <socrata:rowID>181</socrata:rowID>
+    <rdfs:member rdf:resource="http://data.ct.gov/resource/r6vz-twt4/" />
+    <ds:stat_index>181</ds:stat_index>
+    <ds:s_c_s_u>33</ds:s_c_s_u>
+  </dsbase:r6vz-twt4>
+  <dsbase:r6vz-twt4 rdf:about="http://data.ct.gov/resource/r6vz-twt4/182">
+    <socrata:rowID>182</socrata:rowID>
+    <rdfs:member rdf:resource="http://data.ct.gov/resource/r6vz-twt4/" />
+    <ds:stat_index>182</ds:stat_index>
+    <ds:state_capitol>6</ds:state_capitol>
+  </dsbase:r6vz-twt4>
+  <dsbase:r6vz-twt4 rdf:about="http://data.ct.gov/resource/r6vz-twt4/183">
+    <socrata:rowID>183</socrata:rowID>
+    <rdfs:member rdf:resource="http://data.ct.gov/resource/r6vz-twt4/" />
+    <ds:stat_index>183</ds:stat_index>
+    <ds:groton_town>631</ds:groton_town>
+  </dsbase:r6vz-twt4>
+  <dsbase:r6vz-twt4 rdf:about="http://data.ct.gov/resource/r6vz-twt4/184">
+    <socrata:rowID>184</socrata:rowID>
+    <rdfs:member rdf:resource="http://data.ct.gov/resource/r6vz-twt4/" />
+    <ds:stat_index>184</ds:stat_index>
+    <ds:groton_long_pt>0</ds:groton_long_pt>
+  </dsbase:r6vz-twt4>
+  <dsbase:r6vz-twt4 rdf:about="http://data.ct.gov/resource/r6vz-twt4/185">
+    <socrata:rowID>185</socrata:rowID>
+    <rdfs:member rdf:resource="http://data.ct.gov/resource/r6vz-twt4/" />
+    <ds:stat_index>185</ds:stat_index>
+    <ds:state_police_misc>1080</ds:state_police_misc>
+  </dsbase:r6vz-twt4>
+  <dsbase:r6vz-twt4 rdf:about="http://data.ct.gov/resource/r6vz-twt4/186">
+    <socrata:rowID>186</socrata:rowID>
+    <rdfs:member rdf:resource="http://data.ct.gov/resource/r6vz-twt4/" />
+    <ds:stat_index>186</ds:stat_index>
+    <ds:mashantucket_tribal_pd>492</ds:mashantucket_tribal_pd>
+  </dsbase:r6vz-twt4>
+  <dsbase:r6vz-twt4 rdf:about="http://data.ct.gov/resource/r6vz-twt4/187">
+    <socrata:rowID>187</socrata:rowID>
+    <rdfs:member rdf:resource="http://data.ct.gov/resource/r6vz-twt4/" />
+    <ds:stat_index>187</ds:stat_index>
+    <ds:mohegan_tribal_pd>606</ds:mohegan_tribal_pd>
+  </dsbase:r6vz-twt4>
+  <dsbase:r6vz-twt4 rdf:about="http://data.ct.gov/resource/r6vz-twt4/188">
+    <socrata:rowID>188</socrata:rowID>
+    <rdfs:member rdf:resource="http://data.ct.gov/resource/r6vz-twt4/" />
+    <ds:stat_index>188</ds:stat_index>
+    <ds:fairfield_county>23846</ds:fairfield_county>
+  </dsbase:r6vz-twt4>
+  <dsbase:r6vz-twt4 rdf:about="http://data.ct.gov/resource/r6vz-twt4/189">
+    <socrata:rowID>189</socrata:rowID>
+    <rdfs:member rdf:resource="http://data.ct.gov/resource/r6vz-twt4/" />
+    <ds:stat_index>189</ds:stat_index>
+    <ds:hartford_county>43722</ds:hartford_county>
+  </dsbase:r6vz-twt4>
+  <dsbase:r6vz-twt4 rdf:about="http://data.ct.gov/resource/r6vz-twt4/190">
+    <socrata:rowID>190</socrata:rowID>
+    <rdfs:member rdf:resource="http://data.ct.gov/resource/r6vz-twt4/" />
+    <ds:stat_index>190</ds:stat_index>
+    <ds:litchfield_county>4705</ds:litchfield_county>
+  </dsbase:r6vz-twt4>
+  <dsbase:r6vz-twt4 rdf:about="http://data.ct.gov/resource/r6vz-twt4/191">
+    <socrata:rowID>191</socrata:rowID>
+    <rdfs:member rdf:resource="http://data.ct.gov/resource/r6vz-twt4/" />
+    <ds:stat_index>191</ds:stat_index>
+    <ds:middlesex_county>5030</ds:middlesex_county>
+  </dsbase:r6vz-twt4>
+  <dsbase:r6vz-twt4 rdf:about="http://data.ct.gov/resource/r6vz-twt4/192">
+    <socrata:rowID>192</socrata:rowID>
+    <rdfs:member rdf:resource="http://data.ct.gov/resource/r6vz-twt4/" />
+    <ds:stat_index>192</ds:stat_index>
+    <ds:new_haven_county>31324</ds:new_haven_county>
+  </dsbase:r6vz-twt4>
+  <dsbase:r6vz-twt4 rdf:about="http://data.ct.gov/resource/r6vz-twt4/193">
+    <socrata:rowID>193</socrata:rowID>
+    <rdfs:member rdf:resource="http://data.ct.gov/resource/r6vz-twt4/" />
+    <ds:stat_index>193</ds:stat_index>
+    <ds:new_london_county>10592</ds:new_london_county>
+  </dsbase:r6vz-twt4>
+  <dsbase:r6vz-twt4 rdf:about="http://data.ct.gov/resource/r6vz-twt4/194">
+    <socrata:rowID>194</socrata:rowID>
+    <rdfs:member rdf:resource="http://data.ct.gov/resource/r6vz-twt4/" />
+    <ds:stat_index>194</ds:stat_index>
+    <ds:tolland_county>2209</ds:tolland_county>
+  </dsbase:r6vz-twt4>
+  <dsbase:r6vz-twt4 rdf:about="http://data.ct.gov/resource/r6vz-twt4/195">
+    <socrata:rowID>195</socrata:rowID>
+    <rdfs:member rdf:resource="http://data.ct.gov/resource/r6vz-twt4/" />
+    <ds:stat_index>195</ds:stat_index>
+    <ds:windham_county>2642</ds:windham_county>
+  </dsbase:r6vz-twt4>
+  <dsbase:r6vz-twt4 rdf:about="http://data.ct.gov/resource/r6vz-twt4/196">
+    <socrata:rowID>196</socrata:rowID>
+    <rdfs:member rdf:resource="http://data.ct.gov/resource/r6vz-twt4/" />
+    <ds:stat_index>196</ds:stat_index>
+    <ds:new_york>0</ds:new_york>
+  </dsbase:r6vz-twt4>
+</rdf:RDF>
+
