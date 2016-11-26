@@ -82,7 +82,7 @@ public class ConnRealEstate {
     private void getResults(Model model){
         runQuery(" select DISTINCT ?name ?total_houses ?occupied_houses ?vacant_houses" +
                 " ?total_pop_2015 ?total_male_2015 ?total_female_2015 " +
-                " ?address ?list_year ?assessed_value ?sales_price ?sales_ratio where { " +
+                " ?address ?list_year ?assessed_value ?sales_price ?sales_ratio ?lat ?long where { " +
                 " ?ns1 ds:municipality ?name ;" +
                 "      ds:total_housing_units ?total_houses ;" +
                 "      ds:occupied_housing_units ?occupied_houses ;" +
@@ -96,7 +96,11 @@ public class ConnRealEstate {
                 "      ds:listyear ?list_year ;" +
                 "      ds:assessedvalue ?assessed_value ;" +
                 "      ds:saleprice ?sales_price ;" +
-                "      ds:salesratio ?sales_ratio ." +
+                "      ds:salesratio ?sales_ratio ;" +
+                "       ds:location  ?ns4 . " +
+                " ?ns4  geo:lat ?lat ;" +
+                "      geo:long ?long" +
+
                 "}", model);  //add the query string
     }
 
@@ -104,6 +108,7 @@ public class ConnRealEstate {
         StringBuffer queryStr = new StringBuffer();
         // Establish Prefixes
         queryStr.append("PREFIX ds:<http://data.ct.gov/resource/igy9-udjm/> ");
+        queryStr.append(" PREFIX geo:<http://www.w3.org/2003/01/geo/wgs84_pos#> ");
         //Now add query
         queryStr.append(queryRequest);
         Query query = QueryFactory.create(queryStr.toString());
@@ -127,8 +132,8 @@ public class ConnRealEstate {
         }
 
         //Dont do both, you can do only one operation at a time. Comment one of them which you dont want
-        ResultSetFormatter.outputAsJSON(jsonp, response);
-        //ResultSetFormatter.outputAsCSV(csvp, response);
+        //ResultSetFormatter.outputAsJSON(jsonp, response);
+        ResultSetFormatter.outputAsCSV(csvp, response);
     }
 
     public void runFuseki(){
@@ -145,7 +150,7 @@ public class ConnRealEstate {
                         "       ds:_2015_total ?total_pop_2015 .\n" +
                         "  ?ns3 ds:name ?name ;\n" +
                         "       ds:address ?address ;\n" +
-                        "        ds:listyear ?list_year \n" +
+                        "       ds:listyear ?list_year .\n" +
                         "  Filter(?name = \""+name+"\" ) \n" +
                         "}");
         ResultSet results = qe.execSelect();
