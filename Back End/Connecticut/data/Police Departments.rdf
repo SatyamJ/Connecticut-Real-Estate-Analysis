@@ -1,0 +1,2591 @@
+<rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" 
+         xmlns:rdfs="http://www.w3.org/2000/01/rdf-schema#" 
+         xmlns:socrata="http://www.socrata.com/rdf/terms#" 
+         xmlns:dcat="http://www.w3.org/ns/dcat#" 
+         xmlns:ods="http://open-data-standards.github.com/2012/01/open-data-standards#" 
+         xmlns:dcterm="http://purl.org/dc/terms/" 
+         xmlns:geo="http://www.w3.org/2003/01/geo/wgs84_pos#" 
+         xmlns:skos="http://www.w3.org/2004/02/skos/core#" 
+         xmlns:foaf="http://xmlns.com/foaf/0.1/" 
+         xmlns:dsbase="http://data.ct.gov/resource/" 
+         xmlns:ds="http://data.ct.gov/resource/k2zz-z5mw/" 
+         xmlns:usps="http://www.w3.org/2000/10/swap/pim/usps#">
+<dsbase:k2zz-z5mw rdf:about="http://data.ct.gov/resource/k2zz-z5mw/1">
+    <socrata:rowID>1</socrata:rowID>
+    <rdfs:member rdf:resource="http://data.ct.gov/resource/k2zz-z5mw"/>
+    <ds:name>AMTRAK POLICE DEPARTMENT</ds:name>
+    <ds:description>OTHER</ds:description>
+    <ds:telephone>203-773-6000</ds:telephone>
+    <ds:location><geo:SpatialThing>
+        <geo:lat>41.297513000000002</geo:lat>
+        <geo:long>-72.926606000000007</geo:long></geo:SpatialThing></ds:location>
+    <ds:address>50 UNION AVENUE</ds:address>
+    <ds:city>NEW HAVEN</ds:city>
+    <ds:state>CT</ds:state>
+    <ds:zip>6519</ds:zip>
+    <ds:zipp4>1754</ds:zipp4></dsbase:k2zz-z5mw>
+<dsbase:k2zz-z5mw rdf:about="http://data.ct.gov/resource/k2zz-z5mw/2">
+    <socrata:rowID>2</socrata:rowID>
+    <rdfs:member rdf:resource="http://data.ct.gov/resource/k2zz-z5mw"/>
+    <ds:name>ANDOVER POLICE DEPARTMENT</ds:name>
+    <ds:description>MUNICIPAL</ds:description>
+    <ds:telephone>860-742-0235</ds:telephone>
+    <ds:location><geo:SpatialThing>
+        <geo:lat>41.728453999999999</geo:lat>
+        <geo:long>-72.368181000000007</geo:long></geo:SpatialThing></ds:location>
+    <ds:address>17 SCHOOL ROAD</ds:address>
+    <ds:city>ANDOVER</ds:city>
+    <ds:state>CT</ds:state>
+    <ds:zip>6232</ds:zip>
+    <ds:zipp4>1526</ds:zipp4></dsbase:k2zz-z5mw>
+<dsbase:k2zz-z5mw rdf:about="http://data.ct.gov/resource/k2zz-z5mw/4">
+    <socrata:rowID>4</socrata:rowID>
+    <rdfs:member rdf:resource="http://data.ct.gov/resource/k2zz-z5mw"/>
+    <ds:name>AVERY POINT CAMPUS POLICE - SUBSTATION</ds:name>
+    <ds:description>COLLEGE OR UNIVERSITY</ds:description>
+    <ds:telephone>860-405-9088</ds:telephone>
+    <ds:location><geo:SpatialThing>
+        <geo:lat>41.317253999999998</geo:lat>
+        <geo:long>-72.063890999999998</geo:long></geo:SpatialThing></ds:location>
+    <ds:address>1084 SHENNECOSSETT ROAD</ds:address>
+    <ds:city>GROTON</ds:city>
+    <ds:state>CT</ds:state>
+    <ds:zip>6340</ds:zip>
+    <ds:zipp4>6048</ds:zipp4></dsbase:k2zz-z5mw>
+<dsbase:k2zz-z5mw rdf:about="http://data.ct.gov/resource/k2zz-z5mw/16">
+    <socrata:rowID>16</socrata:rowID>
+    <rdfs:member rdf:resource="http://data.ct.gov/resource/k2zz-z5mw"/>
+    <ds:name>CAPITAL COMMUNITY TECHNICAL COLLEGE CAMPUS POLICE</ds:name>
+    <ds:description>COLLEGE OR UNIVERSITY</ds:description>
+    <ds:telephone>860-906-5075</ds:telephone>
+    <ds:location><geo:SpatialThing>
+        <geo:lat>41.768315000000001</geo:lat>
+        <geo:long>-72.672618999999997</geo:long></geo:SpatialThing></ds:location>
+    <ds:address>950 MAIN STREET</ds:address>
+    <ds:city>HARTFORD</ds:city>
+    <ds:state>CT</ds:state>
+    <ds:zip>6103</ds:zip>
+    <ds:zipp4>1207</ds:zipp4></dsbase:k2zz-z5mw>
+<dsbase:k2zz-z5mw rdf:about="http://data.ct.gov/resource/k2zz-z5mw/17">
+    <socrata:rowID>17</socrata:rowID>
+    <rdfs:member rdf:resource="http://data.ct.gov/resource/k2zz-z5mw"/>
+    <ds:name>CENTRAL CONNECTICUT STATE UNIVERSITY POLICE</ds:name>
+    <ds:description>COLLEGE OR UNIVERSITY</ds:description>
+    <ds:telephone>860-832-2375</ds:telephone>
+    <ds:location><geo:SpatialThing>
+        <geo:lat>41.691377000000003</geo:lat>
+        <geo:long>-72.76652</geo:long></geo:SpatialThing></ds:location>
+    <ds:address>1615 STANLEY STREET</ds:address>
+    <ds:city>NEW BRITAIN</ds:city>
+    <ds:state>CT</ds:state>
+    <ds:zip>6050</ds:zip>
+    <ds:zipp4>2439</ds:zipp4></dsbase:k2zz-z5mw>
+<dsbase:k2zz-z5mw rdf:about="http://data.ct.gov/resource/k2zz-z5mw/18">
+    <socrata:rowID>18</socrata:rowID>
+    <rdfs:member rdf:resource="http://data.ct.gov/resource/k2zz-z5mw"/>
+    <ds:name>CHESHIRE POLICE DEPARTMENT</ds:name>
+    <ds:description>MUNICIPAL</ds:description>
+    <ds:telephone>203-271-5500</ds:telephone>
+    <ds:location><geo:SpatialThing>
+        <geo:lat>41.511034000000002</geo:lat>
+        <geo:long>-72.89864</geo:long></geo:SpatialThing></ds:location>
+    <ds:address>500 HIGHLAND AVENUE</ds:address>
+    <ds:city>CHESHIRE</ds:city>
+    <ds:state>CT</ds:state>
+    <ds:zip>6410</ds:zip>
+    <ds:zipp4>2249</ds:zipp4></dsbase:k2zz-z5mw>
+<dsbase:k2zz-z5mw rdf:about="http://data.ct.gov/resource/k2zz-z5mw/19">
+    <socrata:rowID>19</socrata:rowID>
+    <rdfs:member rdf:resource="http://data.ct.gov/resource/k2zz-z5mw"/>
+    <ds:name>CLINTON POLICE DEPARTMENT</ds:name>
+    <ds:description>MUNICIPAL</ds:description>
+    <ds:telephone>860-669-0451</ds:telephone>
+    <ds:location><geo:SpatialThing>
+        <geo:lat>41.275449999999999</geo:lat>
+        <geo:long>-72.512630000000001</geo:long></geo:SpatialThing></ds:location>
+    <ds:address>170 EAST MAIN STREET</ds:address>
+    <ds:city>CLINTON</ds:city>
+    <ds:state>CT</ds:state>
+    <ds:zip>6413</ds:zip>
+    <ds:zipp4>2115</ds:zipp4></dsbase:k2zz-z5mw>
+<dsbase:k2zz-z5mw rdf:about="http://data.ct.gov/resource/k2zz-z5mw/20">
+    <socrata:rowID>20</socrata:rowID>
+    <rdfs:member rdf:resource="http://data.ct.gov/resource/k2zz-z5mw"/>
+    <ds:name>COLCHESTER POLICE DEPARTMENT</ds:name>
+    <ds:description>MUNICIPAL</ds:description>
+    <ds:telephone>860-537-2989</ds:telephone>
+    <ds:location><geo:SpatialThing>
+        <geo:lat>41.576009999999997</geo:lat>
+        <geo:long>-72.328625000000002</geo:long></geo:SpatialThing></ds:location>
+    <ds:address>127 NORWICH AVENUE</ds:address>
+    <ds:city>COLCHESTER</ds:city>
+    <ds:state>CT</ds:state>
+    <ds:zip>6415</ds:zip>
+    <ds:zipp4>1230</ds:zipp4></dsbase:k2zz-z5mw>
+<dsbase:k2zz-z5mw rdf:about="http://data.ct.gov/resource/k2zz-z5mw/21">
+    <socrata:rowID>21</socrata:rowID>
+    <rdfs:member rdf:resource="http://data.ct.gov/resource/k2zz-z5mw"/>
+    <ds:name>CONNECTICUT DEPARTMENT OF ENVIRONMENTAL CONSERVATION POLICE - HEADQUARTERS</ds:name>
+    <ds:description>OTHER</ds:description>
+    <ds:telephone>860-424-3012</ds:telephone>
+    <ds:location><geo:SpatialThing>
+        <geo:lat>41.763094000000002</geo:lat>
+        <geo:long>-72.678687999999994</geo:long></geo:SpatialThing></ds:location>
+    <ds:address>79 ELM STREET</ds:address>
+    <ds:city>HARTFORD</ds:city>
+    <ds:state>CT</ds:state>
+    <ds:zip>6106</ds:zip>
+    <ds:zipp4>1650</ds:zipp4></dsbase:k2zz-z5mw>
+<dsbase:k2zz-z5mw rdf:about="http://data.ct.gov/resource/k2zz-z5mw/22">
+    <socrata:rowID>22</socrata:rowID>
+    <rdfs:member rdf:resource="http://data.ct.gov/resource/k2zz-z5mw"/>
+    <ds:name>CONNECTICUT STATE CAPITOL POLICE</ds:name>
+    <ds:description>OTHER</ds:description>
+    <ds:telephone>860-240-0240</ds:telephone>
+    <ds:location><geo:SpatialThing>
+        <geo:lat>41.764383000000002</geo:lat>
+        <geo:long>-72.685197000000002</geo:long></geo:SpatialThing></ds:location>
+    <ds:address>210 CAPITOL AVENUE</ds:address>
+    <ds:city>HARTFORD</ds:city>
+    <ds:state>CT</ds:state>
+    <ds:zip>6106</ds:zip>
+    <ds:zipp4>1535</ds:zipp4></dsbase:k2zz-z5mw>
+<dsbase:k2zz-z5mw rdf:about="http://data.ct.gov/resource/k2zz-z5mw/23">
+    <socrata:rowID>23</socrata:rowID>
+    <rdfs:member rdf:resource="http://data.ct.gov/resource/k2zz-z5mw"/>
+    <ds:name>CONNECTICUT STATE POLICE</ds:name>
+    <ds:description>STATE POLICE</ds:description>
+    <ds:telephone>860-685-8000</ds:telephone>
+    <ds:location><geo:SpatialThing>
+        <geo:lat>41.569172000000002</geo:lat>
+        <geo:long>-72.727677999999997</geo:long></geo:SpatialThing></ds:location>
+    <ds:address>1111 COUNTRY CLUB ROAD</ds:address>
+    <ds:city>MIDDLETOWN</ds:city>
+    <ds:state>CT</ds:state>
+    <ds:zip>6457</ds:zip>
+    <ds:zipp4>2389</ds:zipp4></dsbase:k2zz-z5mw>
+<dsbase:k2zz-z5mw rdf:about="http://data.ct.gov/resource/k2zz-z5mw/24">
+    <socrata:rowID>24</socrata:rowID>
+    <rdfs:member rdf:resource="http://data.ct.gov/resource/k2zz-z5mw"/>
+    <ds:name>CONNECTICUT STATE POLICE - DURHAM RESIDENT STATE TROOPER</ds:name>
+    <ds:description>STATE POLICE</ds:description>
+    <ds:telephone>860-349-2325</ds:telephone>
+    <ds:location><geo:SpatialThing>
+        <geo:lat>41.470595000000003</geo:lat>
+        <geo:long>-72.680998000000002</geo:long></geo:SpatialThing></ds:location>
+    <ds:address>24 TOWN HOUSE ROAD</ds:address>
+    <ds:city>DURHAM</ds:city>
+    <ds:state>CT</ds:state>
+    <ds:zip>6422</ds:zip>
+    <ds:zipp4>2118</ds:zipp4></dsbase:k2zz-z5mw>
+<dsbase:k2zz-z5mw rdf:about="http://data.ct.gov/resource/k2zz-z5mw/25">
+    <socrata:rowID>25</socrata:rowID>
+    <rdfs:member rdf:resource="http://data.ct.gov/resource/k2zz-z5mw"/>
+    <ds:name>CONNECTICUT STATE POLICE - EASTERN DISTRICT HEADQUARTERS</ds:name>
+    <ds:description>STATE POLICE</ds:description>
+    <ds:telephone>860-886-5558</ds:telephone>
+    <ds:location><geo:SpatialThing>
+        <geo:lat>41.505530999999998</geo:lat>
+        <geo:long>-72.090059999999994</geo:long></geo:SpatialThing></ds:location>
+    <ds:address>401 WEST THAMES STREET</ds:address>
+    <ds:city>NORWICH</ds:city>
+    <ds:state>CT</ds:state>
+    <ds:zip>6360</ds:zip>
+    <ds:zipp4>7155</ds:zipp4></dsbase:k2zz-z5mw>
+<dsbase:k2zz-z5mw rdf:about="http://data.ct.gov/resource/k2zz-z5mw/26">
+    <socrata:rowID>26</socrata:rowID>
+    <rdfs:member rdf:resource="http://data.ct.gov/resource/k2zz-z5mw"/>
+    <ds:name>CONNECTICUT STATE POLICE - ESSEX RESIDENT STATE TROOPER</ds:name>
+    <ds:description>STATE POLICE</ds:description>
+    <ds:telephone>860-767-1054</ds:telephone>
+    <ds:location><geo:SpatialThing>
+        <geo:lat>41.354125000000003</geo:lat>
+        <geo:long>-72.395848000000001</geo:long></geo:SpatialThing></ds:location>
+    <ds:address>29 WEST AVENUE</ds:address>
+    <ds:city>ESSEX</ds:city>
+    <ds:state>CT</ds:state>
+    <ds:zip>6426</ds:zip>
+    <ds:zipp4>1140</ds:zipp4></dsbase:k2zz-z5mw>
+<dsbase:k2zz-z5mw rdf:about="http://data.ct.gov/resource/k2zz-z5mw/27">
+    <socrata:rowID>27</socrata:rowID>
+    <rdfs:member rdf:resource="http://data.ct.gov/resource/k2zz-z5mw"/>
+    <ds:name>CONNECTICUT STATE POLICE - HADDAM RESIDENT STATE TROOPER</ds:name>
+    <ds:description>STATE POLICE</ds:description>
+    <ds:telephone>860-873-1226</ds:telephone>
+    <ds:location><geo:SpatialThing>
+        <geo:lat>41.452309999999997</geo:lat>
+        <geo:long>-72.461725999999999</geo:long></geo:SpatialThing></ds:location>
+    <ds:address>7 MAIN STREET</ds:address>
+    <ds:city>EAST HADDAM</ds:city>
+    <ds:state>CT</ds:state>
+    <ds:zip>6423</ds:zip>
+    <ds:zipp4>1303</ds:zipp4></dsbase:k2zz-z5mw>
+<dsbase:k2zz-z5mw rdf:about="http://data.ct.gov/resource/k2zz-z5mw/28">
+    <socrata:rowID>28</socrata:rowID>
+    <rdfs:member rdf:resource="http://data.ct.gov/resource/k2zz-z5mw"/>
+    <ds:name>CONNECTICUT STATE POLICE - KILLINGWORTH RESIDENT STATE TROOPER</ds:name>
+    <ds:description>STATE POLICE</ds:description>
+    <ds:telephone>860-663-1132</ds:telephone>
+    <ds:location><geo:SpatialThing>
+        <geo:lat>41.357633</geo:lat>
+        <geo:long>-72.565079999999995</geo:long></geo:SpatialThing></ds:location>
+    <ds:address>242 STATE ROUTE 81</ds:address>
+    <ds:city>KILLINGWORTH</ds:city>
+    <ds:state>CT</ds:state>
+    <ds:zip>6419</ds:zip></dsbase:k2zz-z5mw>
+<dsbase:k2zz-z5mw rdf:about="http://data.ct.gov/resource/k2zz-z5mw/29">
+    <socrata:rowID>29</socrata:rowID>
+    <rdfs:member rdf:resource="http://data.ct.gov/resource/k2zz-z5mw"/>
+    <ds:name>CONNECTICUT STATE POLICE - MIDDLEFIELD RESIDENT STATE TROOPER</ds:name>
+    <ds:description>STATE POLICE</ds:description>
+    <ds:telephone>860-349-7120</ds:telephone>
+    <ds:location><geo:SpatialThing>
+        <geo:lat>41.518068</geo:lat>
+        <geo:long>-72.711150000000004</geo:long></geo:SpatialThing></ds:location>
+    <ds:address>405 MAIN STREET</ds:address>
+    <ds:city>MIDDLEFIELD</ds:city>
+    <ds:state>CT</ds:state>
+    <ds:zip>6455</ds:zip>
+    <ds:zipp4>1268</ds:zipp4></dsbase:k2zz-z5mw>
+<dsbase:k2zz-z5mw rdf:about="http://data.ct.gov/resource/k2zz-z5mw/30">
+    <socrata:rowID>30</socrata:rowID>
+    <rdfs:member rdf:resource="http://data.ct.gov/resource/k2zz-z5mw"/>
+    <ds:name>CONNECTICUT STATE POLICE CENTRAL DISTRICT - HEADQUARTERS</ds:name>
+    <ds:description>STATE POLICE</ds:description>
+    <ds:telephone>203-630-5640</ds:telephone>
+    <ds:location><geo:SpatialThing>
+        <geo:lat>41.547663</geo:lat>
+        <geo:long>-72.798164</geo:long></geo:SpatialThing></ds:location>
+    <ds:address>294 COLONY STREET</ds:address>
+    <ds:city>MERIDEN</ds:city>
+    <ds:state>CT</ds:state>
+    <ds:zip>6451</ds:zip>
+    <ds:zipp4>2053</ds:zipp4></dsbase:k2zz-z5mw>
+<dsbase:k2zz-z5mw rdf:about="http://data.ct.gov/resource/k2zz-z5mw/31">
+    <socrata:rowID>31</socrata:rowID>
+    <rdfs:member rdf:resource="http://data.ct.gov/resource/k2zz-z5mw"/>
+    <ds:name>CONNECTICUT STATE POLICE CENTRAL DISTRICT TROOP H - HARTFORD</ds:name>
+    <ds:description>STATE POLICE</ds:description>
+    <ds:telephone>860-534-1000</ds:telephone>
+    <ds:location><geo:SpatialThing>
+        <geo:lat>41.759236000000001</geo:lat>
+        <geo:long>-72.682114999999996</geo:long></geo:SpatialThing></ds:location>
+    <ds:address>100 WASHINGTON STREET</ds:address>
+    <ds:city>HARTFORD</ds:city>
+    <ds:state>CT</ds:state>
+    <ds:zip>6106</ds:zip>
+    <ds:zipp4>4419</ds:zipp4></dsbase:k2zz-z5mw>
+<dsbase:k2zz-z5mw rdf:about="http://data.ct.gov/resource/k2zz-z5mw/32">
+    <socrata:rowID>32</socrata:rowID>
+    <rdfs:member rdf:resource="http://data.ct.gov/resource/k2zz-z5mw"/>
+    <ds:name>CONNECTICUT STATE POLICE CENTRAL DISTRICT TROOP I - BETHANY</ds:name>
+    <ds:description>STATE POLICE</ds:description>
+    <ds:telephone>203-393-4200</ds:telephone>
+    <ds:location><geo:SpatialThing>
+        <geo:lat>41.433425</geo:lat>
+        <geo:long>-72.993623999999997</geo:long></geo:SpatialThing></ds:location>
+    <ds:address>631 AMITY ROAD</ds:address>
+    <ds:city>BETHANY</ds:city>
+    <ds:state>CT</ds:state>
+    <ds:zip>6524</ds:zip>
+    <ds:zipp4>3026</ds:zipp4></dsbase:k2zz-z5mw>
+<dsbase:k2zz-z5mw rdf:about="http://data.ct.gov/resource/k2zz-z5mw/33">
+    <socrata:rowID>33</socrata:rowID>
+    <rdfs:member rdf:resource="http://data.ct.gov/resource/k2zz-z5mw"/>
+    <ds:name>CONNECTICUT STATE POLICE CENTRAL DISTRICT TROOP W - BRADLEY INTERNATIONAL AIRPORT</ds:name>
+    <ds:description>STATE POLICE</ds:description>
+    <ds:telephone>860-292-7400</ds:telephone>
+    <ds:location><geo:SpatialThing>
+        <geo:lat>41.930335999999997</geo:lat>
+        <geo:long>-72.685484000000002</geo:long></geo:SpatialThing></ds:location>
+    <ds:address>11 SCHOEPHOESTER ROAD</ds:address>
+    <ds:city>WINDSOR LOCKS</ds:city>
+    <ds:state>CT</ds:state>
+    <ds:zip>6096</ds:zip>
+    <ds:zipp4>1022</ds:zipp4></dsbase:k2zz-z5mw>
+<dsbase:k2zz-z5mw rdf:about="http://data.ct.gov/resource/k2zz-z5mw/34">
+    <socrata:rowID>34</socrata:rowID>
+    <rdfs:member rdf:resource="http://data.ct.gov/resource/k2zz-z5mw"/>
+    <ds:name>CONNECTICUT STATE POLICE EASTERN DISTRICT TROOP C - TOLLAND</ds:name>
+    <ds:description>STATE POLICE</ds:description>
+    <ds:telephone>860-896-3200</ds:telephone>
+    <ds:location><geo:SpatialThing>
+        <geo:lat>41.883222000000004</geo:lat>
+        <geo:long>-72.323217999999997</geo:long></geo:SpatialThing></ds:location>
+    <ds:address>1320 TOLLAND STAGE ROAD</ds:address>
+    <ds:city>TOLLAND</ds:city>
+    <ds:state>CT</ds:state>
+    <ds:zip>6084</ds:zip>
+    <ds:zipp4>3111</ds:zipp4></dsbase:k2zz-z5mw>
+<dsbase:k2zz-z5mw rdf:about="http://data.ct.gov/resource/k2zz-z5mw/35">
+    <socrata:rowID>35</socrata:rowID>
+    <rdfs:member rdf:resource="http://data.ct.gov/resource/k2zz-z5mw"/>
+    <ds:name>CONNECTICUT STATE POLICE EASTERN DISTRICT TROOP D - DANIELSON</ds:name>
+    <ds:description>STATE POLICE</ds:description>
+    <ds:telephone>860-779-4900</ds:telephone>
+    <ds:location><geo:SpatialThing>
+        <geo:lat>41.809035000000002</geo:lat>
+        <geo:long>-71.876627999999997</geo:long></geo:SpatialThing></ds:location>
+    <ds:address>55 WESTCOTT ROAD</ds:address>
+    <ds:city>DANIELSON</ds:city>
+    <ds:state>CT</ds:state>
+    <ds:zip>6239</ds:zip>
+    <ds:zipp4>2929</ds:zipp4></dsbase:k2zz-z5mw>
+<dsbase:k2zz-z5mw rdf:about="http://data.ct.gov/resource/k2zz-z5mw/36">
+    <socrata:rowID>36</socrata:rowID>
+    <rdfs:member rdf:resource="http://data.ct.gov/resource/k2zz-z5mw"/>
+    <ds:name>CONNECTICUT STATE POLICE TROOP A - BRIDGEWATER RESIDENT STATE TROOPER</ds:name>
+    <ds:description>STATE POLICE</ds:description>
+    <ds:telephone>860-355-9375</ds:telephone>
+    <ds:location><geo:SpatialThing>
+        <geo:lat>41.527123000000003</geo:lat>
+        <geo:long>-73.358321000000004</geo:long></geo:SpatialThing></ds:location>
+    <ds:address>132 HUT HILL ROAD</ds:address>
+    <ds:city>BRIDGEWATER</ds:city>
+    <ds:state>CT</ds:state>
+    <ds:zip>6752</ds:zip>
+    <ds:zipp4>1329</ds:zipp4></dsbase:k2zz-z5mw>
+<dsbase:k2zz-z5mw rdf:about="http://data.ct.gov/resource/k2zz-z5mw/37">
+    <socrata:rowID>37</socrata:rowID>
+    <rdfs:member rdf:resource="http://data.ct.gov/resource/k2zz-z5mw"/>
+    <ds:name>CONNECTICUT STATE POLICE TROOP A - CHESTER RESIDENT STATE TROOPER</ds:name>
+    <ds:description>STATE POLICE</ds:description>
+    <ds:telephone>860-526-3605</ds:telephone>
+    <ds:location><geo:SpatialThing>
+        <geo:lat>41.420155999999999</geo:lat>
+        <geo:long>-72.445295999999999</geo:long></geo:SpatialThing></ds:location>
+    <ds:address>203 MIDDLESEX AVENUE</ds:address>
+    <ds:city>CHESTER</ds:city>
+    <ds:state>CT</ds:state>
+    <ds:zip>6412</ds:zip>
+    <ds:zipp4>1221</ds:zipp4></dsbase:k2zz-z5mw>
+<dsbase:k2zz-z5mw rdf:about="http://data.ct.gov/resource/k2zz-z5mw/38">
+    <socrata:rowID>38</socrata:rowID>
+    <rdfs:member rdf:resource="http://data.ct.gov/resource/k2zz-z5mw"/>
+    <ds:name>CONNECTICUT STATE POLICE TROOP A - NEW FAIRFIELD RESIDENT STATE TROOPER</ds:name>
+    <ds:description>STATE POLICE</ds:description>
+    <ds:telephone>203-312-5701</ds:telephone>
+    <ds:location><geo:SpatialThing>
+        <geo:lat>41.465488999999998</geo:lat>
+        <geo:long>-73.495834000000002</geo:long></geo:SpatialThing></ds:location>
+    <ds:address>302 BALL POND ROAD</ds:address>
+    <ds:city>NEW FAIRFIELD</ds:city>
+    <ds:state>CT</ds:state>
+    <ds:zip>6812</ds:zip>
+    <ds:zipp4>4625</ds:zipp4></dsbase:k2zz-z5mw>
+<dsbase:k2zz-z5mw rdf:about="http://data.ct.gov/resource/k2zz-z5mw/39">
+    <socrata:rowID>39</socrata:rowID>
+    <rdfs:member rdf:resource="http://data.ct.gov/resource/k2zz-z5mw"/>
+    <ds:name>CONNECTICUT STATE POLICE TROOP A - ROXBURY RESIDENT STATE TROOPER</ds:name>
+    <ds:description>STATE POLICE</ds:description>
+    <ds:telephone>860-354-0089</ds:telephone>
+    <ds:location><geo:SpatialThing>
+        <geo:lat>41.560411000000002</geo:lat>
+        <geo:long>-73.310648</geo:long></geo:SpatialThing></ds:location>
+    <ds:address>29 NORTH STREET</ds:address>
+    <ds:city>ROXBURY</ds:city>
+    <ds:state>CT</ds:state>
+    <ds:zip>6783</ds:zip>
+    <ds:zipp4>1405</ds:zipp4></dsbase:k2zz-z5mw>
+<dsbase:k2zz-z5mw rdf:about="http://data.ct.gov/resource/k2zz-z5mw/40">
+    <socrata:rowID>40</socrata:rowID>
+    <rdfs:member rdf:resource="http://data.ct.gov/resource/k2zz-z5mw"/>
+    <ds:name>CONNECTICUT STATE POLICE TROOP A - SHERMAN RESIDENT STATE TROOPER</ds:name>
+    <ds:description>STATE POLICE</ds:description>
+    <ds:telephone>860-354-3715</ds:telephone>
+    <ds:location><geo:SpatialThing>
+        <geo:lat>41.596698000000004</geo:lat>
+        <geo:long>-73.498802999999995</geo:long></geo:SpatialThing></ds:location>
+    <ds:address>43 STATE HIGHWAY 39 NORTH</ds:address>
+    <ds:city>SHERMAN</ds:city>
+    <ds:state>CT</ds:state>
+    <ds:zip>6784</ds:zip></dsbase:k2zz-z5mw>
+<dsbase:k2zz-z5mw rdf:about="http://data.ct.gov/resource/k2zz-z5mw/41">
+    <socrata:rowID>41</socrata:rowID>
+    <rdfs:member rdf:resource="http://data.ct.gov/resource/k2zz-z5mw"/>
+    <ds:name>CONNECTICUT STATE POLICE TROOP A - SOUTHBURY</ds:name>
+    <ds:description>STATE POLICE</ds:description>
+    <ds:telephone>203-267-2200</ds:telephone>
+    <ds:location><geo:SpatialThing>
+        <geo:lat>41.456589999999998</geo:lat>
+        <geo:long>-73.234453999999999</geo:long></geo:SpatialThing></ds:location>
+    <ds:address>90 LAKESIDE ROAD</ds:address>
+    <ds:city>SOUTHBURY</ds:city>
+    <ds:state>CT</ds:state>
+    <ds:zip>6488</ds:zip>
+    <ds:zipp4>2508</ds:zipp4></dsbase:k2zz-z5mw>
+<dsbase:k2zz-z5mw rdf:about="http://data.ct.gov/resource/k2zz-z5mw/42">
+    <socrata:rowID>42</socrata:rowID>
+    <rdfs:member rdf:resource="http://data.ct.gov/resource/k2zz-z5mw"/>
+    <ds:name>CONNECTICUT STATE POLICE TROOP B - NORFOLK RESIDENT STATE TROOPER</ds:name>
+    <ds:description>STATE POLICE</ds:description>
+    <ds:telephone>860-542-5249</ds:telephone>
+    <ds:location><geo:SpatialThing>
+        <geo:lat>41.992702999999999</geo:lat>
+        <geo:long>-73.199511999999999</geo:long></geo:SpatialThing></ds:location>
+    <ds:address>14 SHEPARD ROAD</ds:address>
+    <ds:city>NORFOLK</ds:city>
+    <ds:state>CT</ds:state>
+    <ds:zip>6058</ds:zip>
+    <ds:zipp4>1124</ds:zipp4></dsbase:k2zz-z5mw>
+<dsbase:k2zz-z5mw rdf:about="http://data.ct.gov/resource/k2zz-z5mw/43">
+    <socrata:rowID>43</socrata:rowID>
+    <rdfs:member rdf:resource="http://data.ct.gov/resource/k2zz-z5mw"/>
+    <ds:name>CONNECTICUT STATE POLICE TROOP B - NORTH CANAAN RESIDENT STATE TROOPER</ds:name>
+    <ds:description>STATE POLICE</ds:description>
+    <ds:telephone>860-824-3145</ds:telephone>
+    <ds:location><geo:SpatialThing>
+        <geo:lat>42.032507000000003</geo:lat>
+        <geo:long>-73.333247</geo:long></geo:SpatialThing></ds:location>
+    <ds:address>100 PEASE STREET</ds:address>
+    <ds:city>NORTH CANAAN</ds:city>
+    <ds:state>CT</ds:state>
+    <ds:zip>6018</ds:zip>
+    <ds:zipp4>2060</ds:zipp4></dsbase:k2zz-z5mw>
+<dsbase:k2zz-z5mw rdf:about="http://data.ct.gov/resource/k2zz-z5mw/44">
+    <socrata:rowID>44</socrata:rowID>
+    <rdfs:member rdf:resource="http://data.ct.gov/resource/k2zz-z5mw"/>
+    <ds:name>CONNECTICUT STATE POLICE TROOP B - PLEASANT VALLEY RESIDENT STATE TROOPER</ds:name>
+    <ds:description>STATE POLICE</ds:description>
+    <ds:telephone>860-379-8782</ds:telephone>
+    <ds:location><geo:SpatialThing>
+        <geo:lat>41.911769999999997</geo:lat>
+        <geo:long>-72.989104999999995</geo:long></geo:SpatialThing></ds:location>
+    <ds:address>66 STATE HIGHWAY 318</ds:address>
+    <ds:city>PLEASANT VALLEY</ds:city>
+    <ds:state>CT</ds:state>
+    <ds:zip>6063</ds:zip>
+    <ds:zipp4>1137</ds:zipp4></dsbase:k2zz-z5mw>
+<dsbase:k2zz-z5mw rdf:about="http://data.ct.gov/resource/k2zz-z5mw/45">
+    <socrata:rowID>45</socrata:rowID>
+    <rdfs:member rdf:resource="http://data.ct.gov/resource/k2zz-z5mw"/>
+    <ds:name>CONNECTICUT STATE POLICE TROOP B - SALISBURY RESIDENT STATE TROOPER</ds:name>
+    <ds:description>STATE POLICE</ds:description>
+    <ds:telephone>860-435-2938</ds:telephone>
+    <ds:location><geo:SpatialThing>
+        <geo:lat>41.981741</geo:lat>
+        <geo:long>-73.423044000000004</geo:long></geo:SpatialThing></ds:location>
+    <ds:address>27 MAIN STREET</ds:address>
+    <ds:city>SALISBURY</ds:city>
+    <ds:state>CT</ds:state>
+    <ds:zip>6068</ds:zip>
+    <ds:zipp4>1802</ds:zipp4></dsbase:k2zz-z5mw>
+<dsbase:k2zz-z5mw rdf:about="http://data.ct.gov/resource/k2zz-z5mw/46">
+    <socrata:rowID>46</socrata:rowID>
+    <rdfs:member rdf:resource="http://data.ct.gov/resource/k2zz-z5mw"/>
+    <ds:name>CONNECTICUT STATE POLICE TROOP B BARRACKS - HEADQUARTERS</ds:name>
+    <ds:description>STATE POLICE</ds:description>
+    <ds:telephone>860-824-2500</ds:telephone>
+    <ds:location><geo:SpatialThing>
+        <geo:lat>42.042937000000002</geo:lat>
+        <geo:long>-73.326037999999997</geo:long></geo:SpatialThing></ds:location>
+    <ds:address>463 ASHLEY FALLS ROAD</ds:address>
+    <ds:city>NORTH CANAAN</ds:city>
+    <ds:state>CT</ds:state>
+    <ds:zip>6018</ds:zip>
+    <ds:zipp4>2041</ds:zipp4></dsbase:k2zz-z5mw>
+<dsbase:k2zz-z5mw rdf:about="http://data.ct.gov/resource/k2zz-z5mw/47">
+    <socrata:rowID>47</socrata:rowID>
+    <rdfs:member rdf:resource="http://data.ct.gov/resource/k2zz-z5mw"/>
+    <ds:name>CONNECTICUT STATE POLICE TROOP C - ELLINGTON RESIDENT STATE TROOPER</ds:name>
+    <ds:description>STATE POLICE</ds:description>
+    <ds:telephone>860-875-1522</ds:telephone>
+    <ds:location><geo:SpatialThing>
+        <geo:lat>41.903002999999998</geo:lat>
+        <geo:long>-72.463848999999996</geo:long></geo:SpatialThing></ds:location>
+    <ds:address>33 ARBOR WAY</ds:address>
+    <ds:city>ELLINGTON</ds:city>
+    <ds:state>CT</ds:state>
+    <ds:zip>6029</ds:zip>
+    <ds:zipp4>3354</ds:zipp4></dsbase:k2zz-z5mw>
+<dsbase:k2zz-z5mw rdf:about="http://data.ct.gov/resource/k2zz-z5mw/48">
+    <socrata:rowID>48</socrata:rowID>
+    <rdfs:member rdf:resource="http://data.ct.gov/resource/k2zz-z5mw"/>
+    <ds:name>CONNECTICUT STATE POLICE TROOP C - HEBRON RESIDENT STATE TROOPER</ds:name>
+    <ds:description>STATE POLICE</ds:description>
+    <ds:telephone>860-228-3710</ds:telephone>
+    <ds:location><geo:SpatialThing>
+        <geo:lat>41.658645999999997</geo:lat>
+        <geo:long>-72.362205000000003</geo:long></geo:SpatialThing></ds:location>
+    <ds:address>44 MAIN STREET</ds:address>
+    <ds:city>HEBRON</ds:city>
+    <ds:state>CT</ds:state>
+    <ds:zip>6248</ds:zip>
+    <ds:zipp4>1515</ds:zipp4></dsbase:k2zz-z5mw>
+<dsbase:k2zz-z5mw rdf:about="http://data.ct.gov/resource/k2zz-z5mw/49">
+    <socrata:rowID>49</socrata:rowID>
+    <rdfs:member rdf:resource="http://data.ct.gov/resource/k2zz-z5mw"/>
+    <ds:name>CONNECTICUT STATE POLICE TROOP C - MANSFIELD RESIDENT STATE TROOPER</ds:name>
+    <ds:description>STATE POLICE</ds:description>
+    <ds:telephone>860-429-6024</ds:telephone>
+    <ds:location><geo:SpatialThing>
+        <geo:lat>41.801493000000001</geo:lat>
+        <geo:long>-72.241466000000003</geo:long></geo:SpatialThing></ds:location>
+    <ds:address>4 SOUTH EAGLEVILLE ROAD</ds:address>
+    <ds:city>MANSFIELD</ds:city>
+    <ds:state>CT</ds:state>
+    <ds:zip>6268</ds:zip>
+    <ds:zipp4>2574</ds:zipp4></dsbase:k2zz-z5mw>
+<dsbase:k2zz-z5mw rdf:about="http://data.ct.gov/resource/k2zz-z5mw/50">
+    <socrata:rowID>50</socrata:rowID>
+    <rdfs:member rdf:resource="http://data.ct.gov/resource/k2zz-z5mw"/>
+    <ds:name>CONNECTICUT STATE POLICE TROOP C - SOMERS RESIDENT STATE TROOPER</ds:name>
+    <ds:description>STATE POLICE</ds:description>
+    <ds:telephone>860-749-4955</ds:telephone>
+    <ds:location><geo:SpatialThing>
+        <geo:lat>41.984512000000002</geo:lat>
+        <geo:long>-72.459303000000006</geo:long></geo:SpatialThing></ds:location>
+    <ds:address>451 MAIN STREET</ds:address>
+    <ds:city>SOMERS</ds:city>
+    <ds:state>CT</ds:state>
+    <ds:zip>6071</ds:zip>
+    <ds:zipp4>2009</ds:zipp4></dsbase:k2zz-z5mw>
+<dsbase:k2zz-z5mw rdf:about="http://data.ct.gov/resource/k2zz-z5mw/51">
+    <socrata:rowID>51</socrata:rowID>
+    <rdfs:member rdf:resource="http://data.ct.gov/resource/k2zz-z5mw"/>
+    <ds:name>CONNECTICUT STATE POLICE TROOP C - STAFFORD RESIDENT STATE TROOPER</ds:name>
+    <ds:description>STATE POLICE</ds:description>
+    <ds:telephone>860-684-3777</ds:telephone>
+    <ds:location><geo:SpatialThing>
+        <geo:lat>41.953431000000002</geo:lat>
+        <geo:long>-72.303364999999999</geo:long></geo:SpatialThing></ds:location>
+    <ds:address>2 MAIN STREET</ds:address>
+    <ds:city>STAFFORD</ds:city>
+    <ds:state>CT</ds:state>
+    <ds:zip>6076</ds:zip>
+    <ds:zipp4>1411</ds:zipp4></dsbase:k2zz-z5mw>
+<dsbase:k2zz-z5mw rdf:about="http://data.ct.gov/resource/k2zz-z5mw/52">
+    <socrata:rowID>52</socrata:rowID>
+    <rdfs:member rdf:resource="http://data.ct.gov/resource/k2zz-z5mw"/>
+    <ds:name>CONNECTICUT STATE POLICE TROOP D - BROOKLYN RESIDENT STATE TROOPER</ds:name>
+    <ds:description>STATE POLICE</ds:description>
+    <ds:telephone>860-779-9008</ds:telephone>
+    <ds:location><geo:SpatialThing>
+        <geo:lat>41.788305000000001</geo:lat>
+        <geo:long>-71.949956999999998</geo:long></geo:SpatialThing></ds:location>
+    <ds:address>4 WOLF DEN ROAD</ds:address>
+    <ds:city>BROOKLYN</ds:city>
+    <ds:state>CT</ds:state>
+    <ds:zip>6234</ds:zip>
+    <ds:zipp4>1930</ds:zipp4></dsbase:k2zz-z5mw>
+<dsbase:k2zz-z5mw rdf:about="http://data.ct.gov/resource/k2zz-z5mw/53">
+    <socrata:rowID>53</socrata:rowID>
+    <rdfs:member rdf:resource="http://data.ct.gov/resource/k2zz-z5mw"/>
+    <ds:name>CONNECTICUT STATE POLICE TROOP D - CHAPLIN RESIDENT STATE TROOPER</ds:name>
+    <ds:description>STATE POLICE</ds:description>
+    <ds:telephone>860-455-2069</ds:telephone>
+    <ds:location><geo:SpatialThing>
+        <geo:lat>41.801459000000001</geo:lat>
+        <geo:long>-72.125032000000004</geo:long></geo:SpatialThing></ds:location>
+    <ds:address>495 PHOENIXVILLE ROAD</ds:address>
+    <ds:city>CHAPLIN</ds:city>
+    <ds:state>CT</ds:state>
+    <ds:zip>6235</ds:zip>
+    <ds:zipp4>2400</ds:zipp4></dsbase:k2zz-z5mw>
+<dsbase:k2zz-z5mw rdf:about="http://data.ct.gov/resource/k2zz-z5mw/54">
+    <socrata:rowID>54</socrata:rowID>
+    <rdfs:member rdf:resource="http://data.ct.gov/resource/k2zz-z5mw"/>
+    <ds:name>CONNECTICUT STATE POLICE TROOP D - KILLINGLY RESIDENT STATE TROOPER</ds:name>
+    <ds:description>STATE POLICE</ds:description>
+    <ds:telephone>860-779-3900</ds:telephone>
+    <ds:location><geo:SpatialThing>
+        <geo:lat>41.804017000000002</geo:lat>
+        <geo:long>-71.880246</geo:long></geo:SpatialThing></ds:location>
+    <ds:address>185 BROAD STREET</ds:address>
+    <ds:city>DANIELSON</ds:city>
+    <ds:state>CT</ds:state>
+    <ds:zip>6239</ds:zip>
+    <ds:zipp4>3004</ds:zipp4></dsbase:k2zz-z5mw>
+<dsbase:k2zz-z5mw rdf:about="http://data.ct.gov/resource/k2zz-z5mw/55">
+    <socrata:rowID>55</socrata:rowID>
+    <rdfs:member rdf:resource="http://data.ct.gov/resource/k2zz-z5mw"/>
+    <ds:name>CONNECTICUT STATE POLICE TROOP D - STERLING RESIDENT STATE TROOPER</ds:name>
+    <ds:description>STATE POLICE</ds:description>
+    <ds:telephone>860-564-7896</ds:telephone>
+    <ds:location><geo:SpatialThing>
+        <geo:lat>41.692914999999999</geo:lat>
+        <geo:long>-71.813164</geo:long></geo:SpatialThing></ds:location>
+    <ds:address>1114 PLAINFIELD PIKE</ds:address>
+    <ds:city>ONECO</ds:city>
+    <ds:state>CT</ds:state>
+    <ds:zip>6373</ds:zip></dsbase:k2zz-z5mw>
+<dsbase:k2zz-z5mw rdf:about="http://data.ct.gov/resource/k2zz-z5mw/56">
+    <socrata:rowID>56</socrata:rowID>
+    <rdfs:member rdf:resource="http://data.ct.gov/resource/k2zz-z5mw"/>
+    <ds:name>CONNECTICUT STATE POLICE TROOP E - JEWETT CITY RESIDENT STATE TROOPER</ds:name>
+    <ds:description>STATE POLICE</ds:description>
+    <ds:telephone>860-376-2583</ds:telephone>
+    <ds:location><geo:SpatialThing>
+        <geo:lat>41.602590999999997</geo:lat>
+        <geo:long>-71.984012000000007</geo:long></geo:SpatialThing></ds:location>
+    <ds:address>1 WEDGEWOOD DRIVE</ds:address>
+    <ds:city>JEWETT CITY</ds:city>
+    <ds:state>CT</ds:state>
+    <ds:zip>6351</ds:zip>
+    <ds:zipp4>2416</ds:zipp4></dsbase:k2zz-z5mw>
+<dsbase:k2zz-z5mw rdf:about="http://data.ct.gov/resource/k2zz-z5mw/57">
+    <socrata:rowID>57</socrata:rowID>
+    <rdfs:member rdf:resource="http://data.ct.gov/resource/k2zz-z5mw"/>
+    <ds:name>CONNECTICUT STATE POLICE TROOP E - LISBON RESIDENT STATE TROOPER</ds:name>
+    <ds:description>STATE POLICE</ds:description>
+    <ds:telephone>860-376-8868</ds:telephone>
+    <ds:location><geo:SpatialThing>
+        <geo:lat>41.604346999999997</geo:lat>
+        <geo:long>-72.01473</geo:long></geo:SpatialThing></ds:location>
+    <ds:address>15 NEWENT ROAD</ds:address>
+    <ds:city>LISBON</ds:city>
+    <ds:state>CT</ds:state>
+    <ds:zip>6351</ds:zip>
+    <ds:zipp4>2938</ds:zipp4></dsbase:k2zz-z5mw>
+<dsbase:k2zz-z5mw rdf:about="http://data.ct.gov/resource/k2zz-z5mw/58">
+    <socrata:rowID>58</socrata:rowID>
+    <rdfs:member rdf:resource="http://data.ct.gov/resource/k2zz-z5mw"/>
+    <ds:name>CONNECTICUT STATE POLICE TROOP E - MONTVILLE</ds:name>
+    <ds:description>STATE POLICE</ds:description>
+    <ds:telephone>860-848-6500</ds:telephone>
+    <ds:location><geo:SpatialThing>
+        <geo:lat>41.473607999999999</geo:lat>
+        <geo:long>-72.115774000000002</geo:long></geo:SpatialThing></ds:location>
+    <ds:address>INTERSTATE 395</ds:address>
+    <ds:city>UNCASVILLE</ds:city>
+    <ds:state>CT</ds:state>
+    <ds:zip>6382</ds:zip></dsbase:k2zz-z5mw>
+<dsbase:k2zz-z5mw rdf:about="http://data.ct.gov/resource/k2zz-z5mw/59">
+    <socrata:rowID>59</socrata:rowID>
+    <rdfs:member rdf:resource="http://data.ct.gov/resource/k2zz-z5mw"/>
+    <ds:name>CONNECTICUT STATE POLICE TROOP E - NORTH STONINGTON RESIDENT STATE TROOPER</ds:name>
+    <ds:description>STATE POLICE</ds:description>
+    <ds:telephone>860-848-6500</ds:telephone>
+    <ds:location><geo:SpatialThing>
+        <geo:lat>41.440958999999999</geo:lat>
+        <geo:long>-71.880927999999997</geo:long></geo:SpatialThing></ds:location>
+    <ds:address>40 MAIN STREET</ds:address>
+    <ds:city>NORTH STONINGTON</ds:city>
+    <ds:state>CT</ds:state>
+    <ds:zip>6359</ds:zip>
+    <ds:zipp4>1612</ds:zipp4></dsbase:k2zz-z5mw>
+<dsbase:k2zz-z5mw rdf:about="http://data.ct.gov/resource/k2zz-z5mw/60">
+    <socrata:rowID>60</socrata:rowID>
+    <rdfs:member rdf:resource="http://data.ct.gov/resource/k2zz-z5mw"/>
+    <ds:name>CONNECTICUT STATE POLICE TROOP E - PRESTON RESIDENT STATE TROOPER</ds:name>
+    <ds:description>STATE POLICE</ds:description>
+    <ds:telephone>860-848-6500</ds:telephone>
+    <ds:location><geo:SpatialThing>
+        <geo:lat>41.489519000000001</geo:lat>
+        <geo:long>-71.992760000000004</geo:long></geo:SpatialThing></ds:location>
+    <ds:address>389 STATE HIGHWAY 2</ds:address>
+    <ds:city>PRESTON</ds:city>
+    <ds:state>CT</ds:state>
+    <ds:zip>6365</ds:zip></dsbase:k2zz-z5mw>
+<dsbase:k2zz-z5mw rdf:about="http://data.ct.gov/resource/k2zz-z5mw/61">
+    <socrata:rowID>61</socrata:rowID>
+    <rdfs:member rdf:resource="http://data.ct.gov/resource/k2zz-z5mw"/>
+    <ds:name>CONNECTICUT STATE POLICE TROOP F - WESTBROOK</ds:name>
+    <ds:description>STATE POLICE</ds:description>
+    <ds:telephone>860-399-2100</ds:telephone>
+    <ds:location><geo:SpatialThing>
+        <geo:lat>41.292124000000001</geo:lat>
+        <geo:long>-72.430717999999999</geo:long></geo:SpatialThing></ds:location>
+    <ds:address>315 SPENCER PLAINS ROAD</ds:address>
+    <ds:city>WESTBROOK</ds:city>
+    <ds:state>CT</ds:state>
+    <ds:zip>6498</ds:zip>
+    <ds:zipp4>3509</ds:zipp4></dsbase:k2zz-z5mw>
+<dsbase:k2zz-z5mw rdf:about="http://data.ct.gov/resource/k2zz-z5mw/62">
+    <socrata:rowID>62</socrata:rowID>
+    <rdfs:member rdf:resource="http://data.ct.gov/resource/k2zz-z5mw"/>
+    <ds:name>CONNECTICUT STATE POLICE TROOP G - BRIDGEPORT</ds:name>
+    <ds:description>STATE POLICE</ds:description>
+    <ds:telephone>203-696-2500</ds:telephone>
+    <ds:location><geo:SpatialThing>
+        <geo:lat>41.172801999999997</geo:lat>
+        <geo:long>-73.191675000000004</geo:long></geo:SpatialThing></ds:location>
+    <ds:address>149 PROSPECT STREET</ds:address>
+    <ds:city>BRIDGEPORT</ds:city>
+    <ds:state>CT</ds:state>
+    <ds:zip>6604</ds:zip>
+    <ds:zipp4>4621</ds:zipp4></dsbase:k2zz-z5mw>
+<dsbase:k2zz-z5mw rdf:about="http://data.ct.gov/resource/k2zz-z5mw/63">
+    <socrata:rowID>63</socrata:rowID>
+    <rdfs:member rdf:resource="http://data.ct.gov/resource/k2zz-z5mw"/>
+    <ds:name>CONNECTICUT STATE POLICE TROOP K - COLCHESTER</ds:name>
+    <ds:description>STATE POLICE</ds:description>
+    <ds:telephone>860-537-7500</ds:telephone>
+    <ds:location><geo:SpatialThing>
+        <geo:lat>41.578888999999997</geo:lat>
+        <geo:long>-72.339032000000003</geo:long></geo:SpatialThing></ds:location>
+    <ds:address>15 OLD HARTFORD ROAD</ds:address>
+    <ds:city>COLCHESTER</ds:city>
+    <ds:state>CT</ds:state>
+    <ds:zip>6415</ds:zip>
+    <ds:zipp4>2714</ds:zipp4></dsbase:k2zz-z5mw>
+<dsbase:k2zz-z5mw rdf:about="http://data.ct.gov/resource/k2zz-z5mw/64">
+    <socrata:rowID>64</socrata:rowID>
+    <rdfs:member rdf:resource="http://data.ct.gov/resource/k2zz-z5mw"/>
+    <ds:name>CONNECTICUT STATE POLICE TROOP L - BETHLEHEM RESIDENT STATE TROOPER</ds:name>
+    <ds:description>STATE POLICE</ds:description>
+    <ds:telephone>203-266-7405</ds:telephone>
+    <ds:location><geo:SpatialThing>
+        <geo:lat>41.637135000000001</geo:lat>
+        <geo:long>-73.209378999999998</geo:long></geo:SpatialThing></ds:location>
+    <ds:address>36 MAIN STREET SOUTH</ds:address>
+    <ds:city>BETHLEHEM</ds:city>
+    <ds:state>CT</ds:state>
+    <ds:zip>6751</ds:zip>
+    <ds:zipp4>2001</ds:zipp4></dsbase:k2zz-z5mw>
+<dsbase:k2zz-z5mw rdf:about="http://data.ct.gov/resource/k2zz-z5mw/65">
+    <socrata:rowID>65</socrata:rowID>
+    <rdfs:member rdf:resource="http://data.ct.gov/resource/k2zz-z5mw"/>
+    <ds:name>CONNECTICUT STATE POLICE TROOP L - HARWINTON RESIDENT STATE TROOPER</ds:name>
+    <ds:description>STATE POLICE</ds:description>
+    <ds:telephone>860-485-1421</ds:telephone>
+    <ds:location><geo:SpatialThing>
+        <geo:lat>41.764181000000001</geo:lat>
+        <geo:long>-73.07002</geo:long></geo:SpatialThing></ds:location>
+    <ds:address>100 BENTLEY DRIVE</ds:address>
+    <ds:city>HARWINTON</ds:city>
+    <ds:state>CT</ds:state>
+    <ds:zip>6791</ds:zip>
+    <ds:zipp4>2200</ds:zipp4></dsbase:k2zz-z5mw>
+<dsbase:k2zz-z5mw rdf:about="http://data.ct.gov/resource/k2zz-z5mw/66">
+    <socrata:rowID>66</socrata:rowID>
+    <rdfs:member rdf:resource="http://data.ct.gov/resource/k2zz-z5mw"/>
+    <ds:name>CONNECTICUT STATE POLICE TROOP L - KENT RESIDENT STATE TROOPER</ds:name>
+    <ds:description>STATE POLICE</ds:description>
+    <ds:telephone>860-927-3134</ds:telephone>
+    <ds:location><geo:SpatialThing>
+        <geo:lat>41.726498999999997</geo:lat>
+        <geo:long>-73.472095999999993</geo:long></geo:SpatialThing></ds:location>
+    <ds:address>41 KENT GREEN BOULEVARD</ds:address>
+    <ds:city>KENT</ds:city>
+    <ds:state>CT</ds:state>
+    <ds:zip>6757</ds:zip></dsbase:k2zz-z5mw>
+<dsbase:k2zz-z5mw rdf:about="http://data.ct.gov/resource/k2zz-z5mw/67">
+    <socrata:rowID>67</socrata:rowID>
+    <rdfs:member rdf:resource="http://data.ct.gov/resource/k2zz-z5mw"/>
+    <ds:name>CONNECTICUT STATE POLICE TROOP L - LITCHFIELD RESIDENT STATE TROOPER</ds:name>
+    <ds:description>STATE POLICE</ds:description>
+    <ds:telephone>860-567-8596</ds:telephone>
+    <ds:location><geo:SpatialThing>
+        <geo:lat>41.747352999999997</geo:lat>
+        <geo:long>-73.192747999999995</geo:long></geo:SpatialThing></ds:location>
+    <ds:address>74 WEST STREET</ds:address>
+    <ds:city>LITCHFIELD</ds:city>
+    <ds:state>CT</ds:state>
+    <ds:zip>6759</ds:zip>
+    <ds:zipp4>3500</ds:zipp4></dsbase:k2zz-z5mw>
+<dsbase:k2zz-z5mw rdf:about="http://data.ct.gov/resource/k2zz-z5mw/68">
+    <socrata:rowID>68</socrata:rowID>
+    <rdfs:member rdf:resource="http://data.ct.gov/resource/k2zz-z5mw"/>
+    <ds:name>CONNECTICUT STATE POLICE TROOP L - WASHINGTON RESIDENT STATE TROOPER</ds:name>
+    <ds:description>STATE POLICE</ds:description>
+    <ds:telephone>860-868-2100</ds:telephone>
+    <ds:location><geo:SpatialThing>
+        <geo:lat>41.640895</geo:lat>
+        <geo:long>-73.320316000000005</geo:long></geo:SpatialThing></ds:location>
+    <ds:address>2 BRYAN PLAZA</ds:address>
+    <ds:city>WASHINGTON</ds:city>
+    <ds:state>CT</ds:state>
+    <ds:zip>6794</ds:zip>
+    <ds:zipp4>1504</ds:zipp4></dsbase:k2zz-z5mw>
+<dsbase:k2zz-z5mw rdf:about="http://data.ct.gov/resource/k2zz-z5mw/69">
+    <socrata:rowID>69</socrata:rowID>
+    <rdfs:member rdf:resource="http://data.ct.gov/resource/k2zz-z5mw"/>
+    <ds:name>CONNECTICUT STATE POLICE TROOP L - WOODBURY RESIDENT STATE TROOPER</ds:name>
+    <ds:description>STATE POLICE</ds:description>
+    <ds:telephone>203-263-3400</ds:telephone>
+    <ds:location><geo:SpatialThing>
+        <geo:lat>41.541958000000001</geo:lat>
+        <geo:long>-73.207178999999996</geo:long></geo:SpatialThing></ds:location>
+    <ds:address>271 MAIN STREET SOUTH</ds:address>
+    <ds:city>WOODBURY</ds:city>
+    <ds:state>CT</ds:state>
+    <ds:zip>6798</ds:zip>
+    <ds:zipp4>3408</ds:zipp4></dsbase:k2zz-z5mw>
+<dsbase:k2zz-z5mw rdf:about="http://data.ct.gov/resource/k2zz-z5mw/70">
+    <socrata:rowID>70</socrata:rowID>
+    <rdfs:member rdf:resource="http://data.ct.gov/resource/k2zz-z5mw"/>
+    <ds:name>CONNECTICUT STATE POLICE TROOP L BARRACKS - HEADQUARTERS</ds:name>
+    <ds:description>STATE POLICE</ds:description>
+    <ds:telephone>860-626-7900</ds:telephone>
+    <ds:location><geo:SpatialThing>
+        <geo:lat>41.736348</geo:lat>
+        <geo:long>-73.217686</geo:long></geo:SpatialThing></ds:location>
+    <ds:address>452 BANTAM ROAD</ds:address>
+    <ds:city>LITCHFIELD</ds:city>
+    <ds:state>CT</ds:state>
+    <ds:zip>6759</ds:zip>
+    <ds:zipp4>3201</ds:zipp4></dsbase:k2zz-z5mw>
+<dsbase:k2zz-z5mw rdf:about="http://data.ct.gov/resource/k2zz-z5mw/71">
+    <socrata:rowID>71</socrata:rowID>
+    <rdfs:member rdf:resource="http://data.ct.gov/resource/k2zz-z5mw"/>
+    <ds:name>CONNECTICUT STATE POLICE WESTERN DISTRICT - HEADQUARTERS</ds:name>
+    <ds:description>STATE POLICE</ds:description>
+    <ds:telephone>860-626-7975</ds:telephone>
+    <ds:location><geo:SpatialThing>
+        <geo:lat>41.736348</geo:lat>
+        <geo:long>-73.217686</geo:long></geo:SpatialThing></ds:location>
+    <ds:address>452 BANTAM ROAD</ds:address>
+    <ds:city>LITCHFIELD</ds:city>
+    <ds:state>CT</ds:state>
+    <ds:zip>6759</ds:zip>
+    <ds:zipp4>3201</ds:zipp4></dsbase:k2zz-z5mw>
+<dsbase:k2zz-z5mw rdf:about="http://data.ct.gov/resource/k2zz-z5mw/72">
+    <socrata:rowID>72</socrata:rowID>
+    <rdfs:member rdf:resource="http://data.ct.gov/resource/k2zz-z5mw"/>
+    <ds:name>COVENTRY POLICE DEPARTMENT</ds:name>
+    <ds:description>MUNICIPAL</ds:description>
+    <ds:telephone>860-742-7331</ds:telephone>
+    <ds:location><geo:SpatialThing>
+        <geo:lat>41.777031000000001</geo:lat>
+        <geo:long>-72.309433999999996</geo:long></geo:SpatialThing></ds:location>
+    <ds:address>1585 MAIN STREET</ds:address>
+    <ds:city>COVENTRY</ds:city>
+    <ds:state>CT</ds:state>
+    <ds:zip>6238</ds:zip>
+    <ds:zipp4>1615</ds:zipp4></dsbase:k2zz-z5mw>
+<dsbase:k2zz-z5mw rdf:about="http://data.ct.gov/resource/k2zz-z5mw/73">
+    <socrata:rowID>73</socrata:rowID>
+    <rdfs:member rdf:resource="http://data.ct.gov/resource/k2zz-z5mw"/>
+    <ds:name>CROMWELL POLICE DEPARTMENT</ds:name>
+    <ds:description>MUNICIPAL</ds:description>
+    <ds:telephone>860-635-2256</ds:telephone>
+    <ds:location><geo:SpatialThing>
+        <geo:lat>41.595824999999998</geo:lat>
+        <geo:long>-72.646820000000005</geo:long></geo:SpatialThing></ds:location>
+    <ds:address>5 WEST STREET</ds:address>
+    <ds:city>CROMWELL</ds:city>
+    <ds:state>CT</ds:state>
+    <ds:zip>6416</ds:zip>
+    <ds:zipp4>2123</ds:zipp4></dsbase:k2zz-z5mw>
+<dsbase:k2zz-z5mw rdf:about="http://data.ct.gov/resource/k2zz-z5mw/74">
+    <socrata:rowID>74</socrata:rowID>
+    <rdfs:member rdf:resource="http://data.ct.gov/resource/k2zz-z5mw"/>
+    <ds:name>DANBURY POLICE DEPARTMENT</ds:name>
+    <ds:description>MUNICIPAL</ds:description>
+    <ds:telephone>203-797-4601</ds:telephone>
+    <ds:location><geo:SpatialThing>
+        <geo:lat>41.391809000000002</geo:lat>
+        <geo:long>-73.449996999999996</geo:long></geo:SpatialThing></ds:location>
+    <ds:address>120 MAIN STREET</ds:address>
+    <ds:city>DANBURY</ds:city>
+    <ds:state>CT</ds:state>
+    <ds:zip>6810</ds:zip>
+    <ds:zipp4>7834</ds:zipp4></dsbase:k2zz-z5mw>
+<dsbase:k2zz-z5mw rdf:about="http://data.ct.gov/resource/k2zz-z5mw/75">
+    <socrata:rowID>75</socrata:rowID>
+    <rdfs:member rdf:resource="http://data.ct.gov/resource/k2zz-z5mw"/>
+    <ds:name>DARIEN POLICE DEPARTMENT</ds:name>
+    <ds:description>MUNICIPAL</ds:description>
+    <ds:telephone>203-662-5300</ds:telephone>
+    <ds:location><geo:SpatialThing>
+        <geo:lat>41.069603999999998</geo:lat>
+        <geo:long>-73.479472999999999</geo:long></geo:SpatialThing></ds:location>
+    <ds:address>25 HECKER AVENUE</ds:address>
+    <ds:city>DARIEN</ds:city>
+    <ds:state>CT</ds:state>
+    <ds:zip>6820</ds:zip>
+    <ds:zipp4>5308</ds:zipp4></dsbase:k2zz-z5mw>
+<dsbase:k2zz-z5mw rdf:about="http://data.ct.gov/resource/k2zz-z5mw/76">
+    <socrata:rowID>76</socrata:rowID>
+    <rdfs:member rdf:resource="http://data.ct.gov/resource/k2zz-z5mw"/>
+    <ds:name>DEEP RIVER POLICE DEPARTMENT</ds:name>
+    <ds:description>MUNICIPAL</ds:description>
+    <ds:telephone>860-526-6027</ds:telephone>
+    <ds:location><geo:SpatialThing>
+        <geo:lat>41.384999999999998</geo:lat>
+        <geo:long>-72.435837000000006</geo:long></geo:SpatialThing></ds:location>
+    <ds:address>174 MAIN STREET</ds:address>
+    <ds:city>DEEP RIVER</ds:city>
+    <ds:state>CT</ds:state>
+    <ds:zip>6417</ds:zip>
+    <ds:zipp4>2008</ds:zipp4></dsbase:k2zz-z5mw>
+<dsbase:k2zz-z5mw rdf:about="http://data.ct.gov/resource/k2zz-z5mw/77">
+    <socrata:rowID>77</socrata:rowID>
+    <rdfs:member rdf:resource="http://data.ct.gov/resource/k2zz-z5mw"/>
+    <ds:name>DERBY POLICE DEPARTMENT</ds:name>
+    <ds:description>MUNICIPAL</ds:description>
+    <ds:telephone>203-735-7812</ds:telephone>
+    <ds:location><geo:SpatialThing>
+        <geo:lat>41.322324999999999</geo:lat>
+        <geo:long>-73.086234000000005</geo:long></geo:SpatialThing></ds:location>
+    <ds:address>125 WATER STREET</ds:address>
+    <ds:city>DERBY</ds:city>
+    <ds:state>CT</ds:state>
+    <ds:zip>6418</ds:zip>
+    <ds:zipp4>1912</ds:zipp4></dsbase:k2zz-z5mw>
+<dsbase:k2zz-z5mw rdf:about="http://data.ct.gov/resource/k2zz-z5mw/78">
+    <socrata:rowID>78</socrata:rowID>
+    <rdfs:member rdf:resource="http://data.ct.gov/resource/k2zz-z5mw"/>
+    <ds:name>EAST GRANBY POLICE DEPARTMENT</ds:name>
+    <ds:description>MUNICIPAL</ds:description>
+    <ds:telephone>860-653-5385</ds:telephone>
+    <ds:location><geo:SpatialThing>
+        <geo:lat>41.941679999999998</geo:lat>
+        <geo:long>-72.728763999999998</geo:long></geo:SpatialThing></ds:location>
+    <ds:address>9 MEMORIAL DRIVE</ds:address>
+    <ds:city>EAST GRANBY</ds:city>
+    <ds:state>CT</ds:state>
+    <ds:zip>6026</ds:zip>
+    <ds:zipp4>9632</ds:zipp4></dsbase:k2zz-z5mw>
+<dsbase:k2zz-z5mw rdf:about="http://data.ct.gov/resource/k2zz-z5mw/79">
+    <socrata:rowID>79</socrata:rowID>
+    <rdfs:member rdf:resource="http://data.ct.gov/resource/k2zz-z5mw"/>
+    <ds:name>EAST HAMPTON POLICE DEPARTMENT</ds:name>
+    <ds:description>MUNICIPAL</ds:description>
+    <ds:telephone>860-267-9544</ds:telephone>
+    <ds:location><geo:SpatialThing>
+        <geo:lat>41.583170000000003</geo:lat>
+        <geo:long>-72.503107999999997</geo:long></geo:SpatialThing></ds:location>
+    <ds:address>20 EAST HIGH STREET</ds:address>
+    <ds:city>EAST HAMPTON</ds:city>
+    <ds:state>CT</ds:state>
+    <ds:zip>6424</ds:zip>
+    <ds:zipp4>1002</ds:zipp4></dsbase:k2zz-z5mw>
+<dsbase:k2zz-z5mw rdf:about="http://data.ct.gov/resource/k2zz-z5mw/80">
+    <socrata:rowID>80</socrata:rowID>
+    <rdfs:member rdf:resource="http://data.ct.gov/resource/k2zz-z5mw"/>
+    <ds:name>EAST HARTFORD POLICE DEPARTMENT</ds:name>
+    <ds:description>MUNICIPAL</ds:description>
+    <ds:telephone>860-528-4401</ds:telephone>
+    <ds:location><geo:SpatialThing>
+        <geo:lat>41.780214999999998</geo:lat>
+        <geo:long>-72.612296999999998</geo:long></geo:SpatialThing></ds:location>
+    <ds:address>31 SCHOOL STREET</ds:address>
+    <ds:city>EAST HARTFORD</ds:city>
+    <ds:state>CT</ds:state>
+    <ds:zip>6108</ds:zip>
+    <ds:zipp4>2638</ds:zipp4></dsbase:k2zz-z5mw>
+<dsbase:k2zz-z5mw rdf:about="http://data.ct.gov/resource/k2zz-z5mw/81">
+    <socrata:rowID>81</socrata:rowID>
+    <rdfs:member rdf:resource="http://data.ct.gov/resource/k2zz-z5mw"/>
+    <ds:name>EAST HAVEN POLICE DEPARTMENT</ds:name>
+    <ds:description>MUNICIPAL</ds:description>
+    <ds:telephone>203-468-3214</ds:telephone>
+    <ds:location><geo:SpatialThing>
+        <geo:lat>41.293315999999997</geo:lat>
+        <geo:long>-72.866196000000002</geo:long></geo:SpatialThing></ds:location>
+    <ds:address>471 NORTH HIGH STREET</ds:address>
+    <ds:city>EAST HAVEN</ds:city>
+    <ds:state>CT</ds:state>
+    <ds:zip>6512</ds:zip>
+    <ds:zipp4>1555</ds:zipp4></dsbase:k2zz-z5mw>
+<dsbase:k2zz-z5mw rdf:about="http://data.ct.gov/resource/k2zz-z5mw/82">
+    <socrata:rowID>82</socrata:rowID>
+    <rdfs:member rdf:resource="http://data.ct.gov/resource/k2zz-z5mw"/>
+    <ds:name>EAST LYME POLICE DEPARTMENT</ds:name>
+    <ds:description>MUNICIPAL</ds:description>
+    <ds:telephone>860-739-7007</ds:telephone>
+    <ds:location><geo:SpatialThing>
+        <geo:lat>41.322927</geo:lat>
+        <geo:long>-72.194243999999998</geo:long></geo:SpatialThing></ds:location>
+    <ds:address>278 MAIN STREET</ds:address>
+    <ds:city>NIANTIC</ds:city>
+    <ds:state>CT</ds:state>
+    <ds:zip>6357</ds:zip>
+    <ds:zipp4>3102</ds:zipp4></dsbase:k2zz-z5mw>
+<dsbase:k2zz-z5mw rdf:about="http://data.ct.gov/resource/k2zz-z5mw/83">
+    <socrata:rowID>83</socrata:rowID>
+    <rdfs:member rdf:resource="http://data.ct.gov/resource/k2zz-z5mw"/>
+    <ds:name>EAST WINDSOR POLICE DEPARTMENT</ds:name>
+    <ds:description>MUNICIPAL</ds:description>
+    <ds:telephone>860-292-8240</ds:telephone>
+    <ds:location><geo:SpatialThing>
+        <geo:lat>41.926938</geo:lat>
+        <geo:long>-72.618674999999996</geo:long></geo:SpatialThing></ds:location>
+    <ds:address>25 SCHOOL STREET</ds:address>
+    <ds:city>EAST WINDSOR</ds:city>
+    <ds:state>CT</ds:state>
+    <ds:zip>6088</ds:zip>
+    <ds:zipp4>9511</ds:zipp4></dsbase:k2zz-z5mw>
+<dsbase:k2zz-z5mw rdf:about="http://data.ct.gov/resource/k2zz-z5mw/84">
+    <socrata:rowID>84</socrata:rowID>
+    <rdfs:member rdf:resource="http://data.ct.gov/resource/k2zz-z5mw"/>
+    <ds:name>EASTERN CONNECTICUT STATE UNIVERSITY POLICE</ds:name>
+    <ds:description>COLLEGE OR UNIVERSITY</ds:description>
+    <ds:telephone>860-465-5310</ds:telephone>
+    <ds:location><geo:SpatialThing>
+        <geo:lat>41.720384000000003</geo:lat>
+        <geo:long>-72.216074000000006</geo:long></geo:SpatialThing></ds:location>
+    <ds:address>44 CHARTER OAK ROAD</ds:address>
+    <ds:city>WILLIMANTIC</ds:city>
+    <ds:state>CT</ds:state>
+    <ds:zip>6226</ds:zip>
+    <ds:zipp4>1340</ds:zipp4></dsbase:k2zz-z5mw>
+<dsbase:k2zz-z5mw rdf:about="http://data.ct.gov/resource/k2zz-z5mw/85">
+    <socrata:rowID>85</socrata:rowID>
+    <rdfs:member rdf:resource="http://data.ct.gov/resource/k2zz-z5mw"/>
+    <ds:name>EASTON POLICE DEPARTMENT</ds:name>
+    <ds:description>MUNICIPAL</ds:description>
+    <ds:telephone>203-268-4111</ds:telephone>
+    <ds:location><geo:SpatialThing>
+        <geo:lat>41.252569999999999</geo:lat>
+        <geo:long>-73.296878000000007</geo:long></geo:SpatialThing></ds:location>
+    <ds:address>700 MOREHOUSE ROAD</ds:address>
+    <ds:city>EASTON</ds:city>
+    <ds:state>CT</ds:state>
+    <ds:zip>6612</ds:zip>
+    <ds:zipp4>1336</ds:zipp4></dsbase:k2zz-z5mw>
+<dsbase:k2zz-z5mw rdf:about="http://data.ct.gov/resource/k2zz-z5mw/86">
+    <socrata:rowID>86</socrata:rowID>
+    <rdfs:member rdf:resource="http://data.ct.gov/resource/k2zz-z5mw"/>
+    <ds:name>ENFIELD POLICE DEPARTMENT</ds:name>
+    <ds:description>MUNICIPAL</ds:description>
+    <ds:telephone>860-763-6400</ds:telephone>
+    <ds:location><geo:SpatialThing>
+        <geo:lat>41.997401000000004</geo:lat>
+        <geo:long>-72.553985999999995</geo:long></geo:SpatialThing></ds:location>
+    <ds:address>293 ELM STREET</ds:address>
+    <ds:city>ENFIELD</ds:city>
+    <ds:state>CT</ds:state>
+    <ds:zip>6082</ds:zip>
+    <ds:zipp4>3907</ds:zipp4></dsbase:k2zz-z5mw>
+<dsbase:k2zz-z5mw rdf:about="http://data.ct.gov/resource/k2zz-z5mw/87">
+    <socrata:rowID>87</socrata:rowID>
+    <rdfs:member rdf:resource="http://data.ct.gov/resource/k2zz-z5mw"/>
+    <ds:name>ESSEX POLICE DEPARTMENT</ds:name>
+    <ds:description>MUNICIPAL</ds:description>
+    <ds:telephone>860-767-1054</ds:telephone>
+    <ds:location><geo:SpatialThing>
+        <geo:lat>41.354125000000003</geo:lat>
+        <geo:long>-72.395848000000001</geo:long></geo:SpatialThing></ds:location>
+    <ds:address>29 WEST AVENUE</ds:address>
+    <ds:city>ESSEX</ds:city>
+    <ds:state>CT</ds:state>
+    <ds:zip>6426</ds:zip>
+    <ds:zipp4>1140</ds:zipp4></dsbase:k2zz-z5mw>
+<dsbase:k2zz-z5mw rdf:about="http://data.ct.gov/resource/k2zz-z5mw/88">
+    <socrata:rowID>88</socrata:rowID>
+    <rdfs:member rdf:resource="http://data.ct.gov/resource/k2zz-z5mw"/>
+    <ds:name>FAIRFIELD POLICE DEPARTMENT</ds:name>
+    <ds:description>MUNICIPAL</ds:description>
+    <ds:telephone>203-254-4831</ds:telephone>
+    <ds:location><geo:SpatialThing>
+        <geo:lat>41.139552999999999</geo:lat>
+        <geo:long>-73.257056000000006</geo:long></geo:SpatialThing></ds:location>
+    <ds:address>100 REEF ROAD</ds:address>
+    <ds:city>FAIRFIELD</ds:city>
+    <ds:state>CT</ds:state>
+    <ds:zip>6824</ds:zip>
+    <ds:zipp4>5919</ds:zipp4></dsbase:k2zz-z5mw>
+<dsbase:k2zz-z5mw rdf:about="http://data.ct.gov/resource/k2zz-z5mw/89">
+    <socrata:rowID>89</socrata:rowID>
+    <rdfs:member rdf:resource="http://data.ct.gov/resource/k2zz-z5mw"/>
+    <ds:name>FARMINGTON POLICE DEPARTMENT</ds:name>
+    <ds:description>MUNICIPAL</ds:description>
+    <ds:telephone>860-675-2400</ds:telephone>
+    <ds:location><geo:SpatialThing>
+        <geo:lat>41.749575999999998</geo:lat>
+        <geo:long>-72.873495000000005</geo:long></geo:SpatialThing></ds:location>
+    <ds:address>319 NEW BRITAIN AVENUE</ds:address>
+    <ds:city>UNIONVILLE</ds:city>
+    <ds:state>CT</ds:state>
+    <ds:zip>6085</ds:zip>
+    <ds:zipp4>1224</ds:zipp4></dsbase:k2zz-z5mw>
+<dsbase:k2zz-z5mw rdf:about="http://data.ct.gov/resource/k2zz-z5mw/90">
+    <socrata:rowID>90</socrata:rowID>
+    <rdfs:member rdf:resource="http://data.ct.gov/resource/k2zz-z5mw"/>
+    <ds:name>GLASTONBURY POLICE DEPARTMENT</ds:name>
+    <ds:description>MUNICIPAL</ds:description>
+    <ds:telephone>860-633-8301</ds:telephone>
+    <ds:location><geo:SpatialThing>
+        <geo:lat>41.706228000000003</geo:lat>
+        <geo:long>-72.607223000000005</geo:long></geo:SpatialThing></ds:location>
+    <ds:address>2108 MAIN STREET</ds:address>
+    <ds:city>GLASTONBURY</ds:city>
+    <ds:state>CT</ds:state>
+    <ds:zip>6033</ds:zip>
+    <ds:zipp4>2285</ds:zipp4></dsbase:k2zz-z5mw>
+<dsbase:k2zz-z5mw rdf:about="http://data.ct.gov/resource/k2zz-z5mw/91">
+    <socrata:rowID>91</socrata:rowID>
+    <rdfs:member rdf:resource="http://data.ct.gov/resource/k2zz-z5mw"/>
+    <ds:name>GRANBY POLICE DEPARTMENT</ds:name>
+    <ds:description>MUNICIPAL</ds:description>
+    <ds:telephone>860-844-5335</ds:telephone>
+    <ds:location><geo:SpatialThing>
+        <geo:lat>41.954673</geo:lat>
+        <geo:long>-72.791820999999999</geo:long></geo:SpatialThing></ds:location>
+    <ds:address>15 NORTH GRANBY ROAD</ds:address>
+    <ds:city>GRANBY</ds:city>
+    <ds:state>CT</ds:state>
+    <ds:zip>6035</ds:zip>
+    <ds:zipp4>2102</ds:zipp4></dsbase:k2zz-z5mw>
+<dsbase:k2zz-z5mw rdf:about="http://data.ct.gov/resource/k2zz-z5mw/92">
+    <socrata:rowID>92</socrata:rowID>
+    <rdfs:member rdf:resource="http://data.ct.gov/resource/k2zz-z5mw"/>
+    <ds:name>GREENWICH POLICE DEPARTMENT</ds:name>
+    <ds:description>MUNICIPAL</ds:description>
+    <ds:telephone>203-622-8000</ds:telephone>
+    <ds:location><geo:SpatialThing>
+        <geo:lat>41.025672999999998</geo:lat>
+        <geo:long>-73.624430000000004</geo:long></geo:SpatialThing></ds:location>
+    <ds:address>11 BRUCE PLACE</ds:address>
+    <ds:city>GREENWICH</ds:city>
+    <ds:state>CT</ds:state>
+    <ds:zip>6830</ds:zip>
+    <ds:zipp4>6535</ds:zipp4></dsbase:k2zz-z5mw>
+<dsbase:k2zz-z5mw rdf:about="http://data.ct.gov/resource/k2zz-z5mw/93">
+    <socrata:rowID>93</socrata:rowID>
+    <rdfs:member rdf:resource="http://data.ct.gov/resource/k2zz-z5mw"/>
+    <ds:name>GROTON CITY POLICE DEPARTMENT - HEADQUARTERS</ds:name>
+    <ds:description>MUNICIPAL</ds:description>
+    <ds:telephone>860-445-2451</ds:telephone>
+    <ds:location><geo:SpatialThing>
+        <geo:lat>41.353000999999999</geo:lat>
+        <geo:long>-72.070909999999998</geo:long></geo:SpatialThing></ds:location>
+    <ds:address>295 MERIDIAN STREET</ds:address>
+    <ds:city>GROTON</ds:city>
+    <ds:state>CT</ds:state>
+    <ds:zip>6340</ds:zip>
+    <ds:zipp4>4012</ds:zipp4></dsbase:k2zz-z5mw>
+<dsbase:k2zz-z5mw rdf:about="http://data.ct.gov/resource/k2zz-z5mw/94">
+    <socrata:rowID>94</socrata:rowID>
+    <rdfs:member rdf:resource="http://data.ct.gov/resource/k2zz-z5mw"/>
+    <ds:name>GROTON LONG POINT POLICE DEPARTMENT</ds:name>
+    <ds:description>MUNICIPAL</ds:description>
+    <ds:telephone>860-536-4921</ds:telephone>
+    <ds:location><geo:SpatialThing>
+        <geo:lat>41.312514999999998</geo:lat>
+        <geo:long>-72.009917000000002</geo:long></geo:SpatialThing></ds:location>
+    <ds:address>3 ATLANTIC AVENUE</ds:address>
+    <ds:city>GROTON</ds:city>
+    <ds:state>CT</ds:state>
+    <ds:zip>6340</ds:zip>
+    <ds:zipp4>8802</ds:zipp4></dsbase:k2zz-z5mw>
+<dsbase:k2zz-z5mw rdf:about="http://data.ct.gov/resource/k2zz-z5mw/95">
+    <socrata:rowID>95</socrata:rowID>
+    <rdfs:member rdf:resource="http://data.ct.gov/resource/k2zz-z5mw"/>
+    <ds:name>GROTON TOWN POLICE DEPARTMENT</ds:name>
+    <ds:description>MUNICIPAL</ds:description>
+    <ds:telephone>860-441-6710</ds:telephone>
+    <ds:location><geo:SpatialThing>
+        <geo:lat>41.343620999999999</geo:lat>
+        <geo:long>-72.010272000000001</geo:long></geo:SpatialThing></ds:location>
+    <ds:address>68 GROTON LONG POINT ROAD</ds:address>
+    <ds:city>GROTON</ds:city>
+    <ds:state>CT</ds:state>
+    <ds:zip>6340</ds:zip>
+    <ds:zipp4>4806</ds:zipp4></dsbase:k2zz-z5mw>
+<dsbase:k2zz-z5mw rdf:about="http://data.ct.gov/resource/k2zz-z5mw/96">
+    <socrata:rowID>96</socrata:rowID>
+    <rdfs:member rdf:resource="http://data.ct.gov/resource/k2zz-z5mw"/>
+    <ds:name>GUILFORD POLICE DEPARTMENT</ds:name>
+    <ds:description>MUNICIPAL</ds:description>
+    <ds:telephone>203-453-8061</ds:telephone>
+    <ds:location><geo:SpatialThing>
+        <geo:lat>41.297127000000003</geo:lat>
+        <geo:long>-72.688446999999996</geo:long></geo:SpatialThing></ds:location>
+    <ds:address>400 CHURCH STREET</ds:address>
+    <ds:city>GUILFORD</ds:city>
+    <ds:state>CT</ds:state>
+    <ds:zip>6437</ds:zip>
+    <ds:zipp4>2004</ds:zipp4></dsbase:k2zz-z5mw>
+<dsbase:k2zz-z5mw rdf:about="http://data.ct.gov/resource/k2zz-z5mw/97">
+    <socrata:rowID>97</socrata:rowID>
+    <rdfs:member rdf:resource="http://data.ct.gov/resource/k2zz-z5mw"/>
+    <ds:name>HAMDEN POLICE DEPARTMENT</ds:name>
+    <ds:description>MUNICIPAL</ds:description>
+    <ds:telephone>203-230-4000</ds:telephone>
+    <ds:location><geo:SpatialThing>
+        <geo:lat>41.383958999999997</geo:lat>
+        <geo:long>-72.903814999999994</geo:long></geo:SpatialThing></ds:location>
+    <ds:address>2900 DIXWELL AVENUE</ds:address>
+    <ds:city>HAMDEN</ds:city>
+    <ds:state>CT</ds:state>
+    <ds:zip>6518</ds:zip>
+    <ds:zipp4>3132</ds:zipp4></dsbase:k2zz-z5mw>
+<dsbase:k2zz-z5mw rdf:about="http://data.ct.gov/resource/k2zz-z5mw/98">
+    <socrata:rowID>98</socrata:rowID>
+    <rdfs:member rdf:resource="http://data.ct.gov/resource/k2zz-z5mw"/>
+    <ds:name>HARTFORD CAMPUS POLICE - SUBSTATION</ds:name>
+    <ds:description>COLLEGE OR UNIVERSITY</ds:description>
+    <ds:telephone>860-570-5173</ds:telephone>
+    <ds:location><geo:SpatialThing>
+        <geo:lat>41.772776</geo:lat>
+        <geo:long>-72.707042999999999</geo:long></geo:SpatialThing></ds:location>
+    <ds:address>65 ELIZABETH STREET</ds:address>
+    <ds:city>HARTFORD</ds:city>
+    <ds:state>CT</ds:state>
+    <ds:zip>6105</ds:zip>
+    <ds:zipp4>2259</ds:zipp4></dsbase:k2zz-z5mw>
+<dsbase:k2zz-z5mw rdf:about="http://data.ct.gov/resource/k2zz-z5mw/99">
+    <socrata:rowID>99</socrata:rowID>
+    <rdfs:member rdf:resource="http://data.ct.gov/resource/k2zz-z5mw"/>
+    <ds:name>HARTFORD POLICE DEPARTMENT</ds:name>
+    <ds:description>MUNICIPAL</ds:description>
+    <ds:telephone>860-527-6300</ds:telephone>
+    <ds:location><geo:SpatialThing>
+        <geo:lat>41.785707000000002</geo:lat>
+        <geo:long>-72.652421000000004</geo:long></geo:SpatialThing></ds:location>
+    <ds:address>50 JENNINGS ROAD</ds:address>
+    <ds:city>HARTFORD</ds:city>
+    <ds:state>CT</ds:state>
+    <ds:zip>6120</ds:zip>
+    <ds:zipp4>1611</ds:zipp4></dsbase:k2zz-z5mw>
+<dsbase:k2zz-z5mw rdf:about="http://data.ct.gov/resource/k2zz-z5mw/100">
+    <socrata:rowID>100</socrata:rowID>
+    <rdfs:member rdf:resource="http://data.ct.gov/resource/k2zz-z5mw"/>
+    <ds:name>HOUSATONIC COMMUNITY COLLEGE CAMPUS SECURITY</ds:name>
+    <ds:description>COLLEGE OR UNIVERSITY</ds:description>
+    <ds:telephone>203-332-5020</ds:telephone>
+    <ds:location><geo:SpatialThing>
+        <geo:lat>41.175185999999997</geo:lat>
+        <geo:long>-73.190591999999995</geo:long></geo:SpatialThing></ds:location>
+    <ds:address>900 LAFAYETTE BOULEVARD</ds:address>
+    <ds:city>BRIDGEPORT</ds:city>
+    <ds:state>CT</ds:state>
+    <ds:zip>6604</ds:zip>
+    <ds:zipp4>4704</ds:zipp4></dsbase:k2zz-z5mw>
+<dsbase:k2zz-z5mw rdf:about="http://data.ct.gov/resource/k2zz-z5mw/101">
+    <socrata:rowID>101</socrata:rowID>
+    <rdfs:member rdf:resource="http://data.ct.gov/resource/k2zz-z5mw"/>
+    <ds:name>LEBANON POLICE DEPARTMENT</ds:name>
+    <ds:description>MUNICIPAL</ds:description>
+    <ds:telephone>860-642-7730</ds:telephone>
+    <ds:location><geo:SpatialThing>
+        <geo:lat>41.630730999999997</geo:lat>
+        <geo:long>-72.209307999999993</geo:long></geo:SpatialThing></ds:location>
+    <ds:address>23 GOSHEN HILL ROAD</ds:address>
+    <ds:city>LEBANON</ds:city>
+    <ds:state>CT</ds:state>
+    <ds:zip>6249</ds:zip>
+    <ds:zipp4>1710</ds:zipp4></dsbase:k2zz-z5mw>
+<dsbase:k2zz-z5mw rdf:about="http://data.ct.gov/resource/k2zz-z5mw/102">
+    <socrata:rowID>102</socrata:rowID>
+    <rdfs:member rdf:resource="http://data.ct.gov/resource/k2zz-z5mw"/>
+    <ds:name>LEDYARD POLICE DEPARTMENT</ds:name>
+    <ds:description>MUNICIPAL</ds:description>
+    <ds:telephone>860-464-6400</ds:telephone>
+    <ds:location><geo:SpatialThing>
+        <geo:lat>41.403861999999997</geo:lat>
+        <geo:long>-72.026043999999999</geo:long></geo:SpatialThing></ds:location>
+    <ds:address>11 LORENZ PARKWAY</ds:address>
+    <ds:city>LEDYARD</ds:city>
+    <ds:state>CT</ds:state>
+    <ds:zip>6339</ds:zip></dsbase:k2zz-z5mw>
+<dsbase:k2zz-z5mw rdf:about="http://data.ct.gov/resource/k2zz-z5mw/103">
+    <socrata:rowID>103</socrata:rowID>
+    <rdfs:member rdf:resource="http://data.ct.gov/resource/k2zz-z5mw"/>
+    <ds:name>MADISON POLICE DEPARTMENT</ds:name>
+    <ds:description>MUNICIPAL</ds:description>
+    <ds:telephone>203-245-2721</ds:telephone>
+    <ds:location><geo:SpatialThing>
+        <geo:lat>41.296568000000001</geo:lat>
+        <geo:long>-72.574594000000005</geo:long></geo:SpatialThing></ds:location>
+    <ds:address>9 CAMPUS DRIVE</ds:address>
+    <ds:city>MADISON</ds:city>
+    <ds:state>CT</ds:state>
+    <ds:zip>6443</ds:zip>
+    <ds:zipp4>2562</ds:zipp4></dsbase:k2zz-z5mw>
+<dsbase:k2zz-z5mw rdf:about="http://data.ct.gov/resource/k2zz-z5mw/104">
+    <socrata:rowID>104</socrata:rowID>
+    <rdfs:member rdf:resource="http://data.ct.gov/resource/k2zz-z5mw"/>
+    <ds:name>MANCHESTER COMMUNITY COLLEGE POLICE</ds:name>
+    <ds:description>MUNICIPAL</ds:description>
+    <ds:telephone>860-512-3680</ds:telephone>
+    <ds:location><geo:SpatialThing>
+        <geo:lat>41.761274999999998</geo:lat>
+        <geo:long>-72.561694000000003</geo:long></geo:SpatialThing></ds:location>
+    <ds:address>60 BIDWELL STREET</ds:address>
+    <ds:city>MANCHESTER</ds:city>
+    <ds:state>CT</ds:state>
+    <ds:zip>6040</ds:zip>
+    <ds:zipp4>6449</ds:zipp4></dsbase:k2zz-z5mw>
+<dsbase:k2zz-z5mw rdf:about="http://data.ct.gov/resource/k2zz-z5mw/105">
+    <socrata:rowID>105</socrata:rowID>
+    <rdfs:member rdf:resource="http://data.ct.gov/resource/k2zz-z5mw"/>
+    <ds:name>MANCHESTER POLICE DEPARTMENT</ds:name>
+    <ds:description>MUNICIPAL</ds:description>
+    <ds:telephone>860-645-5500</ds:telephone>
+    <ds:location><geo:SpatialThing>
+        <geo:lat>41.784877000000002</geo:lat>
+        <geo:long>-72.511765999999994</geo:long></geo:SpatialThing></ds:location>
+    <ds:address>239 MIDDLE TURNPIKE EAST</ds:address>
+    <ds:city>MANCHESTER</ds:city>
+    <ds:state>CT</ds:state>
+    <ds:zip>6040</ds:zip>
+    <ds:zipp4>4206</ds:zipp4></dsbase:k2zz-z5mw>
+<dsbase:k2zz-z5mw rdf:about="http://data.ct.gov/resource/k2zz-z5mw/106">
+    <socrata:rowID>106</socrata:rowID>
+    <rdfs:member rdf:resource="http://data.ct.gov/resource/k2zz-z5mw"/>
+    <ds:name>MARLBOROUGH POLICE DEPARTMENT</ds:name>
+    <ds:description>MUNICIPAL</ds:description>
+    <ds:telephone>860-295-9098</ds:telephone>
+    <ds:location><geo:SpatialThing>
+        <geo:lat>41.668678</geo:lat>
+        <geo:long>-72.464153999999994</geo:long></geo:SpatialThing></ds:location>
+    <ds:address>200 WEST ROAD</ds:address>
+    <ds:city>MARLBOROUGH</ds:city>
+    <ds:state>CT</ds:state>
+    <ds:zip>6447</ds:zip>
+    <ds:zipp4>1034</ds:zipp4></dsbase:k2zz-z5mw>
+<dsbase:k2zz-z5mw rdf:about="http://data.ct.gov/resource/k2zz-z5mw/108">
+    <socrata:rowID>108</socrata:rowID>
+    <rdfs:member rdf:resource="http://data.ct.gov/resource/k2zz-z5mw"/>
+    <ds:name>MERIDEN POLICE DEPARTMENT</ds:name>
+    <ds:description>MUNICIPAL</ds:description>
+    <ds:telephone>203-238-1911</ds:telephone>
+    <ds:location><geo:SpatialThing>
+        <geo:lat>41.537697999999999</geo:lat>
+        <geo:long>-72.804210999999995</geo:long></geo:SpatialThing></ds:location>
+    <ds:address>50 WEST MAIN STREET</ds:address>
+    <ds:city>MERIDEN</ds:city>
+    <ds:state>CT</ds:state>
+    <ds:zip>6451</ds:zip>
+    <ds:zipp4>4109</ds:zipp4></dsbase:k2zz-z5mw>
+<dsbase:k2zz-z5mw rdf:about="http://data.ct.gov/resource/k2zz-z5mw/109">
+    <socrata:rowID>109</socrata:rowID>
+    <rdfs:member rdf:resource="http://data.ct.gov/resource/k2zz-z5mw"/>
+    <ds:name>METROPOLITAN DISTRICT POLICE</ds:name>
+    <ds:description>OTHER</ds:description>
+    <ds:telephone>860-379-0916</ds:telephone>
+    <ds:location><geo:SpatialThing>
+        <geo:lat>41.921031999999997</geo:lat>
+        <geo:long>-72.963987000000003</geo:long></geo:SpatialThing></ds:location>
+    <ds:address>39 BEACH ROCK ROAD</ds:address>
+    <ds:city>PLEASANT VALLEY</ds:city>
+    <ds:state>CT</ds:state>
+    <ds:zip>6063</ds:zip>
+    <ds:zipp4>4136</ds:zipp4></dsbase:k2zz-z5mw>
+<dsbase:k2zz-z5mw rdf:about="http://data.ct.gov/resource/k2zz-z5mw/110">
+    <socrata:rowID>110</socrata:rowID>
+    <rdfs:member rdf:resource="http://data.ct.gov/resource/k2zz-z5mw"/>
+    <ds:name>MIDDLEBURY POLICE DEPARTMENT</ds:name>
+    <ds:description>MUNICIPAL</ds:description>
+    <ds:telephone>203-577-4028</ds:telephone>
+    <ds:location><geo:SpatialThing>
+        <geo:lat>41.518929999999997</geo:lat>
+        <geo:long>-73.137184000000005</geo:long></geo:SpatialThing></ds:location>
+    <ds:address>200 SOUTHFORD ROAD</ds:address>
+    <ds:city>MIDDLEBURY</ds:city>
+    <ds:state>CT</ds:state>
+    <ds:zip>6762</ds:zip>
+    <ds:zipp4>2928</ds:zipp4></dsbase:k2zz-z5mw>
+<dsbase:k2zz-z5mw rdf:about="http://data.ct.gov/resource/k2zz-z5mw/111">
+    <socrata:rowID>111</socrata:rowID>
+    <rdfs:member rdf:resource="http://data.ct.gov/resource/k2zz-z5mw"/>
+    <ds:name>MIDDLETOWN POLICE DEPARTMENT</ds:name>
+    <ds:description>MUNICIPAL</ds:description>
+    <ds:telephone>860-344-3200</ds:telephone>
+    <ds:location><geo:SpatialThing>
+        <geo:lat>41.559944999999999</geo:lat>
+        <geo:long>-72.648921000000001</geo:long></geo:SpatialThing></ds:location>
+    <ds:address>222 MAIN STREET</ds:address>
+    <ds:city>MIDDLETOWN</ds:city>
+    <ds:state>CT</ds:state>
+    <ds:zip>6457</ds:zip>
+    <ds:zipp4>3439</ds:zipp4></dsbase:k2zz-z5mw>
+<dsbase:k2zz-z5mw rdf:about="http://data.ct.gov/resource/k2zz-z5mw/112">
+    <socrata:rowID>112</socrata:rowID>
+    <rdfs:member rdf:resource="http://data.ct.gov/resource/k2zz-z5mw"/>
+    <ds:name>MILFORD POLICE DEPARTMENT</ds:name>
+    <ds:description>MUNICIPAL</ds:description>
+    <ds:telephone>203-878-6551</ds:telephone>
+    <ds:location><geo:SpatialThing>
+        <geo:lat>41.227902999999998</geo:lat>
+        <geo:long>-73.070313999999996</geo:long></geo:SpatialThing></ds:location>
+    <ds:address>430 BOSTON POST ROAD</ds:address>
+    <ds:city>MILFORD</ds:city>
+    <ds:state>CT</ds:state>
+    <ds:zip>6460</ds:zip>
+    <ds:zipp4>2530</ds:zipp4></dsbase:k2zz-z5mw>
+<dsbase:k2zz-z5mw rdf:about="http://data.ct.gov/resource/k2zz-z5mw/113">
+    <socrata:rowID>113</socrata:rowID>
+    <rdfs:member rdf:resource="http://data.ct.gov/resource/k2zz-z5mw"/>
+    <ds:name>MONROE POLICE DEPARTMENT</ds:name>
+    <ds:description>MUNICIPAL</ds:description>
+    <ds:telephone>203-452-2830</ds:telephone>
+    <ds:location><geo:SpatialThing>
+        <geo:lat>41.331870000000002</geo:lat>
+        <geo:long>-73.208584000000002</geo:long></geo:SpatialThing></ds:location>
+    <ds:address>7 FAN HILL ROAD</ds:address>
+    <ds:city>MONROE</ds:city>
+    <ds:state>CT</ds:state>
+    <ds:zip>6468</ds:zip>
+    <ds:zipp4>1823</ds:zipp4></dsbase:k2zz-z5mw>
+<dsbase:k2zz-z5mw rdf:about="http://data.ct.gov/resource/k2zz-z5mw/114">
+    <socrata:rowID>114</socrata:rowID>
+    <rdfs:member rdf:resource="http://data.ct.gov/resource/k2zz-z5mw"/>
+    <ds:name>MONTVILLE POLICE DEPARTMENT</ds:name>
+    <ds:description>MUNICIPAL</ds:description>
+    <ds:telephone>860-848-7510</ds:telephone>
+    <ds:location><geo:SpatialThing>
+        <geo:lat>41.481498999999999</geo:lat>
+        <geo:long>-72.093249999999998</geo:long></geo:SpatialThing></ds:location>
+    <ds:address>89 FORT SHANTOK ROAD</ds:address>
+    <ds:city>UNCASVILLE</ds:city>
+    <ds:state>CT</ds:state>
+    <ds:zip>6382</ds:zip>
+    <ds:zipp4>1301</ds:zipp4></dsbase:k2zz-z5mw>
+<dsbase:k2zz-z5mw rdf:about="http://data.ct.gov/resource/k2zz-z5mw/115">
+    <socrata:rowID>115</socrata:rowID>
+    <rdfs:member rdf:resource="http://data.ct.gov/resource/k2zz-z5mw"/>
+    <ds:name>NAUGATUCK POLICE DEPARTMENT</ds:name>
+    <ds:description>MUNICIPAL</ds:description>
+    <ds:telephone>203-729-5222</ds:telephone>
+    <ds:location><geo:SpatialThing>
+        <geo:lat>41.504812999999999</geo:lat>
+        <geo:long>-73.053839999999994</geo:long></geo:SpatialThing></ds:location>
+    <ds:address>211 SPRING STREET</ds:address>
+    <ds:city>NAUGATUCK</ds:city>
+    <ds:state>CT</ds:state>
+    <ds:zip>6770</ds:zip>
+    <ds:zipp4>2922</ds:zipp4></dsbase:k2zz-z5mw>
+<dsbase:k2zz-z5mw rdf:about="http://data.ct.gov/resource/k2zz-z5mw/116">
+    <socrata:rowID>116</socrata:rowID>
+    <rdfs:member rdf:resource="http://data.ct.gov/resource/k2zz-z5mw"/>
+    <ds:name>NAUGATUCK VALLEY COMMUNITY COLLEGE - PUBLIC SAFETY DEPARTMENT</ds:name>
+    <ds:description>COLLEGE OR UNIVERSITY</ds:description>
+    <ds:telephone>203-575-8113</ds:telephone>
+    <ds:location><geo:SpatialThing>
+        <geo:lat>41.546892999999997</geo:lat>
+        <geo:long>-73.073108000000005</geo:long></geo:SpatialThing></ds:location>
+    <ds:address>750 CHASE PARKWAY</ds:address>
+    <ds:city>WATERBURY</ds:city>
+    <ds:state>CT</ds:state>
+    <ds:zip>6708</ds:zip>
+    <ds:zipp4>3011</ds:zipp4></dsbase:k2zz-z5mw>
+<dsbase:k2zz-z5mw rdf:about="http://data.ct.gov/resource/k2zz-z5mw/117">
+    <socrata:rowID>117</socrata:rowID>
+    <rdfs:member rdf:resource="http://data.ct.gov/resource/k2zz-z5mw"/>
+    <ds:name>NEW BRITAIN POLICE DEPARTMENT</ds:name>
+    <ds:description>MUNICIPAL</ds:description>
+    <ds:telephone>860-826-3000</ds:telephone>
+    <ds:location><geo:SpatialThing>
+        <geo:lat>41.667287000000002</geo:lat>
+        <geo:long>-72.777383</geo:long></geo:SpatialThing></ds:location>
+    <ds:address>125 COLUMBUS BOULEVARD</ds:address>
+    <ds:city>NEW BRITAIN</ds:city>
+    <ds:state>CT</ds:state>
+    <ds:zip>6051</ds:zip>
+    <ds:zipp4>2226</ds:zipp4></dsbase:k2zz-z5mw>
+<dsbase:k2zz-z5mw rdf:about="http://data.ct.gov/resource/k2zz-z5mw/118">
+    <socrata:rowID>118</socrata:rowID>
+    <rdfs:member rdf:resource="http://data.ct.gov/resource/k2zz-z5mw"/>
+    <ds:name>NEW CANAAN POLICE DEPARTMENT</ds:name>
+    <ds:description>MUNICIPAL</ds:description>
+    <ds:telephone>203-594-3500</ds:telephone>
+    <ds:location><geo:SpatialThing>
+        <geo:lat>41.141199999999998</geo:lat>
+        <geo:long>-73.490680999999995</geo:long></geo:SpatialThing></ds:location>
+    <ds:address>174 SOUTH AVENUE</ds:address>
+    <ds:city>NEW CANAAN</ds:city>
+    <ds:state>CT</ds:state>
+    <ds:zip>6840</ds:zip>
+    <ds:zipp4>5728</ds:zipp4></dsbase:k2zz-z5mw>
+<dsbase:k2zz-z5mw rdf:about="http://data.ct.gov/resource/k2zz-z5mw/119">
+    <socrata:rowID>119</socrata:rowID>
+    <rdfs:member rdf:resource="http://data.ct.gov/resource/k2zz-z5mw"/>
+    <ds:name>NEW FAIRFIELD POLICE DEPARTMENT</ds:name>
+    <ds:description>MUNICIPAL</ds:description>
+    <ds:telephone>203-312-5701</ds:telephone>
+    <ds:location><geo:SpatialThing>
+        <geo:lat>41.465488999999998</geo:lat>
+        <geo:long>-73.495834000000002</geo:long></geo:SpatialThing></ds:location>
+    <ds:address>302 BALL POND ROAD</ds:address>
+    <ds:city>NEW FAIRFIELD</ds:city>
+    <ds:state>CT</ds:state>
+    <ds:zip>6812</ds:zip>
+    <ds:zipp4>4625</ds:zipp4></dsbase:k2zz-z5mw>
+<dsbase:k2zz-z5mw rdf:about="http://data.ct.gov/resource/k2zz-z5mw/120">
+    <socrata:rowID>120</socrata:rowID>
+    <rdfs:member rdf:resource="http://data.ct.gov/resource/k2zz-z5mw"/>
+    <ds:name>NEW HARTFORD PUBLIC SAFETY DEPARTMENT</ds:name>
+    <ds:description>MUNICIPAL</ds:description>
+    <ds:telephone>860-379-8621</ds:telephone>
+    <ds:location><geo:SpatialThing>
+        <geo:lat>41.879308999999999</geo:lat>
+        <geo:long>-72.979696000000004</geo:long></geo:SpatialThing></ds:location>
+    <ds:address>530 MAIN STREET</ds:address>
+    <ds:city>NEW HARTFORD</ds:city>
+    <ds:state>CT</ds:state>
+    <ds:zip>6057</ds:zip></dsbase:k2zz-z5mw>
+<dsbase:k2zz-z5mw rdf:about="http://data.ct.gov/resource/k2zz-z5mw/121">
+    <socrata:rowID>121</socrata:rowID>
+    <rdfs:member rdf:resource="http://data.ct.gov/resource/k2zz-z5mw"/>
+    <ds:name>NEW HAVEN POLICE DEPARTMENT</ds:name>
+    <ds:description>MUNICIPAL</ds:description>
+    <ds:telephone>203-946-6255</ds:telephone>
+    <ds:location><geo:SpatialThing>
+        <geo:lat>41.300102000000003</geo:lat>
+        <geo:long>-72.925274000000002</geo:long></geo:SpatialThing></ds:location>
+    <ds:address>1 UNION AVENUE</ds:address>
+    <ds:city>NEW HAVEN</ds:city>
+    <ds:state>CT</ds:state>
+    <ds:zip>6519</ds:zip>
+    <ds:zipp4>1721</ds:zipp4></dsbase:k2zz-z5mw>
+<dsbase:k2zz-z5mw rdf:about="http://data.ct.gov/resource/k2zz-z5mw/122">
+    <socrata:rowID>122</socrata:rowID>
+    <rdfs:member rdf:resource="http://data.ct.gov/resource/k2zz-z5mw"/>
+    <ds:name>NEW LONDON POLICE DEPARTMENT</ds:name>
+    <ds:description>MUNICIPAL</ds:description>
+    <ds:telephone>860-447-5269</ds:telephone>
+    <ds:location><geo:SpatialThing>
+        <geo:lat>41.356935999999997</geo:lat>
+        <geo:long>-72.095963999999995</geo:long></geo:SpatialThing></ds:location>
+    <ds:address>5 GOVERNOR WINTHROP BOULEVARD</ds:address>
+    <ds:city>NEW LONDON</ds:city>
+    <ds:state>CT</ds:state>
+    <ds:zip>6320</ds:zip>
+    <ds:zipp4>6423</ds:zipp4></dsbase:k2zz-z5mw>
+<dsbase:k2zz-z5mw rdf:about="http://data.ct.gov/resource/k2zz-z5mw/123">
+    <socrata:rowID>123</socrata:rowID>
+    <rdfs:member rdf:resource="http://data.ct.gov/resource/k2zz-z5mw"/>
+    <ds:name>NEW MILFORD POLICE DEPARTMENT</ds:name>
+    <ds:description>MUNICIPAL</ds:description>
+    <ds:telephone>860-355-3133</ds:telephone>
+    <ds:location><geo:SpatialThing>
+        <geo:lat>41.586263000000002</geo:lat>
+        <geo:long>-73.408698000000001</geo:long></geo:SpatialThing></ds:location>
+    <ds:address>49 POPLAR STREET</ds:address>
+    <ds:city>NEW MILFORD</ds:city>
+    <ds:state>CT</ds:state>
+    <ds:zip>6776</ds:zip>
+    <ds:zipp4>2920</ds:zipp4></dsbase:k2zz-z5mw>
+<dsbase:k2zz-z5mw rdf:about="http://data.ct.gov/resource/k2zz-z5mw/124">
+    <socrata:rowID>124</socrata:rowID>
+    <rdfs:member rdf:resource="http://data.ct.gov/resource/k2zz-z5mw"/>
+    <ds:name>NEWINGTON POLICE DEPARTMENT</ds:name>
+    <ds:description>MUNICIPAL</ds:description>
+    <ds:telephone>860-594-6218</ds:telephone>
+    <ds:location><geo:SpatialThing>
+        <geo:lat>41.696899999999999</geo:lat>
+        <geo:long>-72.729885999999993</geo:long></geo:SpatialThing></ds:location>
+    <ds:address>131 CEDAR STREET</ds:address>
+    <ds:city>NEWINGTON</ds:city>
+    <ds:state>CT</ds:state>
+    <ds:zip>6111</ds:zip>
+    <ds:zipp4>2644</ds:zipp4></dsbase:k2zz-z5mw>
+<dsbase:k2zz-z5mw rdf:about="http://data.ct.gov/resource/k2zz-z5mw/5">
+    <socrata:rowID>5</socrata:rowID>
+    <rdfs:member rdf:resource="http://data.ct.gov/resource/k2zz-z5mw"/>
+    <ds:name>AVON POLICE DEPARTMENT</ds:name>
+    <ds:description>MUNICIPAL</ds:description>
+    <ds:telephone>860-677-9746</ds:telephone>
+    <ds:location><geo:SpatialThing>
+        <geo:lat>41.810892000000003</geo:lat>
+        <geo:long>-72.836748</geo:long></geo:SpatialThing></ds:location>
+    <ds:address>60 WEST MAIN STREET</ds:address>
+    <ds:city>AVON</ds:city>
+    <ds:state>CT</ds:state>
+    <ds:zip>6001</ds:zip>
+    <ds:zipp4>3719</ds:zipp4></dsbase:k2zz-z5mw>
+<dsbase:k2zz-z5mw rdf:about="http://data.ct.gov/resource/k2zz-z5mw/125">
+    <socrata:rowID>125</socrata:rowID>
+    <rdfs:member rdf:resource="http://data.ct.gov/resource/k2zz-z5mw"/>
+    <ds:name>NEWTOWN POLICE DEPARTMENT</ds:name>
+    <ds:description>MUNICIPAL</ds:description>
+    <ds:telephone>203-426-5841</ds:telephone>
+    <ds:location><geo:SpatialThing>
+        <geo:lat>41.409280000000003</geo:lat>
+        <geo:long>-73.306157999999996</geo:long></geo:SpatialThing></ds:location>
+    <ds:address>3 MAIN STREET</ds:address>
+    <ds:city>NEWTOWN</ds:city>
+    <ds:state>CT</ds:state>
+    <ds:zip>6470</ds:zip>
+    <ds:zipp4>2104</ds:zipp4></dsbase:k2zz-z5mw>
+<dsbase:k2zz-z5mw rdf:about="http://data.ct.gov/resource/k2zz-z5mw/126">
+    <socrata:rowID>126</socrata:rowID>
+    <rdfs:member rdf:resource="http://data.ct.gov/resource/k2zz-z5mw"/>
+    <ds:name>NORTH BRANFORD POLICE DEPARTMENT</ds:name>
+    <ds:description>MUNICIPAL</ds:description>
+    <ds:telephone>203-484-2703</ds:telephone>
+    <ds:location><geo:SpatialThing>
+        <geo:lat>41.352018000000001</geo:lat>
+        <geo:long>-72.802526</geo:long></geo:SpatialThing></ds:location>
+    <ds:address>260 FOREST ROAD</ds:address>
+    <ds:city>NORTH BRANFORD</ds:city>
+    <ds:state>CT</ds:state>
+    <ds:zip>6471</ds:zip></dsbase:k2zz-z5mw>
+<dsbase:k2zz-z5mw rdf:about="http://data.ct.gov/resource/k2zz-z5mw/127">
+    <socrata:rowID>127</socrata:rowID>
+    <rdfs:member rdf:resource="http://data.ct.gov/resource/k2zz-z5mw"/>
+    <ds:name>NORTH HAVEN POLICE DEPARTMENT</ds:name>
+    <ds:description>MUNICIPAL</ds:description>
+    <ds:telephone>203-239-5321</ds:telephone>
+    <ds:location><geo:SpatialThing>
+        <geo:lat>41.387509999999999</geo:lat>
+        <geo:long>-72.862335000000002</geo:long></geo:SpatialThing></ds:location>
+    <ds:address>8 LINSLEY STREET</ds:address>
+    <ds:city>NORTH HAVEN</ds:city>
+    <ds:state>CT</ds:state>
+    <ds:zip>6473</ds:zip>
+    <ds:zipp4>2517</ds:zipp4></dsbase:k2zz-z5mw>
+<dsbase:k2zz-z5mw rdf:about="http://data.ct.gov/resource/k2zz-z5mw/128">
+    <socrata:rowID>128</socrata:rowID>
+    <rdfs:member rdf:resource="http://data.ct.gov/resource/k2zz-z5mw"/>
+    <ds:name>NORWALK POLICE DEPARTMENT</ds:name>
+    <ds:description>MUNICIPAL</ds:description>
+    <ds:telephone>203-854-3000</ds:telephone>
+    <ds:location><geo:SpatialThing>
+        <geo:lat>41.096366000000003</geo:lat>
+        <geo:long>-73.419836000000004</geo:long></geo:SpatialThing></ds:location>
+    <ds:address>1 MONROE STREET</ds:address>
+    <ds:city>NORWALK</ds:city>
+    <ds:state>CT</ds:state>
+    <ds:zip>6854</ds:zip>
+    <ds:zipp4>3103</ds:zipp4></dsbase:k2zz-z5mw>
+<dsbase:k2zz-z5mw rdf:about="http://data.ct.gov/resource/k2zz-z5mw/129">
+    <socrata:rowID>129</socrata:rowID>
+    <rdfs:member rdf:resource="http://data.ct.gov/resource/k2zz-z5mw"/>
+    <ds:name>NORWICH POLICE DEPARTMENT</ds:name>
+    <ds:description>MUNICIPAL</ds:description>
+    <ds:telephone>860-886-5561</ds:telephone>
+    <ds:location><geo:SpatialThing>
+        <geo:lat>41.521681999999998</geo:lat>
+        <geo:long>-72.081121999999993</geo:long></geo:SpatialThing></ds:location>
+    <ds:address>70 THAMES STREET</ds:address>
+    <ds:city>NORWICH</ds:city>
+    <ds:state>CT</ds:state>
+    <ds:zip>6360</ds:zip>
+    <ds:zipp4>5646</ds:zipp4></dsbase:k2zz-z5mw>
+<dsbase:k2zz-z5mw rdf:about="http://data.ct.gov/resource/k2zz-z5mw/130">
+    <socrata:rowID>130</socrata:rowID>
+    <rdfs:member rdf:resource="http://data.ct.gov/resource/k2zz-z5mw"/>
+    <ds:name>OLD LYME POLICE DEPARTMENT</ds:name>
+    <ds:description>MUNICIPAL</ds:description>
+    <ds:telephone>860-434-1986</ds:telephone>
+    <ds:location><geo:SpatialThing>
+        <geo:lat>41.290560999999997</geo:lat>
+        <geo:long>-72.276432</geo:long></geo:SpatialThing></ds:location>
+    <ds:address>294 SHORE ROAD</ds:address>
+    <ds:city>OLD LYME</ds:city>
+    <ds:state>CT</ds:state>
+    <ds:zip>6371</ds:zip>
+    <ds:zipp4>2131</ds:zipp4></dsbase:k2zz-z5mw>
+<dsbase:k2zz-z5mw rdf:about="http://data.ct.gov/resource/k2zz-z5mw/131">
+    <socrata:rowID>131</socrata:rowID>
+    <rdfs:member rdf:resource="http://data.ct.gov/resource/k2zz-z5mw"/>
+    <ds:name>OLD SAYBROOK POLICE DEPARTMENT</ds:name>
+    <ds:description>MUNICIPAL</ds:description>
+    <ds:telephone>860-395-3142</ds:telephone>
+    <ds:location><geo:SpatialThing>
+        <geo:lat>41.290999999999997</geo:lat>
+        <geo:long>-72.377357000000003</geo:long></geo:SpatialThing></ds:location>
+    <ds:address>225 MAIN STREET</ds:address>
+    <ds:city>OLD SAYBROOK</ds:city>
+    <ds:state>CT</ds:state>
+    <ds:zip>6475</ds:zip>
+    <ds:zipp4>2332</ds:zipp4></dsbase:k2zz-z5mw>
+<dsbase:k2zz-z5mw rdf:about="http://data.ct.gov/resource/k2zz-z5mw/132">
+    <socrata:rowID>132</socrata:rowID>
+    <rdfs:member rdf:resource="http://data.ct.gov/resource/k2zz-z5mw"/>
+    <ds:name>ORANGE POLICE DEPARTMENT</ds:name>
+    <ds:description>MUNICIPAL</ds:description>
+    <ds:telephone>203-891-2130</ds:telephone>
+    <ds:location><geo:SpatialThing>
+        <geo:lat>41.263494999999999</geo:lat>
+        <geo:long>-73.008358999999999</geo:long></geo:SpatialThing></ds:location>
+    <ds:address>314 LAMBERT ROAD</ds:address>
+    <ds:city>ORANGE</ds:city>
+    <ds:state>CT</ds:state>
+    <ds:zip>6477</ds:zip>
+    <ds:zipp4>3428</ds:zipp4></dsbase:k2zz-z5mw>
+<dsbase:k2zz-z5mw rdf:about="http://data.ct.gov/resource/k2zz-z5mw/133">
+    <socrata:rowID>133</socrata:rowID>
+    <rdfs:member rdf:resource="http://data.ct.gov/resource/k2zz-z5mw"/>
+    <ds:name>OXFORD POLICE DEPARTMENT</ds:name>
+    <ds:description>MUNICIPAL</ds:description>
+    <ds:telephone>203-888-4353</ds:telephone>
+    <ds:location><geo:SpatialThing>
+        <geo:lat>41.434125999999999</geo:lat>
+        <geo:long>-73.116868999999994</geo:long></geo:SpatialThing></ds:location>
+    <ds:address>429 OXFORD ROAD</ds:address>
+    <ds:city>OXFORD</ds:city>
+    <ds:state>CT</ds:state>
+    <ds:zip>6478</ds:zip>
+    <ds:zipp4>1231</ds:zipp4></dsbase:k2zz-z5mw>
+<dsbase:k2zz-z5mw rdf:about="http://data.ct.gov/resource/k2zz-z5mw/134">
+    <socrata:rowID>134</socrata:rowID>
+    <rdfs:member rdf:resource="http://data.ct.gov/resource/k2zz-z5mw"/>
+    <ds:name>PLAINFIELD POLICE DEPARTMENT </ds:name>
+    <ds:description>MUNICIPAL</ds:description>
+    <ds:telephone>860-564-0804</ds:telephone>
+    <ds:location><geo:SpatialThing>
+        <geo:lat>41.705261999999998</geo:lat>
+        <geo:long>-71.904661000000004</geo:long></geo:SpatialThing></ds:location>
+    <ds:address>210 NORWICH ROAD</ds:address>
+    <ds:city>PLAINFIELD</ds:city>
+    <ds:state>CT</ds:state>
+    <ds:zip>6374</ds:zip>
+    <ds:zipp4>1622</ds:zipp4></dsbase:k2zz-z5mw>
+<dsbase:k2zz-z5mw rdf:about="http://data.ct.gov/resource/k2zz-z5mw/135">
+    <socrata:rowID>135</socrata:rowID>
+    <rdfs:member rdf:resource="http://data.ct.gov/resource/k2zz-z5mw"/>
+    <ds:name>PLAINVILLE POLICE DEPARTMENT</ds:name>
+    <ds:description>MUNICIPAL</ds:description>
+    <ds:telephone>860-747-1616</ds:telephone>
+    <ds:location><geo:SpatialThing>
+        <geo:lat>41.672919</geo:lat>
+        <geo:long>-72.865920000000003</geo:long></geo:SpatialThing></ds:location>
+    <ds:address>19 NEAL COURT</ds:address>
+    <ds:city>PLAINVILLE</ds:city>
+    <ds:state>CT</ds:state>
+    <ds:zip>6062</ds:zip>
+    <ds:zipp4>1603</ds:zipp4></dsbase:k2zz-z5mw>
+<dsbase:k2zz-z5mw rdf:about="http://data.ct.gov/resource/k2zz-z5mw/136">
+    <socrata:rowID>136</socrata:rowID>
+    <rdfs:member rdf:resource="http://data.ct.gov/resource/k2zz-z5mw"/>
+    <ds:name>PLYMOUTH POLICE DEPARTMENT</ds:name>
+    <ds:description>MUNICIPAL</ds:description>
+    <ds:telephone>860-582-1444</ds:telephone>
+    <ds:location><geo:SpatialThing>
+        <geo:lat>41.679819999999999</geo:lat>
+        <geo:long>-72.998861000000005</geo:long></geo:SpatialThing></ds:location>
+    <ds:address>80 MAIN STREET</ds:address>
+    <ds:city>TERRYVILLE</ds:city>
+    <ds:state>CT</ds:state>
+    <ds:zip>6786</ds:zip>
+    <ds:zipp4>5107</ds:zipp4></dsbase:k2zz-z5mw>
+<dsbase:k2zz-z5mw rdf:about="http://data.ct.gov/resource/k2zz-z5mw/137">
+    <socrata:rowID>137</socrata:rowID>
+    <rdfs:member rdf:resource="http://data.ct.gov/resource/k2zz-z5mw"/>
+    <ds:name>PORTLAND POLICE DEPARTMENT</ds:name>
+    <ds:description>MUNICIPAL</ds:description>
+    <ds:telephone>860-342-6780</ds:telephone>
+    <ds:location><geo:SpatialThing>
+        <geo:lat>41.575271000000001</geo:lat>
+        <geo:long>-72.638557000000006</geo:long></geo:SpatialThing></ds:location>
+    <ds:address>265 MAIN STREET</ds:address>
+    <ds:city>PORTLAND</ds:city>
+    <ds:state>CT</ds:state>
+    <ds:zip>6480</ds:zip>
+    <ds:zipp4>1857</ds:zipp4></dsbase:k2zz-z5mw>
+<dsbase:k2zz-z5mw rdf:about="http://data.ct.gov/resource/k2zz-z5mw/138">
+    <socrata:rowID>138</socrata:rowID>
+    <rdfs:member rdf:resource="http://data.ct.gov/resource/k2zz-z5mw"/>
+    <ds:name>PROSPECT POLICE DEPARTMENT</ds:name>
+    <ds:description>MUNICIPAL</ds:description>
+    <ds:telephone>203-758-6150</ds:telephone>
+    <ds:location><geo:SpatialThing>
+        <geo:lat>41.499796000000003</geo:lat>
+        <geo:long>-72.977096000000003</geo:long></geo:SpatialThing></ds:location>
+    <ds:address>8 CENTER STREET</ds:address>
+    <ds:city>PROSPECT</ds:city>
+    <ds:state>CT</ds:state>
+    <ds:zip>6712</ds:zip>
+    <ds:zipp4>1605</ds:zipp4></dsbase:k2zz-z5mw>
+<dsbase:k2zz-z5mw rdf:about="http://data.ct.gov/resource/k2zz-z5mw/139">
+    <socrata:rowID>139</socrata:rowID>
+    <rdfs:member rdf:resource="http://data.ct.gov/resource/k2zz-z5mw"/>
+    <ds:name>PUTNAM POLICE DEPARTMENT</ds:name>
+    <ds:description>MUNICIPAL</ds:description>
+    <ds:telephone>860-928-6565</ds:telephone>
+    <ds:location><geo:SpatialThing>
+        <geo:lat>41.920890999999997</geo:lat>
+        <geo:long>-71.909996000000007</geo:long></geo:SpatialThing></ds:location>
+    <ds:address>189 CHURCH STREET</ds:address>
+    <ds:city>PUTNAM</ds:city>
+    <ds:state>CT</ds:state>
+    <ds:zip>6260</ds:zip>
+    <ds:zipp4>1537</ds:zipp4></dsbase:k2zz-z5mw>
+<dsbase:k2zz-z5mw rdf:about="http://data.ct.gov/resource/k2zz-z5mw/140">
+    <socrata:rowID>140</socrata:rowID>
+    <rdfs:member rdf:resource="http://data.ct.gov/resource/k2zz-z5mw"/>
+    <ds:name>REDDING POLICE DEPARTMENT</ds:name>
+    <ds:description>MUNICIPAL</ds:description>
+    <ds:telephone>203-938-2564</ds:telephone>
+    <ds:location><geo:SpatialThing>
+        <geo:lat>41.304113999999998</geo:lat>
+        <geo:long>-73.382283000000001</geo:long></geo:SpatialThing></ds:location>
+    <ds:address>96 HILL ROAD</ds:address>
+    <ds:city>REDDING</ds:city>
+    <ds:state>CT</ds:state>
+    <ds:zip>6896</ds:zip>
+    <ds:zipp4>2007</ds:zipp4></dsbase:k2zz-z5mw>
+<dsbase:k2zz-z5mw rdf:about="http://data.ct.gov/resource/k2zz-z5mw/141">
+    <socrata:rowID>141</socrata:rowID>
+    <rdfs:member rdf:resource="http://data.ct.gov/resource/k2zz-z5mw"/>
+    <ds:name>RIDGEFIELD POLICE DEPARTMENT</ds:name>
+    <ds:description>MUNICIPAL</ds:description>
+    <ds:telephone>203-438-6531</ds:telephone>
+    <ds:location><geo:SpatialThing>
+        <geo:lat>41.281562000000001</geo:lat>
+        <geo:long>-73.493063000000006</geo:long></geo:SpatialThing></ds:location>
+    <ds:address>76 EAST RIDGE ROAD</ds:address>
+    <ds:city>RIDGEFIELD</ds:city>
+    <ds:state>CT</ds:state>
+    <ds:zip>6877</ds:zip>
+    <ds:zipp4>5022</ds:zipp4></dsbase:k2zz-z5mw>
+<dsbase:k2zz-z5mw rdf:about="http://data.ct.gov/resource/k2zz-z5mw/142">
+    <socrata:rowID>142</socrata:rowID>
+    <rdfs:member rdf:resource="http://data.ct.gov/resource/k2zz-z5mw"/>
+    <ds:name>ROCKY HILL POLICE DEPARTMENT</ds:name>
+    <ds:description>MUNICIPAL</ds:description>
+    <ds:telephone>860-258-7640</ds:telephone>
+    <ds:location><geo:SpatialThing>
+        <geo:lat>41.668202000000001</geo:lat>
+        <geo:long>-72.637620999999996</geo:long></geo:SpatialThing></ds:location>
+    <ds:address>699 OLD MAIN STREET</ds:address>
+    <ds:city>ROCKY HILL</ds:city>
+    <ds:state>CT</ds:state>
+    <ds:zip>6067</ds:zip>
+    <ds:zipp4>1517</ds:zipp4></dsbase:k2zz-z5mw>
+<dsbase:k2zz-z5mw rdf:about="http://data.ct.gov/resource/k2zz-z5mw/143">
+    <socrata:rowID>143</socrata:rowID>
+    <rdfs:member rdf:resource="http://data.ct.gov/resource/k2zz-z5mw"/>
+    <ds:name>SALEM POLICE DEPARTMENT</ds:name>
+    <ds:description>MUNICIPAL</ds:description>
+    <ds:telephone>860-859-2507</ds:telephone>
+    <ds:location><geo:SpatialThing>
+        <geo:lat>41.492778000000001</geo:lat>
+        <geo:long>-72.276662999999999</geo:long></geo:SpatialThing></ds:location>
+    <ds:address>270 HARTFORD ROAD</ds:address>
+    <ds:city>SALEM</ds:city>
+    <ds:state>CT</ds:state>
+    <ds:zip>6420</ds:zip>
+    <ds:zipp4>3804</ds:zipp4></dsbase:k2zz-z5mw>
+<dsbase:k2zz-z5mw rdf:about="http://data.ct.gov/resource/k2zz-z5mw/144">
+    <socrata:rowID>144</socrata:rowID>
+    <rdfs:member rdf:resource="http://data.ct.gov/resource/k2zz-z5mw"/>
+    <ds:name>SEYMOUR POLICE DEPARTMENT</ds:name>
+    <ds:description>MUNICIPAL</ds:description>
+    <ds:telephone>203-881-7600</ds:telephone>
+    <ds:location><geo:SpatialThing>
+        <geo:lat>41.397413</geo:lat>
+        <geo:long>-73.075452999999996</geo:long></geo:SpatialThing></ds:location>
+    <ds:address>11 FRANKLIN STREET</ds:address>
+    <ds:city>SEYMOUR</ds:city>
+    <ds:state>CT</ds:state>
+    <ds:zip>6483</ds:zip>
+    <ds:zipp4>2809</ds:zipp4></dsbase:k2zz-z5mw>
+<dsbase:k2zz-z5mw rdf:about="http://data.ct.gov/resource/k2zz-z5mw/145">
+    <socrata:rowID>145</socrata:rowID>
+    <rdfs:member rdf:resource="http://data.ct.gov/resource/k2zz-z5mw"/>
+    <ds:name>SHELTON POLICE DEPARTMENT</ds:name>
+    <ds:description>MUNICIPAL</ds:description>
+    <ds:telephone>203-924-1544</ds:telephone>
+    <ds:location><geo:SpatialThing>
+        <geo:lat>41.319909000000003</geo:lat>
+        <geo:long>-73.114211999999995</geo:long></geo:SpatialThing></ds:location>
+    <ds:address>85 WHEELER STREET</ds:address>
+    <ds:city>SHELTON</ds:city>
+    <ds:state>CT</ds:state>
+    <ds:zip>6484</ds:zip>
+    <ds:zipp4>2221</ds:zipp4></dsbase:k2zz-z5mw>
+<dsbase:k2zz-z5mw rdf:about="http://data.ct.gov/resource/k2zz-z5mw/146">
+    <socrata:rowID>146</socrata:rowID>
+    <rdfs:member rdf:resource="http://data.ct.gov/resource/k2zz-z5mw"/>
+    <ds:name>SIMSBURY POLICE DEPARTMENT</ds:name>
+    <ds:description>MUNICIPAL</ds:description>
+    <ds:telephone>860-658-3100</ds:telephone>
+    <ds:location><geo:SpatialThing>
+        <geo:lat>41.880668</geo:lat>
+        <geo:long>-72.802036000000001</geo:long></geo:SpatialThing></ds:location>
+    <ds:address>933 HOPMEADOW STREET</ds:address>
+    <ds:city>SIMSBURY</ds:city>
+    <ds:state>CT</ds:state>
+    <ds:zip>6070</ds:zip>
+    <ds:zipp4>1822</ds:zipp4></dsbase:k2zz-z5mw>
+<dsbase:k2zz-z5mw rdf:about="http://data.ct.gov/resource/k2zz-z5mw/147">
+    <socrata:rowID>147</socrata:rowID>
+    <rdfs:member rdf:resource="http://data.ct.gov/resource/k2zz-z5mw"/>
+    <ds:name>SOUTH WINDSOR POLICE DEPARTMENT</ds:name>
+    <ds:description>MUNICIPAL</ds:description>
+    <ds:telephone>860-644-2551</ds:telephone>
+    <ds:location><geo:SpatialThing>
+        <geo:lat>41.836201000000003</geo:lat>
+        <geo:long>-72.552036000000001</geo:long></geo:SpatialThing></ds:location>
+    <ds:address>151 SAND HILL ROAD</ds:address>
+    <ds:city>SOUTH WINDSOR</ds:city>
+    <ds:state>CT</ds:state>
+    <ds:zip>6074</ds:zip>
+    <ds:zipp4>2026</ds:zipp4></dsbase:k2zz-z5mw>
+<dsbase:k2zz-z5mw rdf:about="http://data.ct.gov/resource/k2zz-z5mw/148">
+    <socrata:rowID>148</socrata:rowID>
+    <rdfs:member rdf:resource="http://data.ct.gov/resource/k2zz-z5mw"/>
+    <ds:name>SOUTHBURY POLICE DEPARTMENT</ds:name>
+    <ds:description>MUNICIPAL</ds:description>
+    <ds:telephone>203-264-5912</ds:telephone>
+    <ds:location><geo:SpatialThing>
+        <geo:lat>41.470396000000001</geo:lat>
+        <geo:long>-73.223618999999999</geo:long></geo:SpatialThing></ds:location>
+    <ds:address>421 MAIN STREET SOUTH</ds:address>
+    <ds:city>SOUTHBURY</ds:city>
+    <ds:state>CT</ds:state>
+    <ds:zip>6488</ds:zip>
+    <ds:zipp4>2210</ds:zipp4></dsbase:k2zz-z5mw>
+<dsbase:k2zz-z5mw rdf:about="http://data.ct.gov/resource/k2zz-z5mw/149">
+    <socrata:rowID>149</socrata:rowID>
+    <rdfs:member rdf:resource="http://data.ct.gov/resource/k2zz-z5mw"/>
+    <ds:name>SOUTHERN CONNECTICUT STATE UNIVERSITY POLICE DEPARTMENT</ds:name>
+    <ds:description>COLLEGE OR UNIVERSITY</ds:description>
+    <ds:telephone>203-392-5375</ds:telephone>
+    <ds:location><geo:SpatialThing>
+        <geo:lat>41.333803000000003</geo:lat>
+        <geo:long>-72.952036000000007</geo:long></geo:SpatialThing></ds:location>
+    <ds:address>10 WINTERGREEN AVENUE</ds:address>
+    <ds:city>NEW HAVEN</ds:city>
+    <ds:state>CT</ds:state>
+    <ds:zip>6515</ds:zip>
+    <ds:zipp4>1048</ds:zipp4></dsbase:k2zz-z5mw>
+<dsbase:k2zz-z5mw rdf:about="http://data.ct.gov/resource/k2zz-z5mw/150">
+    <socrata:rowID>150</socrata:rowID>
+    <rdfs:member rdf:resource="http://data.ct.gov/resource/k2zz-z5mw"/>
+    <ds:name>SOUTHINGTON POLICE DEPARTMENT</ds:name>
+    <ds:description>MUNICIPAL</ds:description>
+    <ds:telephone>860-378-1600</ds:telephone>
+    <ds:location><geo:SpatialThing>
+        <geo:lat>41.622442999999997</geo:lat>
+        <geo:long>-72.876051000000004</geo:long></geo:SpatialThing></ds:location>
+    <ds:address>69 LAZY LANE</ds:address>
+    <ds:city>SOUTHINGTON</ds:city>
+    <ds:state>CT</ds:state>
+    <ds:zip>6489</ds:zip>
+    <ds:zipp4>1763</ds:zipp4></dsbase:k2zz-z5mw>
+<dsbase:k2zz-z5mw rdf:about="http://data.ct.gov/resource/k2zz-z5mw/151">
+    <socrata:rowID>151</socrata:rowID>
+    <rdfs:member rdf:resource="http://data.ct.gov/resource/k2zz-z5mw"/>
+    <ds:name>SPRAGUE POLICE DEPARTMENT</ds:name>
+    <ds:description>MUNICIPAL</ds:description>
+    <ds:telephone>860-822-6156</ds:telephone>
+    <ds:location><geo:SpatialThing>
+        <geo:lat>41.616309999999999</geo:lat>
+        <geo:long>-72.084394000000003</geo:long></geo:SpatialThing></ds:location>
+    <ds:address>1 MAIN STREET</ds:address>
+    <ds:city>BALTIC</ds:city>
+    <ds:state>CT</ds:state>
+    <ds:zip>6330</ds:zip>
+    <ds:zipp4>1320</ds:zipp4></dsbase:k2zz-z5mw>
+<dsbase:k2zz-z5mw rdf:about="http://data.ct.gov/resource/k2zz-z5mw/152">
+    <socrata:rowID>152</socrata:rowID>
+    <rdfs:member rdf:resource="http://data.ct.gov/resource/k2zz-z5mw"/>
+    <ds:name>STAMFORD POLICE DEPARTMENT</ds:name>
+    <ds:description>MUNICIPAL</ds:description>
+    <ds:telephone>203-977-4681</ds:telephone>
+    <ds:location><geo:SpatialThing>
+        <geo:lat>41.060152000000002</geo:lat>
+        <geo:long>-73.536578000000006</geo:long></geo:SpatialThing></ds:location>
+    <ds:address>805 BEDFORD STREET</ds:address>
+    <ds:city>STAMFORD</ds:city>
+    <ds:state>CT</ds:state>
+    <ds:zip>6901</ds:zip>
+    <ds:zipp4>1103</ds:zipp4></dsbase:k2zz-z5mw>
+<dsbase:k2zz-z5mw rdf:about="http://data.ct.gov/resource/k2zz-z5mw/153">
+    <socrata:rowID>153</socrata:rowID>
+    <rdfs:member rdf:resource="http://data.ct.gov/resource/k2zz-z5mw"/>
+    <ds:name>STONINGTON POLICE DEPARTMENT</ds:name>
+    <ds:description>MUNICIPAL</ds:description>
+    <ds:telephone>860-599-4411</ds:telephone>
+    <ds:location><geo:SpatialThing>
+        <geo:lat>41.367491999999999</geo:lat>
+        <geo:long>-71.861750999999998</geo:long></geo:SpatialThing></ds:location>
+    <ds:address>173 SOUTH BROAD STREET</ds:address>
+    <ds:city>PAWCATUCK</ds:city>
+    <ds:state>CT</ds:state>
+    <ds:zip>6379</ds:zip>
+    <ds:zipp4>1995</ds:zipp4></dsbase:k2zz-z5mw>
+<dsbase:k2zz-z5mw rdf:about="http://data.ct.gov/resource/k2zz-z5mw/154">
+    <socrata:rowID>154</socrata:rowID>
+    <rdfs:member rdf:resource="http://data.ct.gov/resource/k2zz-z5mw"/>
+    <ds:name>STRATFORD POLICE DEPARTMENT</ds:name>
+    <ds:description>MUNICIPAL</ds:description>
+    <ds:telephone>203-385-4100</ds:telephone>
+    <ds:location><geo:SpatialThing>
+        <geo:lat>41.201712000000001</geo:lat>
+        <geo:long>-73.128916000000004</geo:long></geo:SpatialThing></ds:location>
+    <ds:address>900 LONGBROOK AVENUE</ds:address>
+    <ds:city>STRATFORD</ds:city>
+    <ds:state>CT</ds:state>
+    <ds:zip>6614</ds:zip>
+    <ds:zipp4>5007</ds:zipp4></dsbase:k2zz-z5mw>
+<dsbase:k2zz-z5mw rdf:about="http://data.ct.gov/resource/k2zz-z5mw/155">
+    <socrata:rowID>155</socrata:rowID>
+    <rdfs:member rdf:resource="http://data.ct.gov/resource/k2zz-z5mw"/>
+    <ds:name>SUFFIELD POLICE DEPARTMENT</ds:name>
+    <ds:description>MUNICIPAL</ds:description>
+    <ds:telephone>860-668-3870</ds:telephone>
+    <ds:location><geo:SpatialThing>
+        <geo:lat>41.984589999999997</geo:lat>
+        <geo:long>-72.685280000000006</geo:long></geo:SpatialThing></ds:location>
+    <ds:address>911 MOUNTAIN ROAD</ds:address>
+    <ds:city>SUFFIELD</ds:city>
+    <ds:state>CT</ds:state>
+    <ds:zip>6078</ds:zip>
+    <ds:zipp4>3074</ds:zipp4></dsbase:k2zz-z5mw>
+<dsbase:k2zz-z5mw rdf:about="http://data.ct.gov/resource/k2zz-z5mw/156">
+    <socrata:rowID>156</socrata:rowID>
+    <rdfs:member rdf:resource="http://data.ct.gov/resource/k2zz-z5mw"/>
+    <ds:name>SUPREME COURT POLICE DEPARTMENT</ds:name>
+    <ds:description>OTHER</ds:description>
+    <ds:telephone>860-757-2299</ds:telephone>
+    <ds:location><geo:SpatialThing>
+        <geo:lat>41.762405000000001</geo:lat>
+        <geo:long>-72.68365</geo:long></geo:SpatialThing></ds:location>
+    <ds:address>231 CAPITOL AVENUE</ds:address>
+    <ds:city>HARTFORD</ds:city>
+    <ds:state>CT</ds:state>
+    <ds:zip>6106</ds:zip>
+    <ds:zipp4>1548</ds:zipp4></dsbase:k2zz-z5mw>
+<dsbase:k2zz-z5mw rdf:about="http://data.ct.gov/resource/k2zz-z5mw/157">
+    <socrata:rowID>157</socrata:rowID>
+    <rdfs:member rdf:resource="http://data.ct.gov/resource/k2zz-z5mw"/>
+    <ds:name>THOMASTON POLICE DEPARTMENT</ds:name>
+    <ds:description>MUNICIPAL</ds:description>
+    <ds:telephone>860-283-4343</ds:telephone>
+    <ds:location><geo:SpatialThing>
+        <geo:lat>41.672887000000003</geo:lat>
+        <geo:long>-73.075370000000007</geo:long></geo:SpatialThing></ds:location>
+    <ds:address>158 MAIN STREET</ds:address>
+    <ds:city>THOMASTON</ds:city>
+    <ds:state>CT</ds:state>
+    <ds:zip>6787</ds:zip>
+    <ds:zipp4>1744</ds:zipp4></dsbase:k2zz-z5mw>
+<dsbase:k2zz-z5mw rdf:about="http://data.ct.gov/resource/k2zz-z5mw/158">
+    <socrata:rowID>158</socrata:rowID>
+    <rdfs:member rdf:resource="http://data.ct.gov/resource/k2zz-z5mw"/>
+    <ds:name>TORRINGTON POLICE DEPARTMENT</ds:name>
+    <ds:description>MUNICIPAL</ds:description>
+    <ds:telephone>860-489-2000</ds:telephone>
+    <ds:location><geo:SpatialThing>
+        <geo:lat>41.812229000000002</geo:lat>
+        <geo:long>-73.120555999999993</geo:long></geo:SpatialThing></ds:location>
+    <ds:address>576 MAIN STREET</ds:address>
+    <ds:city>TORRINGTON</ds:city>
+    <ds:state>CT</ds:state>
+    <ds:zip>6790</ds:zip>
+    <ds:zipp4>3710</ds:zipp4></dsbase:k2zz-z5mw>
+<dsbase:k2zz-z5mw rdf:about="http://data.ct.gov/resource/k2zz-z5mw/159">
+    <socrata:rowID>159</socrata:rowID>
+    <rdfs:member rdf:resource="http://data.ct.gov/resource/k2zz-z5mw"/>
+    <ds:name>TRUMBULL POLICE DEPARTMENT</ds:name>
+    <ds:description>MUNICIPAL</ds:description>
+    <ds:telephone>203-261-3665</ds:telephone>
+    <ds:location><geo:SpatialThing>
+        <geo:lat>41.234485999999997</geo:lat>
+        <geo:long>-73.218575000000001</geo:long></geo:SpatialThing></ds:location>
+    <ds:address>158 EDISON ROAD</ds:address>
+    <ds:city>TRUMBULL</ds:city>
+    <ds:state>CT</ds:state>
+    <ds:zip>6611</ds:zip>
+    <ds:zipp4>4139</ds:zipp4></dsbase:k2zz-z5mw>
+<dsbase:k2zz-z5mw rdf:about="http://data.ct.gov/resource/k2zz-z5mw/160">
+    <socrata:rowID>160</socrata:rowID>
+    <rdfs:member rdf:resource="http://data.ct.gov/resource/k2zz-z5mw"/>
+    <ds:name>UNIVERSITY OF CONNECTICUT - HEALTH CENTER POLICE</ds:name>
+    <ds:description>COLLEGE OR UNIVERSITY</ds:description>
+    <ds:telephone>860-679-2121</ds:telephone>
+    <ds:location><geo:SpatialThing>
+        <geo:lat>41.731095000000003</geo:lat>
+        <geo:long>-72.791577000000004</geo:long></geo:SpatialThing></ds:location>
+    <ds:address>263 FARMINGTON AVENUE</ds:address>
+    <ds:city>FARMINGTON</ds:city>
+    <ds:state>CT</ds:state>
+    <ds:zip>6032</ds:zip>
+    <ds:zipp4>1956</ds:zipp4></dsbase:k2zz-z5mw>
+<dsbase:k2zz-z5mw rdf:about="http://data.ct.gov/resource/k2zz-z5mw/161">
+    <socrata:rowID>161</socrata:rowID>
+    <rdfs:member rdf:resource="http://data.ct.gov/resource/k2zz-z5mw"/>
+    <ds:name>UNIVERSITY OF CONNECTICUT - STAMFORD CAMPUS POLICE SUB-STATION</ds:name>
+    <ds:description>COLLEGE OR UNIVERSITY</ds:description>
+    <ds:telephone>203-251-9508</ds:telephone>
+    <ds:location><geo:SpatialThing>
+        <geo:lat>41.056069000000001</geo:lat>
+        <geo:long>-73.542303000000004</geo:long></geo:SpatialThing></ds:location>
+    <ds:address>16 BROAD STREET</ds:address>
+    <ds:city>STAMFORD</ds:city>
+    <ds:state>CT</ds:state>
+    <ds:zip>6901</ds:zip>
+    <ds:zipp4>2308</ds:zipp4></dsbase:k2zz-z5mw>
+<dsbase:k2zz-z5mw rdf:about="http://data.ct.gov/resource/k2zz-z5mw/162">
+    <socrata:rowID>162</socrata:rowID>
+    <rdfs:member rdf:resource="http://data.ct.gov/resource/k2zz-z5mw"/>
+    <ds:name>UNIVERSITY OF CONNECTICUT-STORRS POLICE HEADQUARTERS</ds:name>
+    <ds:description>COLLEGE OR UNIVERSITY</ds:description>
+    <ds:telephone>860-486-4800</ds:telephone>
+    <ds:location><geo:SpatialThing>
+        <geo:lat>41.809741000000002</geo:lat>
+        <geo:long>-72.260600999999994</geo:long></geo:SpatialThing></ds:location>
+    <ds:address>126 NORTH EAGLEVILLE ROAD</ds:address>
+    <ds:city>STORRS</ds:city>
+    <ds:state>CT</ds:state>
+    <ds:zip>6269</ds:zip>
+    <ds:zipp4>9011</ds:zipp4></dsbase:k2zz-z5mw>
+<dsbase:k2zz-z5mw rdf:about="http://data.ct.gov/resource/k2zz-z5mw/163">
+    <socrata:rowID>163</socrata:rowID>
+    <rdfs:member rdf:resource="http://data.ct.gov/resource/k2zz-z5mw"/>
+    <ds:name>UNIVERSITY OF NEW HAVEN POLICE</ds:name>
+    <ds:description>COLLEGE OR UNIVERSITY</ds:description>
+    <ds:telephone>203-932-7014</ds:telephone>
+    <ds:location><geo:SpatialThing>
+        <geo:lat>41.291710999999999</geo:lat>
+        <geo:long>-72.960689000000002</geo:long></geo:SpatialThing></ds:location>
+    <ds:address>300 BOSTON POST ROAD</ds:address>
+    <ds:city>WEST HAVEN</ds:city>
+    <ds:state>CT</ds:state>
+    <ds:zip>6516</ds:zip></dsbase:k2zz-z5mw>
+<dsbase:k2zz-z5mw rdf:about="http://data.ct.gov/resource/k2zz-z5mw/164">
+    <socrata:rowID>164</socrata:rowID>
+    <rdfs:member rdf:resource="http://data.ct.gov/resource/k2zz-z5mw"/>
+    <ds:name>VERNON POLICE DEPARTMENT</ds:name>
+    <ds:description>MUNICIPAL</ds:description>
+    <ds:telephone>860-872-9126</ds:telephone>
+    <ds:location><geo:SpatialThing>
+        <geo:lat>41.839573999999999</geo:lat>
+        <geo:long>-72.465237000000002</geo:long></geo:SpatialThing></ds:location>
+    <ds:address>725 HARTFORD TURNPIKE</ds:address>
+    <ds:city>VERNON</ds:city>
+    <ds:state>CT</ds:state>
+    <ds:zip>6066</ds:zip>
+    <ds:zipp4>5115</ds:zipp4></dsbase:k2zz-z5mw>
+<dsbase:k2zz-z5mw rdf:about="http://data.ct.gov/resource/k2zz-z5mw/165">
+    <socrata:rowID>165</socrata:rowID>
+    <rdfs:member rdf:resource="http://data.ct.gov/resource/k2zz-z5mw"/>
+    <ds:name>WALLINGFORD POLICE DEPARTMENT</ds:name>
+    <ds:description>MUNICIPAL</ds:description>
+    <ds:telephone>203-294-2800</ds:telephone>
+    <ds:location><geo:SpatialThing>
+        <geo:lat>41.455756000000001</geo:lat>
+        <geo:long>-72.816613000000004</geo:long></geo:SpatialThing></ds:location>
+    <ds:address>135 NORTH MAIN STREET</ds:address>
+    <ds:city>WALLINGFORD</ds:city>
+    <ds:state>CT</ds:state>
+    <ds:zip>6492</ds:zip>
+    <ds:zipp4>3709</ds:zipp4></dsbase:k2zz-z5mw>
+<dsbase:k2zz-z5mw rdf:about="http://data.ct.gov/resource/k2zz-z5mw/166">
+    <socrata:rowID>166</socrata:rowID>
+    <rdfs:member rdf:resource="http://data.ct.gov/resource/k2zz-z5mw"/>
+    <ds:name>WATERBURY CAMPUS POLICE SUB-STATION</ds:name>
+    <ds:description>COLLEGE OR UNIVERSITY</ds:description>
+    <ds:telephone>203-236-9950</ds:telephone>
+    <ds:location><geo:SpatialThing>
+        <geo:lat>41.555719000000003</geo:lat>
+        <geo:long>-73.039471000000006</geo:long></geo:SpatialThing></ds:location>
+    <ds:address>99 EAST MAIN STREET</ds:address>
+    <ds:city>WATERBURY</ds:city>
+    <ds:state>CT</ds:state>
+    <ds:zip>6702</ds:zip>
+    <ds:zipp4>2311</ds:zipp4></dsbase:k2zz-z5mw>
+<dsbase:k2zz-z5mw rdf:about="http://data.ct.gov/resource/k2zz-z5mw/173">
+    <socrata:rowID>173</socrata:rowID>
+    <rdfs:member rdf:resource="http://data.ct.gov/resource/k2zz-z5mw"/>
+    <ds:name>WESTERN CONNECTICUT STATE COLLEGE POLICE</ds:name>
+    <ds:description>COLLEGE OR UNIVERSITY</ds:description>
+    <ds:telephone>203-837-9300</ds:telephone>
+    <ds:location><geo:SpatialThing>
+        <geo:lat>41.400230999999998</geo:lat>
+        <geo:long>-73.443915000000004</geo:long></geo:SpatialThing></ds:location>
+    <ds:address>181 WHITE STREET</ds:address>
+    <ds:city>DANBURY</ds:city>
+    <ds:state>CT</ds:state>
+    <ds:zip>6810</ds:zip>
+    <ds:zipp4>6826</ds:zipp4></dsbase:k2zz-z5mw>
+<dsbase:k2zz-z5mw rdf:about="http://data.ct.gov/resource/k2zz-z5mw/174">
+    <socrata:rowID>174</socrata:rowID>
+    <rdfs:member rdf:resource="http://data.ct.gov/resource/k2zz-z5mw"/>
+    <ds:name>WESTON POLICE DEPARTMENT</ds:name>
+    <ds:description>MUNICIPAL</ds:description>
+    <ds:telephone>203-222-2629</ds:telephone>
+    <ds:location><geo:SpatialThing>
+        <geo:lat>41.202100000000002</geo:lat>
+        <geo:long>-73.379444000000007</geo:long></geo:SpatialThing></ds:location>
+    <ds:address>56 NORFIELD ROAD</ds:address>
+    <ds:city>WESTON</ds:city>
+    <ds:state>CT</ds:state>
+    <ds:zip>6883</ds:zip>
+    <ds:zipp4>2225</ds:zipp4></dsbase:k2zz-z5mw>
+<dsbase:k2zz-z5mw rdf:about="http://data.ct.gov/resource/k2zz-z5mw/175">
+    <socrata:rowID>175</socrata:rowID>
+    <rdfs:member rdf:resource="http://data.ct.gov/resource/k2zz-z5mw"/>
+    <ds:name>WESTPORT POLICE DEPARTMENT</ds:name>
+    <ds:description>MUNICIPAL</ds:description>
+    <ds:telephone>203-341-6000</ds:telephone>
+    <ds:location><geo:SpatialThing>
+        <geo:lat>41.140009999999997</geo:lat>
+        <geo:long>-73.360145000000003</geo:long></geo:SpatialThing></ds:location>
+    <ds:address>50 JESUP ROAD</ds:address>
+    <ds:city>WESTPORT</ds:city>
+    <ds:state>CT</ds:state>
+    <ds:zip>6880</ds:zip>
+    <ds:zipp4>4309</ds:zipp4></dsbase:k2zz-z5mw>
+<dsbase:k2zz-z5mw rdf:about="http://data.ct.gov/resource/k2zz-z5mw/176">
+    <socrata:rowID>176</socrata:rowID>
+    <rdfs:member rdf:resource="http://data.ct.gov/resource/k2zz-z5mw"/>
+    <ds:name>WETHERSFIELD POLICE DEPARTMENT</ds:name>
+    <ds:description>MUNICIPAL</ds:description>
+    <ds:telephone>860-721-2900</ds:telephone>
+    <ds:location><geo:SpatialThing>
+        <geo:lat>41.720345000000002</geo:lat>
+        <geo:long>-72.666543000000004</geo:long></geo:SpatialThing></ds:location>
+    <ds:address>250 SILAS DEANE HIGHWAY</ds:address>
+    <ds:city>WETHERSFIELD</ds:city>
+    <ds:state>CT</ds:state>
+    <ds:zip>6109</ds:zip>
+    <ds:zipp4>1702</ds:zipp4></dsbase:k2zz-z5mw>
+<dsbase:k2zz-z5mw rdf:about="http://data.ct.gov/resource/k2zz-z5mw/177">
+    <socrata:rowID>177</socrata:rowID>
+    <rdfs:member rdf:resource="http://data.ct.gov/resource/k2zz-z5mw"/>
+    <ds:name>WILLIMANTIC POLICE DEPARTMENT</ds:name>
+    <ds:description>MUNICIPAL</ds:description>
+    <ds:telephone>860-465-3135</ds:telephone>
+    <ds:location><geo:SpatialThing>
+        <geo:lat>41.713258000000003</geo:lat>
+        <geo:long>-72.214769000000004</geo:long></geo:SpatialThing></ds:location>
+    <ds:address>22 MEADOW STREET</ds:address>
+    <ds:city>WILLIMANTIC</ds:city>
+    <ds:state>CT</ds:state>
+    <ds:zip>6226</ds:zip>
+    <ds:zipp4>2507</ds:zipp4></dsbase:k2zz-z5mw>
+<dsbase:k2zz-z5mw rdf:about="http://data.ct.gov/resource/k2zz-z5mw/178">
+    <socrata:rowID>178</socrata:rowID>
+    <rdfs:member rdf:resource="http://data.ct.gov/resource/k2zz-z5mw"/>
+    <ds:name>WILTON POLICE DEPARTMENT</ds:name>
+    <ds:description>MUNICIPAL</ds:description>
+    <ds:telephone>203-834-6260</ds:telephone>
+    <ds:location><geo:SpatialThing>
+        <geo:lat>41.190775000000002</geo:lat>
+        <geo:long>-73.425028999999995</geo:long></geo:SpatialThing></ds:location>
+    <ds:address>240 DANBURY ROAD</ds:address>
+    <ds:city>WILTON</ds:city>
+    <ds:state>CT</ds:state>
+    <ds:zip>6897</ds:zip>
+    <ds:zipp4>4008</ds:zipp4></dsbase:k2zz-z5mw>
+<dsbase:k2zz-z5mw rdf:about="http://data.ct.gov/resource/k2zz-z5mw/179">
+    <socrata:rowID>179</socrata:rowID>
+    <rdfs:member rdf:resource="http://data.ct.gov/resource/k2zz-z5mw"/>
+    <ds:name>WINCHESTER POLICE DEPARTMENT</ds:name>
+    <ds:description>MUNICIPAL</ds:description>
+    <ds:telephone>860-379-2721</ds:telephone>
+    <ds:location><geo:SpatialThing>
+        <geo:lat>41.921523000000001</geo:lat>
+        <geo:long>-73.068960000000004</geo:long></geo:SpatialThing></ds:location>
+    <ds:address>338 MAIN STREET</ds:address>
+    <ds:city>WINSTED</ds:city>
+    <ds:state>CT</ds:state>
+    <ds:zip>6098</ds:zip>
+    <ds:zipp4>1674</ds:zipp4></dsbase:k2zz-z5mw>
+<dsbase:k2zz-z5mw rdf:about="http://data.ct.gov/resource/k2zz-z5mw/180">
+    <socrata:rowID>180</socrata:rowID>
+    <rdfs:member rdf:resource="http://data.ct.gov/resource/k2zz-z5mw"/>
+    <ds:name>WINDHAM HEIGHTS POLICE DEPARTMENT</ds:name>
+    <ds:description>MUNICIPAL</ds:description>
+    <ds:telephone>860-456-7881</ds:telephone>
+    <ds:location><geo:SpatialThing>
+        <geo:lat>41.721898000000003</geo:lat>
+        <geo:long>-72.192914000000002</geo:long></geo:SpatialThing></ds:location>
+    <ds:address>208 SCOTT ROAD</ds:address>
+    <ds:city>WILLIMANTIC</ds:city>
+    <ds:state>CT</ds:state>
+    <ds:zip>6226</ds:zip>
+    <ds:zipp4>1879</ds:zipp4></dsbase:k2zz-z5mw>
+<dsbase:k2zz-z5mw rdf:about="http://data.ct.gov/resource/k2zz-z5mw/181">
+    <socrata:rowID>181</socrata:rowID>
+    <rdfs:member rdf:resource="http://data.ct.gov/resource/k2zz-z5mw"/>
+    <ds:name>WINDSOR LOCKS POLICE DEPARTMENT</ds:name>
+    <ds:description>MUNICIPAL</ds:description>
+    <ds:telephone>860-627-1461</ds:telephone>
+    <ds:location><geo:SpatialThing>
+        <geo:lat>41.927354000000001</geo:lat>
+        <geo:long>-72.647193999999999</geo:long></geo:SpatialThing></ds:location>
+    <ds:address>4 VOLUNTEER DRIVE</ds:address>
+    <ds:city>WINDSOR LOCKS</ds:city>
+    <ds:state>CT</ds:state>
+    <ds:zip>6096</ds:zip>
+    <ds:zipp4>2134</ds:zipp4></dsbase:k2zz-z5mw>
+<dsbase:k2zz-z5mw rdf:about="http://data.ct.gov/resource/k2zz-z5mw/182">
+    <socrata:rowID>182</socrata:rowID>
+    <rdfs:member rdf:resource="http://data.ct.gov/resource/k2zz-z5mw"/>
+    <ds:name>WINDSOR POLICE DEPARTMENT</ds:name>
+    <ds:description>MUNICIPAL</ds:description>
+    <ds:telephone>860-688-5063</ds:telephone>
+    <ds:location><geo:SpatialThing>
+        <geo:lat>41.852361999999999</geo:lat>
+        <geo:long>-72.660448000000002</geo:long></geo:SpatialThing></ds:location>
+    <ds:address>340 BLOOMFIELD AVENUE</ds:address>
+    <ds:city>WINDSOR</ds:city>
+    <ds:state>CT</ds:state>
+    <ds:zip>6095</ds:zip>
+    <ds:zipp4>2709</ds:zipp4></dsbase:k2zz-z5mw>
+<dsbase:k2zz-z5mw rdf:about="http://data.ct.gov/resource/k2zz-z5mw/183">
+    <socrata:rowID>183</socrata:rowID>
+    <rdfs:member rdf:resource="http://data.ct.gov/resource/k2zz-z5mw"/>
+    <ds:name>WOLCOTT POLICE DEPARTMENT</ds:name>
+    <ds:description>MUNICIPAL</ds:description>
+    <ds:telephone>203-879-1414</ds:telephone>
+    <ds:location><geo:SpatialThing>
+        <geo:lat>41.579121999999998</geo:lat>
+        <geo:long>-72.981564000000006</geo:long></geo:SpatialThing></ds:location>
+    <ds:address>225 NICHOLS ROAD</ds:address>
+    <ds:city>WOLCOTT</ds:city>
+    <ds:state>CT</ds:state>
+    <ds:zip>6716</ds:zip>
+    <ds:zipp4>2718</ds:zipp4></dsbase:k2zz-z5mw>
+<dsbase:k2zz-z5mw rdf:about="http://data.ct.gov/resource/k2zz-z5mw/184">
+    <socrata:rowID>184</socrata:rowID>
+    <rdfs:member rdf:resource="http://data.ct.gov/resource/k2zz-z5mw"/>
+    <ds:name>WOODBRIDGE POLICE DEPARTMENT</ds:name>
+    <ds:description>MUNICIPAL</ds:description>
+    <ds:telephone>203-387-2512</ds:telephone>
+    <ds:location><geo:SpatialThing>
+        <geo:lat>41.353395999999996</geo:lat>
+        <geo:long>-73.012686000000002</geo:long></geo:SpatialThing></ds:location>
+    <ds:address>4 MEETINGHOUSE LANE</ds:address>
+    <ds:city>WOODBRIDGE</ds:city>
+    <ds:state>CT</ds:state>
+    <ds:zip>6525</ds:zip>
+    <ds:zipp4>1520</ds:zipp4></dsbase:k2zz-z5mw>
+<dsbase:k2zz-z5mw rdf:about="http://data.ct.gov/resource/k2zz-z5mw/185">
+    <socrata:rowID>185</socrata:rowID>
+    <rdfs:member rdf:resource="http://data.ct.gov/resource/k2zz-z5mw"/>
+    <ds:name>YALE UNIVERSITY POLICE DEPARTMENT</ds:name>
+    <ds:description>COLLEGE OR UNIVERSITY</ds:description>
+    <ds:telephone>203-432-4400</ds:telephone>
+    <ds:location><geo:SpatialThing>
+        <geo:lat>41.315973999999997</geo:lat>
+        <geo:long>-72.928736000000001</geo:long></geo:SpatialThing></ds:location>
+    <ds:address>101 ASHMUN STREET</ds:address>
+    <ds:city>NEW HAVEN</ds:city>
+    <ds:state>CT</ds:state>
+    <ds:zip>6511</ds:zip>
+    <ds:zipp4>3646</ds:zipp4></dsbase:k2zz-z5mw>
+<dsbase:k2zz-z5mw rdf:about="http://data.ct.gov/resource/k2zz-z5mw/171">
+    <socrata:rowID>171</socrata:rowID>
+    <rdfs:member rdf:resource="http://data.ct.gov/resource/k2zz-z5mw"/>
+    <ds:name>WEST HAVEN POLICE DEPARTMENT</ds:name>
+    <ds:description>MUNICIPAL</ds:description>
+    <ds:telephone>203-937-3900</ds:telephone>
+    <ds:location><geo:SpatialThing>
+        <geo:lat>41.273404999999997</geo:lat>
+        <geo:long>-72.964420000000004</geo:long></geo:SpatialThing></ds:location>
+    <ds:address>200 SAW MILL ROAD</ds:address>
+    <ds:city>WEST HAVEN</ds:city>
+    <ds:state>CT</ds:state>
+    <ds:zip>6516</ds:zip>
+    <ds:zipp4>4114</ds:zipp4></dsbase:k2zz-z5mw>
+<dsbase:k2zz-z5mw rdf:about="http://data.ct.gov/resource/k2zz-z5mw/170">
+    <socrata:rowID>170</socrata:rowID>
+    <rdfs:member rdf:resource="http://data.ct.gov/resource/k2zz-z5mw"/>
+    <ds:name>WEST HARTFORD POLICE DEPARTMENT</ds:name>
+    <ds:description>MUNICIPAL</ds:description>
+    <ds:telephone>860-523-5203</ds:telephone>
+    <ds:location><geo:SpatialThing>
+        <geo:lat>41.758932999999999</geo:lat>
+        <geo:long>-72.739464999999996</geo:long></geo:SpatialThing></ds:location>
+    <ds:address>103 RAYMOND ROAD</ds:address>
+    <ds:city>WEST HARTFORD</ds:city>
+    <ds:state>CT</ds:state>
+    <ds:zip>6107</ds:zip>
+    <ds:zipp4>2538</ds:zipp4></dsbase:k2zz-z5mw>
+<dsbase:k2zz-z5mw rdf:about="http://data.ct.gov/resource/k2zz-z5mw/3">
+    <socrata:rowID>3</socrata:rowID>
+    <rdfs:member rdf:resource="http://data.ct.gov/resource/k2zz-z5mw"/>
+    <ds:name>ANSONIA POLICE DEPARTMENT</ds:name>
+    <ds:description>MUNICIPAL</ds:description>
+    <ds:telephone>203-735-1885</ds:telephone>
+    <ds:location><geo:SpatialThing>
+        <geo:lat>41.332985999999998</geo:lat>
+        <geo:long>-73.073282000000006</geo:long></geo:SpatialThing></ds:location>
+    <ds:address>2 ELM STREET</ds:address>
+    <ds:city>ANSONIA</ds:city>
+    <ds:state>CT</ds:state>
+    <ds:zip>6401</ds:zip>
+    <ds:zipp4>3310</ds:zipp4></dsbase:k2zz-z5mw>
+<dsbase:k2zz-z5mw rdf:about="http://data.ct.gov/resource/k2zz-z5mw/169">
+    <socrata:rowID>169</socrata:rowID>
+    <rdfs:member rdf:resource="http://data.ct.gov/resource/k2zz-z5mw"/>
+    <ds:name>WATERTOWN POLICE DEPARTMENT</ds:name>
+    <ds:description>MUNICIPAL</ds:description>
+    <ds:telephone>860-945-5200</ds:telephone>
+    <ds:location><geo:SpatialThing>
+        <geo:lat>41.598475999999998</geo:lat>
+        <geo:long>-73.106368000000003</geo:long></geo:SpatialThing></ds:location>
+    <ds:address>195 FRENCH STREET</ds:address>
+    <ds:city>WATERTOWN</ds:city>
+    <ds:state>CT</ds:state>
+    <ds:zip>6795</ds:zip>
+    <ds:zipp4>2921</ds:zipp4></dsbase:k2zz-z5mw>
+<dsbase:k2zz-z5mw rdf:about="http://data.ct.gov/resource/k2zz-z5mw/168">
+    <socrata:rowID>168</socrata:rowID>
+    <rdfs:member rdf:resource="http://data.ct.gov/resource/k2zz-z5mw"/>
+    <ds:name>WATERFORD POLICE DEPARTMENT</ds:name>
+    <ds:description>MUNICIPAL</ds:description>
+    <ds:telephone>860-442-9453</ds:telephone>
+    <ds:location><geo:SpatialThing>
+        <geo:lat>41.343685000000001</geo:lat>
+        <geo:long>-72.136269999999996</geo:long></geo:SpatialThing></ds:location>
+    <ds:address>41 AVERY LANE</ds:address>
+    <ds:city>WATERFORD</ds:city>
+    <ds:state>CT</ds:state>
+    <ds:zip>6385</ds:zip>
+    <ds:zipp4>2202</ds:zipp4></dsbase:k2zz-z5mw>
+<dsbase:k2zz-z5mw rdf:about="http://data.ct.gov/resource/k2zz-z5mw/167">
+    <socrata:rowID>167</socrata:rowID>
+    <rdfs:member rdf:resource="http://data.ct.gov/resource/k2zz-z5mw"/>
+    <ds:name>WATERBURY POLICE DEPARTMENT</ds:name>
+    <ds:description>MUNICIPAL</ds:description>
+    <ds:telephone>203-574-6907</ds:telephone>
+    <ds:location><geo:SpatialThing>
+        <geo:lat>41.554786</geo:lat>
+        <geo:long>-73.037082999999996</geo:long></geo:SpatialThing></ds:location>
+    <ds:address>255 EAST MAIN STREET</ds:address>
+    <ds:city>WATERBURY</ds:city>
+    <ds:state>CT</ds:state>
+    <ds:zip>6702</ds:zip>
+    <ds:zipp4>2301</ds:zipp4></dsbase:k2zz-z5mw>
+<dsbase:k2zz-z5mw rdf:about="http://data.ct.gov/resource/k2zz-z5mw/8">
+    <socrata:rowID>8</socrata:rowID>
+    <rdfs:member rdf:resource="http://data.ct.gov/resource/k2zz-z5mw"/>
+    <ds:name>BETHEL POLICE DEPARTMENT</ds:name>
+    <ds:description>MUNICIPAL</ds:description>
+    <ds:telephone>203-744-7900</ds:telephone>
+    <ds:location><geo:SpatialThing>
+        <geo:lat>41.384338999999997</geo:lat>
+        <geo:long>-73.399857999999995</geo:long></geo:SpatialThing></ds:location>
+    <ds:address>49 PLUMTREES ROAD</ds:address>
+    <ds:city>BETHEL</ds:city>
+    <ds:state>CT</ds:state>
+    <ds:zip>6801</ds:zip>
+    <ds:zipp4>1616</ds:zipp4></dsbase:k2zz-z5mw>
+<dsbase:k2zz-z5mw rdf:about="http://data.ct.gov/resource/k2zz-z5mw/6">
+    <socrata:rowID>6</socrata:rowID>
+    <rdfs:member rdf:resource="http://data.ct.gov/resource/k2zz-z5mw"/>
+    <ds:name>BEACON FALLS POLICE DEPARTMENT</ds:name>
+    <ds:description>MUNICIPAL</ds:description>
+    <ds:telephone>203-729-5173</ds:telephone>
+    <ds:location><geo:SpatialThing>
+        <geo:lat>41.445866000000002</geo:lat>
+        <geo:long>-73.066429999999997</geo:long></geo:SpatialThing></ds:location>
+    <ds:address>119 NORTH MAIN STREET</ds:address>
+    <ds:city>BEACON FALLS</ds:city>
+    <ds:state>CT</ds:state>
+    <ds:zip>6403</ds:zip>
+    <ds:zipp4>1167</ds:zipp4></dsbase:k2zz-z5mw>
+<dsbase:k2zz-z5mw rdf:about="http://data.ct.gov/resource/k2zz-z5mw/7">
+    <socrata:rowID>7</socrata:rowID>
+    <rdfs:member rdf:resource="http://data.ct.gov/resource/k2zz-z5mw"/>
+    <ds:name>BERLIN POLICE DEPARTMENT</ds:name>
+    <ds:description>MUNICIPAL</ds:description>
+    <ds:telephone>860-828-7086</ds:telephone>
+    <ds:location><geo:SpatialThing>
+        <geo:lat>41.626843999999998</geo:lat>
+        <geo:long>-72.775379000000001</geo:long></geo:SpatialThing></ds:location>
+    <ds:address>240 KENSINGTON ROAD</ds:address>
+    <ds:city>KENSINGTON</ds:city>
+    <ds:state>CT</ds:state>
+    <ds:zip>6037</ds:zip>
+    <ds:zipp4>2655</ds:zipp4></dsbase:k2zz-z5mw>
+<dsbase:k2zz-z5mw rdf:about="http://data.ct.gov/resource/k2zz-z5mw/9">
+    <socrata:rowID>9</socrata:rowID>
+    <rdfs:member rdf:resource="http://data.ct.gov/resource/k2zz-z5mw"/>
+    <ds:name>BLOOMFIELD POLICE DEPARTMENT</ds:name>
+    <ds:description>MUNICIPAL</ds:description>
+    <ds:telephone>860-242-6060</ds:telephone>
+    <ds:location><geo:SpatialThing>
+        <geo:lat>41.828674999999997</geo:lat>
+        <geo:long>-72.733694</geo:long></geo:SpatialThing></ds:location>
+    <ds:address>785 PARK AVENUE</ds:address>
+    <ds:city>BLOOMFIELD</ds:city>
+    <ds:state>CT</ds:state>
+    <ds:zip>6002</ds:zip>
+    <ds:zipp4>2444</ds:zipp4></dsbase:k2zz-z5mw>
+<dsbase:k2zz-z5mw rdf:about="http://data.ct.gov/resource/k2zz-z5mw/10">
+    <socrata:rowID>10</socrata:rowID>
+    <rdfs:member rdf:resource="http://data.ct.gov/resource/k2zz-z5mw"/>
+    <ds:name>BRANFORD POLICE DEPARTMENT</ds:name>
+    <ds:description>MUNICIPAL</ds:description>
+    <ds:telephone>203-481-4241</ds:telephone>
+    <ds:location><geo:SpatialThing>
+        <geo:lat>41.281216000000001</geo:lat>
+        <geo:long>-72.814241999999993</geo:long></geo:SpatialThing></ds:location>
+    <ds:address>33 LAUREL STREET</ds:address>
+    <ds:city>BRANFORD</ds:city>
+    <ds:state>CT</ds:state>
+    <ds:zip>6405</ds:zip>
+    <ds:zipp4>3610</ds:zipp4></dsbase:k2zz-z5mw>
+<dsbase:k2zz-z5mw rdf:about="http://data.ct.gov/resource/k2zz-z5mw/11">
+    <socrata:rowID>11</socrata:rowID>
+    <rdfs:member rdf:resource="http://data.ct.gov/resource/k2zz-z5mw"/>
+    <ds:name>BRIDGEPORT POLICE DEPARTMENT</ds:name>
+    <ds:description>MUNICIPAL</ds:description>
+    <ds:telephone>203-581-5100</ds:telephone>
+    <ds:location><geo:SpatialThing>
+        <geo:lat>41.181711999999997</geo:lat>
+        <geo:long>-73.192779999999999</geo:long></geo:SpatialThing></ds:location>
+    <ds:address>300 CONGRESS STREET</ds:address>
+    <ds:city>BRIDGEPORT</ds:city>
+    <ds:state>CT</ds:state>
+    <ds:zip>6604</ds:zip>
+    <ds:zipp4>4065</ds:zipp4></dsbase:k2zz-z5mw>
+<dsbase:k2zz-z5mw rdf:about="http://data.ct.gov/resource/k2zz-z5mw/12">
+    <socrata:rowID>12</socrata:rowID>
+    <rdfs:member rdf:resource="http://data.ct.gov/resource/k2zz-z5mw"/>
+    <ds:name>BRISTOL POLICE DEPARTMENT</ds:name>
+    <ds:description>MUNICIPAL</ds:description>
+    <ds:telephone>860-584-3011</ds:telephone>
+    <ds:location><geo:SpatialThing>
+        <geo:lat>41.674807999999999</geo:lat>
+        <geo:long>-72.946875000000006</geo:long></geo:SpatialThing></ds:location>
+    <ds:address>131 NORTH MAIN STREET</ds:address>
+    <ds:city>BRISTOL</ds:city>
+    <ds:state>CT</ds:state>
+    <ds:zip>6010</ds:zip>
+    <ds:zipp4>8101</ds:zipp4></dsbase:k2zz-z5mw>
+<dsbase:k2zz-z5mw rdf:about="http://data.ct.gov/resource/k2zz-z5mw/13">
+    <socrata:rowID>13</socrata:rowID>
+    <rdfs:member rdf:resource="http://data.ct.gov/resource/k2zz-z5mw"/>
+    <ds:name>BROOKFIELD POLICE DEPARTMENT</ds:name>
+    <ds:description>MUNICIPAL</ds:description>
+    <ds:telephone>203-775-2575</ds:telephone>
+    <ds:location><geo:SpatialThing>
+        <geo:lat>41.467705000000002</geo:lat>
+        <geo:long>-73.400608000000005</geo:long></geo:SpatialThing></ds:location>
+    <ds:address>63 SILVERMINE ROAD</ds:address>
+    <ds:city>BROOKFIELD</ds:city>
+    <ds:state>CT</ds:state>
+    <ds:zip>6804</ds:zip>
+    <ds:zipp4>2014</ds:zipp4></dsbase:k2zz-z5mw>
+<dsbase:k2zz-z5mw rdf:about="http://data.ct.gov/resource/k2zz-z5mw/14">
+    <socrata:rowID>14</socrata:rowID>
+    <rdfs:member rdf:resource="http://data.ct.gov/resource/k2zz-z5mw"/>
+    <ds:name>BURLINGTON POLICE DEPARTMENT</ds:name>
+    <ds:description>MUNICIPAL</ds:description>
+    <ds:telephone>860-673-4856</ds:telephone>
+    <ds:location><geo:SpatialThing>
+        <geo:lat>41.772531999999998</geo:lat>
+        <geo:long>-72.953502999999998</geo:long></geo:SpatialThing></ds:location>
+    <ds:address>200 SPIELMAN HIGHWAY</ds:address>
+    <ds:city>BURLINGTON</ds:city>
+    <ds:state>CT</ds:state>
+    <ds:zip>6013</ds:zip>
+    <ds:zipp4>1735</ds:zipp4></dsbase:k2zz-z5mw>
+<dsbase:k2zz-z5mw rdf:about="http://data.ct.gov/resource/k2zz-z5mw/15">
+    <socrata:rowID>15</socrata:rowID>
+    <rdfs:member rdf:resource="http://data.ct.gov/resource/k2zz-z5mw"/>
+    <ds:name>CANTON POLICE DEPARTMENT</ds:name>
+    <ds:description>MUNICIPAL</ds:description>
+    <ds:telephone>860-693-0221</ds:telephone>
+    <ds:location><geo:SpatialThing>
+        <geo:lat>41.817878999999998</geo:lat>
+        <geo:long>-72.919516000000002</geo:long></geo:SpatialThing></ds:location>
+    <ds:address>45 RIVER ROAD</ds:address>
+    <ds:city>CANTON</ds:city>
+    <ds:state>CT</ds:state>
+    <ds:zip>6019</ds:zip>
+    <ds:zipp4>3174</ds:zipp4></dsbase:k2zz-z5mw>
+<dsbase:k2zz-z5mw rdf:about="http://data.ct.gov/resource/k2zz-z5mw/107">
+    <socrata:rowID>107</socrata:rowID>
+    <rdfs:member rdf:resource="http://data.ct.gov/resource/k2zz-z5mw"/>
+    <ds:name>MASHANTUCKET PEQUOT TRIBAL POLICE DEPARTMENT</ds:name>
+    <ds:description>TRIBAL</ds:description>
+    <ds:telephone>860-396-6644</ds:telephone>
+    <ds:location><geo:SpatialThing>
+        <geo:lat>41.466186</geo:lat>
+        <geo:long>-71.955158999999995</geo:long></geo:SpatialThing></ds:location>
+    <ds:address>101 PEQUOT TRAIL</ds:address>
+    <ds:city>LEDYARD</ds:city>
+    <ds:state>CT</ds:state>
+    <ds:zip>6339</ds:zip></dsbase:k2zz-z5mw>
+<dsbase:k2zz-z5mw rdf:about="http://data.ct.gov/resource/k2zz-z5mw/172">
+    <socrata:rowID>172</socrata:rowID>
+    <rdfs:member rdf:resource="http://data.ct.gov/resource/k2zz-z5mw"/>
+    <ds:name>WESTBROOK POLICE DEPARTMENT</ds:name>
+    <ds:description>MUNICIPAL</ds:description>
+    <ds:telephone>860-399-7304</ds:telephone>
+    <ds:location><geo:SpatialThing>
+        <geo:lat>41.281529999999997</geo:lat>
+        <geo:long>-72.458811999999995</geo:long></geo:SpatialThing></ds:location>
+    <ds:address>866 BOSTON POST ROAD</ds:address>
+    <ds:city>WESTBROOK</ds:city>
+    <ds:state>CT</ds:state>
+    <ds:zip>6498</ds:zip>
+    <ds:zipp4>1881</ds:zipp4></dsbase:k2zz-z5mw></rdf:RDF>
