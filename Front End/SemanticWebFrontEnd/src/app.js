@@ -1,6 +1,6 @@
 (function(){
-  var app = angular.module("myapp",[]);
-   app.controller("usercontroller", function($scope){
+  angular.module("myapp",[]);
+  app.controller("usercontroller", function($scope, $http, ){
         $scope.townList = [
           "andover", "ansonia", "ashford", "avon", "barkhamsted", "beacon falls",
           "berlin", "bethany", "bethel", "bethlehem", "bloomfield", "bolton", "bozrah",
@@ -52,9 +52,23 @@
         }
 
         $scope.fillTextbox = function(string){
-             $scope.town = string;
+              // console.log("fillTextbox called");
              $scope.hidethis = true;
+             $scope.town = string;
+
         }
+
+        // $http.get('townData.json').success(function(data){
+        //     $scope.jdata = data;
+        // });
+
+        // $scope.populateFields = function(str){
+        //     var cityData = data(str);
+        //     $scope.crime_rate = cityData('crime_rate');
+        //     $scope.average_price = cityData('average_price');
+        //     $scope.school = cityData('school');
+        //     $scope.medical = cityData('medical');
+        // }
    });
 
 })();

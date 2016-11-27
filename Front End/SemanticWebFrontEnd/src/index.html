@@ -1,34 +1,80 @@
 <!DOCTYPE html>
- <html>
-      <head>
-           <title>Connecticut Real Estate Analysis</title>
-           <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.6/css/bootstrap.min.css" />
-           <script src="angular.min.js"></script>
-           <script src="app.js"></script>
-           <style src="style.css"></style>
-      </head>
+<html lang="en">
 
-      <body>
-           <br /><br />
-           <div class="container" style="width:500px;">
+<head>
+	<meta charset="utf-8">
+	<title>Connecticut Real Estate Analysis</title>
+	<meta name="description" content="Hello World">
+	<!-- Latest compiled and minified CSS -->
+	<link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/3.2.0/css/bootstrap.min.css">
+
+	<!-- Optional theme -->
+	<link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/3.2.0/css/bootstrap-theme.min.css">
+  <script src="http://code.jquery.com/jquery-2.1.1.min.js"></script>
+  <script src="https://maxcdn.bootstrapcdn.com/bootstrap/3.2.0/js/bootstrap.min.js"></script>
+  <script src="angular.min.js"></script>
+  <script src="app.js"></script>
+  <link rel="stylesheet" type="text/css" href="style.css">
+</head>
+
+<body ng-app="myapp" ng-controller="usercontroller">
+	<header>
+			<div class="container">
+				<h1>Connecticut Real Estate Analysis</h1>
+			</div>
+	</header>
+
+		<div class="container">
+			<ul class="nav nav-pills nav-justified">
+				<li class="active"><a href="#Search" data-toggle="tab">Search</a></li>
+				<li><a href="#Criteria" data-toggle="tab">Criteria</a></li>
+			</ul>
+
+			<div class="tab-content">
+				<div class="tab-pane fade in active"  id="Search">
+          <div style="width:500px;" >
+               <label>Search Town</label>
+               <input type="text" name="town" id="town" class="form-control"
+               ng-model="town"
+               ng-keyup="complete(town)"
+              />
+
+               <ul class="list-group" ng-model="hidethis"
+                                      ng-hide="hidethis">
+                    <li class="list-group-item"
+                        ng-repeat="countrydata in filterTown"
+                        ng-click="fillTextbox(countrydata)">{{countrydata}}
+                    </li>
+               </ul>
+               <div>
                 <div>
-                  <h2 align="center">Real Estate in Connecticut</h2>
+                  <p>
+                    <label>Andover</label> Town
+                  </p>
                 </div>
-                <br/>
-                <div ng-app="myapp" ng-controller="usercontroller">
-                     <label>Search Town</label>
-                     <input type="text" name="town" id="town" class="form-control"
-                     ng-model="town"
-                     ng-keyup="complete(town)"
-                     ng-blur="fillTextbox(town)" />
-
-                     <ul class="list-group" ng-model="hidethis"
-                                            ng-hide="hidethis">
-                          <li class="list-group-item"
-                          ng-repeat="countrydata in filterTown"
-                          ng-click="fillTextbox(countrydata)">{{countrydata}}</li>
-                     </ul>
-                </div>
-           </div>
-      </body>
- </html>
+               </div>
+               <div><label>Crime rate: 5.7% per 100,000</label></div>
+               <div><label>Arrest Rate: 1.2% per 100,000</label></div>
+               <div>
+                 <label>Schools:</label>
+                 <p>
+                   Andover Elementary School<br/>
+                   Public School<br/>
+                   Accountability Index: 95.2<br/>
+                   School low grade: PK <br/>
+                   School high grade: 6<br/>
+                 </p>
+               </div>
+               <div>
+                <p>
+                 <label>Number of Health Services</label>: 5
+                </p>
+               </div>
+          </div>
+				</div>
+				<div class="tab-pane fade"  id="Criteria">
+            <p>Put the criteria table here</p>
+        </div>
+		</div>
+  </body>
+</html>
