@@ -28,6 +28,7 @@
 			<ul class="nav nav-pills nav-justified">
 				<li class="active"><a href="#Search" data-toggle="tab">Search</a></li>
 				<li><a href="#Criteria" data-toggle="tab">Criteria</a></li>
+        <li><a href="#Charts" data-toggle="tab">Charts</a></li>
 			</ul>
 
 			<div class="tab-content">
@@ -36,8 +37,7 @@
                <label>Search Town</label>
                <input type="text" name="town" id="town" class="form-control"
                ng-model="town"
-               ng-keyup="complete(town)"
-              />
+               ng-keyup="complete(town)"/>
 
                <ul class="list-group" ng-model="hidethis"
                                       ng-hide="hidethis">
@@ -74,6 +74,9 @@
 				</div>
 				<div class="tab-pane fade"  id="Criteria">
             <p>Put the criteria table here</p>
+        </div>
+        <div class="tab-pane fade"  id="Charts">
+            <p>Show your Graphs here</p>
         </div>
 		</div>
   </body>
