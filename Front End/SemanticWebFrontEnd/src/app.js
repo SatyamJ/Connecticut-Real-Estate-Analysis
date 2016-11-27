@@ -1,6 +1,6 @@
 (function(){
-  angular.module("myapp",[]);
-  app.controller("usercontroller", function($scope, $http, ){
+  angular.module("myapp",[])
+    .controller("usercontroller", function($scope, $http, $filter){
         $scope.townList = [
           "andover", "ansonia", "ashford", "avon", "barkhamsted", "beacon falls",
           "berlin", "bethany", "bethel", "bethlehem", "bloomfield", "bolton", "bozrah",
