@@ -10,12 +10,79 @@
 
 	<!-- Optional theme -->
 	<link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/3.2.0/css/bootstrap-theme.min.css">
+  <link rel="stylesheet" href="//code.jquery.com/ui/1.12.1/themes/base/jquery-ui.css">
+  <link rel="stylesheet" href="/resources/demos/style.css">
   <script src="http://code.jquery.com/jquery-2.1.1.min.js"></script>
   <script src="https://maxcdn.bootstrapcdn.com/bootstrap/3.2.0/js/bootstrap.min.js"></script>
     <script src="http://d3js.org/d3.v3.min.js" charset="utf-8"></script>
   <script src="https://ajax.googleapis.com/ajax/libs/angularjs/1.5.6/angular.min.js"></script>
   <!-- <script src="app.js"></script> -->
+  <script src="https://code.jquery.com/jquery-1.12.4.js"></script>
+  <script src="https://code.jquery.com/ui/1.12.1/jquery-ui.js"></script>
+  <script>
+    
+    $( function() {
+      $("#subButton").click(function () {
+        var lowerPopulationValue =  $("#slider-range").slider("values", 0);
+        var higherPopulationValue = $("#slider-range").slider("values", 1);
+        var lowerHealthCapacityValue =  $("#slider-range1").slider("values", 0);
+        var higherHealthCapacityValue = $("#slider-range1").slider("values", 1);
 
+        var lowerSellPriceValue =  $("#slider-range2").slider("values", 0);
+        var higherSellPriceValue = $("#slider-range2").slider("values", 1);
+        
+        alert(lowerPopulationValue);
+        alert(higherPopulationValue);
+        alert(lowerHealthCapacityValue);
+        alert(higherHealthCapacityValue);
+        alert(lowerSellPriceValue);
+        alert(higherSellPriceValue);
+      });
+
+      $( "#slider-range" ).slider({
+        range: true,
+        min: 0,
+        max: 20000,
+        values: [ 5000, 10000 ],
+        slide: function( event, ui ) {
+          $( "#populationRange" ).val( ui.values[0] + " - " + ui.values[1] );
+        }
+      });
+
+      $( "#populationRange" ).val( $( "#slider-range" ).slider( "values", 0 ) +
+        " - " + $( "#slider-range" ).slider( "values", 1 ) );
+      });
+
+    $( function() {
+      $( "#slider-range1" ).slider({
+        range: true,
+        min: 0,
+        max: 500,
+        values: [ 75, 300 ],
+        slide: function( event, ui ) {
+          $( "#hospitalCapacity" ).val( ui.values[0] + " - " + ui.values[1]);
+        }
+      });
+      $( "#hospitalCapacity" ).val( $( "#slider-range1" ).slider( "values", 0 ) +
+        " - " + $( "#slider-range1" ).slider( "values", 1 ) );
+      } 
+    );
+
+    $( function() {
+      $( "#slider-range2" ).slider({
+        range: true,
+        min: 0,
+        max: 5000,
+        values: [ 750, 3000 ],
+        slide: function( event, ui ) {
+          $( "#spRange" ).val( ui.values[0] + " - " + ui.values[1]);
+        }
+      });
+      $( "#spRange" ).val( $( "#slider-range2" ).slider( "values", 0 ) +
+        " - " + $( "#slider-range2" ).slider( "values", 1 ) );
+      } 
+    );
+  </script>
   <link rel="stylesheet" type="text/css" href="style.css">
 	<link rel="stylesheet" href="css/maps.css">
 	<script src="http://maps.googleapis.com/maps/api/js?sensor=false&language=en&libraries=geometry"></script>
@@ -85,7 +152,34 @@
 				</div>
 			</div>
 				<div class="tab-pane fade"  id="Criteria">
-            <p>Put the criteria table here</p>
+            <br><br>
+            <div class = "row">
+            <div class="col-md-4">
+                <label for="populationrange">Population range</label>
+                  
+                <div id="slider-range" style="width:150px;"></div>
+                <input type="text" id="populationRange" readonly style="border:0; font-weight:bold;">
+              </div>
+
+              <div class="col-md-4">
+                <label for="hospitalCapacity">Hospital Capacity</label>
+                  
+                <div id="slider-range1" style="width:150px;"></div>
+                <input type="text" id="hospitalCapacity" readonly style="border:0; font-weight:bold;">
+              </div>
+
+              <div class="col-md-4">
+                <label for="spRange">Sell Price</label>
+                  
+                <div id="slider-range2" style="width:150px;"></div>
+                <input type="text" id="spRange" readonly style="border:0; font-weight:bold;">
+              </div>
+
+              
+          </div>
+          <div class="col-md-4">
+            <button type="button" class="btn btn-primary" id="subButton">Submit</button>
+          </div>
         </div>
         <div class="tab-pane fade"  id="Charts">
             <span id="cont"/>
