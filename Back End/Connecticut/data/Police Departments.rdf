@@ -8,7 +8,7 @@
          xmlns:skos="http://www.w3.org/2004/02/skos/core#" 
          xmlns:foaf="http://xmlns.com/foaf/0.1/" 
          xmlns:dsbase="http://data.ct.gov/resource/" 
-         xmlns:ds="http://data.ct.gov/resource/k2zz-z5mw/" 
+         xmlns:ds="http://data.ct.gov/resource/igy9-udjm/"
          xmlns:usps="http://www.w3.org/2000/10/swap/pim/usps#">
 <dsbase:k2zz-z5mw rdf:about="http://data.ct.gov/resource/k2zz-z5mw/1">
     <socrata:rowID>1</socrata:rowID>
