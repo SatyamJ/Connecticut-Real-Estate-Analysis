@@ -12,9 +12,15 @@
 	<link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/3.2.0/css/bootstrap-theme.min.css">
   <script src="http://code.jquery.com/jquery-2.1.1.min.js"></script>
   <script src="https://maxcdn.bootstrapcdn.com/bootstrap/3.2.0/js/bootstrap.min.js"></script>
-  <script src="angular.min.js"></script>
-  <script src="app.js"></script>
+    <script src="http://d3js.org/d3.v3.min.js" charset="utf-8"></script>
+  <script src="https://ajax.googleapis.com/ajax/libs/angularjs/1.5.6/angular.min.js"></script>
+  <!-- <script src="app.js"></script> -->
+
   <link rel="stylesheet" type="text/css" href="style.css">
+	<link rel="stylesheet" href="css/maps.css">
+	<script src="http://maps.googleapis.com/maps/api/js?sensor=false&language=en&libraries=geometry"></script>
+	<script type="text/javascript" src="js/maps.js"></script>
+	<script type="text/javascript" src="js/tableDisplay.js"></script>
 </head>
 
 <body >
@@ -32,8 +38,9 @@
 			</ul>
 
 			<div class="tab-content">
-				<div class="tab-pane fade in active"  id="Search" ng-app="myapp" ng-controller="usercontroller">
-          <div style="width:500px;" >
+				<div class="tab-pane fade in active"  id="Search" ng-app="mapsApp" ng-controller="MapCtrl">
+					<div class="modal-body row">
+          <div class="col-md-6">
                <label>Search Town</label>
                <input type="text" name="town" id="town" class="form-control"
                ng-model="town"
@@ -71,13 +78,22 @@
                 </p>
                </div>
           </div>
+
+					<div class="col-md-6">
+						<div id="map"></div>
+					</div>
 				</div>
+			</div>
 				<div class="tab-pane fade"  id="Criteria">
             <p>Put the criteria table here</p>
         </div>
         <div class="tab-pane fade"  id="Charts">
-            <p>Show your Graphs here</p>
+            <span id="cont"/>
+            <h4>Connecticut house sales and geo locations</h4>
+            <script src="d3script.js"></script>
+
         </div>
 		</div>
+        </div>
   </body>
 </html>
