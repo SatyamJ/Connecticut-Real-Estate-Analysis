@@ -12,7 +12,8 @@
 	<link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/3.2.0/css/bootstrap-theme.min.css">
   <script src="http://code.jquery.com/jquery-2.1.1.min.js"></script>
   <script src="https://maxcdn.bootstrapcdn.com/bootstrap/3.2.0/js/bootstrap.min.js"></script>
-  <script src="angular.min.js"></script>
+    <script src="http://d3js.org/d3.v3.min.js" charset="utf-8"></script>
+  <script src="https://ajax.googleapis.com/ajax/libs/angularjs/1.5.6/angular.min.js"></script>
   <script src="app.js"></script>
   <link rel="stylesheet" type="text/css" href="style.css">
 </head>
@@ -76,8 +77,12 @@
             <p>Put the criteria table here</p>
         </div>
         <div class="tab-pane fade"  id="Charts">
-            <p>Show your Graphs here</p>
+            <span id="cont"/>
+            <h4>Connecticut house sales and geo locations</h4>
+            <script src="d3script.js"></script>
+
         </div>
 		</div>
+        </div>
   </body>
 </html>
