@@ -13,7 +13,7 @@
 <dsbase:mdsf-2nsf rdf:about="http://data.ct.gov/resource/mdsf-2nsf/1">
     <socrata:rowID>1</socrata:rowID>
     <rdfs:member rdf:resource="http://data.ct.gov/resource/mdsf-2nsf"/>
-    <ds:district_name>Andover</ds:district_name>
+        <ds:district_name>Andover</ds:district_name>
     <ds:district_code>10011</ds:district_code>
     <ds:school_name>District_0000000</ds:school_name>
     <ds:school_code>0</ds:school_code>

@@ -73,7 +73,7 @@
                           ?cro ds:jurisdiction \""+town_name+"\". \
                           ?cro ds:crime_reported ?crime_reported . \
                           ?cro ds:population ?population . \
-                          ?cra ds:andover ?arrests \
+                          ?cra ds:"+town_name.toLowerCase()+" ?arrests \
                         }"
 
               }, function(data, status){
@@ -90,7 +90,7 @@
 
             $scope.populateHousingData = function(town_name){
 
-                $.post("http://localhost:3030/ds/query",
+                $.post("http://ec2-54-149-233-81.us-west-2.compute.amazonaws.com:3030/ds/query",
                 {
 
                   query: "PREFIX ds:<http://data.ct.gov/resource/igy9-udjm/> \
