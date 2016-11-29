@@ -32,5 +32,7 @@ function tableCreate(data) {
   });
 
   table.appendChild(tbody);
+
+  $(table).addClass('table-striped');
   return table;
 }

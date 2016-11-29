@@ -294,7 +294,6 @@ sampleApp.controller('MapCtrl', function($scope, $filter, $http) {
 
     $scope.markers.push(marker);
     bounds.extend(marker.position);
-
   }
 
 });
