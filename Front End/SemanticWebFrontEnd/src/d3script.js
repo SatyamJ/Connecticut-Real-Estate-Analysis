@@ -28,24 +28,29 @@ d3.json("data/CT-towns.geojson", function(json) {
 
 });
 
-//Load in cities data
-d3.csv("data/Coordinates.csv", function(data) {
+var call = function () {
+    //Load in cities data
+    d3.csv("data/Coordinates.csv", function(data) {
 
-    svg.selectAll("circle")
-        .data(data)
-        .enter()
-        .append("circle")
-        .attr("cx", function(d) {
-            return projection([d.long, d.lat])[0];
-        })
-        .attr("cy", function(d) {
-            return projection([d.long, d.lat])[1];
-        })
-        .attr("r", function(d) {
-            return Math.sqrt(parseInt(d.total_houses)* 0.0005);
-        })
-        .style("fill", "red");
+        svg.selectAll("circle")
+            .data(data)
+            .enter()
+            .append("circle")
+            .attr("cx", function(d) {
+                return projection([d.long, d.lat])[0];
+            })
+            .attr("cy", function(d) {
+                return projection([d.long, d.lat])[1];
+            })
+            .attr("r", function(d) {
+                return Math.sqrt(parseInt(d.total_houses)* 0.0009);
+            })
+            .style("fill", "brown");
 
-});
+
+
+    });
+};
+setTimeout(2000, call());
 
 })();
