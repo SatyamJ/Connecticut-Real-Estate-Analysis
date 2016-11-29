@@ -1,0 +1,2513 @@
+<rdf:RDF
+	xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+	xmlns:rdfs="http://www.w3.org/2000/01/rdf-schema#"
+	xmlns:socrata="http://www.socrata.com/rdf/terms#"
+	xmlns:dcat="http://www.w3.org/ns/dcat#"
+	xmlns:ods="http://open-data-standards.github.com/2012/01/open-data-standards#"
+	xmlns:dcterm="http://purl.org/dc/terms/"
+	xmlns:geo="http://www.w3.org/2003/01/geo/wgs84_pos#"
+	xmlns:skos="http://www.w3.org/2004/02/skos/core#"
+	xmlns:foaf="http://xmlns.com/foaf/0.1/"
+	xmlns:dsbase="http://data.ct.gov/resource/"
+	xmlns:ds="http://data.ct.gov/resource/tids-7w95/">
+	<dsbase:tids-7w95 rdf:about="http://data.ct.gov/resource/tids-7w95/1">
+		<rdfs:member rdf:resource="http://data.ct.gov/resource/tids-7w95"/>
+		<ds:soc_title>Total all occupations</ds:soc_title>
+		<ds:employment>1,659,430</ds:employment>
+	</dsbase:tids-7w95>
+	<dsbase:tids-7w95 rdf:about="http://data.ct.gov/resource/tids-7w95/2">
+		<rdfs:member rdf:resource="http://data.ct.gov/resource/tids-7w95"/>
+		<ds:soc_title>Management Occupations</ds:soc_title>
+		<ds:employment>114,720</ds:employment>
+	</dsbase:tids-7w95>
+	<dsbase:tids-7w95 rdf:about="http://data.ct.gov/resource/tids-7w95/3">
+		<rdfs:member rdf:resource="http://data.ct.gov/resource/tids-7w95"/>
+		<ds:soc_title>Chief Executives</ds:soc_title>
+		<ds:employment>1,370</ds:employment>
+	</dsbase:tids-7w95>
+	<dsbase:tids-7w95 rdf:about="http://data.ct.gov/resource/tids-7w95/4">
+		<rdfs:member rdf:resource="http://data.ct.gov/resource/tids-7w95"/>
+		<ds:soc_title>General and Operations Managers</ds:soc_title>
+		<ds:employment>34,400</ds:employment>
+	</dsbase:tids-7w95>
+	<dsbase:tids-7w95 rdf:about="http://data.ct.gov/resource/tids-7w95/5">
+		<rdfs:member rdf:resource="http://data.ct.gov/resource/tids-7w95"/>
+		<ds:soc_title>Legislators</ds:soc_title>
+		<ds:employment>400</ds:employment>
+	</dsbase:tids-7w95>
+	<dsbase:tids-7w95 rdf:about="http://data.ct.gov/resource/tids-7w95/6">
+		<rdfs:member rdf:resource="http://data.ct.gov/resource/tids-7w95"/>
+		<ds:soc_title>Advertising and Promotions Managers</ds:soc_title>
+		<ds:employment>290</ds:employment>
+	</dsbase:tids-7w95>
+	<dsbase:tids-7w95 rdf:about="http://data.ct.gov/resource/tids-7w95/7">
+		<rdfs:member rdf:resource="http://data.ct.gov/resource/tids-7w95"/>
+		<ds:soc_title>Marketing Managers</ds:soc_title>
+		<ds:employment>4,790</ds:employment>
+	</dsbase:tids-7w95>
+	<dsbase:tids-7w95 rdf:about="http://data.ct.gov/resource/tids-7w95/8">
+		<rdfs:member rdf:resource="http://data.ct.gov/resource/tids-7w95"/>
+		<ds:soc_title>Sales Managers</ds:soc_title>
+		<ds:employment>6,990</ds:employment>
+	</dsbase:tids-7w95>
+	<dsbase:tids-7w95 rdf:about="http://data.ct.gov/resource/tids-7w95/9">
+		<rdfs:member rdf:resource="http://data.ct.gov/resource/tids-7w95"/>
+		<ds:soc_title>Public Relations and Fundraising Managers</ds:soc_title>
+		<ds:employment>920</ds:employment>
+	</dsbase:tids-7w95>
+	<dsbase:tids-7w95 rdf:about="http://data.ct.gov/resource/tids-7w95/10">
+		<rdfs:member rdf:resource="http://data.ct.gov/resource/tids-7w95"/>
+		<ds:soc_title>Administrative Services Managers</ds:soc_title>
+		<ds:employment>4,260</ds:employment>
+	</dsbase:tids-7w95>
+	<dsbase:tids-7w95 rdf:about="http://data.ct.gov/resource/tids-7w95/11">
+		<rdfs:member rdf:resource="http://data.ct.gov/resource/tids-7w95"/>
+		<ds:soc_title>Computer and Information Systems Managers</ds:soc_title>
+		<ds:employment>6,990</ds:employment>
+	</dsbase:tids-7w95>
+	<dsbase:tids-7w95 rdf:about="http://data.ct.gov/resource/tids-7w95/12">
+		<rdfs:member rdf:resource="http://data.ct.gov/resource/tids-7w95"/>
+		<ds:soc_title>Financial Managers</ds:soc_title>
+		<ds:employment>13,700</ds:employment>
+	</dsbase:tids-7w95>
+	<dsbase:tids-7w95 rdf:about="http://data.ct.gov/resource/tids-7w95/13">
+		<rdfs:member rdf:resource="http://data.ct.gov/resource/tids-7w95"/>
+		<ds:soc_title>Industrial Production Managers</ds:soc_title>
+		<ds:employment>2,640</ds:employment>
+	</dsbase:tids-7w95>
+	<dsbase:tids-7w95 rdf:about="http://data.ct.gov/resource/tids-7w95/14">
+		<rdfs:member rdf:resource="http://data.ct.gov/resource/tids-7w95"/>
+		<ds:soc_title>Purchasing Managers</ds:soc_title>
+		<ds:employment>1,320</ds:employment>
+	</dsbase:tids-7w95>
+	<dsbase:tids-7w95 rdf:about="http://data.ct.gov/resource/tids-7w95/15">
+		<rdfs:member rdf:resource="http://data.ct.gov/resource/tids-7w95"/>
+		<ds:soc_title>Transportation, Storage, and Distribution Managers</ds:soc_title>
+		<ds:employment>1,100</ds:employment>
+	</dsbase:tids-7w95>
+	<dsbase:tids-7w95 rdf:about="http://data.ct.gov/resource/tids-7w95/16">
+		<rdfs:member rdf:resource="http://data.ct.gov/resource/tids-7w95"/>
+		<ds:soc_title>Compensation and Benefits Managers</ds:soc_title>
+		<ds:employment>310</ds:employment>
+	</dsbase:tids-7w95>
+	<dsbase:tids-7w95 rdf:about="http://data.ct.gov/resource/tids-7w95/17">
+		<rdfs:member rdf:resource="http://data.ct.gov/resource/tids-7w95"/>
+		<ds:soc_title>Human Resources Managers</ds:soc_title>
+		<ds:employment>2,040</ds:employment>
+	</dsbase:tids-7w95>
+	<dsbase:tids-7w95 rdf:about="http://data.ct.gov/resource/tids-7w95/18">
+		<rdfs:member rdf:resource="http://data.ct.gov/resource/tids-7w95"/>
+		<ds:soc_title>Training and Development Managers</ds:soc_title>
+		<ds:employment>850</ds:employment>
+	</dsbase:tids-7w95>
+	<dsbase:tids-7w95 rdf:about="http://data.ct.gov/resource/tids-7w95/19">
+		<rdfs:member rdf:resource="http://data.ct.gov/resource/tids-7w95"/>
+		<ds:soc_title>Construction Managers</ds:soc_title>
+		<ds:employment>2,890</ds:employment>
+	</dsbase:tids-7w95>
+	<dsbase:tids-7w95 rdf:about="http://data.ct.gov/resource/tids-7w95/20">
+		<rdfs:member rdf:resource="http://data.ct.gov/resource/tids-7w95"/>
+		<ds:soc_title>Education Administrators, Preschool and Childcare Center/Program</ds:soc_title>
+		<ds:employment>800</ds:employment>
+	</dsbase:tids-7w95>
+	<dsbase:tids-7w95 rdf:about="http://data.ct.gov/resource/tids-7w95/21">
+		<rdfs:member rdf:resource="http://data.ct.gov/resource/tids-7w95"/>
+		<ds:soc_title>Education Administrators, Elementary and Secondary School</ds:soc_title>
+		<ds:employment>3,560</ds:employment>
+	</dsbase:tids-7w95>
+	<dsbase:tids-7w95 rdf:about="http://data.ct.gov/resource/tids-7w95/22">
+		<rdfs:member rdf:resource="http://data.ct.gov/resource/tids-7w95"/>
+		<ds:soc_title>Education Administrators, Postsecondary</ds:soc_title>
+		<ds:employment>1,830</ds:employment>
+	</dsbase:tids-7w95>
+	<dsbase:tids-7w95 rdf:about="http://data.ct.gov/resource/tids-7w95/23">
+		<rdfs:member rdf:resource="http://data.ct.gov/resource/tids-7w95"/>
+		<ds:soc_title>Education Administrators, All Other</ds:soc_title>
+		<ds:employment>360</ds:employment>
+	</dsbase:tids-7w95>
+	<dsbase:tids-7w95 rdf:about="http://data.ct.gov/resource/tids-7w95/24">
+		<rdfs:member rdf:resource="http://data.ct.gov/resource/tids-7w95"/>
+		<ds:soc_title>Architectural and Engineering Managers</ds:soc_title>
+		<ds:employment>3,250</ds:employment>
+	</dsbase:tids-7w95>
+	<dsbase:tids-7w95 rdf:about="http://data.ct.gov/resource/tids-7w95/25">
+		<rdfs:member rdf:resource="http://data.ct.gov/resource/tids-7w95"/>
+		<ds:soc_title>Food Service Managers</ds:soc_title>
+		<ds:employment>2,110</ds:employment>
+	</dsbase:tids-7w95>
+	<dsbase:tids-7w95 rdf:about="http://data.ct.gov/resource/tids-7w95/26">
+		<rdfs:member rdf:resource="http://data.ct.gov/resource/tids-7w95"/>
+		<ds:soc_title>Funeral Service Managers</ds:soc_title>
+		<ds:employment>N/A</ds:employment>
+	</dsbase:tids-7w95>
+	<dsbase:tids-7w95 rdf:about="http://data.ct.gov/resource/tids-7w95/27">
+		<rdfs:member rdf:resource="http://data.ct.gov/resource/tids-7w95"/>
+		<ds:soc_title>Lodging Managers</ds:soc_title>
+		<ds:employment>160</ds:employment>
+	</dsbase:tids-7w95>
+	<dsbase:tids-7w95 rdf:about="http://data.ct.gov/resource/tids-7w95/28">
+		<rdfs:member rdf:resource="http://data.ct.gov/resource/tids-7w95"/>
+		<ds:soc_title>Medical and Health Services Managers</ds:soc_title>
+		<ds:employment>5,050</ds:employment>
+	</dsbase:tids-7w95>
+	<dsbase:tids-7w95 rdf:about="http://data.ct.gov/resource/tids-7w95/29">
+		<rdfs:member rdf:resource="http://data.ct.gov/resource/tids-7w95"/>
+		<ds:soc_title>Natural Sciences Managers</ds:soc_title>
+		<ds:employment>1,160</ds:employment>
+	</dsbase:tids-7w95>
+	<dsbase:tids-7w95 rdf:about="http://data.ct.gov/resource/tids-7w95/30">
+		<rdfs:member rdf:resource="http://data.ct.gov/resource/tids-7w95"/>
+		<ds:soc_title>Postmasters and Mail Superintendents</ds:soc_title>
+		<ds:employment>180</ds:employment>
+	</dsbase:tids-7w95>
+	<dsbase:tids-7w95 rdf:about="http://data.ct.gov/resource/tids-7w95/31">
+		<rdfs:member rdf:resource="http://data.ct.gov/resource/tids-7w95"/>
+		<ds:soc_title>Property, Real Estate, and Community Association Managers</ds:soc_title>
+		<ds:employment>2,180</ds:employment>
+	</dsbase:tids-7w95>
+	<dsbase:tids-7w95 rdf:about="http://data.ct.gov/resource/tids-7w95/32">
+		<rdfs:member rdf:resource="http://data.ct.gov/resource/tids-7w95"/>
+		<ds:soc_title>Social and Community Service Managers</ds:soc_title>
+		<ds:employment>3,450</ds:employment>
+	</dsbase:tids-7w95>
+	<dsbase:tids-7w95 rdf:about="http://data.ct.gov/resource/tids-7w95/33">
+		<rdfs:member rdf:resource="http://data.ct.gov/resource/tids-7w95"/>
+		<ds:soc_title>Emergency Management Directors</ds:soc_title>
+		<ds:employment>140</ds:employment>
+	</dsbase:tids-7w95>
+	<dsbase:tids-7w95 rdf:about="http://data.ct.gov/resource/tids-7w95/34">
+		<rdfs:member rdf:resource="http://data.ct.gov/resource/tids-7w95"/>
+		<ds:soc_title>Managers, All Other</ds:soc_title>
+		<ds:employment>5,080</ds:employment>
+	</dsbase:tids-7w95>
+	<dsbase:tids-7w95 rdf:about="http://data.ct.gov/resource/tids-7w95/35">
+		<rdfs:member rdf:resource="http://data.ct.gov/resource/tids-7w95"/>
+		<ds:soc_title>Business and Financial Operations Occupations</ds:soc_title>
+		<ds:employment>93,320</ds:employment>
+	</dsbase:tids-7w95>
+	<dsbase:tids-7w95 rdf:about="http://data.ct.gov/resource/tids-7w95/36">
+		<rdfs:member rdf:resource="http://data.ct.gov/resource/tids-7w95"/>
+		<ds:soc_title>Agents and Business Managers of Artists, Performers, and Athletes</ds:soc_title>
+		<ds:employment>110</ds:employment>
+	</dsbase:tids-7w95>
+	<dsbase:tids-7w95 rdf:about="http://data.ct.gov/resource/tids-7w95/37">
+		<rdfs:member rdf:resource="http://data.ct.gov/resource/tids-7w95"/>
+		<ds:soc_title>Buyers and Purchasing Agents, Farm Products</ds:soc_title>
+		<ds:employment>70</ds:employment>
+	</dsbase:tids-7w95>
+	<dsbase:tids-7w95 rdf:about="http://data.ct.gov/resource/tids-7w95/38">
+		<rdfs:member rdf:resource="http://data.ct.gov/resource/tids-7w95"/>
+		<ds:soc_title>Wholesale and Retail Buyers, Except Farm Products</ds:soc_title>
+		<ds:employment>1,010</ds:employment>
+	</dsbase:tids-7w95>
+	<dsbase:tids-7w95 rdf:about="http://data.ct.gov/resource/tids-7w95/39">
+		<rdfs:member rdf:resource="http://data.ct.gov/resource/tids-7w95"/>
+		<ds:soc_title>Purchasing Agents, Except Wholesale, Retail, and Farm Products</ds:soc_title>
+		<ds:employment>4,270</ds:employment>
+	</dsbase:tids-7w95>
+	<dsbase:tids-7w95 rdf:about="http://data.ct.gov/resource/tids-7w95/40">
+		<rdfs:member rdf:resource="http://data.ct.gov/resource/tids-7w95"/>
+		<ds:soc_title>Claims Adjusters, Examiners, and Investigators</ds:soc_title>
+		<ds:employment>5,460</ds:employment>
+	</dsbase:tids-7w95>
+	<dsbase:tids-7w95 rdf:about="http://data.ct.gov/resource/tids-7w95/41">
+		<rdfs:member rdf:resource="http://data.ct.gov/resource/tids-7w95"/>
+		<ds:soc_title>Insurance Appraisers, Auto Damage</ds:soc_title>
+		<ds:employment>210</ds:employment>
+	</dsbase:tids-7w95>
+	<dsbase:tids-7w95 rdf:about="http://data.ct.gov/resource/tids-7w95/42">
+		<rdfs:member rdf:resource="http://data.ct.gov/resource/tids-7w95"/>
+		<ds:soc_title>Compliance Officers, Except Agriculture, Construction, Health and Safety, and Transportation</ds:soc_title>
+		<ds:employment>3,520</ds:employment>
+	</dsbase:tids-7w95>
+	<dsbase:tids-7w95 rdf:about="http://data.ct.gov/resource/tids-7w95/43">
+		<rdfs:member rdf:resource="http://data.ct.gov/resource/tids-7w95"/>
+		<ds:soc_title>Cost Estimators</ds:soc_title>
+		<ds:employment>2,230</ds:employment>
+	</dsbase:tids-7w95>
+	<dsbase:tids-7w95 rdf:about="http://data.ct.gov/resource/tids-7w95/44">
+		<rdfs:member rdf:resource="http://data.ct.gov/resource/tids-7w95"/>
+		<ds:soc_title>Human Resources Specialists</ds:soc_title>
+		<ds:employment>5,800</ds:employment>
+	</dsbase:tids-7w95>
+	<dsbase:tids-7w95 rdf:about="http://data.ct.gov/resource/tids-7w95/45">
+		<rdfs:member rdf:resource="http://data.ct.gov/resource/tids-7w95"/>
+		<ds:soc_title>Labor Relations Specialists</ds:soc_title>
+		<ds:employment>1,170</ds:employment>
+	</dsbase:tids-7w95>
+	<dsbase:tids-7w95 rdf:about="http://data.ct.gov/resource/tids-7w95/46">
+		<rdfs:member rdf:resource="http://data.ct.gov/resource/tids-7w95"/>
+		<ds:soc_title>Logisticians</ds:soc_title>
+		<ds:employment>N/A</ds:employment>
+	</dsbase:tids-7w95>
+	<dsbase:tids-7w95 rdf:about="http://data.ct.gov/resource/tids-7w95/47">
+		<rdfs:member rdf:resource="http://data.ct.gov/resource/tids-7w95"/>
+		<ds:soc_title>Management Analysts</ds:soc_title>
+		<ds:employment>8,230</ds:employment>
+	</dsbase:tids-7w95>
+	<dsbase:tids-7w95 rdf:about="http://data.ct.gov/resource/tids-7w95/48">
+		<rdfs:member rdf:resource="http://data.ct.gov/resource/tids-7w95"/>
+		<ds:soc_title>Meeting, Convention, and Event Planners</ds:soc_title>
+		<ds:employment>940</ds:employment>
+	</dsbase:tids-7w95>
+	<dsbase:tids-7w95 rdf:about="http://data.ct.gov/resource/tids-7w95/49">
+		<rdfs:member rdf:resource="http://data.ct.gov/resource/tids-7w95"/>
+		<ds:soc_title>Fundraisers</ds:soc_title>
+		<ds:employment>1,150</ds:employment>
+	</dsbase:tids-7w95>
+	<dsbase:tids-7w95 rdf:about="http://data.ct.gov/resource/tids-7w95/50">
+		<rdfs:member rdf:resource="http://data.ct.gov/resource/tids-7w95"/>
+		<ds:soc_title>Compensation, Benefits, and Job Analysis Specialists</ds:soc_title>
+		<ds:employment>1,260</ds:employment>
+	</dsbase:tids-7w95>
+	<dsbase:tids-7w95 rdf:about="http://data.ct.gov/resource/tids-7w95/51">
+		<rdfs:member rdf:resource="http://data.ct.gov/resource/tids-7w95"/>
+		<ds:soc_title>Training and Development Specialists</ds:soc_title>
+		<ds:employment>2,880</ds:employment>
+	</dsbase:tids-7w95>
+	<dsbase:tids-7w95 rdf:about="http://data.ct.gov/resource/tids-7w95/52">
+		<rdfs:member rdf:resource="http://data.ct.gov/resource/tids-7w95"/>
+		<ds:soc_title>Market Research Analysts and Marketing Specialists</ds:soc_title>
+		<ds:employment>6,970</ds:employment>
+	</dsbase:tids-7w95>
+	<dsbase:tids-7w95 rdf:about="http://data.ct.gov/resource/tids-7w95/53">
+		<rdfs:member rdf:resource="http://data.ct.gov/resource/tids-7w95"/>
+		<ds:soc_title>Business Operations Specialists, All Other</ds:soc_title>
+		<ds:employment>7,480</ds:employment>
+	</dsbase:tids-7w95>
+	<dsbase:tids-7w95 rdf:about="http://data.ct.gov/resource/tids-7w95/54">
+		<rdfs:member rdf:resource="http://data.ct.gov/resource/tids-7w95"/>
+		<ds:soc_title>Accountants and Auditors</ds:soc_title>
+		<ds:employment>15,460</ds:employment>
+	</dsbase:tids-7w95>
+	<dsbase:tids-7w95 rdf:about="http://data.ct.gov/resource/tids-7w95/55">
+		<rdfs:member rdf:resource="http://data.ct.gov/resource/tids-7w95"/>
+		<ds:soc_title>Appraisers and Assessors of Real Estate</ds:soc_title>
+		<ds:employment>750</ds:employment>
+	</dsbase:tids-7w95>
+	<dsbase:tids-7w95 rdf:about="http://data.ct.gov/resource/tids-7w95/56">
+		<rdfs:member rdf:resource="http://data.ct.gov/resource/tids-7w95"/>
+		<ds:soc_title>Budget Analysts</ds:soc_title>
+		<ds:employment>930</ds:employment>
+	</dsbase:tids-7w95>
+	<dsbase:tids-7w95 rdf:about="http://data.ct.gov/resource/tids-7w95/57">
+		<rdfs:member rdf:resource="http://data.ct.gov/resource/tids-7w95"/>
+		<ds:soc_title>Credit Analysts</ds:soc_title>
+		<ds:employment>1,420</ds:employment>
+	</dsbase:tids-7w95>
+	<dsbase:tids-7w95 rdf:about="http://data.ct.gov/resource/tids-7w95/58">
+		<rdfs:member rdf:resource="http://data.ct.gov/resource/tids-7w95"/>
+		<ds:soc_title>Financial Analysts</ds:soc_title>
+		<ds:employment>5,910</ds:employment>
+	</dsbase:tids-7w95>
+	<dsbase:tids-7w95 rdf:about="http://data.ct.gov/resource/tids-7w95/59">
+		<rdfs:member rdf:resource="http://data.ct.gov/resource/tids-7w95"/>
+		<ds:soc_title>Personal Financial Advisors</ds:soc_title>
+		<ds:employment>4,490</ds:employment>
+	</dsbase:tids-7w95>
+	<dsbase:tids-7w95 rdf:about="http://data.ct.gov/resource/tids-7w95/60">
+		<rdfs:member rdf:resource="http://data.ct.gov/resource/tids-7w95"/>
+		<ds:soc_title>Insurance Underwriters</ds:soc_title>
+		<ds:employment>4,210</ds:employment>
+	</dsbase:tids-7w95>
+	<dsbase:tids-7w95 rdf:about="http://data.ct.gov/resource/tids-7w95/61">
+		<rdfs:member rdf:resource="http://data.ct.gov/resource/tids-7w95"/>
+		<ds:soc_title>Financial Examiners</ds:soc_title>
+		<ds:employment>600</ds:employment>
+	</dsbase:tids-7w95>
+	<dsbase:tids-7w95 rdf:about="http://data.ct.gov/resource/tids-7w95/62">
+		<rdfs:member rdf:resource="http://data.ct.gov/resource/tids-7w95"/>
+		<ds:soc_title>Credit Counselors</ds:soc_title>
+		<ds:employment>110</ds:employment>
+	</dsbase:tids-7w95>
+	<dsbase:tids-7w95 rdf:about="http://data.ct.gov/resource/tids-7w95/63">
+		<rdfs:member rdf:resource="http://data.ct.gov/resource/tids-7w95"/>
+		<ds:soc_title>Loan Officers</ds:soc_title>
+		<ds:employment>2,300</ds:employment>
+	</dsbase:tids-7w95>
+	<dsbase:tids-7w95 rdf:about="http://data.ct.gov/resource/tids-7w95/64">
+		<rdfs:member rdf:resource="http://data.ct.gov/resource/tids-7w95"/>
+		<ds:soc_title>Tax Examiners and Collectors, and Revenue Agents</ds:soc_title>
+		<ds:employment>1,030</ds:employment>
+	</dsbase:tids-7w95>
+	<dsbase:tids-7w95 rdf:about="http://data.ct.gov/resource/tids-7w95/65">
+		<rdfs:member rdf:resource="http://data.ct.gov/resource/tids-7w95"/>
+		<ds:soc_title>Tax Preparers</ds:soc_title>
+		<ds:employment>790</ds:employment>
+	</dsbase:tids-7w95>
+	<dsbase:tids-7w95 rdf:about="http://data.ct.gov/resource/tids-7w95/66">
+		<rdfs:member rdf:resource="http://data.ct.gov/resource/tids-7w95"/>
+		<ds:soc_title>Financial Specialists, All Other</ds:soc_title>
+		<ds:employment>1,390</ds:employment>
+	</dsbase:tids-7w95>
+	<dsbase:tids-7w95 rdf:about="http://data.ct.gov/resource/tids-7w95/67">
+		<rdfs:member rdf:resource="http://data.ct.gov/resource/tids-7w95"/>
+		<ds:soc_title>Computer and Mathematical Occupations</ds:soc_title>
+		<ds:employment>46,970</ds:employment>
+	</dsbase:tids-7w95>
+	<dsbase:tids-7w95 rdf:about="http://data.ct.gov/resource/tids-7w95/68">
+		<rdfs:member rdf:resource="http://data.ct.gov/resource/tids-7w95"/>
+		<ds:soc_title>Computer and Information Research Scientists</ds:soc_title>
+		<ds:employment>N/A</ds:employment>
+	</dsbase:tids-7w95>
+	<dsbase:tids-7w95 rdf:about="http://data.ct.gov/resource/tids-7w95/69">
+		<rdfs:member rdf:resource="http://data.ct.gov/resource/tids-7w95"/>
+		<ds:soc_title>Computer Systems Analysts</ds:soc_title>
+		<ds:employment>7,220</ds:employment>
+	</dsbase:tids-7w95>
+	<dsbase:tids-7w95 rdf:about="http://data.ct.gov/resource/tids-7w95/70">
+		<rdfs:member rdf:resource="http://data.ct.gov/resource/tids-7w95"/>
+		<ds:soc_title>Information Security Analysts</ds:soc_title>
+		<ds:employment>870</ds:employment>
+	</dsbase:tids-7w95>
+	<dsbase:tids-7w95 rdf:about="http://data.ct.gov/resource/tids-7w95/71">
+		<rdfs:member rdf:resource="http://data.ct.gov/resource/tids-7w95"/>
+		<ds:soc_title>Computer Programmers</ds:soc_title>
+		<ds:employment>5,020</ds:employment>
+	</dsbase:tids-7w95>
+	<dsbase:tids-7w95 rdf:about="http://data.ct.gov/resource/tids-7w95/72">
+		<rdfs:member rdf:resource="http://data.ct.gov/resource/tids-7w95"/>
+		<ds:soc_title>Software Developers, Applications</ds:soc_title>
+		<ds:employment>8,880</ds:employment>
+	</dsbase:tids-7w95>
+	<dsbase:tids-7w95 rdf:about="http://data.ct.gov/resource/tids-7w95/73">
+		<rdfs:member rdf:resource="http://data.ct.gov/resource/tids-7w95"/>
+		<ds:soc_title>Software Developers, Systems Software</ds:soc_title>
+		<ds:employment>4,520</ds:employment>
+	</dsbase:tids-7w95>
+	<dsbase:tids-7w95 rdf:about="http://data.ct.gov/resource/tids-7w95/74">
+		<rdfs:member rdf:resource="http://data.ct.gov/resource/tids-7w95"/>
+		<ds:soc_title>Web Developers</ds:soc_title>
+		<ds:employment>1,390</ds:employment>
+	</dsbase:tids-7w95>
+	<dsbase:tids-7w95 rdf:about="http://data.ct.gov/resource/tids-7w95/75">
+		<rdfs:member rdf:resource="http://data.ct.gov/resource/tids-7w95"/>
+		<ds:soc_title>Database Administrators</ds:soc_title>
+		<ds:employment>1,460</ds:employment>
+	</dsbase:tids-7w95>
+	<dsbase:tids-7w95 rdf:about="http://data.ct.gov/resource/tids-7w95/76">
+		<rdfs:member rdf:resource="http://data.ct.gov/resource/tids-7w95"/>
+		<ds:soc_title>Network and Computer Systems Administrators</ds:soc_title>
+		<ds:employment>3,710</ds:employment>
+	</dsbase:tids-7w95>
+	<dsbase:tids-7w95 rdf:about="http://data.ct.gov/resource/tids-7w95/77">
+		<rdfs:member rdf:resource="http://data.ct.gov/resource/tids-7w95"/>
+		<ds:soc_title>Computer Network Architects</ds:soc_title>
+		<ds:employment>1,290</ds:employment>
+	</dsbase:tids-7w95>
+	<dsbase:tids-7w95 rdf:about="http://data.ct.gov/resource/tids-7w95/78">
+		<rdfs:member rdf:resource="http://data.ct.gov/resource/tids-7w95"/>
+		<ds:soc_title>Computer User Support Specialists</ds:soc_title>
+		<ds:employment>7,160</ds:employment>
+	</dsbase:tids-7w95>
+	<dsbase:tids-7w95 rdf:about="http://data.ct.gov/resource/tids-7w95/79">
+		<rdfs:member rdf:resource="http://data.ct.gov/resource/tids-7w95"/>
+		<ds:soc_title>Computer Network Support Specialists</ds:soc_title>
+		<ds:employment>1,180</ds:employment>
+	</dsbase:tids-7w95>
+	<dsbase:tids-7w95 rdf:about="http://data.ct.gov/resource/tids-7w95/80">
+		<rdfs:member rdf:resource="http://data.ct.gov/resource/tids-7w95"/>
+		<ds:soc_title>Computer Occupations, All Other</ds:soc_title>
+		<ds:employment>1,550</ds:employment>
+	</dsbase:tids-7w95>
+	<dsbase:tids-7w95 rdf:about="http://data.ct.gov/resource/tids-7w95/81">
+		<rdfs:member rdf:resource="http://data.ct.gov/resource/tids-7w95"/>
+		<ds:soc_title>Actuaries</ds:soc_title>
+		<ds:employment>980</ds:employment>
+	</dsbase:tids-7w95>
+	<dsbase:tids-7w95 rdf:about="http://data.ct.gov/resource/tids-7w95/82">
+		<rdfs:member rdf:resource="http://data.ct.gov/resource/tids-7w95"/>
+		<ds:soc_title>Operations Research Analysts</ds:soc_title>
+		<ds:employment>1,200</ds:employment>
+	</dsbase:tids-7w95>
+	<dsbase:tids-7w95 rdf:about="http://data.ct.gov/resource/tids-7w95/83">
+		<rdfs:member rdf:resource="http://data.ct.gov/resource/tids-7w95"/>
+		<ds:soc_title>Statisticians</ds:soc_title>
+		<ds:employment>410</ds:employment>
+	</dsbase:tids-7w95>
+	<dsbase:tids-7w95 rdf:about="http://data.ct.gov/resource/tids-7w95/84">
+		<rdfs:member rdf:resource="http://data.ct.gov/resource/tids-7w95"/>
+		<ds:soc_title>Mathematical Science Occupations, All Other</ds:soc_title>
+		<ds:employment>20</ds:employment>
+	</dsbase:tids-7w95>
+	<dsbase:tids-7w95 rdf:about="http://data.ct.gov/resource/tids-7w95/85">
+		<rdfs:member rdf:resource="http://data.ct.gov/resource/tids-7w95"/>
+		<ds:soc_title>Architecture and Engineering Occupations</ds:soc_title>
+		<ds:employment>33,140</ds:employment>
+	</dsbase:tids-7w95>
+	<dsbase:tids-7w95 rdf:about="http://data.ct.gov/resource/tids-7w95/86">
+		<rdfs:member rdf:resource="http://data.ct.gov/resource/tids-7w95"/>
+		<ds:soc_title>Architects, Except Landscape and Naval</ds:soc_title>
+		<ds:employment>1,330</ds:employment>
+	</dsbase:tids-7w95>
+	<dsbase:tids-7w95 rdf:about="http://data.ct.gov/resource/tids-7w95/87">
+		<rdfs:member rdf:resource="http://data.ct.gov/resource/tids-7w95"/>
+		<ds:soc_title>Landscape Architects</ds:soc_title>
+		<ds:employment>230</ds:employment>
+	</dsbase:tids-7w95>
+	<dsbase:tids-7w95 rdf:about="http://data.ct.gov/resource/tids-7w95/88">
+		<rdfs:member rdf:resource="http://data.ct.gov/resource/tids-7w95"/>
+		<ds:soc_title>Cartographers and Photogrammetrists</ds:soc_title>
+		<ds:employment>50</ds:employment>
+	</dsbase:tids-7w95>
+	<dsbase:tids-7w95 rdf:about="http://data.ct.gov/resource/tids-7w95/89">
+		<rdfs:member rdf:resource="http://data.ct.gov/resource/tids-7w95"/>
+		<ds:soc_title>Surveyors</ds:soc_title>
+		<ds:employment>490</ds:employment>
+	</dsbase:tids-7w95>
+	<dsbase:tids-7w95 rdf:about="http://data.ct.gov/resource/tids-7w95/90">
+		<rdfs:member rdf:resource="http://data.ct.gov/resource/tids-7w95"/>
+		<ds:soc_title>Aerospace Engineers</ds:soc_title>
+		<ds:employment>2,000</ds:employment>
+	</dsbase:tids-7w95>
+	<dsbase:tids-7w95 rdf:about="http://data.ct.gov/resource/tids-7w95/91">
+		<rdfs:member rdf:resource="http://data.ct.gov/resource/tids-7w95"/>
+		<ds:soc_title>Biomedical Engineers</ds:soc_title>
+		<ds:employment>110</ds:employment>
+	</dsbase:tids-7w95>
+	<dsbase:tids-7w95 rdf:about="http://data.ct.gov/resource/tids-7w95/92">
+		<rdfs:member rdf:resource="http://data.ct.gov/resource/tids-7w95"/>
+		<ds:soc_title>Chemical Engineers</ds:soc_title>
+		<ds:employment>340</ds:employment>
+	</dsbase:tids-7w95>
+	<dsbase:tids-7w95 rdf:about="http://data.ct.gov/resource/tids-7w95/93">
+		<rdfs:member rdf:resource="http://data.ct.gov/resource/tids-7w95"/>
+		<ds:soc_title>Civil Engineers</ds:soc_title>
+		<ds:employment>3,690</ds:employment>
+	</dsbase:tids-7w95>
+	<dsbase:tids-7w95 rdf:about="http://data.ct.gov/resource/tids-7w95/94">
+		<rdfs:member rdf:resource="http://data.ct.gov/resource/tids-7w95"/>
+		<ds:soc_title>Computer Hardware Engineers</ds:soc_title>
+		<ds:employment>380</ds:employment>
+	</dsbase:tids-7w95>
+	<dsbase:tids-7w95 rdf:about="http://data.ct.gov/resource/tids-7w95/95">
+		<rdfs:member rdf:resource="http://data.ct.gov/resource/tids-7w95"/>
+		<ds:soc_title>Electrical Engineers</ds:soc_title>
+		<ds:employment>1,950</ds:employment>
+	</dsbase:tids-7w95>
+	<dsbase:tids-7w95 rdf:about="http://data.ct.gov/resource/tids-7w95/96">
+		<rdfs:member rdf:resource="http://data.ct.gov/resource/tids-7w95"/>
+		<ds:soc_title>Electronics Engineers, Except Computer</ds:soc_title>
+		<ds:employment>730</ds:employment>
+	</dsbase:tids-7w95>
+	<dsbase:tids-7w95 rdf:about="http://data.ct.gov/resource/tids-7w95/97">
+		<rdfs:member rdf:resource="http://data.ct.gov/resource/tids-7w95"/>
+		<ds:soc_title>Environmental Engineers</ds:soc_title>
+		<ds:employment>600</ds:employment>
+	</dsbase:tids-7w95>
+	<dsbase:tids-7w95 rdf:about="http://data.ct.gov/resource/tids-7w95/98">
+		<rdfs:member rdf:resource="http://data.ct.gov/resource/tids-7w95"/>
+		<ds:soc_title>Health and Safety Engineers, Except Mining Safety Engineers and Inspectors</ds:soc_title>
+		<ds:employment>130</ds:employment>
+	</dsbase:tids-7w95>
+	<dsbase:tids-7w95 rdf:about="http://data.ct.gov/resource/tids-7w95/99">
+		<rdfs:member rdf:resource="http://data.ct.gov/resource/tids-7w95"/>
+		<ds:soc_title>Industrial Engineers</ds:soc_title>
+		<ds:employment>4,250</ds:employment>
+	</dsbase:tids-7w95>
+	<dsbase:tids-7w95 rdf:about="http://data.ct.gov/resource/tids-7w95/100">
+		<rdfs:member rdf:resource="http://data.ct.gov/resource/tids-7w95"/>
+		<ds:soc_title>Materials Engineers</ds:soc_title>
+		<ds:employment>580</ds:employment>
+	</dsbase:tids-7w95>
+	<dsbase:tids-7w95 rdf:about="http://data.ct.gov/resource/tids-7w95/101">
+		<rdfs:member rdf:resource="http://data.ct.gov/resource/tids-7w95"/>
+		<ds:soc_title>Mechanical Engineers</ds:soc_title>
+		<ds:employment>5,970</ds:employment>
+	</dsbase:tids-7w95>
+	<dsbase:tids-7w95 rdf:about="http://data.ct.gov/resource/tids-7w95/102">
+		<rdfs:member rdf:resource="http://data.ct.gov/resource/tids-7w95"/>
+		<ds:soc_title>Nuclear Engineers</ds:soc_title>
+		<ds:employment>460</ds:employment>
+	</dsbase:tids-7w95>
+	<dsbase:tids-7w95 rdf:about="http://data.ct.gov/resource/tids-7w95/103">
+		<rdfs:member rdf:resource="http://data.ct.gov/resource/tids-7w95"/>
+		<ds:soc_title>Engineers, All Other</ds:soc_title>
+		<ds:employment>1,470</ds:employment>
+	</dsbase:tids-7w95>
+	<dsbase:tids-7w95 rdf:about="http://data.ct.gov/resource/tids-7w95/104">
+		<rdfs:member rdf:resource="http://data.ct.gov/resource/tids-7w95"/>
+		<ds:soc_title>Architectural and Civil Drafters</ds:soc_title>
+		<ds:employment>790</ds:employment>
+	</dsbase:tids-7w95>
+	<dsbase:tids-7w95 rdf:about="http://data.ct.gov/resource/tids-7w95/105">
+		<rdfs:member rdf:resource="http://data.ct.gov/resource/tids-7w95"/>
+		<ds:soc_title>Electrical and Electronics Drafters</ds:soc_title>
+		<ds:employment>370</ds:employment>
+	</dsbase:tids-7w95>
+	<dsbase:tids-7w95 rdf:about="http://data.ct.gov/resource/tids-7w95/106">
+		<rdfs:member rdf:resource="http://data.ct.gov/resource/tids-7w95"/>
+		<ds:soc_title>Mechanical Drafters</ds:soc_title>
+		<ds:employment>1,790</ds:employment>
+	</dsbase:tids-7w95>
+	<dsbase:tids-7w95 rdf:about="http://data.ct.gov/resource/tids-7w95/107">
+		<rdfs:member rdf:resource="http://data.ct.gov/resource/tids-7w95"/>
+		<ds:soc_title>Drafters, All Other</ds:soc_title>
+		<ds:employment>120</ds:employment>
+	</dsbase:tids-7w95>
+	<dsbase:tids-7w95 rdf:about="http://data.ct.gov/resource/tids-7w95/108">
+		<rdfs:member rdf:resource="http://data.ct.gov/resource/tids-7w95"/>
+		<ds:soc_title>Aerospace Engineering and Operations Technicians</ds:soc_title>
+		<ds:employment>110</ds:employment>
+	</dsbase:tids-7w95>
+	<dsbase:tids-7w95 rdf:about="http://data.ct.gov/resource/tids-7w95/109">
+		<rdfs:member rdf:resource="http://data.ct.gov/resource/tids-7w95"/>
+		<ds:soc_title>Civil Engineering Technicians</ds:soc_title>
+		<ds:employment>460</ds:employment>
+	</dsbase:tids-7w95>
+	<dsbase:tids-7w95 rdf:about="http://data.ct.gov/resource/tids-7w95/110">
+		<rdfs:member rdf:resource="http://data.ct.gov/resource/tids-7w95"/>
+		<ds:soc_title>Electrical and Electronics Engineering Technicians</ds:soc_title>
+		<ds:employment>1,540</ds:employment>
+	</dsbase:tids-7w95>
+	<dsbase:tids-7w95 rdf:about="http://data.ct.gov/resource/tids-7w95/111">
+		<rdfs:member rdf:resource="http://data.ct.gov/resource/tids-7w95"/>
+		<ds:soc_title>Electro-Mechanical Technicians</ds:soc_title>
+		<ds:employment>70</ds:employment>
+	</dsbase:tids-7w95>
+	<dsbase:tids-7w95 rdf:about="http://data.ct.gov/resource/tids-7w95/112">
+		<rdfs:member rdf:resource="http://data.ct.gov/resource/tids-7w95"/>
+		<ds:soc_title>Environmental Engineering Technicians</ds:soc_title>
+		<ds:employment>170</ds:employment>
+	</dsbase:tids-7w95>
+	<dsbase:tids-7w95 rdf:about="http://data.ct.gov/resource/tids-7w95/113">
+		<rdfs:member rdf:resource="http://data.ct.gov/resource/tids-7w95"/>
+		<ds:soc_title>Industrial Engineering Technicians</ds:soc_title>
+		<ds:employment>950</ds:employment>
+	</dsbase:tids-7w95>
+	<dsbase:tids-7w95 rdf:about="http://data.ct.gov/resource/tids-7w95/114">
+		<rdfs:member rdf:resource="http://data.ct.gov/resource/tids-7w95"/>
+		<ds:soc_title>Mechanical Engineering Technicians</ds:soc_title>
+		<ds:employment>910</ds:employment>
+	</dsbase:tids-7w95>
+	<dsbase:tids-7w95 rdf:about="http://data.ct.gov/resource/tids-7w95/115">
+		<rdfs:member rdf:resource="http://data.ct.gov/resource/tids-7w95"/>
+		<ds:soc_title>Engineering Technicians, Except Drafters, All Other</ds:soc_title>
+		<ds:employment>610</ds:employment>
+	</dsbase:tids-7w95>
+	<dsbase:tids-7w95 rdf:about="http://data.ct.gov/resource/tids-7w95/116">
+		<rdfs:member rdf:resource="http://data.ct.gov/resource/tids-7w95"/>
+		<ds:soc_title>Surveying and Mapping Technicians</ds:soc_title>
+		<ds:employment>260</ds:employment>
+	</dsbase:tids-7w95>
+	<dsbase:tids-7w95 rdf:about="http://data.ct.gov/resource/tids-7w95/117">
+		<rdfs:member rdf:resource="http://data.ct.gov/resource/tids-7w95"/>
+		<ds:soc_title>Life, Physical, and Social Science Occupations</ds:soc_title>
+		<ds:employment>12,560</ds:employment>
+	</dsbase:tids-7w95>
+	<dsbase:tids-7w95 rdf:about="http://data.ct.gov/resource/tids-7w95/118">
+		<rdfs:member rdf:resource="http://data.ct.gov/resource/tids-7w95"/>
+		<ds:soc_title>Food Scientists and Technologists</ds:soc_title>
+		<ds:employment>N/A</ds:employment>
+	</dsbase:tids-7w95>
+	<dsbase:tids-7w95 rdf:about="http://data.ct.gov/resource/tids-7w95/119">
+		<rdfs:member rdf:resource="http://data.ct.gov/resource/tids-7w95"/>
+		<ds:soc_title>Soil and Plant Scientists</ds:soc_title>
+		<ds:employment>110</ds:employment>
+	</dsbase:tids-7w95>
+	<dsbase:tids-7w95 rdf:about="http://data.ct.gov/resource/tids-7w95/120">
+		<rdfs:member rdf:resource="http://data.ct.gov/resource/tids-7w95"/>
+		<ds:soc_title>Biochemists and Biophysicists</ds:soc_title>
+		<ds:employment>310</ds:employment>
+	</dsbase:tids-7w95>
+	<dsbase:tids-7w95 rdf:about="http://data.ct.gov/resource/tids-7w95/121">
+		<rdfs:member rdf:resource="http://data.ct.gov/resource/tids-7w95"/>
+		<ds:soc_title>Microbiologists</ds:soc_title>
+		<ds:employment>160</ds:employment>
+	</dsbase:tids-7w95>
+	<dsbase:tids-7w95 rdf:about="http://data.ct.gov/resource/tids-7w95/122">
+		<rdfs:member rdf:resource="http://data.ct.gov/resource/tids-7w95"/>
+		<ds:soc_title>Zoologists and Wildlife Biologists</ds:soc_title>
+		<ds:employment>80</ds:employment>
+	</dsbase:tids-7w95>
+	<dsbase:tids-7w95 rdf:about="http://data.ct.gov/resource/tids-7w95/123">
+		<rdfs:member rdf:resource="http://data.ct.gov/resource/tids-7w95"/>
+		<ds:soc_title>Biological Scientists, All Other</ds:soc_title>
+		<ds:employment>40</ds:employment>
+	</dsbase:tids-7w95>
+	<dsbase:tids-7w95 rdf:about="http://data.ct.gov/resource/tids-7w95/124">
+		<rdfs:member rdf:resource="http://data.ct.gov/resource/tids-7w95"/>
+		<ds:soc_title>Conservation Scientists</ds:soc_title>
+		<ds:employment>50</ds:employment>
+	</dsbase:tids-7w95>
+	<dsbase:tids-7w95 rdf:about="http://data.ct.gov/resource/tids-7w95/125">
+		<rdfs:member rdf:resource="http://data.ct.gov/resource/tids-7w95"/>
+		<ds:soc_title>Foresters</ds:soc_title>
+		<ds:employment>80</ds:employment>
+	</dsbase:tids-7w95>
+	<dsbase:tids-7w95 rdf:about="http://data.ct.gov/resource/tids-7w95/126">
+		<rdfs:member rdf:resource="http://data.ct.gov/resource/tids-7w95"/>
+		<ds:soc_title>Epidemiologists</ds:soc_title>
+		<ds:employment>120</ds:employment>
+	</dsbase:tids-7w95>
+	<dsbase:tids-7w95 rdf:about="http://data.ct.gov/resource/tids-7w95/127">
+		<rdfs:member rdf:resource="http://data.ct.gov/resource/tids-7w95"/>
+		<ds:soc_title>Medical Scientists, Except Epidemiologists</ds:soc_title>
+		<ds:employment>2,700</ds:employment>
+	</dsbase:tids-7w95>
+	<dsbase:tids-7w95 rdf:about="http://data.ct.gov/resource/tids-7w95/128">
+		<rdfs:member rdf:resource="http://data.ct.gov/resource/tids-7w95"/>
+		<ds:soc_title>Life Scientists, All Other</ds:soc_title>
+		<ds:employment>190</ds:employment>
+	</dsbase:tids-7w95>
+	<dsbase:tids-7w95 rdf:about="http://data.ct.gov/resource/tids-7w95/129">
+		<rdfs:member rdf:resource="http://data.ct.gov/resource/tids-7w95"/>
+		<ds:soc_title>Physicists</ds:soc_title>
+		<ds:employment>130</ds:employment>
+	</dsbase:tids-7w95>
+	<dsbase:tids-7w95 rdf:about="http://data.ct.gov/resource/tids-7w95/130">
+		<rdfs:member rdf:resource="http://data.ct.gov/resource/tids-7w95"/>
+		<ds:soc_title>Atmospheric and Space Scientists</ds:soc_title>
+		<ds:employment>30</ds:employment>
+	</dsbase:tids-7w95>
+	<dsbase:tids-7w95 rdf:about="http://data.ct.gov/resource/tids-7w95/131">
+		<rdfs:member rdf:resource="http://data.ct.gov/resource/tids-7w95"/>
+		<ds:soc_title>Chemists</ds:soc_title>
+		<ds:employment>1,350</ds:employment>
+	</dsbase:tids-7w95>
+	<dsbase:tids-7w95 rdf:about="http://data.ct.gov/resource/tids-7w95/132">
+		<rdfs:member rdf:resource="http://data.ct.gov/resource/tids-7w95"/>
+		<ds:soc_title>Materials Scientists</ds:soc_title>
+		<ds:employment>110</ds:employment>
+	</dsbase:tids-7w95>
+	<dsbase:tids-7w95 rdf:about="http://data.ct.gov/resource/tids-7w95/133">
+		<rdfs:member rdf:resource="http://data.ct.gov/resource/tids-7w95"/>
+		<ds:soc_title>Environmental Scientists and Specialists, Including Health</ds:soc_title>
+		<ds:employment>750</ds:employment>
+	</dsbase:tids-7w95>
+	<dsbase:tids-7w95 rdf:about="http://data.ct.gov/resource/tids-7w95/134">
+		<rdfs:member rdf:resource="http://data.ct.gov/resource/tids-7w95"/>
+		<ds:soc_title>Geoscientists, Except Hydrologists and Geographers</ds:soc_title>
+		<ds:employment>N/A</ds:employment>
+	</dsbase:tids-7w95>
+	<dsbase:tids-7w95 rdf:about="http://data.ct.gov/resource/tids-7w95/135">
+		<rdfs:member rdf:resource="http://data.ct.gov/resource/tids-7w95"/>
+		<ds:soc_title>Hydrologists</ds:soc_title>
+		<ds:employment>70</ds:employment>
+	</dsbase:tids-7w95>
+	<dsbase:tids-7w95 rdf:about="http://data.ct.gov/resource/tids-7w95/136">
+		<rdfs:member rdf:resource="http://data.ct.gov/resource/tids-7w95"/>
+		<ds:soc_title>Physical Scientists, All Other</ds:soc_title>
+		<ds:employment>100</ds:employment>
+	</dsbase:tids-7w95>
+	<dsbase:tids-7w95 rdf:about="http://data.ct.gov/resource/tids-7w95/137">
+		<rdfs:member rdf:resource="http://data.ct.gov/resource/tids-7w95"/>
+		<ds:soc_title>Economists</ds:soc_title>
+		<ds:employment>170</ds:employment>
+	</dsbase:tids-7w95>
+	<dsbase:tids-7w95 rdf:about="http://data.ct.gov/resource/tids-7w95/138">
+		<rdfs:member rdf:resource="http://data.ct.gov/resource/tids-7w95"/>
+		<ds:soc_title>Survey Researchers</ds:soc_title>
+		<ds:employment>470</ds:employment>
+	</dsbase:tids-7w95>
+	<dsbase:tids-7w95 rdf:about="http://data.ct.gov/resource/tids-7w95/139">
+		<rdfs:member rdf:resource="http://data.ct.gov/resource/tids-7w95"/>
+		<ds:soc_title>Clinical, Counseling, and School Psychologists</ds:soc_title>
+		<ds:employment>1,820</ds:employment>
+	</dsbase:tids-7w95>
+	<dsbase:tids-7w95 rdf:about="http://data.ct.gov/resource/tids-7w95/140">
+		<rdfs:member rdf:resource="http://data.ct.gov/resource/tids-7w95"/>
+		<ds:soc_title>Psychologists, All Other</ds:soc_title>
+		<ds:employment>170</ds:employment>
+	</dsbase:tids-7w95>
+	<dsbase:tids-7w95 rdf:about="http://data.ct.gov/resource/tids-7w95/141">
+		<rdfs:member rdf:resource="http://data.ct.gov/resource/tids-7w95"/>
+		<ds:soc_title>Urban and Regional Planners</ds:soc_title>
+		<ds:employment>340</ds:employment>
+	</dsbase:tids-7w95>
+	<dsbase:tids-7w95 rdf:about="http://data.ct.gov/resource/tids-7w95/142">
+		<rdfs:member rdf:resource="http://data.ct.gov/resource/tids-7w95"/>
+		<ds:soc_title>Anthropologists and Archeologists</ds:soc_title>
+		<ds:employment>N/A</ds:employment>
+	</dsbase:tids-7w95>
+	<dsbase:tids-7w95 rdf:about="http://data.ct.gov/resource/tids-7w95/143">
+		<rdfs:member rdf:resource="http://data.ct.gov/resource/tids-7w95"/>
+		<ds:soc_title>Historians</ds:soc_title>
+		<ds:employment>10</ds:employment>
+	</dsbase:tids-7w95>
+	<dsbase:tids-7w95 rdf:about="http://data.ct.gov/resource/tids-7w95/144">
+		<rdfs:member rdf:resource="http://data.ct.gov/resource/tids-7w95"/>
+		<ds:soc_title>Social Scientists and Related Workers, All Other</ds:soc_title>
+		<ds:employment>320</ds:employment>
+	</dsbase:tids-7w95>
+	<dsbase:tids-7w95 rdf:about="http://data.ct.gov/resource/tids-7w95/145">
+		<rdfs:member rdf:resource="http://data.ct.gov/resource/tids-7w95"/>
+		<ds:soc_title>Agricultural and Food Science Technicians</ds:soc_title>
+		<ds:employment>N/A</ds:employment>
+	</dsbase:tids-7w95>
+	<dsbase:tids-7w95 rdf:about="http://data.ct.gov/resource/tids-7w95/146">
+		<rdfs:member rdf:resource="http://data.ct.gov/resource/tids-7w95"/>
+		<ds:soc_title>Biological Technicians</ds:soc_title>
+		<ds:employment>600</ds:employment>
+	</dsbase:tids-7w95>
+	<dsbase:tids-7w95 rdf:about="http://data.ct.gov/resource/tids-7w95/147">
+		<rdfs:member rdf:resource="http://data.ct.gov/resource/tids-7w95"/>
+		<ds:soc_title>Chemical Technicians</ds:soc_title>
+		<ds:employment>890</ds:employment>
+	</dsbase:tids-7w95>
+	<dsbase:tids-7w95 rdf:about="http://data.ct.gov/resource/tids-7w95/148">
+		<rdfs:member rdf:resource="http://data.ct.gov/resource/tids-7w95"/>
+		<ds:soc_title>Nuclear Technicians</ds:soc_title>
+		<ds:employment>110</ds:employment>
+	</dsbase:tids-7w95>
+	<dsbase:tids-7w95 rdf:about="http://data.ct.gov/resource/tids-7w95/149">
+		<rdfs:member rdf:resource="http://data.ct.gov/resource/tids-7w95"/>
+		<ds:soc_title>Social Science Research Assistants</ds:soc_title>
+		<ds:employment>90</ds:employment>
+	</dsbase:tids-7w95>
+	<dsbase:tids-7w95 rdf:about="http://data.ct.gov/resource/tids-7w95/150">
+		<rdfs:member rdf:resource="http://data.ct.gov/resource/tids-7w95"/>
+		<ds:soc_title>Environmental Science and Protection Technicians, Including Health</ds:soc_title>
+		<ds:employment>320</ds:employment>
+	</dsbase:tids-7w95>
+	<dsbase:tids-7w95 rdf:about="http://data.ct.gov/resource/tids-7w95/151">
+		<rdfs:member rdf:resource="http://data.ct.gov/resource/tids-7w95"/>
+		<ds:soc_title>Forensic Science Technicians</ds:soc_title>
+		<ds:employment>110</ds:employment>
+	</dsbase:tids-7w95>
+	<dsbase:tids-7w95 rdf:about="http://data.ct.gov/resource/tids-7w95/152">
+		<rdfs:member rdf:resource="http://data.ct.gov/resource/tids-7w95"/>
+		<ds:soc_title>Forest and Conservation Technicians</ds:soc_title>
+		<ds:employment>20</ds:employment>
+	</dsbase:tids-7w95>
+	<dsbase:tids-7w95 rdf:about="http://data.ct.gov/resource/tids-7w95/153">
+		<rdfs:member rdf:resource="http://data.ct.gov/resource/tids-7w95"/>
+		<ds:soc_title>Life, Physical, and Social Science Technicians, All Other</ds:soc_title>
+		<ds:employment>540</ds:employment>
+	</dsbase:tids-7w95>
+	<dsbase:tids-7w95 rdf:about="http://data.ct.gov/resource/tids-7w95/154">
+		<rdfs:member rdf:resource="http://data.ct.gov/resource/tids-7w95"/>
+		<ds:soc_title>Community and Social Services Occupations</ds:soc_title>
+		<ds:employment>34,870</ds:employment>
+	</dsbase:tids-7w95>
+	<dsbase:tids-7w95 rdf:about="http://data.ct.gov/resource/tids-7w95/155">
+		<rdfs:member rdf:resource="http://data.ct.gov/resource/tids-7w95"/>
+		<ds:soc_title>Substance Abuse and Behavioral Disorder Counselors</ds:soc_title>
+		<ds:employment>2,760</ds:employment>
+	</dsbase:tids-7w95>
+	<dsbase:tids-7w95 rdf:about="http://data.ct.gov/resource/tids-7w95/156">
+		<rdfs:member rdf:resource="http://data.ct.gov/resource/tids-7w95"/>
+		<ds:soc_title>Educational, Guidance, School, and Vocational Counselors</ds:soc_title>
+		<ds:employment>4,670</ds:employment>
+	</dsbase:tids-7w95>
+	<dsbase:tids-7w95 rdf:about="http://data.ct.gov/resource/tids-7w95/157">
+		<rdfs:member rdf:resource="http://data.ct.gov/resource/tids-7w95"/>
+		<ds:soc_title>Marriage and Family Therapists</ds:soc_title>
+		<ds:employment>370</ds:employment>
+	</dsbase:tids-7w95>
+	<dsbase:tids-7w95 rdf:about="http://data.ct.gov/resource/tids-7w95/158">
+		<rdfs:member rdf:resource="http://data.ct.gov/resource/tids-7w95"/>
+		<ds:soc_title>Mental Health Counselors</ds:soc_title>
+		<ds:employment>2,250</ds:employment>
+	</dsbase:tids-7w95>
+	<dsbase:tids-7w95 rdf:about="http://data.ct.gov/resource/tids-7w95/159">
+		<rdfs:member rdf:resource="http://data.ct.gov/resource/tids-7w95"/>
+		<ds:soc_title>Rehabilitation Counselors</ds:soc_title>
+		<ds:employment>2,360</ds:employment>
+	</dsbase:tids-7w95>
+	<dsbase:tids-7w95 rdf:about="http://data.ct.gov/resource/tids-7w95/160">
+		<rdfs:member rdf:resource="http://data.ct.gov/resource/tids-7w95"/>
+		<ds:soc_title>Counselors, All Other</ds:soc_title>
+		<ds:employment>450</ds:employment>
+	</dsbase:tids-7w95>
+	<dsbase:tids-7w95 rdf:about="http://data.ct.gov/resource/tids-7w95/161">
+		<rdfs:member rdf:resource="http://data.ct.gov/resource/tids-7w95"/>
+		<ds:soc_title>Child, Family, and School Social Workers</ds:soc_title>
+		<ds:employment>5,610</ds:employment>
+	</dsbase:tids-7w95>
+	<dsbase:tids-7w95 rdf:about="http://data.ct.gov/resource/tids-7w95/162">
+		<rdfs:member rdf:resource="http://data.ct.gov/resource/tids-7w95"/>
+		<ds:soc_title>Healthcare Social Workers</ds:soc_title>
+		<ds:employment>2,090</ds:employment>
+	</dsbase:tids-7w95>
+	<dsbase:tids-7w95 rdf:about="http://data.ct.gov/resource/tids-7w95/163">
+		<rdfs:member rdf:resource="http://data.ct.gov/resource/tids-7w95"/>
+		<ds:soc_title>Mental Health and Substance Abuse Social Workers</ds:soc_title>
+		<ds:employment>2,050</ds:employment>
+	</dsbase:tids-7w95>
+	<dsbase:tids-7w95 rdf:about="http://data.ct.gov/resource/tids-7w95/164">
+		<rdfs:member rdf:resource="http://data.ct.gov/resource/tids-7w95"/>
+		<ds:soc_title>Social Workers, All Other</ds:soc_title>
+		<ds:employment>310</ds:employment>
+	</dsbase:tids-7w95>
+	<dsbase:tids-7w95 rdf:about="http://data.ct.gov/resource/tids-7w95/165">
+		<rdfs:member rdf:resource="http://data.ct.gov/resource/tids-7w95"/>
+		<ds:soc_title>Health Educators</ds:soc_title>
+		<ds:employment>600</ds:employment>
+	</dsbase:tids-7w95>
+	<dsbase:tids-7w95 rdf:about="http://data.ct.gov/resource/tids-7w95/166">
+		<rdfs:member rdf:resource="http://data.ct.gov/resource/tids-7w95"/>
+		<ds:soc_title>Social and Human Service Assistants</ds:soc_title>
+		<ds:employment>7,810</ds:employment>
+	</dsbase:tids-7w95>
+	<dsbase:tids-7w95 rdf:about="http://data.ct.gov/resource/tids-7w95/167">
+		<rdfs:member rdf:resource="http://data.ct.gov/resource/tids-7w95"/>
+		<ds:soc_title>Community Health Workers</ds:soc_title>
+		<ds:employment>640</ds:employment>
+	</dsbase:tids-7w95>
+	<dsbase:tids-7w95 rdf:about="http://data.ct.gov/resource/tids-7w95/168">
+		<rdfs:member rdf:resource="http://data.ct.gov/resource/tids-7w95"/>
+		<ds:soc_title>Community and Social Service Specialists, All Other</ds:soc_title>
+		<ds:employment>1,050</ds:employment>
+	</dsbase:tids-7w95>
+	<dsbase:tids-7w95 rdf:about="http://data.ct.gov/resource/tids-7w95/169">
+		<rdfs:member rdf:resource="http://data.ct.gov/resource/tids-7w95"/>
+		<ds:soc_title>Clergy</ds:soc_title>
+		<ds:employment>410</ds:employment>
+	</dsbase:tids-7w95>
+	<dsbase:tids-7w95 rdf:about="http://data.ct.gov/resource/tids-7w95/170">
+		<rdfs:member rdf:resource="http://data.ct.gov/resource/tids-7w95"/>
+		<ds:soc_title>Directors, Religious Activities and Education</ds:soc_title>
+		<ds:employment>50</ds:employment>
+	</dsbase:tids-7w95>
+	<dsbase:tids-7w95 rdf:about="http://data.ct.gov/resource/tids-7w95/171">
+		<rdfs:member rdf:resource="http://data.ct.gov/resource/tids-7w95"/>
+		<ds:soc_title>Religious Workers, All Other</ds:soc_title>
+		<ds:employment>30</ds:employment>
+	</dsbase:tids-7w95>
+	<dsbase:tids-7w95 rdf:about="http://data.ct.gov/resource/tids-7w95/172">
+		<rdfs:member rdf:resource="http://data.ct.gov/resource/tids-7w95"/>
+		<ds:soc_title>Legal Occupations</ds:soc_title>
+		<ds:employment>14,660</ds:employment>
+	</dsbase:tids-7w95>
+	<dsbase:tids-7w95 rdf:about="http://data.ct.gov/resource/tids-7w95/173">
+		<rdfs:member rdf:resource="http://data.ct.gov/resource/tids-7w95"/>
+		<ds:soc_title>Lawyers</ds:soc_title>
+		<ds:employment>7,660</ds:employment>
+	</dsbase:tids-7w95>
+	<dsbase:tids-7w95 rdf:about="http://data.ct.gov/resource/tids-7w95/174">
+		<rdfs:member rdf:resource="http://data.ct.gov/resource/tids-7w95"/>
+		<ds:soc_title>Judicial Law Clerks</ds:soc_title>
+		<ds:employment>240</ds:employment>
+	</dsbase:tids-7w95>
+	<dsbase:tids-7w95 rdf:about="http://data.ct.gov/resource/tids-7w95/175">
+		<rdfs:member rdf:resource="http://data.ct.gov/resource/tids-7w95"/>
+		<ds:soc_title>Administrative Law Judges, Adjudicators, and Hearing Officers</ds:soc_title>
+		<ds:employment>290</ds:employment>
+	</dsbase:tids-7w95>
+	<dsbase:tids-7w95 rdf:about="http://data.ct.gov/resource/tids-7w95/176">
+		<rdfs:member rdf:resource="http://data.ct.gov/resource/tids-7w95"/>
+		<ds:soc_title>Arbitrators, Mediators, and Conciliators</ds:soc_title>
+		<ds:employment>60</ds:employment>
+	</dsbase:tids-7w95>
+	<dsbase:tids-7w95 rdf:about="http://data.ct.gov/resource/tids-7w95/177">
+		<rdfs:member rdf:resource="http://data.ct.gov/resource/tids-7w95"/>
+		<ds:soc_title>Judges, Magistrate Judges, and Magistrates</ds:soc_title>
+		<ds:employment>230</ds:employment>
+	</dsbase:tids-7w95>
+	<dsbase:tids-7w95 rdf:about="http://data.ct.gov/resource/tids-7w95/178">
+		<rdfs:member rdf:resource="http://data.ct.gov/resource/tids-7w95"/>
+		<ds:soc_title>Paralegals and Legal Assistants</ds:soc_title>
+		<ds:employment>5,420</ds:employment>
+	</dsbase:tids-7w95>
+	<dsbase:tids-7w95 rdf:about="http://data.ct.gov/resource/tids-7w95/179">
+		<rdfs:member rdf:resource="http://data.ct.gov/resource/tids-7w95"/>
+		<ds:soc_title>Court Reporters</ds:soc_title>
+		<ds:employment>280</ds:employment>
+	</dsbase:tids-7w95>
+	<dsbase:tids-7w95 rdf:about="http://data.ct.gov/resource/tids-7w95/180">
+		<rdfs:member rdf:resource="http://data.ct.gov/resource/tids-7w95"/>
+		<ds:soc_title>Title Examiners, Abstractors, and Searchers</ds:soc_title>
+		<ds:employment>N/A</ds:employment>
+	</dsbase:tids-7w95>
+	<dsbase:tids-7w95 rdf:about="http://data.ct.gov/resource/tids-7w95/181">
+		<rdfs:member rdf:resource="http://data.ct.gov/resource/tids-7w95"/>
+		<ds:soc_title>Legal Support Workers, All Other</ds:soc_title>
+		<ds:employment>280</ds:employment>
+	</dsbase:tids-7w95>
+	<dsbase:tids-7w95 rdf:about="http://data.ct.gov/resource/tids-7w95/182">
+		<rdfs:member rdf:resource="http://data.ct.gov/resource/tids-7w95"/>
+		<ds:soc_title>Education, Training, and Library Occupations</ds:soc_title>
+		<ds:employment>124,410</ds:employment>
+	</dsbase:tids-7w95>
+	<dsbase:tids-7w95 rdf:about="http://data.ct.gov/resource/tids-7w95/183">
+		<rdfs:member rdf:resource="http://data.ct.gov/resource/tids-7w95"/>
+		<ds:soc_title>Business Teachers, Postsecondary</ds:soc_title>
+		<ds:employment>1,670</ds:employment>
+	</dsbase:tids-7w95>
+	<dsbase:tids-7w95 rdf:about="http://data.ct.gov/resource/tids-7w95/184">
+		<rdfs:member rdf:resource="http://data.ct.gov/resource/tids-7w95"/>
+		<ds:soc_title>Computer Science Teachers, Postsecondary</ds:soc_title>
+		<ds:employment>370</ds:employment>
+	</dsbase:tids-7w95>
+	<dsbase:tids-7w95 rdf:about="http://data.ct.gov/resource/tids-7w95/185">
+		<rdfs:member rdf:resource="http://data.ct.gov/resource/tids-7w95"/>
+		<ds:soc_title>Mathematical Science Teachers, Postsecondary</ds:soc_title>
+		<ds:employment>660</ds:employment>
+	</dsbase:tids-7w95>
+	<dsbase:tids-7w95 rdf:about="http://data.ct.gov/resource/tids-7w95/186">
+		<rdfs:member rdf:resource="http://data.ct.gov/resource/tids-7w95"/>
+		<ds:soc_title>Engineering Teachers, Postsecondary</ds:soc_title>
+		<ds:employment>650</ds:employment>
+	</dsbase:tids-7w95>
+	<dsbase:tids-7w95 rdf:about="http://data.ct.gov/resource/tids-7w95/187">
+		<rdfs:member rdf:resource="http://data.ct.gov/resource/tids-7w95"/>
+		<ds:soc_title>Biological Science Teachers, Postsecondary</ds:soc_title>
+		<ds:employment>970</ds:employment>
+	</dsbase:tids-7w95>
+	<dsbase:tids-7w95 rdf:about="http://data.ct.gov/resource/tids-7w95/188">
+		<rdfs:member rdf:resource="http://data.ct.gov/resource/tids-7w95"/>
+		<ds:soc_title>Chemistry Teachers, Postsecondary</ds:soc_title>
+		<ds:employment>240</ds:employment>
+	</dsbase:tids-7w95>
+	<dsbase:tids-7w95 rdf:about="http://data.ct.gov/resource/tids-7w95/189">
+		<rdfs:member rdf:resource="http://data.ct.gov/resource/tids-7w95"/>
+		<ds:soc_title>Environmental Science Teachers, Postsecondary</ds:soc_title>
+		<ds:employment>140</ds:employment>
+	</dsbase:tids-7w95>
+	<dsbase:tids-7w95 rdf:about="http://data.ct.gov/resource/tids-7w95/190">
+		<rdfs:member rdf:resource="http://data.ct.gov/resource/tids-7w95"/>
+		<ds:soc_title>Physics Teachers, Postsecondary</ds:soc_title>
+		<ds:employment>180</ds:employment>
+	</dsbase:tids-7w95>
+	<dsbase:tids-7w95 rdf:about="http://data.ct.gov/resource/tids-7w95/191">
+		<rdfs:member rdf:resource="http://data.ct.gov/resource/tids-7w95"/>
+		<ds:soc_title>Anthropology and Archeology Teachers, Postsecondary</ds:soc_title>
+		<ds:employment>120</ds:employment>
+	</dsbase:tids-7w95>
+	<dsbase:tids-7w95 rdf:about="http://data.ct.gov/resource/tids-7w95/192">
+		<rdfs:member rdf:resource="http://data.ct.gov/resource/tids-7w95"/>
+		<ds:soc_title>Area, Ethnic, and Cultural Studies Teachers, Postsecondary</ds:soc_title>
+		<ds:employment>530</ds:employment>
+	</dsbase:tids-7w95>
+	<dsbase:tids-7w95 rdf:about="http://data.ct.gov/resource/tids-7w95/193">
+		<rdfs:member rdf:resource="http://data.ct.gov/resource/tids-7w95"/>
+		<ds:soc_title>Economics Teachers, Postsecondary</ds:soc_title>
+		<ds:employment>240</ds:employment>
+	</dsbase:tids-7w95>
+	<dsbase:tids-7w95 rdf:about="http://data.ct.gov/resource/tids-7w95/194">
+		<rdfs:member rdf:resource="http://data.ct.gov/resource/tids-7w95"/>
+		<ds:soc_title>Political Science Teachers, Postsecondary</ds:soc_title>
+		<ds:employment>270</ds:employment>
+	</dsbase:tids-7w95>
+	<dsbase:tids-7w95 rdf:about="http://data.ct.gov/resource/tids-7w95/195">
+		<rdfs:member rdf:resource="http://data.ct.gov/resource/tids-7w95"/>
+		<ds:soc_title>Psychology Teachers, Postsecondary</ds:soc_title>
+		<ds:employment>510</ds:employment>
+	</dsbase:tids-7w95>
+	<dsbase:tids-7w95 rdf:about="http://data.ct.gov/resource/tids-7w95/196">
+		<rdfs:member rdf:resource="http://data.ct.gov/resource/tids-7w95"/>
+		<ds:soc_title>Sociology Teachers, Postsecondary</ds:soc_title>
+		<ds:employment>220</ds:employment>
+	</dsbase:tids-7w95>
+	<dsbase:tids-7w95 rdf:about="http://data.ct.gov/resource/tids-7w95/197">
+		<rdfs:member rdf:resource="http://data.ct.gov/resource/tids-7w95"/>
+		<ds:soc_title>Social Sciences Teachers, Postsecondary, All Other</ds:soc_title>
+		<ds:employment>50</ds:employment>
+	</dsbase:tids-7w95>
+	<dsbase:tids-7w95 rdf:about="http://data.ct.gov/resource/tids-7w95/198">
+		<rdfs:member rdf:resource="http://data.ct.gov/resource/tids-7w95"/>
+		<ds:soc_title>Health Specialties Teachers, Postsecondary</ds:soc_title>
+		<ds:employment>3,210</ds:employment>
+	</dsbase:tids-7w95>
+	<dsbase:tids-7w95 rdf:about="http://data.ct.gov/resource/tids-7w95/199">
+		<rdfs:member rdf:resource="http://data.ct.gov/resource/tids-7w95"/>
+		<ds:soc_title>Nursing Instructors and Teachers, Postsecondary</ds:soc_title>
+		<ds:employment>980</ds:employment>
+	</dsbase:tids-7w95>
+	<dsbase:tids-7w95 rdf:about="http://data.ct.gov/resource/tids-7w95/200">
+		<rdfs:member rdf:resource="http://data.ct.gov/resource/tids-7w95"/>
+		<ds:soc_title>Education Teachers, Postsecondary</ds:soc_title>
+		<ds:employment>670</ds:employment>
+	</dsbase:tids-7w95>
+	<dsbase:tids-7w95 rdf:about="http://data.ct.gov/resource/tids-7w95/201">
+		<rdfs:member rdf:resource="http://data.ct.gov/resource/tids-7w95"/>
+		<ds:soc_title>Criminal Justice and Law Enforcement Teachers, Postsecondary</ds:soc_title>
+		<ds:employment>140</ds:employment>
+	</dsbase:tids-7w95>
+	<dsbase:tids-7w95 rdf:about="http://data.ct.gov/resource/tids-7w95/202">
+		<rdfs:member rdf:resource="http://data.ct.gov/resource/tids-7w95"/>
+		<ds:soc_title>Law Teachers, Postsecondary</ds:soc_title>
+		<ds:employment>N/A</ds:employment>
+	</dsbase:tids-7w95>
+	<dsbase:tids-7w95 rdf:about="http://data.ct.gov/resource/tids-7w95/203">
+		<rdfs:member rdf:resource="http://data.ct.gov/resource/tids-7w95"/>
+		<ds:soc_title>Social Work Teachers, Postsecondary</ds:soc_title>
+		<ds:employment>360</ds:employment>
+	</dsbase:tids-7w95>
+	<dsbase:tids-7w95 rdf:about="http://data.ct.gov/resource/tids-7w95/204">
+		<rdfs:member rdf:resource="http://data.ct.gov/resource/tids-7w95"/>
+		<ds:soc_title>Art, Drama, and Music Teachers, Postsecondary</ds:soc_title>
+		<ds:employment>1,090</ds:employment>
+	</dsbase:tids-7w95>
+	<dsbase:tids-7w95 rdf:about="http://data.ct.gov/resource/tids-7w95/205">
+		<rdfs:member rdf:resource="http://data.ct.gov/resource/tids-7w95"/>
+		<ds:soc_title>Communications Teachers, Postsecondary</ds:soc_title>
+		<ds:employment>390</ds:employment>
+	</dsbase:tids-7w95>
+	<dsbase:tids-7w95 rdf:about="http://data.ct.gov/resource/tids-7w95/206">
+		<rdfs:member rdf:resource="http://data.ct.gov/resource/tids-7w95"/>
+		<ds:soc_title>English Language and Literature Teachers, Postsecondary</ds:soc_title>
+		<ds:employment>830</ds:employment>
+	</dsbase:tids-7w95>
+	<dsbase:tids-7w95 rdf:about="http://data.ct.gov/resource/tids-7w95/207">
+		<rdfs:member rdf:resource="http://data.ct.gov/resource/tids-7w95"/>
+		<ds:soc_title>Foreign Language and Literature Teachers, Postsecondary</ds:soc_title>
+		<ds:employment>280</ds:employment>
+	</dsbase:tids-7w95>
+	<dsbase:tids-7w95 rdf:about="http://data.ct.gov/resource/tids-7w95/208">
+		<rdfs:member rdf:resource="http://data.ct.gov/resource/tids-7w95"/>
+		<ds:soc_title>History Teachers, Postsecondary</ds:soc_title>
+		<ds:employment>320</ds:employment>
+	</dsbase:tids-7w95>
+	<dsbase:tids-7w95 rdf:about="http://data.ct.gov/resource/tids-7w95/209">
+		<rdfs:member rdf:resource="http://data.ct.gov/resource/tids-7w95"/>
+		<ds:soc_title>Philosophy and Religion Teachers, Postsecondary</ds:soc_title>
+		<ds:employment>320</ds:employment>
+	</dsbase:tids-7w95>
+	<dsbase:tids-7w95 rdf:about="http://data.ct.gov/resource/tids-7w95/234">
+		<rdfs:member rdf:resource="http://data.ct.gov/resource/tids-7w95"/>
+		<ds:soc_title>Librarians</ds:soc_title>
+		<ds:employment>2,370</ds:employment>
+	</dsbase:tids-7w95>
+	<dsbase:tids-7w95 rdf:about="http://data.ct.gov/resource/tids-7w95/210">
+		<rdfs:member rdf:resource="http://data.ct.gov/resource/tids-7w95"/>
+		<ds:soc_title>Graduate Teaching Assistants</ds:soc_title>
+		<ds:employment>N/A</ds:employment>
+	</dsbase:tids-7w95>
+	<dsbase:tids-7w95 rdf:about="http://data.ct.gov/resource/tids-7w95/211">
+		<rdfs:member rdf:resource="http://data.ct.gov/resource/tids-7w95"/>
+		<ds:soc_title>Home Economics Teachers, Postsecondary</ds:soc_title>
+		<ds:employment>50</ds:employment>
+	</dsbase:tids-7w95>
+	<dsbase:tids-7w95 rdf:about="http://data.ct.gov/resource/tids-7w95/212">
+		<rdfs:member rdf:resource="http://data.ct.gov/resource/tids-7w95"/>
+		<ds:soc_title>Recreation and Fitness Studies Teachers, Postsecondary</ds:soc_title>
+		<ds:employment>210</ds:employment>
+	</dsbase:tids-7w95>
+	<dsbase:tids-7w95 rdf:about="http://data.ct.gov/resource/tids-7w95/213">
+		<rdfs:member rdf:resource="http://data.ct.gov/resource/tids-7w95"/>
+		<ds:soc_title>Vocational Education Teachers, Postsecondary</ds:soc_title>
+		<ds:employment>630</ds:employment>
+	</dsbase:tids-7w95>
+	<dsbase:tids-7w95 rdf:about="http://data.ct.gov/resource/tids-7w95/214">
+		<rdfs:member rdf:resource="http://data.ct.gov/resource/tids-7w95"/>
+		<ds:soc_title>Postsecondary Teachers, All Other</ds:soc_title>
+		<ds:employment>1,670</ds:employment>
+	</dsbase:tids-7w95>
+	<dsbase:tids-7w95 rdf:about="http://data.ct.gov/resource/tids-7w95/215">
+		<rdfs:member rdf:resource="http://data.ct.gov/resource/tids-7w95"/>
+		<ds:soc_title>Preschool Teachers, Except Special Education</ds:soc_title>
+		<ds:employment>6,490</ds:employment>
+	</dsbase:tids-7w95>
+	<dsbase:tids-7w95 rdf:about="http://data.ct.gov/resource/tids-7w95/216">
+		<rdfs:member rdf:resource="http://data.ct.gov/resource/tids-7w95"/>
+		<ds:soc_title>Kindergarten Teachers, Except Special Education</ds:soc_title>
+		<ds:employment>1,840</ds:employment>
+	</dsbase:tids-7w95>
+	<dsbase:tids-7w95 rdf:about="http://data.ct.gov/resource/tids-7w95/217">
+		<rdfs:member rdf:resource="http://data.ct.gov/resource/tids-7w95"/>
+		<ds:soc_title>Elementary School Teachers, Except Special Education</ds:soc_title>
+		<ds:employment>18,110</ds:employment>
+	</dsbase:tids-7w95>
+	<dsbase:tids-7w95 rdf:about="http://data.ct.gov/resource/tids-7w95/218">
+		<rdfs:member rdf:resource="http://data.ct.gov/resource/tids-7w95"/>
+		<ds:soc_title>Middle School Teachers, Except Special and Career/Technical Educa</ds:soc_title>
+		<ds:employment>9,770</ds:employment>
+	</dsbase:tids-7w95>
+	<dsbase:tids-7w95 rdf:about="http://data.ct.gov/resource/tids-7w95/219">
+		<rdfs:member rdf:resource="http://data.ct.gov/resource/tids-7w95"/>
+		<ds:soc_title>Career/Technical Education Teachers, Middle School</ds:soc_title>
+		<ds:employment>190</ds:employment>
+	</dsbase:tids-7w95>
+	<dsbase:tids-7w95 rdf:about="http://data.ct.gov/resource/tids-7w95/220">
+		<rdfs:member rdf:resource="http://data.ct.gov/resource/tids-7w95"/>
+		<ds:soc_title>Secondary School Teachers, Except Special and Career/Technical Ed</ds:soc_title>
+		<ds:employment>14,060</ds:employment>
+	</dsbase:tids-7w95>
+	<dsbase:tids-7w95 rdf:about="http://data.ct.gov/resource/tids-7w95/221">
+		<rdfs:member rdf:resource="http://data.ct.gov/resource/tids-7w95"/>
+		<ds:soc_title>Career/Technical Education Teachers, Secondary School</ds:soc_title>
+		<ds:employment>1,690</ds:employment>
+	</dsbase:tids-7w95>
+	<dsbase:tids-7w95 rdf:about="http://data.ct.gov/resource/tids-7w95/222">
+		<rdfs:member rdf:resource="http://data.ct.gov/resource/tids-7w95"/>
+		<ds:soc_title>Special Education Teachers, Preschool</ds:soc_title>
+		<ds:employment>360</ds:employment>
+	</dsbase:tids-7w95>
+	<dsbase:tids-7w95 rdf:about="http://data.ct.gov/resource/tids-7w95/223">
+		<rdfs:member rdf:resource="http://data.ct.gov/resource/tids-7w95"/>
+		<ds:soc_title>Special Education Teachers, Kindergarten and Elementary School</ds:soc_title>
+		<ds:employment>2,730</ds:employment>
+	</dsbase:tids-7w95>
+	<dsbase:tids-7w95 rdf:about="http://data.ct.gov/resource/tids-7w95/224">
+		<rdfs:member rdf:resource="http://data.ct.gov/resource/tids-7w95"/>
+		<ds:soc_title>Special Education Teachers, Middle School</ds:soc_title>
+		<ds:employment>1,150</ds:employment>
+	</dsbase:tids-7w95>
+	<dsbase:tids-7w95 rdf:about="http://data.ct.gov/resource/tids-7w95/225">
+		<rdfs:member rdf:resource="http://data.ct.gov/resource/tids-7w95"/>
+		<ds:soc_title>Special Education Teachers, Secondary School</ds:soc_title>
+		<ds:employment>2,080</ds:employment>
+	</dsbase:tids-7w95>
+	<dsbase:tids-7w95 rdf:about="http://data.ct.gov/resource/tids-7w95/226">
+		<rdfs:member rdf:resource="http://data.ct.gov/resource/tids-7w95"/>
+		<ds:soc_title>Special Education Teachers, All Other</ds:soc_title>
+		<ds:employment>320</ds:employment>
+	</dsbase:tids-7w95>
+	<dsbase:tids-7w95 rdf:about="http://data.ct.gov/resource/tids-7w95/227">
+		<rdfs:member rdf:resource="http://data.ct.gov/resource/tids-7w95"/>
+		<ds:soc_title>Adult Basic and Secondary Education and Literacy Teachers and Ins</ds:soc_title>
+		<ds:employment>640</ds:employment>
+	</dsbase:tids-7w95>
+	<dsbase:tids-7w95 rdf:about="http://data.ct.gov/resource/tids-7w95/228">
+		<rdfs:member rdf:resource="http://data.ct.gov/resource/tids-7w95"/>
+		<ds:soc_title>Self-Enrichment Education Teachers</ds:soc_title>
+		<ds:employment>2,790</ds:employment>
+	</dsbase:tids-7w95>
+	<dsbase:tids-7w95 rdf:about="http://data.ct.gov/resource/tids-7w95/229">
+		<rdfs:member rdf:resource="http://data.ct.gov/resource/tids-7w95"/>
+		<ds:soc_title>Teachers and Instructors, All Other, Except Substitute Teachers</ds:soc_title>
+		<ds:employment>2,710</ds:employment>
+	</dsbase:tids-7w95>
+	<dsbase:tids-7w95 rdf:about="http://data.ct.gov/resource/tids-7w95/230">
+		<rdfs:member rdf:resource="http://data.ct.gov/resource/tids-7w95"/>
+		<ds:soc_title>Substitute Teachers</ds:soc_title>
+		<ds:employment>7,570</ds:employment>
+	</dsbase:tids-7w95>
+	<dsbase:tids-7w95 rdf:about="http://data.ct.gov/resource/tids-7w95/231">
+		<rdfs:member rdf:resource="http://data.ct.gov/resource/tids-7w95"/>
+		<ds:soc_title>Archivists</ds:soc_title>
+		<ds:employment>110</ds:employment>
+	</dsbase:tids-7w95>
+	<dsbase:tids-7w95 rdf:about="http://data.ct.gov/resource/tids-7w95/232">
+		<rdfs:member rdf:resource="http://data.ct.gov/resource/tids-7w95"/>
+		<ds:soc_title>Curators</ds:soc_title>
+		<ds:employment>180</ds:employment>
+	</dsbase:tids-7w95>
+	<dsbase:tids-7w95 rdf:about="http://data.ct.gov/resource/tids-7w95/233">
+		<rdfs:member rdf:resource="http://data.ct.gov/resource/tids-7w95"/>
+		<ds:soc_title>Museum Technicians and Conservators</ds:soc_title>
+		<ds:employment>240</ds:employment>
+	</dsbase:tids-7w95>
+	<dsbase:tids-7w95 rdf:about="http://data.ct.gov/resource/tids-7w95/235">
+		<rdfs:member rdf:resource="http://data.ct.gov/resource/tids-7w95"/>
+		<ds:soc_title>Library Technicians</ds:soc_title>
+		<ds:employment>1,690</ds:employment>
+	</dsbase:tids-7w95>
+	<dsbase:tids-7w95 rdf:about="http://data.ct.gov/resource/tids-7w95/236">
+		<rdfs:member rdf:resource="http://data.ct.gov/resource/tids-7w95"/>
+		<ds:soc_title>Audio-Visual and Multimedia Collections Specialists</ds:soc_title>
+		<ds:employment>230</ds:employment>
+	</dsbase:tids-7w95>
+	<dsbase:tids-7w95 rdf:about="http://data.ct.gov/resource/tids-7w95/237">
+		<rdfs:member rdf:resource="http://data.ct.gov/resource/tids-7w95"/>
+		<ds:soc_title>Instructional Coordinators</ds:soc_title>
+		<ds:employment>1,210</ds:employment>
+	</dsbase:tids-7w95>
+	<dsbase:tids-7w95 rdf:about="http://data.ct.gov/resource/tids-7w95/238">
+		<rdfs:member rdf:resource="http://data.ct.gov/resource/tids-7w95"/>
+		<ds:soc_title>Teacher Assistants</ds:soc_title>
+		<ds:employment>21,830</ds:employment>
+	</dsbase:tids-7w95>
+	<dsbase:tids-7w95 rdf:about="http://data.ct.gov/resource/tids-7w95/239">
+		<rdfs:member rdf:resource="http://data.ct.gov/resource/tids-7w95"/>
+		<ds:soc_title>Education, Training, and Library Workers, All Other</ds:soc_title>
+		<ds:employment>910</ds:employment>
+	</dsbase:tids-7w95>
+	<dsbase:tids-7w95 rdf:about="http://data.ct.gov/resource/tids-7w95/240">
+		<rdfs:member rdf:resource="http://data.ct.gov/resource/tids-7w95"/>
+		<ds:soc_title>Arts, Design, Entertainment, Sports, and Media Occupations</ds:soc_title>
+		<ds:employment>24,540</ds:employment>
+	</dsbase:tids-7w95>
+	<dsbase:tids-7w95 rdf:about="http://data.ct.gov/resource/tids-7w95/241">
+		<rdfs:member rdf:resource="http://data.ct.gov/resource/tids-7w95"/>
+		<ds:soc_title>Art Directors</ds:soc_title>
+		<ds:employment>610</ds:employment>
+	</dsbase:tids-7w95>
+	<dsbase:tids-7w95 rdf:about="http://data.ct.gov/resource/tids-7w95/242">
+		<rdfs:member rdf:resource="http://data.ct.gov/resource/tids-7w95"/>
+		<ds:soc_title>Fine Artists, Including Painters, Sculptors, and Illustrators</ds:soc_title>
+		<ds:employment>90</ds:employment>
+	</dsbase:tids-7w95>
+	<dsbase:tids-7w95 rdf:about="http://data.ct.gov/resource/tids-7w95/243">
+		<rdfs:member rdf:resource="http://data.ct.gov/resource/tids-7w95"/>
+		<ds:soc_title>Multimedia Artists and Animators</ds:soc_title>
+		<ds:employment>610</ds:employment>
+	</dsbase:tids-7w95>
+	<dsbase:tids-7w95 rdf:about="http://data.ct.gov/resource/tids-7w95/244">
+		<rdfs:member rdf:resource="http://data.ct.gov/resource/tids-7w95"/>
+		<ds:soc_title>Artists and Related Workers, All Other</ds:soc_title>
+		<ds:employment>70</ds:employment>
+	</dsbase:tids-7w95>
+	<dsbase:tids-7w95 rdf:about="http://data.ct.gov/resource/tids-7w95/245">
+		<rdfs:member rdf:resource="http://data.ct.gov/resource/tids-7w95"/>
+		<ds:soc_title>Commercial and Industrial Designers</ds:soc_title>
+		<ds:employment>300</ds:employment>
+	</dsbase:tids-7w95>
+	<dsbase:tids-7w95 rdf:about="http://data.ct.gov/resource/tids-7w95/246">
+		<rdfs:member rdf:resource="http://data.ct.gov/resource/tids-7w95"/>
+		<ds:soc_title>Floral Designers</ds:soc_title>
+		<ds:employment>480</ds:employment>
+	</dsbase:tids-7w95>
+	<dsbase:tids-7w95 rdf:about="http://data.ct.gov/resource/tids-7w95/247">
+		<rdfs:member rdf:resource="http://data.ct.gov/resource/tids-7w95"/>
+		<ds:soc_title>Graphic Designers</ds:soc_title>
+		<ds:employment>2,190</ds:employment>
+	</dsbase:tids-7w95>
+	<dsbase:tids-7w95 rdf:about="http://data.ct.gov/resource/tids-7w95/248">
+		<rdfs:member rdf:resource="http://data.ct.gov/resource/tids-7w95"/>
+		<ds:soc_title>Interior Designers</ds:soc_title>
+		<ds:employment>620</ds:employment>
+	</dsbase:tids-7w95>
+	<dsbase:tids-7w95 rdf:about="http://data.ct.gov/resource/tids-7w95/249">
+		<rdfs:member rdf:resource="http://data.ct.gov/resource/tids-7w95"/>
+		<ds:soc_title>Merchandise Displayers and Window Trimmers</ds:soc_title>
+		<ds:employment>900</ds:employment>
+	</dsbase:tids-7w95>
+	<dsbase:tids-7w95 rdf:about="http://data.ct.gov/resource/tids-7w95/250">
+		<rdfs:member rdf:resource="http://data.ct.gov/resource/tids-7w95"/>
+		<ds:soc_title>Set and Exhibit Designers</ds:soc_title>
+		<ds:employment>180</ds:employment>
+	</dsbase:tids-7w95>
+	<dsbase:tids-7w95 rdf:about="http://data.ct.gov/resource/tids-7w95/251">
+		<rdfs:member rdf:resource="http://data.ct.gov/resource/tids-7w95"/>
+		<ds:soc_title>Designers, All Other</ds:soc_title>
+		<ds:employment>60</ds:employment>
+	</dsbase:tids-7w95>
+	<dsbase:tids-7w95 rdf:about="http://data.ct.gov/resource/tids-7w95/252">
+		<rdfs:member rdf:resource="http://data.ct.gov/resource/tids-7w95"/>
+		<ds:soc_title>Actors</ds:soc_title>
+		<ds:employment>580</ds:employment>
+	</dsbase:tids-7w95>
+	<dsbase:tids-7w95 rdf:about="http://data.ct.gov/resource/tids-7w95/253">
+		<rdfs:member rdf:resource="http://data.ct.gov/resource/tids-7w95"/>
+		<ds:soc_title>Producers and Directors</ds:soc_title>
+		<ds:employment>2,040</ds:employment>
+	</dsbase:tids-7w95>
+	<dsbase:tids-7w95 rdf:about="http://data.ct.gov/resource/tids-7w95/254">
+		<rdfs:member rdf:resource="http://data.ct.gov/resource/tids-7w95"/>
+		<ds:soc_title>Athletes and Sports Competitors</ds:soc_title>
+		<ds:employment>N/A</ds:employment>
+	</dsbase:tids-7w95>
+	<dsbase:tids-7w95 rdf:about="http://data.ct.gov/resource/tids-7w95/255">
+		<rdfs:member rdf:resource="http://data.ct.gov/resource/tids-7w95"/>
+		<ds:soc_title>Coaches and Scouts</ds:soc_title>
+		<ds:employment>5,320</ds:employment>
+	</dsbase:tids-7w95>
+	<dsbase:tids-7w95 rdf:about="http://data.ct.gov/resource/tids-7w95/256">
+		<rdfs:member rdf:resource="http://data.ct.gov/resource/tids-7w95"/>
+		<ds:soc_title>Umpires, Referees, and Other Sports Officials</ds:soc_title>
+		<ds:employment>280</ds:employment>
+	</dsbase:tids-7w95>
+	<dsbase:tids-7w95 rdf:about="http://data.ct.gov/resource/tids-7w95/257">
+		<rdfs:member rdf:resource="http://data.ct.gov/resource/tids-7w95"/>
+		<ds:soc_title>Dancers</ds:soc_title>
+		<ds:employment>N/A</ds:employment>
+	</dsbase:tids-7w95>
+	<dsbase:tids-7w95 rdf:about="http://data.ct.gov/resource/tids-7w95/258">
+		<rdfs:member rdf:resource="http://data.ct.gov/resource/tids-7w95"/>
+		<ds:soc_title>Choreographers</ds:soc_title>
+		<ds:employment>200</ds:employment>
+	</dsbase:tids-7w95>
+	<dsbase:tids-7w95 rdf:about="http://data.ct.gov/resource/tids-7w95/259">
+		<rdfs:member rdf:resource="http://data.ct.gov/resource/tids-7w95"/>
+		<ds:soc_title>Music Directors and Composers</ds:soc_title>
+		<ds:employment>430</ds:employment>
+	</dsbase:tids-7w95>
+	<dsbase:tids-7w95 rdf:about="http://data.ct.gov/resource/tids-7w95/260">
+		<rdfs:member rdf:resource="http://data.ct.gov/resource/tids-7w95"/>
+		<ds:soc_title>Musicians and Singers</ds:soc_title>
+		<ds:employment>350</ds:employment>
+	</dsbase:tids-7w95>
+	<dsbase:tids-7w95 rdf:about="http://data.ct.gov/resource/tids-7w95/261">
+		<rdfs:member rdf:resource="http://data.ct.gov/resource/tids-7w95"/>
+		<ds:soc_title>Entertainers and Performers, Sports and Related Workers, All Other</ds:soc_title>
+		<ds:employment>200</ds:employment>
+	</dsbase:tids-7w95>
+	<dsbase:tids-7w95 rdf:about="http://data.ct.gov/resource/tids-7w95/262">
+		<rdfs:member rdf:resource="http://data.ct.gov/resource/tids-7w95"/>
+		<ds:soc_title>Radio and Television Announcers</ds:soc_title>
+		<ds:employment>320</ds:employment>
+	</dsbase:tids-7w95>
+	<dsbase:tids-7w95 rdf:about="http://data.ct.gov/resource/tids-7w95/263">
+		<rdfs:member rdf:resource="http://data.ct.gov/resource/tids-7w95"/>
+		<ds:soc_title>Public Address System and Other Announcers</ds:soc_title>
+		<ds:employment>30</ds:employment>
+	</dsbase:tids-7w95>
+	<dsbase:tids-7w95 rdf:about="http://data.ct.gov/resource/tids-7w95/264">
+		<rdfs:member rdf:resource="http://data.ct.gov/resource/tids-7w95"/>
+		<ds:soc_title>Broadcast News Analysts</ds:soc_title>
+		<ds:employment>20</ds:employment>
+	</dsbase:tids-7w95>
+	<dsbase:tids-7w95 rdf:about="http://data.ct.gov/resource/tids-7w95/265">
+		<rdfs:member rdf:resource="http://data.ct.gov/resource/tids-7w95"/>
+		<ds:soc_title>Reporters and Correspondents</ds:soc_title>
+		<ds:employment>320</ds:employment>
+	</dsbase:tids-7w95>
+	<dsbase:tids-7w95 rdf:about="http://data.ct.gov/resource/tids-7w95/266">
+		<rdfs:member rdf:resource="http://data.ct.gov/resource/tids-7w95"/>
+		<ds:soc_title>Public Relations Specialists</ds:soc_title>
+		<ds:employment>1,440</ds:employment>
+	</dsbase:tids-7w95>
+	<dsbase:tids-7w95 rdf:about="http://data.ct.gov/resource/tids-7w95/267">
+		<rdfs:member rdf:resource="http://data.ct.gov/resource/tids-7w95"/>
+		<ds:soc_title>Editors</ds:soc_title>
+		<ds:employment>1,050</ds:employment>
+	</dsbase:tids-7w95>
+	<dsbase:tids-7w95 rdf:about="http://data.ct.gov/resource/tids-7w95/268">
+		<rdfs:member rdf:resource="http://data.ct.gov/resource/tids-7w95"/>
+		<ds:soc_title>Technical Writers</ds:soc_title>
+		<ds:employment>620</ds:employment>
+	</dsbase:tids-7w95>
+	<dsbase:tids-7w95 rdf:about="http://data.ct.gov/resource/tids-7w95/269">
+		<rdfs:member rdf:resource="http://data.ct.gov/resource/tids-7w95"/>
+		<ds:soc_title>Writers and Authors</ds:soc_title>
+		<ds:employment>590</ds:employment>
+	</dsbase:tids-7w95>
+	<dsbase:tids-7w95 rdf:about="http://data.ct.gov/resource/tids-7w95/270">
+		<rdfs:member rdf:resource="http://data.ct.gov/resource/tids-7w95"/>
+		<ds:soc_title>Interpreters and Translators</ds:soc_title>
+		<ds:employment>390</ds:employment>
+	</dsbase:tids-7w95>
+	<dsbase:tids-7w95 rdf:about="http://data.ct.gov/resource/tids-7w95/271">
+		<rdfs:member rdf:resource="http://data.ct.gov/resource/tids-7w95"/>
+		<ds:soc_title>Media and Communication Workers, All Other</ds:soc_title>
+		<ds:employment>N/A</ds:employment>
+	</dsbase:tids-7w95>
+	<dsbase:tids-7w95 rdf:about="http://data.ct.gov/resource/tids-7w95/272">
+		<rdfs:member rdf:resource="http://data.ct.gov/resource/tids-7w95"/>
+		<ds:soc_title>Audio and Video Equipment Technicians</ds:soc_title>
+		<ds:employment>1,060</ds:employment>
+	</dsbase:tids-7w95>
+	<dsbase:tids-7w95 rdf:about="http://data.ct.gov/resource/tids-7w95/273">
+		<rdfs:member rdf:resource="http://data.ct.gov/resource/tids-7w95"/>
+		<ds:soc_title>Broadcast Technicians</ds:soc_title>
+		<ds:employment>500</ds:employment>
+	</dsbase:tids-7w95>
+	<dsbase:tids-7w95 rdf:about="http://data.ct.gov/resource/tids-7w95/274">
+		<rdfs:member rdf:resource="http://data.ct.gov/resource/tids-7w95"/>
+		<ds:soc_title>Sound Engineering Technicians</ds:soc_title>
+		<ds:employment>330</ds:employment>
+	</dsbase:tids-7w95>
+	<dsbase:tids-7w95 rdf:about="http://data.ct.gov/resource/tids-7w95/275">
+		<rdfs:member rdf:resource="http://data.ct.gov/resource/tids-7w95"/>
+		<ds:soc_title>Photographers</ds:soc_title>
+		<ds:employment>590</ds:employment>
+	</dsbase:tids-7w95>
+	<dsbase:tids-7w95 rdf:about="http://data.ct.gov/resource/tids-7w95/276">
+		<rdfs:member rdf:resource="http://data.ct.gov/resource/tids-7w95"/>
+		<ds:soc_title>Camera Operators, Television, Video, and Motion Picture</ds:soc_title>
+		<ds:employment>390</ds:employment>
+	</dsbase:tids-7w95>
+	<dsbase:tids-7w95 rdf:about="http://data.ct.gov/resource/tids-7w95/277">
+		<rdfs:member rdf:resource="http://data.ct.gov/resource/tids-7w95"/>
+		<ds:soc_title>Film and Video Editors</ds:soc_title>
+		<ds:employment>320</ds:employment>
+	</dsbase:tids-7w95>
+	<dsbase:tids-7w95 rdf:about="http://data.ct.gov/resource/tids-7w95/278">
+		<rdfs:member rdf:resource="http://data.ct.gov/resource/tids-7w95"/>
+		<ds:soc_title>Media and Communication Equipment Workers, All Other</ds:soc_title>
+		<ds:employment>310</ds:employment>
+	</dsbase:tids-7w95>
+	<dsbase:tids-7w95 rdf:about="http://data.ct.gov/resource/tids-7w95/279">
+		<rdfs:member rdf:resource="http://data.ct.gov/resource/tids-7w95"/>
+		<ds:soc_title>Healthcare Practitioners and Technical Occupations</ds:soc_title>
+		<ds:employment>102,210</ds:employment>
+	</dsbase:tids-7w95>
+	<dsbase:tids-7w95 rdf:about="http://data.ct.gov/resource/tids-7w95/280">
+		<rdfs:member rdf:resource="http://data.ct.gov/resource/tids-7w95"/>
+		<ds:soc_title>Chiropractors</ds:soc_title>
+		<ds:employment>220</ds:employment>
+	</dsbase:tids-7w95>
+	<dsbase:tids-7w95 rdf:about="http://data.ct.gov/resource/tids-7w95/281">
+		<rdfs:member rdf:resource="http://data.ct.gov/resource/tids-7w95"/>
+		<ds:soc_title>Dentists, General</ds:soc_title>
+		<ds:employment>1,230</ds:employment>
+	</dsbase:tids-7w95>
+	<dsbase:tids-7w95 rdf:about="http://data.ct.gov/resource/tids-7w95/282">
+		<rdfs:member rdf:resource="http://data.ct.gov/resource/tids-7w95"/>
+		<ds:soc_title>Oral and Maxillofacial Surgeons</ds:soc_title>
+		<ds:employment>N/A</ds:employment>
+	</dsbase:tids-7w95>
+	<dsbase:tids-7w95 rdf:about="http://data.ct.gov/resource/tids-7w95/283">
+		<rdfs:member rdf:resource="http://data.ct.gov/resource/tids-7w95"/>
+		<ds:soc_title>Orthodontists</ds:soc_title>
+		<ds:employment>N/A</ds:employment>
+	</dsbase:tids-7w95>
+	<dsbase:tids-7w95 rdf:about="http://data.ct.gov/resource/tids-7w95/284">
+		<rdfs:member rdf:resource="http://data.ct.gov/resource/tids-7w95"/>
+		<ds:soc_title>Dentists, All Other Specialists</ds:soc_title>
+		<ds:employment>N/A</ds:employment>
+	</dsbase:tids-7w95>
+	<dsbase:tids-7w95 rdf:about="http://data.ct.gov/resource/tids-7w95/285">
+		<rdfs:member rdf:resource="http://data.ct.gov/resource/tids-7w95"/>
+		<ds:soc_title>Dietitians and Nutritionists</ds:soc_title>
+		<ds:employment>830</ds:employment>
+	</dsbase:tids-7w95>
+	<dsbase:tids-7w95 rdf:about="http://data.ct.gov/resource/tids-7w95/286">
+		<rdfs:member rdf:resource="http://data.ct.gov/resource/tids-7w95"/>
+		<ds:soc_title>Optometrists</ds:soc_title>
+		<ds:employment>260</ds:employment>
+	</dsbase:tids-7w95>
+	<dsbase:tids-7w95 rdf:about="http://data.ct.gov/resource/tids-7w95/287">
+		<rdfs:member rdf:resource="http://data.ct.gov/resource/tids-7w95"/>
+		<ds:soc_title>Pharmacists</ds:soc_title>
+		<ds:employment>2,780</ds:employment>
+	</dsbase:tids-7w95>
+	<dsbase:tids-7w95 rdf:about="http://data.ct.gov/resource/tids-7w95/288">
+		<rdfs:member rdf:resource="http://data.ct.gov/resource/tids-7w95"/>
+		<ds:soc_title>Anesthesiologists</ds:soc_title>
+		<ds:employment>350</ds:employment>
+	</dsbase:tids-7w95>
+	<dsbase:tids-7w95 rdf:about="http://data.ct.gov/resource/tids-7w95/289">
+		<rdfs:member rdf:resource="http://data.ct.gov/resource/tids-7w95"/>
+		<ds:soc_title>Family and General Practitioners</ds:soc_title>
+		<ds:employment>1,210</ds:employment>
+	</dsbase:tids-7w95>
+	<dsbase:tids-7w95 rdf:about="http://data.ct.gov/resource/tids-7w95/290">
+		<rdfs:member rdf:resource="http://data.ct.gov/resource/tids-7w95"/>
+		<ds:soc_title>Internists, General</ds:soc_title>
+		<ds:employment>890</ds:employment>
+	</dsbase:tids-7w95>
+	<dsbase:tids-7w95 rdf:about="http://data.ct.gov/resource/tids-7w95/291">
+		<rdfs:member rdf:resource="http://data.ct.gov/resource/tids-7w95"/>
+		<ds:soc_title>Obstetricians and Gynecologists</ds:soc_title>
+		<ds:employment>380</ds:employment>
+	</dsbase:tids-7w95>
+	<dsbase:tids-7w95 rdf:about="http://data.ct.gov/resource/tids-7w95/292">
+		<rdfs:member rdf:resource="http://data.ct.gov/resource/tids-7w95"/>
+		<ds:soc_title>Pediatricians, General</ds:soc_title>
+		<ds:employment>650</ds:employment>
+	</dsbase:tids-7w95>
+	<dsbase:tids-7w95 rdf:about="http://data.ct.gov/resource/tids-7w95/293">
+		<rdfs:member rdf:resource="http://data.ct.gov/resource/tids-7w95"/>
+		<ds:soc_title>Psychiatrists</ds:soc_title>
+		<ds:employment>800</ds:employment>
+	</dsbase:tids-7w95>
+	<dsbase:tids-7w95 rdf:about="http://data.ct.gov/resource/tids-7w95/294">
+		<rdfs:member rdf:resource="http://data.ct.gov/resource/tids-7w95"/>
+		<ds:soc_title>Surgeons</ds:soc_title>
+		<ds:employment>830</ds:employment>
+	</dsbase:tids-7w95>
+	<dsbase:tids-7w95 rdf:about="http://data.ct.gov/resource/tids-7w95/295">
+		<rdfs:member rdf:resource="http://data.ct.gov/resource/tids-7w95"/>
+		<ds:soc_title>Physicians and Surgeons, All Other</ds:soc_title>
+		<ds:employment>5,220</ds:employment>
+	</dsbase:tids-7w95>
+	<dsbase:tids-7w95 rdf:about="http://data.ct.gov/resource/tids-7w95/296">
+		<rdfs:member rdf:resource="http://data.ct.gov/resource/tids-7w95"/>
+		<ds:soc_title>Physician Assistants</ds:soc_title>
+		<ds:employment>1,890</ds:employment>
+	</dsbase:tids-7w95>
+	<dsbase:tids-7w95 rdf:about="http://data.ct.gov/resource/tids-7w95/297">
+		<rdfs:member rdf:resource="http://data.ct.gov/resource/tids-7w95"/>
+		<ds:soc_title>Podiatrists</ds:soc_title>
+		<ds:employment>100</ds:employment>
+	</dsbase:tids-7w95>
+	<dsbase:tids-7w95 rdf:about="http://data.ct.gov/resource/tids-7w95/298">
+		<rdfs:member rdf:resource="http://data.ct.gov/resource/tids-7w95"/>
+		<ds:soc_title>Occupational Therapists</ds:soc_title>
+		<ds:employment>1,800</ds:employment>
+	</dsbase:tids-7w95>
+	<dsbase:tids-7w95 rdf:about="http://data.ct.gov/resource/tids-7w95/299">
+		<rdfs:member rdf:resource="http://data.ct.gov/resource/tids-7w95"/>
+		<ds:soc_title>Physical Therapists</ds:soc_title>
+		<ds:employment>3,780</ds:employment>
+	</dsbase:tids-7w95>
+	<dsbase:tids-7w95 rdf:about="http://data.ct.gov/resource/tids-7w95/300">
+		<rdfs:member rdf:resource="http://data.ct.gov/resource/tids-7w95"/>
+		<ds:soc_title>Radiation Therapists</ds:soc_title>
+		<ds:employment>190</ds:employment>
+	</dsbase:tids-7w95>
+	<dsbase:tids-7w95 rdf:about="http://data.ct.gov/resource/tids-7w95/301">
+		<rdfs:member rdf:resource="http://data.ct.gov/resource/tids-7w95"/>
+		<ds:soc_title>Recreational Therapists</ds:soc_title>
+		<ds:employment>430</ds:employment>
+	</dsbase:tids-7w95>
+	<dsbase:tids-7w95 rdf:about="http://data.ct.gov/resource/tids-7w95/302">
+		<rdfs:member rdf:resource="http://data.ct.gov/resource/tids-7w95"/>
+		<ds:soc_title>Respiratory Therapists</ds:soc_title>
+		<ds:employment>1,170</ds:employment>
+	</dsbase:tids-7w95>
+	<dsbase:tids-7w95 rdf:about="http://data.ct.gov/resource/tids-7w95/303">
+		<rdfs:member rdf:resource="http://data.ct.gov/resource/tids-7w95"/>
+		<ds:soc_title>Speech-Language Pathologists</ds:soc_title>
+		<ds:employment>1,880</ds:employment>
+	</dsbase:tids-7w95>
+	<dsbase:tids-7w95 rdf:about="http://data.ct.gov/resource/tids-7w95/304">
+		<rdfs:member rdf:resource="http://data.ct.gov/resource/tids-7w95"/>
+		<ds:soc_title>Exercise Physiologists</ds:soc_title>
+		<ds:employment>50</ds:employment>
+	</dsbase:tids-7w95>
+	<dsbase:tids-7w95 rdf:about="http://data.ct.gov/resource/tids-7w95/305">
+		<rdfs:member rdf:resource="http://data.ct.gov/resource/tids-7w95"/>
+		<ds:soc_title>Therapists, All Other</ds:soc_title>
+		<ds:employment>N/A</ds:employment>
+	</dsbase:tids-7w95>
+	<dsbase:tids-7w95 rdf:about="http://data.ct.gov/resource/tids-7w95/306">
+		<rdfs:member rdf:resource="http://data.ct.gov/resource/tids-7w95"/>
+		<ds:soc_title>Veterinarians</ds:soc_title>
+		<ds:employment>780</ds:employment>
+	</dsbase:tids-7w95>
+	<dsbase:tids-7w95 rdf:about="http://data.ct.gov/resource/tids-7w95/307">
+		<rdfs:member rdf:resource="http://data.ct.gov/resource/tids-7w95"/>
+		<ds:soc_title>Registered Nurses</ds:soc_title>
+		<ds:employment>32,440</ds:employment>
+	</dsbase:tids-7w95>
+	<dsbase:tids-7w95 rdf:about="http://data.ct.gov/resource/tids-7w95/308">
+		<rdfs:member rdf:resource="http://data.ct.gov/resource/tids-7w95"/>
+		<ds:soc_title>Nurse Anesthetists</ds:soc_title>
+		<ds:employment>320</ds:employment>
+	</dsbase:tids-7w95>
+	<dsbase:tids-7w95 rdf:about="http://data.ct.gov/resource/tids-7w95/309">
+		<rdfs:member rdf:resource="http://data.ct.gov/resource/tids-7w95"/>
+		<ds:soc_title>Nurse Midwives</ds:soc_title>
+		<ds:employment>120</ds:employment>
+	</dsbase:tids-7w95>
+	<dsbase:tids-7w95 rdf:about="http://data.ct.gov/resource/tids-7w95/310">
+		<rdfs:member rdf:resource="http://data.ct.gov/resource/tids-7w95"/>
+		<ds:soc_title>Nurse Practitioners</ds:soc_title>
+		<ds:employment>2,600</ds:employment>
+	</dsbase:tids-7w95>
+	<dsbase:tids-7w95 rdf:about="http://data.ct.gov/resource/tids-7w95/311">
+		<rdfs:member rdf:resource="http://data.ct.gov/resource/tids-7w95"/>
+		<ds:soc_title>Audiologists</ds:soc_title>
+		<ds:employment>120</ds:employment>
+	</dsbase:tids-7w95>
+	<dsbase:tids-7w95 rdf:about="http://data.ct.gov/resource/tids-7w95/312">
+		<rdfs:member rdf:resource="http://data.ct.gov/resource/tids-7w95"/>
+		<ds:soc_title>Health Diagnosing and Treating Practitioners, All Other</ds:soc_title>
+		<ds:employment>290</ds:employment>
+	</dsbase:tids-7w95>
+	<dsbase:tids-7w95 rdf:about="http://data.ct.gov/resource/tids-7w95/313">
+		<rdfs:member rdf:resource="http://data.ct.gov/resource/tids-7w95"/>
+		<ds:soc_title>Medical and Clinical Laboratory Technologists</ds:soc_title>
+		<ds:employment>2,490</ds:employment>
+	</dsbase:tids-7w95>
+	<dsbase:tids-7w95 rdf:about="http://data.ct.gov/resource/tids-7w95/314">
+		<rdfs:member rdf:resource="http://data.ct.gov/resource/tids-7w95"/>
+		<ds:soc_title>Medical and Clinical Laboratory Technicians</ds:soc_title>
+		<ds:employment>1,730</ds:employment>
+	</dsbase:tids-7w95>
+	<dsbase:tids-7w95 rdf:about="http://data.ct.gov/resource/tids-7w95/315">
+		<rdfs:member rdf:resource="http://data.ct.gov/resource/tids-7w95"/>
+		<ds:soc_title>Dental Hygienists</ds:soc_title>
+		<ds:employment>3,850</ds:employment>
+	</dsbase:tids-7w95>
+	<dsbase:tids-7w95 rdf:about="http://data.ct.gov/resource/tids-7w95/316">
+		<rdfs:member rdf:resource="http://data.ct.gov/resource/tids-7w95"/>
+		<ds:soc_title>Cardiovascular Technologists and Technicians</ds:soc_title>
+		<ds:employment>480</ds:employment>
+	</dsbase:tids-7w95>
+	<dsbase:tids-7w95 rdf:about="http://data.ct.gov/resource/tids-7w95/317">
+		<rdfs:member rdf:resource="http://data.ct.gov/resource/tids-7w95"/>
+		<ds:soc_title>Diagnostic Medical Sonographers</ds:soc_title>
+		<ds:employment>1,110</ds:employment>
+	</dsbase:tids-7w95>
+	<dsbase:tids-7w95 rdf:about="http://data.ct.gov/resource/tids-7w95/318">
+		<rdfs:member rdf:resource="http://data.ct.gov/resource/tids-7w95"/>
+		<ds:soc_title>Nuclear Medicine Technologists</ds:soc_title>
+		<ds:employment>250</ds:employment>
+	</dsbase:tids-7w95>
+	<dsbase:tids-7w95 rdf:about="http://data.ct.gov/resource/tids-7w95/319">
+		<rdfs:member rdf:resource="http://data.ct.gov/resource/tids-7w95"/>
+		<ds:soc_title>Radiologic Technologists and Technicians</ds:soc_title>
+		<ds:employment>2,160</ds:employment>
+	</dsbase:tids-7w95>
+	<dsbase:tids-7w95 rdf:about="http://data.ct.gov/resource/tids-7w95/320">
+		<rdfs:member rdf:resource="http://data.ct.gov/resource/tids-7w95"/>
+		<ds:soc_title>Magnetic Resonance Imaging Technologists</ds:soc_title>
+		<ds:employment>350</ds:employment>
+	</dsbase:tids-7w95>
+	<dsbase:tids-7w95 rdf:about="http://data.ct.gov/resource/tids-7w95/321">
+		<rdfs:member rdf:resource="http://data.ct.gov/resource/tids-7w95"/>
+		<ds:soc_title>Emergency Medical Technicians and Paramedics</ds:soc_title>
+		<ds:employment>3,200</ds:employment>
+	</dsbase:tids-7w95>
+	<dsbase:tids-7w95 rdf:about="http://data.ct.gov/resource/tids-7w95/322">
+		<rdfs:member rdf:resource="http://data.ct.gov/resource/tids-7w95"/>
+		<ds:soc_title>Dietetic Technicians</ds:soc_title>
+		<ds:employment>340</ds:employment>
+	</dsbase:tids-7w95>
+	<dsbase:tids-7w95 rdf:about="http://data.ct.gov/resource/tids-7w95/323">
+		<rdfs:member rdf:resource="http://data.ct.gov/resource/tids-7w95"/>
+		<ds:soc_title>Pharmacy Technicians</ds:soc_title>
+		<ds:employment>3,560</ds:employment>
+	</dsbase:tids-7w95>
+	<dsbase:tids-7w95 rdf:about="http://data.ct.gov/resource/tids-7w95/324">
+		<rdfs:member rdf:resource="http://data.ct.gov/resource/tids-7w95"/>
+		<ds:soc_title>Psychiatric Technicians</ds:soc_title>
+		<ds:employment>1,020</ds:employment>
+	</dsbase:tids-7w95>
+	<dsbase:tids-7w95 rdf:about="http://data.ct.gov/resource/tids-7w95/325">
+		<rdfs:member rdf:resource="http://data.ct.gov/resource/tids-7w95"/>
+		<ds:soc_title>Respiratory Therapy Technicians</ds:soc_title>
+		<ds:employment>100</ds:employment>
+	</dsbase:tids-7w95>
+	<dsbase:tids-7w95 rdf:about="http://data.ct.gov/resource/tids-7w95/326">
+		<rdfs:member rdf:resource="http://data.ct.gov/resource/tids-7w95"/>
+		<ds:soc_title>Surgical Technologists</ds:soc_title>
+		<ds:employment>980</ds:employment>
+	</dsbase:tids-7w95>
+	<dsbase:tids-7w95 rdf:about="http://data.ct.gov/resource/tids-7w95/327">
+		<rdfs:member rdf:resource="http://data.ct.gov/resource/tids-7w95"/>
+		<ds:soc_title>Veterinary Technologists and Technicians</ds:soc_title>
+		<ds:employment>1,600</ds:employment>
+	</dsbase:tids-7w95>
+	<dsbase:tids-7w95 rdf:about="http://data.ct.gov/resource/tids-7w95/328">
+		<rdfs:member rdf:resource="http://data.ct.gov/resource/tids-7w95"/>
+		<ds:soc_title>Ophthalmic Medical Technicians</ds:soc_title>
+		<ds:employment>690</ds:employment>
+	</dsbase:tids-7w95>
+	<dsbase:tids-7w95 rdf:about="http://data.ct.gov/resource/tids-7w95/329">
+		<rdfs:member rdf:resource="http://data.ct.gov/resource/tids-7w95"/>
+		<ds:soc_title>Licensed Practical and Licensed Vocational Nurses</ds:soc_title>
+		<ds:employment>8,630</ds:employment>
+	</dsbase:tids-7w95>
+	<dsbase:tids-7w95 rdf:about="http://data.ct.gov/resource/tids-7w95/330">
+		<rdfs:member rdf:resource="http://data.ct.gov/resource/tids-7w95"/>
+		<ds:soc_title>Medical Records and Health Information Technicians</ds:soc_title>
+		<ds:employment>1,510</ds:employment>
+	</dsbase:tids-7w95>
+	<dsbase:tids-7w95 rdf:about="http://data.ct.gov/resource/tids-7w95/331">
+		<rdfs:member rdf:resource="http://data.ct.gov/resource/tids-7w95"/>
+		<ds:soc_title>Opticians, Dispensing</ds:soc_title>
+		<ds:employment>950</ds:employment>
+	</dsbase:tids-7w95>
+	<dsbase:tids-7w95 rdf:about="http://data.ct.gov/resource/tids-7w95/332">
+		<rdfs:member rdf:resource="http://data.ct.gov/resource/tids-7w95"/>
+		<ds:soc_title>Orthotists and Prosthetists</ds:soc_title>
+		<ds:employment>100</ds:employment>
+	</dsbase:tids-7w95>
+	<dsbase:tids-7w95 rdf:about="http://data.ct.gov/resource/tids-7w95/333">
+		<rdfs:member rdf:resource="http://data.ct.gov/resource/tids-7w95"/>
+		<ds:soc_title>Hearing Aid Specialists</ds:soc_title>
+		<ds:employment>N/A</ds:employment>
+	</dsbase:tids-7w95>
+	<dsbase:tids-7w95 rdf:about="http://data.ct.gov/resource/tids-7w95/334">
+		<rdfs:member rdf:resource="http://data.ct.gov/resource/tids-7w95"/>
+		<ds:soc_title>Health Technologists and Technicians, All Other</ds:soc_title>
+		<ds:employment>830</ds:employment>
+	</dsbase:tids-7w95>
+	<dsbase:tids-7w95 rdf:about="http://data.ct.gov/resource/tids-7w95/335">
+		<rdfs:member rdf:resource="http://data.ct.gov/resource/tids-7w95"/>
+		<ds:soc_title>Occupational Health and Safety Specialists</ds:soc_title>
+		<ds:employment>630</ds:employment>
+	</dsbase:tids-7w95>
+	<dsbase:tids-7w95 rdf:about="http://data.ct.gov/resource/tids-7w95/336">
+		<rdfs:member rdf:resource="http://data.ct.gov/resource/tids-7w95"/>
+		<ds:soc_title>Occupational Health and Safety Technicians</ds:soc_title>
+		<ds:employment>160</ds:employment>
+	</dsbase:tids-7w95>
+	<dsbase:tids-7w95 rdf:about="http://data.ct.gov/resource/tids-7w95/337">
+		<rdfs:member rdf:resource="http://data.ct.gov/resource/tids-7w95"/>
+		<ds:soc_title>Athletic Trainers</ds:soc_title>
+		<ds:employment>640</ds:employment>
+	</dsbase:tids-7w95>
+	<dsbase:tids-7w95 rdf:about="http://data.ct.gov/resource/tids-7w95/338">
+		<rdfs:member rdf:resource="http://data.ct.gov/resource/tids-7w95"/>
+		<ds:soc_title>Healthcare Practitioners and Technical Workers, All Other</ds:soc_title>
+		<ds:employment>730</ds:employment>
+	</dsbase:tids-7w95>
+	<dsbase:tids-7w95 rdf:about="http://data.ct.gov/resource/tids-7w95/339">
+		<rdfs:member rdf:resource="http://data.ct.gov/resource/tids-7w95"/>
+		<ds:soc_title>Healthcare Support Occupations</ds:soc_title>
+		<ds:employment>50,170</ds:employment>
+	</dsbase:tids-7w95>
+	<dsbase:tids-7w95 rdf:about="http://data.ct.gov/resource/tids-7w95/340">
+		<rdfs:member rdf:resource="http://data.ct.gov/resource/tids-7w95"/>
+		<ds:soc_title>Home Health Aides</ds:soc_title>
+		<ds:employment>7,900</ds:employment>
+	</dsbase:tids-7w95>
+	<dsbase:tids-7w95 rdf:about="http://data.ct.gov/resource/tids-7w95/341">
+		<rdfs:member rdf:resource="http://data.ct.gov/resource/tids-7w95"/>
+		<ds:soc_title>Psychiatric Aides</ds:soc_title>
+		<ds:employment>1,050</ds:employment>
+	</dsbase:tids-7w95>
+	<dsbase:tids-7w95 rdf:about="http://data.ct.gov/resource/tids-7w95/342">
+		<rdfs:member rdf:resource="http://data.ct.gov/resource/tids-7w95"/>
+		<ds:soc_title>Nursing Assistants</ds:soc_title>
+		<ds:employment>21,750</ds:employment>
+	</dsbase:tids-7w95>
+	<dsbase:tids-7w95 rdf:about="http://data.ct.gov/resource/tids-7w95/343">
+		<rdfs:member rdf:resource="http://data.ct.gov/resource/tids-7w95"/>
+		<ds:soc_title>Orderlies</ds:soc_title>
+		<ds:employment>620</ds:employment>
+	</dsbase:tids-7w95>
+	<dsbase:tids-7w95 rdf:about="http://data.ct.gov/resource/tids-7w95/344">
+		<rdfs:member rdf:resource="http://data.ct.gov/resource/tids-7w95"/>
+		<ds:soc_title>Occupational Therapy Assistants</ds:soc_title>
+		<ds:employment>480</ds:employment>
+	</dsbase:tids-7w95>
+	<dsbase:tids-7w95 rdf:about="http://data.ct.gov/resource/tids-7w95/345">
+		<rdfs:member rdf:resource="http://data.ct.gov/resource/tids-7w95"/>
+		<ds:soc_title>Occupational Therapy Aides</ds:soc_title>
+		<ds:employment>N/A</ds:employment>
+	</dsbase:tids-7w95>
+	<dsbase:tids-7w95 rdf:about="http://data.ct.gov/resource/tids-7w95/346">
+		<rdfs:member rdf:resource="http://data.ct.gov/resource/tids-7w95"/>
+		<ds:soc_title>Physical Therapist Assistants</ds:soc_title>
+		<ds:employment>520</ds:employment>
+	</dsbase:tids-7w95>
+	<dsbase:tids-7w95 rdf:about="http://data.ct.gov/resource/tids-7w95/347">
+		<rdfs:member rdf:resource="http://data.ct.gov/resource/tids-7w95"/>
+		<ds:soc_title>Physical Therapist Aides</ds:soc_title>
+		<ds:employment>660</ds:employment>
+	</dsbase:tids-7w95>
+	<dsbase:tids-7w95 rdf:about="http://data.ct.gov/resource/tids-7w95/348">
+		<rdfs:member rdf:resource="http://data.ct.gov/resource/tids-7w95"/>
+		<ds:soc_title>Massage Therapists</ds:soc_title>
+		<ds:employment>1,210</ds:employment>
+	</dsbase:tids-7w95>
+	<dsbase:tids-7w95 rdf:about="http://data.ct.gov/resource/tids-7w95/349">
+		<rdfs:member rdf:resource="http://data.ct.gov/resource/tids-7w95"/>
+		<ds:soc_title>Dental Assistants</ds:soc_title>
+		<ds:employment>3,850</ds:employment>
+	</dsbase:tids-7w95>
+	<dsbase:tids-7w95 rdf:about="http://data.ct.gov/resource/tids-7w95/350">
+		<rdfs:member rdf:resource="http://data.ct.gov/resource/tids-7w95"/>
+		<ds:soc_title>Medical Assistants</ds:soc_title>
+		<ds:employment>7,090</ds:employment>
+	</dsbase:tids-7w95>
+	<dsbase:tids-7w95 rdf:about="http://data.ct.gov/resource/tids-7w95/351">
+		<rdfs:member rdf:resource="http://data.ct.gov/resource/tids-7w95"/>
+		<ds:soc_title>Medical Equipment Preparers</ds:soc_title>
+		<ds:employment>440</ds:employment>
+	</dsbase:tids-7w95>
+	<dsbase:tids-7w95 rdf:about="http://data.ct.gov/resource/tids-7w95/352">
+		<rdfs:member rdf:resource="http://data.ct.gov/resource/tids-7w95"/>
+		<ds:soc_title>Medical Transcriptionists</ds:soc_title>
+		<ds:employment>710</ds:employment>
+	</dsbase:tids-7w95>
+	<dsbase:tids-7w95 rdf:about="http://data.ct.gov/resource/tids-7w95/353">
+		<rdfs:member rdf:resource="http://data.ct.gov/resource/tids-7w95"/>
+		<ds:soc_title>Pharmacy Aides</ds:soc_title>
+		<ds:employment>N/A</ds:employment>
+	</dsbase:tids-7w95>
+	<dsbase:tids-7w95 rdf:about="http://data.ct.gov/resource/tids-7w95/354">
+		<rdfs:member rdf:resource="http://data.ct.gov/resource/tids-7w95"/>
+		<ds:soc_title>Veterinary Assistants and Laboratory Animal Caretakers</ds:soc_title>
+		<ds:employment>980</ds:employment>
+	</dsbase:tids-7w95>
+	<dsbase:tids-7w95 rdf:about="http://data.ct.gov/resource/tids-7w95/355">
+		<rdfs:member rdf:resource="http://data.ct.gov/resource/tids-7w95"/>
+		<ds:soc_title>Phlebotomists</ds:soc_title>
+		<ds:employment>1,580</ds:employment>
+	</dsbase:tids-7w95>
+	<dsbase:tids-7w95 rdf:about="http://data.ct.gov/resource/tids-7w95/356">
+		<rdfs:member rdf:resource="http://data.ct.gov/resource/tids-7w95"/>
+		<ds:soc_title>Healthcare Support Workers, All Other</ds:soc_title>
+		<ds:employment>1,130</ds:employment>
+	</dsbase:tids-7w95>
+	<dsbase:tids-7w95 rdf:about="http://data.ct.gov/resource/tids-7w95/357">
+		<rdfs:member rdf:resource="http://data.ct.gov/resource/tids-7w95"/>
+		<ds:soc_title>Protective Service Occupations</ds:soc_title>
+		<ds:employment>36,350</ds:employment>
+	</dsbase:tids-7w95>
+	<dsbase:tids-7w95 rdf:about="http://data.ct.gov/resource/tids-7w95/358">
+		<rdfs:member rdf:resource="http://data.ct.gov/resource/tids-7w95"/>
+		<ds:soc_title>First-Line Supervisors of Correctional Officers</ds:soc_title>
+		<ds:employment>490</ds:employment>
+	</dsbase:tids-7w95>
+	<dsbase:tids-7w95 rdf:about="http://data.ct.gov/resource/tids-7w95/359">
+		<rdfs:member rdf:resource="http://data.ct.gov/resource/tids-7w95"/>
+		<ds:soc_title>First-Line Supervisors of Police and Detectives</ds:soc_title>
+		<ds:employment>1,880</ds:employment>
+	</dsbase:tids-7w95>
+	<dsbase:tids-7w95 rdf:about="http://data.ct.gov/resource/tids-7w95/360">
+		<rdfs:member rdf:resource="http://data.ct.gov/resource/tids-7w95"/>
+		<ds:soc_title>First-Line Supervisors of Fire Fighting and Prevention Workers</ds:soc_title>
+		<ds:employment>1,200</ds:employment>
+	</dsbase:tids-7w95>
+	<dsbase:tids-7w95 rdf:about="http://data.ct.gov/resource/tids-7w95/361">
+		<rdfs:member rdf:resource="http://data.ct.gov/resource/tids-7w95"/>
+		<ds:soc_title>First-Line Supervisors of Protective Service Workers, All Other</ds:soc_title>
+		<ds:employment>830</ds:employment>
+	</dsbase:tids-7w95>
+	<dsbase:tids-7w95 rdf:about="http://data.ct.gov/resource/tids-7w95/362">
+		<rdfs:member rdf:resource="http://data.ct.gov/resource/tids-7w95"/>
+		<ds:soc_title>Firefighters</ds:soc_title>
+		<ds:employment>3,180</ds:employment>
+	</dsbase:tids-7w95>
+	<dsbase:tids-7w95 rdf:about="http://data.ct.gov/resource/tids-7w95/363">
+		<rdfs:member rdf:resource="http://data.ct.gov/resource/tids-7w95"/>
+		<ds:soc_title>Fire Inspectors and Investigators</ds:soc_title>
+		<ds:employment>390</ds:employment>
+	</dsbase:tids-7w95>
+	<dsbase:tids-7w95 rdf:about="http://data.ct.gov/resource/tids-7w95/364">
+		<rdfs:member rdf:resource="http://data.ct.gov/resource/tids-7w95"/>
+		<ds:soc_title>Correctional Officers and Jailers</ds:soc_title>
+		<ds:employment>3,800</ds:employment>
+	</dsbase:tids-7w95>
+	<dsbase:tids-7w95 rdf:about="http://data.ct.gov/resource/tids-7w95/365">
+		<rdfs:member rdf:resource="http://data.ct.gov/resource/tids-7w95"/>
+		<ds:soc_title>Detectives and Criminal Investigators</ds:soc_title>
+		<ds:employment>950</ds:employment>
+	</dsbase:tids-7w95>
+	<dsbase:tids-7w95 rdf:about="http://data.ct.gov/resource/tids-7w95/366">
+		<rdfs:member rdf:resource="http://data.ct.gov/resource/tids-7w95"/>
+		<ds:soc_title>Fish and Game Wardens</ds:soc_title>
+		<ds:employment>100</ds:employment>
+	</dsbase:tids-7w95>
+	<dsbase:tids-7w95 rdf:about="http://data.ct.gov/resource/tids-7w95/367">
+		<rdfs:member rdf:resource="http://data.ct.gov/resource/tids-7w95"/>
+		<ds:soc_title>Parking Enforcement Workers</ds:soc_title>
+		<ds:employment>130</ds:employment>
+	</dsbase:tids-7w95>
+	<dsbase:tids-7w95 rdf:about="http://data.ct.gov/resource/tids-7w95/368">
+		<rdfs:member rdf:resource="http://data.ct.gov/resource/tids-7w95"/>
+		<ds:soc_title>Police and Sheriff's Patrol Officers</ds:soc_title>
+		<ds:employment>6,820</ds:employment>
+	</dsbase:tids-7w95>
+	<dsbase:tids-7w95 rdf:about="http://data.ct.gov/resource/tids-7w95/369">
+		<rdfs:member rdf:resource="http://data.ct.gov/resource/tids-7w95"/>
+		<ds:soc_title>Animal Control Workers</ds:soc_title>
+		<ds:employment>260</ds:employment>
+	</dsbase:tids-7w95>
+	<dsbase:tids-7w95 rdf:about="http://data.ct.gov/resource/tids-7w95/370">
+		<rdfs:member rdf:resource="http://data.ct.gov/resource/tids-7w95"/>
+		<ds:soc_title>Private Detectives and Investigators</ds:soc_title>
+		<ds:employment>270</ds:employment>
+	</dsbase:tids-7w95>
+	<dsbase:tids-7w95 rdf:about="http://data.ct.gov/resource/tids-7w95/371">
+		<rdfs:member rdf:resource="http://data.ct.gov/resource/tids-7w95"/>
+		<ds:soc_title>Gaming Surveillance Officers and Gaming Investigators</ds:soc_title>
+		<ds:employment>260</ds:employment>
+	</dsbase:tids-7w95>
+	<dsbase:tids-7w95 rdf:about="http://data.ct.gov/resource/tids-7w95/372">
+		<rdfs:member rdf:resource="http://data.ct.gov/resource/tids-7w95"/>
+		<ds:soc_title>Security Guards</ds:soc_title>
+		<ds:employment>11,480</ds:employment>
+	</dsbase:tids-7w95>
+	<dsbase:tids-7w95 rdf:about="http://data.ct.gov/resource/tids-7w95/373">
+		<rdfs:member rdf:resource="http://data.ct.gov/resource/tids-7w95"/>
+		<ds:soc_title>Crossing Guards</ds:soc_title>
+		<ds:employment>1,210</ds:employment>
+	</dsbase:tids-7w95>
+	<dsbase:tids-7w95 rdf:about="http://data.ct.gov/resource/tids-7w95/374">
+		<rdfs:member rdf:resource="http://data.ct.gov/resource/tids-7w95"/>
+		<ds:soc_title>Lifeguards, Ski Patrol, and Other Recreational Protective Service Workers</ds:soc_title>
+		<ds:employment>1,460</ds:employment>
+	</dsbase:tids-7w95>
+	<dsbase:tids-7w95 rdf:about="http://data.ct.gov/resource/tids-7w95/375">
+		<rdfs:member rdf:resource="http://data.ct.gov/resource/tids-7w95"/>
+		<ds:soc_title>Transportation Security Screeners</ds:soc_title>
+		<ds:employment>240</ds:employment>
+	</dsbase:tids-7w95>
+	<dsbase:tids-7w95 rdf:about="http://data.ct.gov/resource/tids-7w95/376">
+		<rdfs:member rdf:resource="http://data.ct.gov/resource/tids-7w95"/>
+		<ds:soc_title>Protective Service Workers, All Other</ds:soc_title>
+		<ds:employment>1,350</ds:employment>
+	</dsbase:tids-7w95>
+	<dsbase:tids-7w95 rdf:about="http://data.ct.gov/resource/tids-7w95/377">
+		<rdfs:member rdf:resource="http://data.ct.gov/resource/tids-7w95"/>
+		<ds:soc_title>Food Preparation and Serving-Related Occupations</ds:soc_title>
+		<ds:employment>135,380</ds:employment>
+	</dsbase:tids-7w95>
+	<dsbase:tids-7w95 rdf:about="http://data.ct.gov/resource/tids-7w95/378">
+		<rdfs:member rdf:resource="http://data.ct.gov/resource/tids-7w95"/>
+		<ds:soc_title>Chefs and Head Cooks</ds:soc_title>
+		<ds:employment>2,040</ds:employment>
+	</dsbase:tids-7w95>
+	<dsbase:tids-7w95 rdf:about="http://data.ct.gov/resource/tids-7w95/379">
+		<rdfs:member rdf:resource="http://data.ct.gov/resource/tids-7w95"/>
+		<ds:soc_title>First-Line Supervisors of Food Preparation and Serving Workers</ds:soc_title>
+		<ds:employment>8,240</ds:employment>
+	</dsbase:tids-7w95>
+	<dsbase:tids-7w95 rdf:about="http://data.ct.gov/resource/tids-7w95/380">
+		<rdfs:member rdf:resource="http://data.ct.gov/resource/tids-7w95"/>
+		<ds:soc_title>Cooks, Fast Food</ds:soc_title>
+		<ds:employment>7,000</ds:employment>
+	</dsbase:tids-7w95>
+	<dsbase:tids-7w95 rdf:about="http://data.ct.gov/resource/tids-7w95/381">
+		<rdfs:member rdf:resource="http://data.ct.gov/resource/tids-7w95"/>
+		<ds:soc_title>Cooks, Institution and Cafeteria</ds:soc_title>
+		<ds:employment>3,600</ds:employment>
+	</dsbase:tids-7w95>
+	<dsbase:tids-7w95 rdf:about="http://data.ct.gov/resource/tids-7w95/382">
+		<rdfs:member rdf:resource="http://data.ct.gov/resource/tids-7w95"/>
+		<ds:soc_title>Cooks, Restaurant</ds:soc_title>
+		<ds:employment>13,200</ds:employment>
+	</dsbase:tids-7w95>
+	<dsbase:tids-7w95 rdf:about="http://data.ct.gov/resource/tids-7w95/383">
+		<rdfs:member rdf:resource="http://data.ct.gov/resource/tids-7w95"/>
+		<ds:soc_title>Cooks, Short Order</ds:soc_title>
+		<ds:employment>2,220</ds:employment>
+	</dsbase:tids-7w95>
+	<dsbase:tids-7w95 rdf:about="http://data.ct.gov/resource/tids-7w95/384">
+		<rdfs:member rdf:resource="http://data.ct.gov/resource/tids-7w95"/>
+		<ds:soc_title>Cooks, All Other</ds:soc_title>
+		<ds:employment>480</ds:employment>
+	</dsbase:tids-7w95>
+	<dsbase:tids-7w95 rdf:about="http://data.ct.gov/resource/tids-7w95/385">
+		<rdfs:member rdf:resource="http://data.ct.gov/resource/tids-7w95"/>
+		<ds:soc_title>Food Preparation Workers</ds:soc_title>
+		<ds:employment>9,460</ds:employment>
+	</dsbase:tids-7w95>
+	<dsbase:tids-7w95 rdf:about="http://data.ct.gov/resource/tids-7w95/386">
+		<rdfs:member rdf:resource="http://data.ct.gov/resource/tids-7w95"/>
+		<ds:soc_title>Bartenders</ds:soc_title>
+		<ds:employment>7,510</ds:employment>
+	</dsbase:tids-7w95>
+	<dsbase:tids-7w95 rdf:about="http://data.ct.gov/resource/tids-7w95/387">
+		<rdfs:member rdf:resource="http://data.ct.gov/resource/tids-7w95"/>
+		<ds:soc_title>Combined Food Preparation and Serving Workers, Including Fast Food</ds:soc_title>
+		<ds:employment>29,020</ds:employment>
+	</dsbase:tids-7w95>
+	<dsbase:tids-7w95 rdf:about="http://data.ct.gov/resource/tids-7w95/388">
+		<rdfs:member rdf:resource="http://data.ct.gov/resource/tids-7w95"/>
+		<ds:soc_title>Counter Attendants, Cafeteria, Food Concession, and Coffee Shop</ds:soc_title>
+		<ds:employment>7,190</ds:employment>
+	</dsbase:tids-7w95>
+	<dsbase:tids-7w95 rdf:about="http://data.ct.gov/resource/tids-7w95/389">
+		<rdfs:member rdf:resource="http://data.ct.gov/resource/tids-7w95"/>
+		<ds:soc_title>Waiters and Waitresses</ds:soc_title>
+		<ds:employment>27,580</ds:employment>
+	</dsbase:tids-7w95>
+	<dsbase:tids-7w95 rdf:about="http://data.ct.gov/resource/tids-7w95/390">
+		<rdfs:member rdf:resource="http://data.ct.gov/resource/tids-7w95"/>
+		<ds:soc_title>Food Servers, Nonrestaurant</ds:soc_title>
+		<ds:employment>3,840</ds:employment>
+	</dsbase:tids-7w95>
+	<dsbase:tids-7w95 rdf:about="http://data.ct.gov/resource/tids-7w95/391">
+		<rdfs:member rdf:resource="http://data.ct.gov/resource/tids-7w95"/>
+		<ds:soc_title>Dining Room and Cafeteria Attendants and Bartender Helpers</ds:soc_title>
+		<ds:employment>3,720</ds:employment>
+	</dsbase:tids-7w95>
+	<dsbase:tids-7w95 rdf:about="http://data.ct.gov/resource/tids-7w95/392">
+		<rdfs:member rdf:resource="http://data.ct.gov/resource/tids-7w95"/>
+		<ds:soc_title>Dishwashers</ds:soc_title>
+		<ds:employment>6,200</ds:employment>
+	</dsbase:tids-7w95>
+	<dsbase:tids-7w95 rdf:about="http://data.ct.gov/resource/tids-7w95/393">
+		<rdfs:member rdf:resource="http://data.ct.gov/resource/tids-7w95"/>
+		<ds:soc_title>Hosts and Hostesses, Restaurant, Lounge, and Coffee Shop</ds:soc_title>
+		<ds:employment>3,690</ds:employment>
+	</dsbase:tids-7w95>
+	<dsbase:tids-7w95 rdf:about="http://data.ct.gov/resource/tids-7w95/394">
+		<rdfs:member rdf:resource="http://data.ct.gov/resource/tids-7w95"/>
+		<ds:soc_title>Food Preparation and Serving Related Workers, All Other</ds:soc_title>
+		<ds:employment>400</ds:employment>
+	</dsbase:tids-7w95>
+	<dsbase:tids-7w95 rdf:about="http://data.ct.gov/resource/tids-7w95/395">
+		<rdfs:member rdf:resource="http://data.ct.gov/resource/tids-7w95"/>
+		<ds:soc_title>Building and Grounds Cleaning and Maintenance Occupations</ds:soc_title>
+		<ds:employment>56,510</ds:employment>
+	</dsbase:tids-7w95>
+	<dsbase:tids-7w95 rdf:about="http://data.ct.gov/resource/tids-7w95/423">
+		<rdfs:member rdf:resource="http://data.ct.gov/resource/tids-7w95"/>
+		<ds:soc_title>Barbers</ds:soc_title>
+		<ds:employment>N/A</ds:employment>
+	</dsbase:tids-7w95>
+	<dsbase:tids-7w95 rdf:about="http://data.ct.gov/resource/tids-7w95/396">
+		<rdfs:member rdf:resource="http://data.ct.gov/resource/tids-7w95"/>
+		<ds:soc_title>First-Line Supervisors of Housekeeping and Janitorial Workers</ds:soc_title>
+		<ds:employment>2,050</ds:employment>
+	</dsbase:tids-7w95>
+	<dsbase:tids-7w95 rdf:about="http://data.ct.gov/resource/tids-7w95/397">
+		<rdfs:member rdf:resource="http://data.ct.gov/resource/tids-7w95"/>
+		<ds:soc_title>First-Line Supervisors of Landscaping, Lawn Service, and Groundsk</ds:soc_title>
+		<ds:employment>1,780</ds:employment>
+	</dsbase:tids-7w95>
+	<dsbase:tids-7w95 rdf:about="http://data.ct.gov/resource/tids-7w95/398">
+		<rdfs:member rdf:resource="http://data.ct.gov/resource/tids-7w95"/>
+		<ds:soc_title>Janitors and Cleaners, Except Maids and Housekeeping Cleaners</ds:soc_title>
+		<ds:employment>29,400</ds:employment>
+	</dsbase:tids-7w95>
+	<dsbase:tids-7w95 rdf:about="http://data.ct.gov/resource/tids-7w95/399">
+		<rdfs:member rdf:resource="http://data.ct.gov/resource/tids-7w95"/>
+		<ds:soc_title>Maids and Housekeeping Cleaners</ds:soc_title>
+		<ds:employment>8,580</ds:employment>
+	</dsbase:tids-7w95>
+	<dsbase:tids-7w95 rdf:about="http://data.ct.gov/resource/tids-7w95/400">
+		<rdfs:member rdf:resource="http://data.ct.gov/resource/tids-7w95"/>
+		<ds:soc_title>Building Cleaning Workers, All Other</ds:soc_title>
+		<ds:employment>N/A</ds:employment>
+	</dsbase:tids-7w95>
+	<dsbase:tids-7w95 rdf:about="http://data.ct.gov/resource/tids-7w95/401">
+		<rdfs:member rdf:resource="http://data.ct.gov/resource/tids-7w95"/>
+		<ds:soc_title>Pest Control Workers</ds:soc_title>
+		<ds:employment>470</ds:employment>
+	</dsbase:tids-7w95>
+	<dsbase:tids-7w95 rdf:about="http://data.ct.gov/resource/tids-7w95/402">
+		<rdfs:member rdf:resource="http://data.ct.gov/resource/tids-7w95"/>
+		<ds:soc_title>Landscaping and Groundskeeping Workers</ds:soc_title>
+		<ds:employment>13,580</ds:employment>
+	</dsbase:tids-7w95>
+	<dsbase:tids-7w95 rdf:about="http://data.ct.gov/resource/tids-7w95/403">
+		<rdfs:member rdf:resource="http://data.ct.gov/resource/tids-7w95"/>
+		<ds:soc_title>Pesticide Handlers, Sprayers, and Applicators, Vegetation</ds:soc_title>
+		<ds:employment>130</ds:employment>
+	</dsbase:tids-7w95>
+	<dsbase:tids-7w95 rdf:about="http://data.ct.gov/resource/tids-7w95/404">
+		<rdfs:member rdf:resource="http://data.ct.gov/resource/tids-7w95"/>
+		<ds:soc_title>Tree Trimmers and Pruners</ds:soc_title>
+		<ds:employment>180</ds:employment>
+	</dsbase:tids-7w95>
+	<dsbase:tids-7w95 rdf:about="http://data.ct.gov/resource/tids-7w95/405">
+		<rdfs:member rdf:resource="http://data.ct.gov/resource/tids-7w95"/>
+		<ds:soc_title>Grounds Maintenance Workers, All Other</ds:soc_title>
+		<ds:employment>60</ds:employment>
+	</dsbase:tids-7w95>
+	<dsbase:tids-7w95 rdf:about="http://data.ct.gov/resource/tids-7w95/406">
+		<rdfs:member rdf:resource="http://data.ct.gov/resource/tids-7w95"/>
+		<ds:soc_title>Personal Care and Service Occupations</ds:soc_title>
+		<ds:employment>62,240</ds:employment>
+	</dsbase:tids-7w95>
+	<dsbase:tids-7w95 rdf:about="http://data.ct.gov/resource/tids-7w95/407">
+		<rdfs:member rdf:resource="http://data.ct.gov/resource/tids-7w95"/>
+		<ds:soc_title>Gaming Supervisors</ds:soc_title>
+		<ds:employment>N/A</ds:employment>
+	</dsbase:tids-7w95>
+	<dsbase:tids-7w95 rdf:about="http://data.ct.gov/resource/tids-7w95/408">
+		<rdfs:member rdf:resource="http://data.ct.gov/resource/tids-7w95"/>
+		<ds:soc_title>Slot Supervisors</ds:soc_title>
+		<ds:employment>110</ds:employment>
+	</dsbase:tids-7w95>
+	<dsbase:tids-7w95 rdf:about="http://data.ct.gov/resource/tids-7w95/409">
+		<rdfs:member rdf:resource="http://data.ct.gov/resource/tids-7w95"/>
+		<ds:soc_title>First-Line Supervisors of Personal Service Workers</ds:soc_title>
+		<ds:employment>3,060</ds:employment>
+	</dsbase:tids-7w95>
+	<dsbase:tids-7w95 rdf:about="http://data.ct.gov/resource/tids-7w95/410">
+		<rdfs:member rdf:resource="http://data.ct.gov/resource/tids-7w95"/>
+		<ds:soc_title>Animal Trainers</ds:soc_title>
+		<ds:employment>140</ds:employment>
+	</dsbase:tids-7w95>
+	<dsbase:tids-7w95 rdf:about="http://data.ct.gov/resource/tids-7w95/411">
+		<rdfs:member rdf:resource="http://data.ct.gov/resource/tids-7w95"/>
+		<ds:soc_title>Nonfarm Animal Caretakers</ds:soc_title>
+		<ds:employment>2,180</ds:employment>
+	</dsbase:tids-7w95>
+	<dsbase:tids-7w95 rdf:about="http://data.ct.gov/resource/tids-7w95/412">
+		<rdfs:member rdf:resource="http://data.ct.gov/resource/tids-7w95"/>
+		<ds:soc_title>Gaming Dealers</ds:soc_title>
+		<ds:employment>2,620</ds:employment>
+	</dsbase:tids-7w95>
+	<dsbase:tids-7w95 rdf:about="http://data.ct.gov/resource/tids-7w95/413">
+		<rdfs:member rdf:resource="http://data.ct.gov/resource/tids-7w95"/>
+		<ds:soc_title>Gaming and Sports Book Writers and Runners</ds:soc_title>
+		<ds:employment>120</ds:employment>
+	</dsbase:tids-7w95>
+	<dsbase:tids-7w95 rdf:about="http://data.ct.gov/resource/tids-7w95/414">
+		<rdfs:member rdf:resource="http://data.ct.gov/resource/tids-7w95"/>
+		<ds:soc_title>Motion Picture Projectionists</ds:soc_title>
+		<ds:employment>N/A</ds:employment>
+	</dsbase:tids-7w95>
+	<dsbase:tids-7w95 rdf:about="http://data.ct.gov/resource/tids-7w95/415">
+		<rdfs:member rdf:resource="http://data.ct.gov/resource/tids-7w95"/>
+		<ds:soc_title>Ushers, Lobby Attendants, and Ticket Takers</ds:soc_title>
+		<ds:employment>1,140</ds:employment>
+	</dsbase:tids-7w95>
+	<dsbase:tids-7w95 rdf:about="http://data.ct.gov/resource/tids-7w95/416">
+		<rdfs:member rdf:resource="http://data.ct.gov/resource/tids-7w95"/>
+		<ds:soc_title>Amusement and Recreation Attendants</ds:soc_title>
+		<ds:employment>1,910</ds:employment>
+	</dsbase:tids-7w95>
+	<dsbase:tids-7w95 rdf:about="http://data.ct.gov/resource/tids-7w95/417">
+		<rdfs:member rdf:resource="http://data.ct.gov/resource/tids-7w95"/>
+		<ds:soc_title>Costume Attendants</ds:soc_title>
+		<ds:employment>40</ds:employment>
+	</dsbase:tids-7w95>
+	<dsbase:tids-7w95 rdf:about="http://data.ct.gov/resource/tids-7w95/418">
+		<rdfs:member rdf:resource="http://data.ct.gov/resource/tids-7w95"/>
+		<ds:soc_title>Locker Room, Coatroom, and Dressing Room Attendants</ds:soc_title>
+		<ds:employment>110</ds:employment>
+	</dsbase:tids-7w95>
+	<dsbase:tids-7w95 rdf:about="http://data.ct.gov/resource/tids-7w95/419">
+		<rdfs:member rdf:resource="http://data.ct.gov/resource/tids-7w95"/>
+		<ds:soc_title>Entertainment Attendants and Related Workers, All Other</ds:soc_title>
+		<ds:employment>50</ds:employment>
+	</dsbase:tids-7w95>
+	<dsbase:tids-7w95 rdf:about="http://data.ct.gov/resource/tids-7w95/420">
+		<rdfs:member rdf:resource="http://data.ct.gov/resource/tids-7w95"/>
+		<ds:soc_title>Embalmers</ds:soc_title>
+		<ds:employment>N/A</ds:employment>
+	</dsbase:tids-7w95>
+	<dsbase:tids-7w95 rdf:about="http://data.ct.gov/resource/tids-7w95/421">
+		<rdfs:member rdf:resource="http://data.ct.gov/resource/tids-7w95"/>
+		<ds:soc_title>Funeral Attendants</ds:soc_title>
+		<ds:employment>400</ds:employment>
+	</dsbase:tids-7w95>
+	<dsbase:tids-7w95 rdf:about="http://data.ct.gov/resource/tids-7w95/422">
+		<rdfs:member rdf:resource="http://data.ct.gov/resource/tids-7w95"/>
+		<ds:soc_title>Morticians, Undertakers, and Funeral Directors</ds:soc_title>
+		<ds:employment>360</ds:employment>
+	</dsbase:tids-7w95>
+	<dsbase:tids-7w95 rdf:about="http://data.ct.gov/resource/tids-7w95/424">
+		<rdfs:member rdf:resource="http://data.ct.gov/resource/tids-7w95"/>
+		<ds:soc_title>Hairdressers, Hairstylists, and Cosmetologists</ds:soc_title>
+		<ds:employment>5,940</ds:employment>
+	</dsbase:tids-7w95>
+	<dsbase:tids-7w95 rdf:about="http://data.ct.gov/resource/tids-7w95/425">
+		<rdfs:member rdf:resource="http://data.ct.gov/resource/tids-7w95"/>
+		<ds:soc_title>Manicurists and Pedicurists</ds:soc_title>
+		<ds:employment>1,610</ds:employment>
+	</dsbase:tids-7w95>
+	<dsbase:tids-7w95 rdf:about="http://data.ct.gov/resource/tids-7w95/426">
+		<rdfs:member rdf:resource="http://data.ct.gov/resource/tids-7w95"/>
+		<ds:soc_title>Shampooers</ds:soc_title>
+		<ds:employment>140</ds:employment>
+	</dsbase:tids-7w95>
+	<dsbase:tids-7w95 rdf:about="http://data.ct.gov/resource/tids-7w95/427">
+		<rdfs:member rdf:resource="http://data.ct.gov/resource/tids-7w95"/>
+		<ds:soc_title>Skincare Specialists</ds:soc_title>
+		<ds:employment>500</ds:employment>
+	</dsbase:tids-7w95>
+	<dsbase:tids-7w95 rdf:about="http://data.ct.gov/resource/tids-7w95/428">
+		<rdfs:member rdf:resource="http://data.ct.gov/resource/tids-7w95"/>
+		<ds:soc_title>Baggage Porters and Bellhops</ds:soc_title>
+		<ds:employment>210</ds:employment>
+	</dsbase:tids-7w95>
+	<dsbase:tids-7w95 rdf:about="http://data.ct.gov/resource/tids-7w95/429">
+		<rdfs:member rdf:resource="http://data.ct.gov/resource/tids-7w95"/>
+		<ds:soc_title>Concierges</ds:soc_title>
+		<ds:employment>140</ds:employment>
+	</dsbase:tids-7w95>
+	<dsbase:tids-7w95 rdf:about="http://data.ct.gov/resource/tids-7w95/430">
+		<rdfs:member rdf:resource="http://data.ct.gov/resource/tids-7w95"/>
+		<ds:soc_title>Tour Guides and Escorts</ds:soc_title>
+		<ds:employment>210</ds:employment>
+	</dsbase:tids-7w95>
+	<dsbase:tids-7w95 rdf:about="http://data.ct.gov/resource/tids-7w95/431">
+		<rdfs:member rdf:resource="http://data.ct.gov/resource/tids-7w95"/>
+		<ds:soc_title>Childcare Workers</ds:soc_title>
+		<ds:employment>7,910</ds:employment>
+	</dsbase:tids-7w95>
+	<dsbase:tids-7w95 rdf:about="http://data.ct.gov/resource/tids-7w95/432">
+		<rdfs:member rdf:resource="http://data.ct.gov/resource/tids-7w95"/>
+		<ds:soc_title>Personal Care Aides</ds:soc_title>
+		<ds:employment>20,750</ds:employment>
+	</dsbase:tids-7w95>
+	<dsbase:tids-7w95 rdf:about="http://data.ct.gov/resource/tids-7w95/433">
+		<rdfs:member rdf:resource="http://data.ct.gov/resource/tids-7w95"/>
+		<ds:soc_title>Fitness Trainers and Aerobics Instructors</ds:soc_title>
+		<ds:employment>3,860</ds:employment>
+	</dsbase:tids-7w95>
+	<dsbase:tids-7w95 rdf:about="http://data.ct.gov/resource/tids-7w95/434">
+		<rdfs:member rdf:resource="http://data.ct.gov/resource/tids-7w95"/>
+		<ds:soc_title>Recreation Workers</ds:soc_title>
+		<ds:employment>4,770</ds:employment>
+	</dsbase:tids-7w95>
+	<dsbase:tids-7w95 rdf:about="http://data.ct.gov/resource/tids-7w95/435">
+		<rdfs:member rdf:resource="http://data.ct.gov/resource/tids-7w95"/>
+		<ds:soc_title>Residential Advisors</ds:soc_title>
+		<ds:employment>1,690</ds:employment>
+	</dsbase:tids-7w95>
+	<dsbase:tids-7w95 rdf:about="http://data.ct.gov/resource/tids-7w95/436">
+		<rdfs:member rdf:resource="http://data.ct.gov/resource/tids-7w95"/>
+		<ds:soc_title>Personal Care and Service Workers, All Other</ds:soc_title>
+		<ds:employment>500</ds:employment>
+	</dsbase:tids-7w95>
+	<dsbase:tids-7w95 rdf:about="http://data.ct.gov/resource/tids-7w95/437">
+		<rdfs:member rdf:resource="http://data.ct.gov/resource/tids-7w95"/>
+		<ds:soc_title>Sales and Related Occupations</ds:soc_title>
+		<ds:employment>164,750</ds:employment>
+	</dsbase:tids-7w95>
+	<dsbase:tids-7w95 rdf:about="http://data.ct.gov/resource/tids-7w95/438">
+		<rdfs:member rdf:resource="http://data.ct.gov/resource/tids-7w95"/>
+		<ds:soc_title>First-Line Supervisors of Retail Sales Workers</ds:soc_title>
+		<ds:employment>15,080</ds:employment>
+	</dsbase:tids-7w95>
+	<dsbase:tids-7w95 rdf:about="http://data.ct.gov/resource/tids-7w95/439">
+		<rdfs:member rdf:resource="http://data.ct.gov/resource/tids-7w95"/>
+		<ds:soc_title>First-Line Supervisors of Non-Retail Sales Workers</ds:soc_title>
+		<ds:employment>2,780</ds:employment>
+	</dsbase:tids-7w95>
+	<dsbase:tids-7w95 rdf:about="http://data.ct.gov/resource/tids-7w95/440">
+		<rdfs:member rdf:resource="http://data.ct.gov/resource/tids-7w95"/>
+		<ds:soc_title>Cashiers</ds:soc_title>
+		<ds:employment>38,900</ds:employment>
+	</dsbase:tids-7w95>
+	<dsbase:tids-7w95 rdf:about="http://data.ct.gov/resource/tids-7w95/441">
+		<rdfs:member rdf:resource="http://data.ct.gov/resource/tids-7w95"/>
+		<ds:soc_title>Counter and Rental Clerks</ds:soc_title>
+		<ds:employment>4,340</ds:employment>
+	</dsbase:tids-7w95>
+	<dsbase:tids-7w95 rdf:about="http://data.ct.gov/resource/tids-7w95/442">
+		<rdfs:member rdf:resource="http://data.ct.gov/resource/tids-7w95"/>
+		<ds:soc_title>Parts Salespersons</ds:soc_title>
+		<ds:employment>2,290</ds:employment>
+	</dsbase:tids-7w95>
+	<dsbase:tids-7w95 rdf:about="http://data.ct.gov/resource/tids-7w95/443">
+		<rdfs:member rdf:resource="http://data.ct.gov/resource/tids-7w95"/>
+		<ds:soc_title>Retail Salespersons</ds:soc_title>
+		<ds:employment>52,950</ds:employment>
+	</dsbase:tids-7w95>
+	<dsbase:tids-7w95 rdf:about="http://data.ct.gov/resource/tids-7w95/444">
+		<rdfs:member rdf:resource="http://data.ct.gov/resource/tids-7w95"/>
+		<ds:soc_title>Advertising Sales Agents</ds:soc_title>
+		<ds:employment>1,660</ds:employment>
+	</dsbase:tids-7w95>
+	<dsbase:tids-7w95 rdf:about="http://data.ct.gov/resource/tids-7w95/445">
+		<rdfs:member rdf:resource="http://data.ct.gov/resource/tids-7w95"/>
+		<ds:soc_title>Insurance Sales Agents</ds:soc_title>
+		<ds:employment>6,190</ds:employment>
+	</dsbase:tids-7w95>
+	<dsbase:tids-7w95 rdf:about="http://data.ct.gov/resource/tids-7w95/446">
+		<rdfs:member rdf:resource="http://data.ct.gov/resource/tids-7w95"/>
+		<ds:soc_title>Securities, Commodities, and Financial Services Sales Agents</ds:soc_title>
+		<ds:employment>5,250</ds:employment>
+	</dsbase:tids-7w95>
+	<dsbase:tids-7w95 rdf:about="http://data.ct.gov/resource/tids-7w95/447">
+		<rdfs:member rdf:resource="http://data.ct.gov/resource/tids-7w95"/>
+		<ds:soc_title>Travel Agents</ds:soc_title>
+		<ds:employment>790</ds:employment>
+	</dsbase:tids-7w95>
+	<dsbase:tids-7w95 rdf:about="http://data.ct.gov/resource/tids-7w95/448">
+		<rdfs:member rdf:resource="http://data.ct.gov/resource/tids-7w95"/>
+		<ds:soc_title>Sales Representatives, Services, All Other</ds:soc_title>
+		<ds:employment>8,910</ds:employment>
+	</dsbase:tids-7w95>
+	<dsbase:tids-7w95 rdf:about="http://data.ct.gov/resource/tids-7w95/449">
+		<rdfs:member rdf:resource="http://data.ct.gov/resource/tids-7w95"/>
+		<ds:soc_title>Sales Representatives, Wholesale and Manufacturing, Technical and Scientific Products</ds:soc_title>
+		<ds:employment>4,960</ds:employment>
+	</dsbase:tids-7w95>
+	<dsbase:tids-7w95 rdf:about="http://data.ct.gov/resource/tids-7w95/450">
+		<rdfs:member rdf:resource="http://data.ct.gov/resource/tids-7w95"/>
+		<ds:soc_title>Sales Representatives, Wholesale and Manufacturing, Except Technical and Scientific Products</ds:soc_title>
+		<ds:employment>14,960</ds:employment>
+	</dsbase:tids-7w95>
+	<dsbase:tids-7w95 rdf:about="http://data.ct.gov/resource/tids-7w95/451">
+		<rdfs:member rdf:resource="http://data.ct.gov/resource/tids-7w95"/>
+		<ds:soc_title>Demonstrators and Product Promoters</ds:soc_title>
+		<ds:employment>1,310</ds:employment>
+	</dsbase:tids-7w95>
+	<dsbase:tids-7w95 rdf:about="http://data.ct.gov/resource/tids-7w95/452">
+		<rdfs:member rdf:resource="http://data.ct.gov/resource/tids-7w95"/>
+		<ds:soc_title>Real Estate Brokers</ds:soc_title>
+		<ds:employment>260</ds:employment>
+	</dsbase:tids-7w95>
+	<dsbase:tids-7w95 rdf:about="http://data.ct.gov/resource/tids-7w95/453">
+		<rdfs:member rdf:resource="http://data.ct.gov/resource/tids-7w95"/>
+		<ds:soc_title>Real Estate Sales Agents</ds:soc_title>
+		<ds:employment>740</ds:employment>
+	</dsbase:tids-7w95>
+	<dsbase:tids-7w95 rdf:about="http://data.ct.gov/resource/tids-7w95/454">
+		<rdfs:member rdf:resource="http://data.ct.gov/resource/tids-7w95"/>
+		<ds:soc_title>Sales Engineers</ds:soc_title>
+		<ds:employment>920</ds:employment>
+	</dsbase:tids-7w95>
+	<dsbase:tids-7w95 rdf:about="http://data.ct.gov/resource/tids-7w95/455">
+		<rdfs:member rdf:resource="http://data.ct.gov/resource/tids-7w95"/>
+		<ds:soc_title>Telemarketers</ds:soc_title>
+		<ds:employment>1,400</ds:employment>
+	</dsbase:tids-7w95>
+	<dsbase:tids-7w95 rdf:about="http://data.ct.gov/resource/tids-7w95/456">
+		<rdfs:member rdf:resource="http://data.ct.gov/resource/tids-7w95"/>
+		<ds:soc_title>Sales and Related Workers, All Other</ds:soc_title>
+		<ds:employment>450</ds:employment>
+	</dsbase:tids-7w95>
+	<dsbase:tids-7w95 rdf:about="http://data.ct.gov/resource/tids-7w95/457">
+		<rdfs:member rdf:resource="http://data.ct.gov/resource/tids-7w95"/>
+		<ds:soc_title>Office and Administrative Support Occupations</ds:soc_title>
+		<ds:employment>263,970</ds:employment>
+	</dsbase:tids-7w95>
+	<dsbase:tids-7w95 rdf:about="http://data.ct.gov/resource/tids-7w95/458">
+		<rdfs:member rdf:resource="http://data.ct.gov/resource/tids-7w95"/>
+		<ds:soc_title>First-Line Supervisors of Office and Administrative Support Worke</ds:soc_title>
+		<ds:employment>25,300</ds:employment>
+	</dsbase:tids-7w95>
+	<dsbase:tids-7w95 rdf:about="http://data.ct.gov/resource/tids-7w95/459">
+		<rdfs:member rdf:resource="http://data.ct.gov/resource/tids-7w95"/>
+		<ds:soc_title>Switchboard Operators, Including Answering Service</ds:soc_title>
+		<ds:employment>860</ds:employment>
+	</dsbase:tids-7w95>
+	<dsbase:tids-7w95 rdf:about="http://data.ct.gov/resource/tids-7w95/460">
+		<rdfs:member rdf:resource="http://data.ct.gov/resource/tids-7w95"/>
+		<ds:soc_title>Telephone Operators</ds:soc_title>
+		<ds:employment>180</ds:employment>
+	</dsbase:tids-7w95>
+	<dsbase:tids-7w95 rdf:about="http://data.ct.gov/resource/tids-7w95/461">
+		<rdfs:member rdf:resource="http://data.ct.gov/resource/tids-7w95"/>
+		<ds:soc_title>Bill and Account Collectors</ds:soc_title>
+		<ds:employment>2,990</ds:employment>
+	</dsbase:tids-7w95>
+	<dsbase:tids-7w95 rdf:about="http://data.ct.gov/resource/tids-7w95/462">
+		<rdfs:member rdf:resource="http://data.ct.gov/resource/tids-7w95"/>
+		<ds:soc_title>Billing and Posting Clerks and Machine Operators</ds:soc_title>
+		<ds:employment>5,380</ds:employment>
+	</dsbase:tids-7w95>
+	<dsbase:tids-7w95 rdf:about="http://data.ct.gov/resource/tids-7w95/463">
+		<rdfs:member rdf:resource="http://data.ct.gov/resource/tids-7w95"/>
+		<ds:soc_title>Bookkeeping, Accounting, and Auditing Clerks</ds:soc_title>
+		<ds:employment>18,650</ds:employment>
+	</dsbase:tids-7w95>
+	<dsbase:tids-7w95 rdf:about="http://data.ct.gov/resource/tids-7w95/464">
+		<rdfs:member rdf:resource="http://data.ct.gov/resource/tids-7w95"/>
+		<ds:soc_title>Payroll and Timekeeping Clerks</ds:soc_title>
+		<ds:employment>1,980</ds:employment>
+	</dsbase:tids-7w95>
+	<dsbase:tids-7w95 rdf:about="http://data.ct.gov/resource/tids-7w95/465">
+		<rdfs:member rdf:resource="http://data.ct.gov/resource/tids-7w95"/>
+		<ds:soc_title>Procurement Clerks</ds:soc_title>
+		<ds:employment>890</ds:employment>
+	</dsbase:tids-7w95>
+	<dsbase:tids-7w95 rdf:about="http://data.ct.gov/resource/tids-7w95/466">
+		<rdfs:member rdf:resource="http://data.ct.gov/resource/tids-7w95"/>
+		<ds:soc_title>Tellers</ds:soc_title>
+		<ds:employment>5,140</ds:employment>
+	</dsbase:tids-7w95>
+	<dsbase:tids-7w95 rdf:about="http://data.ct.gov/resource/tids-7w95/467">
+		<rdfs:member rdf:resource="http://data.ct.gov/resource/tids-7w95"/>
+		<ds:soc_title>Financial Clerks, All Other</ds:soc_title>
+		<ds:employment>510</ds:employment>
+	</dsbase:tids-7w95>
+	<dsbase:tids-7w95 rdf:about="http://data.ct.gov/resource/tids-7w95/468">
+		<rdfs:member rdf:resource="http://data.ct.gov/resource/tids-7w95"/>
+		<ds:soc_title>Brokerage Clerks</ds:soc_title>
+		<ds:employment>950</ds:employment>
+	</dsbase:tids-7w95>
+	<dsbase:tids-7w95 rdf:about="http://data.ct.gov/resource/tids-7w95/469">
+		<rdfs:member rdf:resource="http://data.ct.gov/resource/tids-7w95"/>
+		<ds:soc_title>Correspondence Clerks</ds:soc_title>
+		<ds:employment>70</ds:employment>
+	</dsbase:tids-7w95>
+	<dsbase:tids-7w95 rdf:about="http://data.ct.gov/resource/tids-7w95/470">
+		<rdfs:member rdf:resource="http://data.ct.gov/resource/tids-7w95"/>
+		<ds:soc_title>Court, Municipal, and License Clerks</ds:soc_title>
+		<ds:employment>1,240</ds:employment>
+	</dsbase:tids-7w95>
+	<dsbase:tids-7w95 rdf:about="http://data.ct.gov/resource/tids-7w95/471">
+		<rdfs:member rdf:resource="http://data.ct.gov/resource/tids-7w95"/>
+		<ds:soc_title>Credit Authorizers, Checkers, and Clerks</ds:soc_title>
+		<ds:employment>240</ds:employment>
+	</dsbase:tids-7w95>
+	<dsbase:tids-7w95 rdf:about="http://data.ct.gov/resource/tids-7w95/472">
+		<rdfs:member rdf:resource="http://data.ct.gov/resource/tids-7w95"/>
+		<ds:soc_title>Customer Service Representatives</ds:soc_title>
+		<ds:employment>29,900</ds:employment>
+	</dsbase:tids-7w95>
+	<dsbase:tids-7w95 rdf:about="http://data.ct.gov/resource/tids-7w95/473">
+		<rdfs:member rdf:resource="http://data.ct.gov/resource/tids-7w95"/>
+		<ds:soc_title>Eligibility Interviewers, Government Programs</ds:soc_title>
+		<ds:employment>1,090</ds:employment>
+	</dsbase:tids-7w95>
+	<dsbase:tids-7w95 rdf:about="http://data.ct.gov/resource/tids-7w95/474">
+		<rdfs:member rdf:resource="http://data.ct.gov/resource/tids-7w95"/>
+		<ds:soc_title>File Clerks</ds:soc_title>
+		<ds:employment>1,620</ds:employment>
+	</dsbase:tids-7w95>
+	<dsbase:tids-7w95 rdf:about="http://data.ct.gov/resource/tids-7w95/475">
+		<rdfs:member rdf:resource="http://data.ct.gov/resource/tids-7w95"/>
+		<ds:soc_title>Hotel, Motel, and Resort Desk Clerks</ds:soc_title>
+		<ds:employment>1,840</ds:employment>
+	</dsbase:tids-7w95>
+	<dsbase:tids-7w95 rdf:about="http://data.ct.gov/resource/tids-7w95/476">
+		<rdfs:member rdf:resource="http://data.ct.gov/resource/tids-7w95"/>
+		<ds:soc_title>Interviewers, Except Eligibility and Loan</ds:soc_title>
+		<ds:employment>1,770</ds:employment>
+	</dsbase:tids-7w95>
+	<dsbase:tids-7w95 rdf:about="http://data.ct.gov/resource/tids-7w95/477">
+		<rdfs:member rdf:resource="http://data.ct.gov/resource/tids-7w95"/>
+		<ds:soc_title>Library Assistants, Clerical</ds:soc_title>
+		<ds:employment>1,570</ds:employment>
+	</dsbase:tids-7w95>
+	<dsbase:tids-7w95 rdf:about="http://data.ct.gov/resource/tids-7w95/478">
+		<rdfs:member rdf:resource="http://data.ct.gov/resource/tids-7w95"/>
+		<ds:soc_title>Loan Interviewers and Clerks</ds:soc_title>
+		<ds:employment>1,760</ds:employment>
+	</dsbase:tids-7w95>
+	<dsbase:tids-7w95 rdf:about="http://data.ct.gov/resource/tids-7w95/479">
+		<rdfs:member rdf:resource="http://data.ct.gov/resource/tids-7w95"/>
+		<ds:soc_title>New Accounts Clerks</ds:soc_title>
+		<ds:employment>140</ds:employment>
+	</dsbase:tids-7w95>
+	<dsbase:tids-7w95 rdf:about="http://data.ct.gov/resource/tids-7w95/480">
+		<rdfs:member rdf:resource="http://data.ct.gov/resource/tids-7w95"/>
+		<ds:soc_title>Order Clerks</ds:soc_title>
+		<ds:employment>1,590</ds:employment>
+	</dsbase:tids-7w95>
+	<dsbase:tids-7w95 rdf:about="http://data.ct.gov/resource/tids-7w95/481">
+		<rdfs:member rdf:resource="http://data.ct.gov/resource/tids-7w95"/>
+		<ds:soc_title>Human Resources Assistants, Except Payroll and Timekeeping</ds:soc_title>
+		<ds:employment>1,220</ds:employment>
+	</dsbase:tids-7w95>
+	<dsbase:tids-7w95 rdf:about="http://data.ct.gov/resource/tids-7w95/482">
+		<rdfs:member rdf:resource="http://data.ct.gov/resource/tids-7w95"/>
+		<ds:soc_title>Receptionists and Information Clerks</ds:soc_title>
+		<ds:employment>13,010</ds:employment>
+	</dsbase:tids-7w95>
+	<dsbase:tids-7w95 rdf:about="http://data.ct.gov/resource/tids-7w95/483">
+		<rdfs:member rdf:resource="http://data.ct.gov/resource/tids-7w95"/>
+		<ds:soc_title>Reservation and Transportation Ticket Agents and Travel Clerks</ds:soc_title>
+		<ds:employment>510</ds:employment>
+	</dsbase:tids-7w95>
+	<dsbase:tids-7w95 rdf:about="http://data.ct.gov/resource/tids-7w95/484">
+		<rdfs:member rdf:resource="http://data.ct.gov/resource/tids-7w95"/>
+		<ds:soc_title>Information and Record Clerks, All Other</ds:soc_title>
+		<ds:employment>1,660</ds:employment>
+	</dsbase:tids-7w95>
+	<dsbase:tids-7w95 rdf:about="http://data.ct.gov/resource/tids-7w95/485">
+		<rdfs:member rdf:resource="http://data.ct.gov/resource/tids-7w95"/>
+		<ds:soc_title>Cargo and Freight Agents</ds:soc_title>
+		<ds:employment>570</ds:employment>
+	</dsbase:tids-7w95>
+	<dsbase:tids-7w95 rdf:about="http://data.ct.gov/resource/tids-7w95/486">
+		<rdfs:member rdf:resource="http://data.ct.gov/resource/tids-7w95"/>
+		<ds:soc_title>Couriers and Messengers</ds:soc_title>
+		<ds:employment>590</ds:employment>
+	</dsbase:tids-7w95>
+	<dsbase:tids-7w95 rdf:about="http://data.ct.gov/resource/tids-7w95/487">
+		<rdfs:member rdf:resource="http://data.ct.gov/resource/tids-7w95"/>
+		<ds:soc_title>Police, Fire, and Ambulance Dispatchers</ds:soc_title>
+		<ds:employment>1,380</ds:employment>
+	</dsbase:tids-7w95>
+	<dsbase:tids-7w95 rdf:about="http://data.ct.gov/resource/tids-7w95/488">
+		<rdfs:member rdf:resource="http://data.ct.gov/resource/tids-7w95"/>
+		<ds:soc_title>Dispatchers, Except Police, Fire, and Ambulance</ds:soc_title>
+		<ds:employment>1,760</ds:employment>
+	</dsbase:tids-7w95>
+	<dsbase:tids-7w95 rdf:about="http://data.ct.gov/resource/tids-7w95/489">
+		<rdfs:member rdf:resource="http://data.ct.gov/resource/tids-7w95"/>
+		<ds:soc_title>Meter Readers, Utilities</ds:soc_title>
+		<ds:employment>220</ds:employment>
+	</dsbase:tids-7w95>
+	<dsbase:tids-7w95 rdf:about="http://data.ct.gov/resource/tids-7w95/490">
+		<rdfs:member rdf:resource="http://data.ct.gov/resource/tids-7w95"/>
+		<ds:soc_title>Postal Service Clerks</ds:soc_title>
+		<ds:employment>1,010</ds:employment>
+	</dsbase:tids-7w95>
+	<dsbase:tids-7w95 rdf:about="http://data.ct.gov/resource/tids-7w95/491">
+		<rdfs:member rdf:resource="http://data.ct.gov/resource/tids-7w95"/>
+		<ds:soc_title>Postal Service Mail Carriers</ds:soc_title>
+		<ds:employment>4,380</ds:employment>
+	</dsbase:tids-7w95>
+	<dsbase:tids-7w95 rdf:about="http://data.ct.gov/resource/tids-7w95/492">
+		<rdfs:member rdf:resource="http://data.ct.gov/resource/tids-7w95"/>
+		<ds:soc_title>Postal Service Mail Sorters, Processors, and Processing Machine Operators</ds:soc_title>
+		<ds:employment>1,220</ds:employment>
+	</dsbase:tids-7w95>
+	<dsbase:tids-7w95 rdf:about="http://data.ct.gov/resource/tids-7w95/493">
+		<rdfs:member rdf:resource="http://data.ct.gov/resource/tids-7w95"/>
+		<ds:soc_title>Production, Planning, and Expediting Clerks</ds:soc_title>
+		<ds:employment>4,470</ds:employment>
+	</dsbase:tids-7w95>
+	<dsbase:tids-7w95 rdf:about="http://data.ct.gov/resource/tids-7w95/494">
+		<rdfs:member rdf:resource="http://data.ct.gov/resource/tids-7w95"/>
+		<ds:soc_title>Shipping, Receiving, and Traffic Clerks</ds:soc_title>
+		<ds:employment>7,170</ds:employment>
+	</dsbase:tids-7w95>
+	<dsbase:tids-7w95 rdf:about="http://data.ct.gov/resource/tids-7w95/495">
+		<rdfs:member rdf:resource="http://data.ct.gov/resource/tids-7w95"/>
+		<ds:soc_title>Stock Clerks and Order Fillers</ds:soc_title>
+		<ds:employment>22,660</ds:employment>
+	</dsbase:tids-7w95>
+	<dsbase:tids-7w95 rdf:about="http://data.ct.gov/resource/tids-7w95/496">
+		<rdfs:member rdf:resource="http://data.ct.gov/resource/tids-7w95"/>
+		<ds:soc_title>Weighers, Measurers, Checkers, and Samplers, Recordkeeping</ds:soc_title>
+		<ds:employment>610</ds:employment>
+	</dsbase:tids-7w95>
+	<dsbase:tids-7w95 rdf:about="http://data.ct.gov/resource/tids-7w95/497">
+		<rdfs:member rdf:resource="http://data.ct.gov/resource/tids-7w95"/>
+		<ds:soc_title>Executive Secretaries and Executive Administrative Assistants</ds:soc_title>
+		<ds:employment>8,970</ds:employment>
+	</dsbase:tids-7w95>
+	<dsbase:tids-7w95 rdf:about="http://data.ct.gov/resource/tids-7w95/498">
+		<rdfs:member rdf:resource="http://data.ct.gov/resource/tids-7w95"/>
+		<ds:soc_title>Legal Secretaries</ds:soc_title>
+		<ds:employment>1,840</ds:employment>
+	</dsbase:tids-7w95>
+	<dsbase:tids-7w95 rdf:about="http://data.ct.gov/resource/tids-7w95/499">
+		<rdfs:member rdf:resource="http://data.ct.gov/resource/tids-7w95"/>
+		<ds:soc_title>Medical Secretaries</ds:soc_title>
+		<ds:employment>4,130</ds:employment>
+	</dsbase:tids-7w95>
+	<dsbase:tids-7w95 rdf:about="http://data.ct.gov/resource/tids-7w95/500">
+		<rdfs:member rdf:resource="http://data.ct.gov/resource/tids-7w95"/>
+		<ds:soc_title>Secretaries and Administrative Assistants, Except Legal, Medical,</ds:soc_title>
+		<ds:employment>31,770</ds:employment>
+	</dsbase:tids-7w95>
+</rdf:RDF>
