@@ -1,8 +1,9 @@
 {
-  andover:{
-            crime_rate: 100,
-            average_price: 1000,
-            school: "ASU",
-            medical: "health-care"
-          }
+  "andover":
+    {
+      "crime_rate": 100,
+      "average_price": 1000,
+      "school": "ASU",
+      "medical": "health-care"
+    }
 }

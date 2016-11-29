@@ -47,30 +47,49 @@
                         ng-click="fillTextbox(countrydata)">{{countrydata}}
                     </li>
                </ul>
-               <div>
-                <div>
-                  <p>
-                    <label>Andover</label> Town
-                  </p>
-                </div>
-               </div>
-               <div><label>Crime rate: 5.7% per 100,000</label></div>
-               <div><label>Arrest Rate: 1.2% per 100,000</label></div>
-               <div>
-                 <label>Schools:</label>
-                 <p>
-                   Andover Elementary School<br/>
-                   Public School<br/>
-                   Accountability Index: 95.2<br/>
-                   School low grade: PK <br/>
-                   School high grade: 6<br/>
-                 </p>
-               </div>
-               <div>
-                <p>
-                 <label>Number of Health Services</label>: 5
-                </p>
-               </div>
+               <div ng-model="hideTownData" ng-hide="hideTownData">
+                <div><label>Town: {{selectedTown}}</label></div>
+								<div>
+										<label>Real Estate:</label>
+										<p>
+				 								avgAssessedValue: {{avgAssessedValue}} <br/>
+				 								avgSalesPrice: {{avgSalesPrice}} <br/>
+				 								avgSalesRatio: {{avgSalesRatio}} <br/>
+										</p>
+								</div>
+
+								<div>
+										<label>Housing:</label>
+										<p>
+				 								total_houses: {{total_houses}} <br/>
+				 								occupied_houses: {{occupied_houses}} <br/>
+				 								vacant_houses: {{vacant_houses}} <br/>
+										</p>
+								</div>
+
+								<div>
+										<label>Demographic:</label>
+										<p>
+				 								population: {{population}} <br/>
+				 								sex_ratio: {{sex_ratio}} <br/>
+										</p>
+								</div>
+
+								<div>
+										<label>School:</label>
+										<p>
+				 								Number of schools: {{schools_count}} <br/>
+										</p>
+								</div>
+
+								<div>
+										<label>Police Dept:</label>
+										<p>
+				 								Number of police Dept: {{policeDeptCount}} <br/>
+										</p>
+								</div>
+
+							 </div>
           </div>
 				</div>
 				<div class="tab-pane fade"  id="Criteria">
