@@ -98,7 +98,6 @@ sampleApp.controller('MapCtrl', function($scope) {
 
     $scope.markers.push(marker);
     bounds.extend(marker.position);
-
   }
 
 });

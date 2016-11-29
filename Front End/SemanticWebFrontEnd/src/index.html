@@ -10,184 +10,261 @@
 
 	<!-- Optional theme -->
 	<link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/3.2.0/css/bootstrap-theme.min.css">
-  <link rel="stylesheet" href="//code.jquery.com/ui/1.12.1/themes/base/jquery-ui.css">
-  <link rel="stylesheet" href="/resources/demos/style.css">
-  <script src="http://code.jquery.com/jquery-2.1.1.min.js"></script>
-  <script src="https://maxcdn.bootstrapcdn.com/bootstrap/3.2.0/js/bootstrap.min.js"></script>
-    <script src="http://d3js.org/d3.v3.min.js" charset="utf-8"></script>
-  <script src="https://ajax.googleapis.com/ajax/libs/angularjs/1.5.6/angular.min.js"></script>
-  <!-- <script src="app.js"></script> -->
-  <script src="https://code.jquery.com/jquery-1.12.4.js"></script>
-  <script src="https://code.jquery.com/ui/1.12.1/jquery-ui.js"></script>
-  <script>
-    
-    $( function() {
-      $("#subButton").click(function () {
-        var lowerPopulationValue =  $("#slider-range").slider("values", 0);
-        var higherPopulationValue = $("#slider-range").slider("values", 1);
-        var lowerHealthCapacityValue =  $("#slider-range1").slider("values", 0);
-        var higherHealthCapacityValue = $("#slider-range1").slider("values", 1);
+	<link rel="stylesheet" href="//code.jquery.com/ui/1.12.1/themes/base/jquery-ui.css">
+	<link rel="stylesheet" href="/resources/demos/style.css">
+	<script src="http://code.jquery.com/jquery-2.1.1.min.js"></script>
+	<script src="https://maxcdn.bootstrapcdn.com/bootstrap/3.2.0/js/bootstrap.min.js"></script>
+	<script src="http://d3js.org/d3.v3.min.js" charset="utf-8"></script>
+	<script src="https://ajax.googleapis.com/ajax/libs/angularjs/1.5.6/angular.min.js"></script>
+	<!-- <script src="app.js"></script> -->
+	<script src="https://code.jquery.com/jquery-1.12.4.js"></script>
+	<script src="https://code.jquery.com/ui/1.12.1/jquery-ui.js"></script>
+	<script>
+		$(function() {
+			$("#subButton").click(function() {
+				var lowerPopulationValue = $("#slider-range").slider("values", 0);
+				var higherPopulationValue = $("#slider-range").slider("values", 1);
+				var lowerHealthCapacityValue = $("#slider-range1").slider("values", 0);
+				var higherHealthCapacityValue = $("#slider-range1").slider("values", 1);
 
-        var lowerSellPriceValue =  $("#slider-range2").slider("values", 0);
-        var higherSellPriceValue = $("#slider-range2").slider("values", 1);
-        
-        alert(lowerPopulationValue);
-        alert(higherPopulationValue);
-        alert(lowerHealthCapacityValue);
-        alert(higherHealthCapacityValue);
-        alert(lowerSellPriceValue);
-        alert(higherSellPriceValue);
-      });
+				var lowerSellPriceValue = $("#slider-range2").slider("values", 0);
+				var higherSellPriceValue = $("#slider-range2").slider("values", 1);
 
-      $( "#slider-range" ).slider({
-        range: true,
-        min: 0,
-        max: 20000,
-        values: [ 5000, 10000 ],
-        slide: function( event, ui ) {
-          $( "#populationRange" ).val( ui.values[0] + " - " + ui.values[1] );
-        }
-      });
+				// alert(lowerPopulationValue);
+				// alert(higherPopulationValue);
+				// alert(lowerHealthCapacityValue);
+				// alert(higherHealthCapacityValue);
+				// alert(lowerSellPriceValue);
+				// alert(higherSellPriceValue);
+				// alert("i am here 00");
 
-      $( "#populationRange" ).val( $( "#slider-range" ).slider( "values", 0 ) +
-        " - " + $( "#slider-range" ).slider( "values", 1 ) );
-      });
+				var q =
+					"PREFIX ds:<http://data.ct.gov/resource/rm6f-b9qj/>\
+                        PREFIX xsd: <http://www.w3.org/2001/XMLSchema#>\
+                        PREFIX usps: <http://www.w3.org/2000/10/swap/pim/usps#>\
+                        select DISTINCT ?town ?name ?avgCapacity where { ?facility ds:facility_name ?name .\
+        ?facility ds:avgCapacity ?avgCapacity .\
+       ?facilty usps:deliveryAddress ?deliveryAddress .\
+        ?facility ds:town ?town .\
+        Filter(xsd:integer(?avgCapacity) >= " +
+					lowerHealthCapacityValue + " && xsd:integer(?avgCapacity) <=  " + higherHealthCapacityValue + ")\
+			}\
+			ORDER BY ASC(?town)\
+			LIMIT 20";
 
-    $( function() {
-      $( "#slider-range1" ).slider({
-        range: true,
-        min: 0,
-        max: 500,
-        values: [ 75, 300 ],
-        slide: function( event, ui ) {
-          $( "#hospitalCapacity" ).val( ui.values[0] + " - " + ui.values[1]);
-        }
-      });
-      $( "#hospitalCapacity" ).val( $( "#slider-range1" ).slider( "values", 0 ) +
-        " - " + $( "#slider-range1" ).slider( "values", 1 ) );
-      } 
-    );
+				$.post("http://localhost:3030/ds/query", {
+						query: q
+					},
+					function(data, status) {
+						$("#healthTable").empty();
+						var t = tableCreate(data);
+						var headerH2 = document.createElement('h2');
+						$(headerH2).text("Health Information");
+						$("#healthTable").append(headerH2);
+						$("#healthTable").append(t);
+					});
 
-    $( function() {
-      $( "#slider-range2" ).slider({
-        range: true,
-        min: 0,
-        max: 5000,
-        values: [ 750, 3000 ],
-        slide: function( event, ui ) {
-          $( "#spRange" ).val( ui.values[0] + " - " + ui.values[1]);
-        }
-      });
-      $( "#spRange" ).val( $( "#slider-range2" ).slider( "values", 0 ) +
-        " - " + $( "#slider-range2" ).slider( "values", 1 ) );
-      } 
-    );
-  </script>
-  <link rel="stylesheet" type="text/css" href="style.css">
+				var q2 =
+					"PREFIX ds:<http://data.ct.gov/resource/igy9-udjm/>\
+PREFIX geo:<http://www.w3.org/2003/01/geo/wgs84_pos#>\
+PREFIX xsd: <http://www.w3.org/2001/XMLSchema#>\
+select DISTINCT ?name ?total_houses ?occupied_houses ?vacant_houses \
+                 ?total_pop_2015 ?total_male_2015 ?total_female_2015  \
+                 ?address ?list_year ?assessed_value ?sales_price ?sales_ratio ?lat ?long where {  \
+                 ?ns1 ds:municipality ?name ; \
+                      ds:total_housing_units ?total_houses ; \
+                      ds:occupied_housing_units ?occupied_houses ; \
+                      ds:vacant_housing_units ?vacant_houses . \
+                 ?ns2 ds:town ?name ; \
+                     ds:_2015_total ?total_pop_2015 ; \
+                     ds:_2015_male_total ?total_male_2015 ; \
+                     ds:_2015_female_total ?total_female_2015 . \
+                 ?ns3 ds:name ?name ; \
+                      ds:address ?address ; \
+                      ds:listyear ?list_year ; \
+                      ds:assessedvalue ?assessed_value ; \
+                      ds:saleprice ?sales_price ; \
+                      ds:salesratio ?sales_ratio ; \
+                       ds:location  ?ns4 .  \
+                 ?ns4  geo:lat ?lat ; \
+                      geo:long ?long .\
+  FILTER (xsd:double(?sales_price) >= " +
+					lowerSellPriceValue + " && xsd:double(?sales_price) <= " + higherSellPriceValue + ")\
+}\
+LIMIT 20";
+				alert("i am here 2");
+				$.post("http://localhost:3030/ds/query", {
+						query: q2
+					},
+					function(data, status) {
+						$("#PropertyTable").empty();
+						var t = tableCreate(data);
+						var headerH2 = document.createElement('h2');
+						$(headerH2).text("Property Information");
+						$("#PropertyTable").append(headerH2);
+						$("#PropertyTable").append(t);
+					});
+			});
+
+			$("#slider-range").slider({
+				range: true,
+				min: 0,
+				max: 20000,
+				values: [5000, 10000],
+				slide: function(event, ui) {
+					$("#populationRange").val(ui.values[0] + " - " + ui.values[1]);
+				}
+			});
+
+			$("#populationRange").val($("#slider-range").slider("values", 0) +
+				" - " + $("#slider-range").slider("values", 1));
+		});
+
+		$(function() {
+			$("#slider-range1").slider({
+				range: true,
+				min: 0,
+				max: 500,
+				values: [75, 300],
+				slide: function(event, ui) {
+					$("#hospitalCapacity").val(ui.values[0] + " - " + ui.values[1]);
+				}
+			});
+			$("#hospitalCapacity").val($("#slider-range1").slider("values", 0) +
+				" - " + $("#slider-range1").slider("values", 1));
+		});
+
+		$(function() {
+			$("#slider-range2").slider({
+				range: true,
+				min: 0,
+				max: 5000,
+				values: [750, 3000],
+				slide: function(event, ui) {
+					$("#spRange").val(ui.values[0] + " - " + ui.values[1]);
+				}
+			});
+			$("#spRange").val($("#slider-range2").slider("values", 0) +
+				" - " + $("#slider-range2").slider("values", 1));
+		});
+	</script>
+	<link rel="stylesheet" type="text/css" href="style.css">
 	<link rel="stylesheet" href="css/maps.css">
 	<script src="http://maps.googleapis.com/maps/api/js?sensor=false&language=en&libraries=geometry"></script>
 	<script type="text/javascript" src="js/maps.js"></script>
 	<script type="text/javascript" src="js/tableDisplay.js"></script>
 </head>
 
-<body >
+<body>
 	<header>
-			<div class="container">
-				<h1>Connecticut Real Estate Analysis</h1>
-			</div>
+		<div class="container">
+			<h1>Connecticut Real Estate Analysis</h1>
+		</div>
 	</header>
 
-		<div class="container">
-			<ul class="nav nav-pills nav-justified">
-				<li class="active"><a href="#Search" data-toggle="tab">Search</a></li>
-				<li><a href="#Criteria" data-toggle="tab">Criteria</a></li>
-        <li><a href="#Charts" data-toggle="tab">Charts</a></li>
-			</ul>
+	<div class="container">
+		<ul class="nav nav-pills nav-justified">
+			<li class="active"><a href="#Search" data-toggle="tab">Search</a></li>
+			<li><a href="#Criteria" data-toggle="tab">Criteria</a></li>
+			<li><a href="#Charts" data-toggle="tab">Charts</a></li>
+		</ul>
 
-			<div class="tab-content">
-				<div class="tab-pane fade in active"  id="Search" ng-app="mapsApp" ng-controller="MapCtrl">
-					<div class="modal-body row">
-          <div class="col-md-6">
-               <label>Search Town</label>
-               <input type="text" name="town" id="town" class="form-control"
-               ng-model="town"
-               ng-keyup="complete(town)"/>
+		<div class="tab-content">
+			<div class="tab-pane fade in active" id="Search" ng-app="mapsApp" ng-controller="MapCtrl">
+				<div class="modal-body row">
+					<div class="col-md-6">
+						<label>Search Town</label>
+						<input type="text" name="town" id="town" class="form-control" ng-model="town" ng-keyup="complete(town)" />
 
-               <ul class="list-group" ng-model="hidethis"
-                                      ng-hide="hidethis">
-                    <li class="list-group-item"
-                        ng-repeat="countrydata in filterTown"
-                        ng-click="fillTextbox(countrydata)">{{countrydata}}
-                    </li>
-               </ul>
-               <div>
-                <div>
-                  <p>
-                    <label>Andover</label> Town
-                  </p>
-                </div>
-               </div>
-               <div><label>Crime rate: 5.7% per 100,000</label></div>
-               <div><label>Arrest Rate: 1.2% per 100,000</label></div>
-               <div>
-                 <label>Schools:</label>
-                 <p>
-                   Andover Elementary School<br/>
-                   Public School<br/>
-                   Accountability Index: 95.2<br/>
-                   School low grade: PK <br/>
-                   School high grade: 6<br/>
-                 </p>
-               </div>
-               <div>
-                <p>
-                 <label>Number of Health Services</label>: 5
-                </p>
-               </div>
-          </div>
+						<ul class="list-group" ng-model="hidethis" ng-hide="hidethis">
+							<li class="list-group-item" ng-repeat="countrydata in filterTown" ng-click="fillTextbox(countrydata)">{{countrydata}}
+							</li>
+						</ul>
+						<div>
+							<div>
+								<p>
+									<label>Andover</label> Town
+								</p>
+							</div>
+						</div>
+						<div>
+							<label>Crime rate: 5.7% per 100,000</label>
+						</div>
+						<div>
+							<label>Arrest Rate: 1.2% per 100,000</label>
+						</div>
+						<div>
+							<label>Schools:</label>
+							<p>
+								Andover Elementary School
+								<br/> Public School
+								<br/> Accountability Index: 95.2
+								<br/> School low grade: PK
+								<br/> School high grade: 6
+								<br/>
+							</p>
+						</div>
+						<div>
+							<p>
+								<label>Number of Health Services</label>: 5
+							</p>
+						</div>
+					</div>
 
 					<div class="col-md-6">
 						<div id="map"></div>
 					</div>
 				</div>
 			</div>
-				<div class="tab-pane fade"  id="Criteria">
-            <br><br>
-            <div class = "row">
-            <div class="col-md-4">
-                <label for="populationrange">Population range</label>
-                  
-                <div id="slider-range" style="width:150px;"></div>
-                <input type="text" id="populationRange" readonly style="border:0; font-weight:bold;">
-              </div>
+			<div class="tab-pane fade" id="Criteria">
+				<br>
+				<br>
+				<div class="row">
+					<div class="col-md-4">
+						<label for="populationrange">Population range</label>
 
-              <div class="col-md-4">
-                <label for="hospitalCapacity">Hospital Capacity</label>
-                  
-                <div id="slider-range1" style="width:150px;"></div>
-                <input type="text" id="hospitalCapacity" readonly style="border:0; font-weight:bold;">
-              </div>
+						<div id="slider-range" style="width:150px;"></div>
+						<input type="text" id="populationRange" readonly style="border:0; font-weight:bold;">
+					</div>
 
-              <div class="col-md-4">
-                <label for="spRange">Sell Price</label>
-                  
-                <div id="slider-range2" style="width:150px;"></div>
-                <input type="text" id="spRange" readonly style="border:0; font-weight:bold;">
-              </div>
+					<div class="col-md-4">
+						<label for="hospitalCapacity">Hospital Capacity</label>
 
-              
-          </div>
-          <div class="col-md-4">
-            <button type="button" class="btn btn-primary" id="subButton">Submit</button>
-          </div>
-        </div>
-        <div class="tab-pane fade"  id="Charts">
-            <span id="cont"/>
-            <h4>Connecticut house sales and geo locations</h4>
-            <script src="d3script.js"></script>
+						<div id="slider-range1" style="width:150px;"></div>
+						<input type="text" id="hospitalCapacity" readonly style="border:0; font-weight:bold;">
+					</div>
 
-        </div>
+					<div class="col-md-4">
+						<label for="spRange">Sell Price</label>
+
+						<div id="slider-range2" style="width:150px;"></div>
+						<input type="text" id="spRange" readonly style="border:0; font-weight:bold;">
+					</div>
+				</div>
+
+				<div class="modal-body row">
+					<div class="col-md-4">
+						<button type="button" class="btn btn-primary" id="subButton">Submit</button>
+					</div>
+				</div>
+
+				<div class="modal-body row">
+					<div class="col-md-6">
+						<div id="healthTable"></div>
+					</div>
+					<div class="col-md-6">
+						<div id="PropertyTable"></div>
+					</div>
+				</div>
+			</div>
+			<div class="tab-pane fade" id="Charts">
+				<span id="cont" />
+				<h4>Connecticut house sales and geo locations</h4>
+				<script src="d3script.js"></script>
+
+			</div>
 		</div>
-        </div>
-  </body>
+	</div>
+</body>
+
 </html>
