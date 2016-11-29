@@ -176,7 +176,7 @@ LIMIT 20";
 		<div class="tab-content">
 			<div class="tab-pane fade in active" id="Search" ng-app="mapsApp" ng-controller="MapCtrl">
 				<div class="modal-body row">
-					<div class="col-md-6">
+					<div class="col-md-8">
 						<label>Search Town</label>
 						<input type="text" name="town" id="town" class="form-control" ng-model="town" ng-keyup="complete(town)" />
 
@@ -189,7 +189,7 @@ LIMIT 20";
 								<div>
 										<label>Real Estate:</label>
 										<p>
-				 								Average assessed: {{avgAssessedValue}} <br/>
+				 								Average assessed value: {{avgAssessedValue}} <br/>
 				 								Average sales price: {{avgSalesPrice}} <br/>
 				 								Average sales ratio: {{avgSalesRatio}} <br/>
 										</p>
@@ -211,16 +211,10 @@ LIMIT 20";
 				 								Sex Ratio: {{sex_ratio}} <br/>
 										</p>
 								</div>
-
-						</div>
-						<div>
-							<label>Arrest Rate: 1.2% per 100,000</label>
-						</div>
 								<div>
-										<label>School:</label>
+										<label>School with ng bind:</label>
 										<p>
-				 								Number of schools: {{schools_count}} <br/>
-								<br/>
+				 								Number of schools: {{schools_count}} <br/><br/>
 										</p>
 								</div>
 
@@ -238,15 +232,12 @@ LIMIT 20";
 												Arrests Rate: {{arrest_rate}} per 100,000 <br/>
 										</p>
 								</div>
+								</div>
 							 </div>
-							 <div class="col-md-6">
+							 <div class="col-md-4">
 	 							<div id="map"></div>
 	 						</div>
 						 </div>
-
-
-
-
 				</div>
 
 			<div class="tab-pane fade" id="Criteria">

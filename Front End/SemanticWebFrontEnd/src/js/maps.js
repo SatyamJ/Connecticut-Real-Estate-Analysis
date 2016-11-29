@@ -47,7 +47,9 @@ sampleApp.controller('MapCtrl', function($scope, $filter, $http) {
         // console.log("fillTextbox called");
        $scope.hidethis = true;
        $scope.town = string;
-       $scope.populateFields(string)
+       $scope.hideTownData = false;
+       $scope.selectedTown = string;
+       $scope.populateFields(string);
 
        $.post("http://localhost:3030/ds/query", {
         query: "PREFIX ds:<http://data.ct.gov/resource/igy9-udjm/>\
@@ -81,14 +83,13 @@ sampleApp.controller('MapCtrl', function($scope, $filter, $http) {
   }
 
   $scope.populateFields = function(town_name){
-      $scope.hideTownData = false;
-      $scope.selectedTown = town_name;
+
       $scope.populateCrimeData(town_name);
       $scope.populateHousingData(town_name);
       $scope.populatePoliceDeptData(town_name);
       $scope.populateSchoolData(town_name);
       $scope.populateDemographicData(town_name);
-      $scope.populateRealEstateData(town_name)
+      $scope.populateRealEstateData(town_name);
     };
 
     $scope.populateCrimeData = function(town_name){
@@ -114,8 +115,11 @@ sampleApp.controller('MapCtrl', function($scope, $filter, $http) {
               console.log('Got crime data');
               $scope.crime_rate = (crime_reported/population) * 100000;
               $scope.arrest_rate = (arrests/population) * 100000;
+              $scope.$apply();
           }
         );
+
+
       };
 
       $scope.populateHousingData = function(town_name){
@@ -137,12 +141,12 @@ sampleApp.controller('MapCtrl', function($scope, $filter, $http) {
                 console.log('got housing data');
 
                 $scope.total_houses  = data.results.bindings[0].total_houses.value;
-                // console.log('total_houses: '+$scope.total_houses);
+                console.log('total_houses: '+$scope.total_houses);
                 $scope.occupied_houses = data.results.bindings[0].occupied_houses.value;
-                // console.log('occupied_houses: '+$scope.occupied_houses);
+                console.log('occupied_houses: '+$scope.occupied_houses);
                 $scope.vacant_houses = data.results.bindings[0].vacant_houses.value;
                 // console.log('vacant_houses:'+$scope.vacant_houses);
-
+                $scope.$apply();
             }
           );
         };
@@ -163,7 +167,7 @@ sampleApp.controller('MapCtrl', function($scope, $filter, $http) {
 
                   $scope.policeDeptCount  = data.results.bindings[0].pd_count.value;
                   // console.log('policeDeptCount: '+$scope.policeDeptCount);
-
+                  $scope.$apply();
 
               }
             );
@@ -185,8 +189,7 @@ sampleApp.controller('MapCtrl', function($scope, $filter, $http) {
 
                     $scope.schools_count  = data.results.bindings[0].schools_count.value;
                     // console.log('schools_count: '+$scope.schools_count);
-
-
+                    $scope.$apply();
                 }
               );
         };
@@ -215,6 +218,7 @@ sampleApp.controller('MapCtrl', function($scope, $filter, $http) {
                     var females = parseInt(data.results.bindings[0].total_female_2015.value);
                     $scope.sex_ratio = (males/females) * 100;
                     // console.log('sex_ratio: '+$scope.sex_ratio);
+                    $scope.$apply();
                 }
               );
         };
@@ -254,6 +258,7 @@ sampleApp.controller('MapCtrl', function($scope, $filter, $http) {
                       // console.log('avgSalesPrice: '+$scope.avgSalesPrice);
                       $scope.avgSalesRatio = sales_ratio_sum/data.results.bindings.length;
                       // console.log('avgSalesRatio: '+$scope.avgSalesRatio);
+                      $scope.$apply();
                     }else{
                       $scope.avgAssessedValue = "Record not found!";
                       // console.log('avgAssessedValue: '+$scope.avgAssessedValue);
@@ -261,6 +266,7 @@ sampleApp.controller('MapCtrl', function($scope, $filter, $http) {
                       // console.log('avgSalesPrice: '+$scope.avgSalesPrice);
                       $scope.avgSalesRatio = "Record not found!";
                       // console.log('avgSalesRatio: '+$scope.avgSalesRatio);
+                      $scope.$apply();
                     }
                 }
               );
