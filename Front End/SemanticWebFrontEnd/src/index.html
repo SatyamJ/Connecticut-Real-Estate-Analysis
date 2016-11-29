@@ -11,12 +11,13 @@
 	<!-- Optional theme -->
 	<link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/3.2.0/css/bootstrap-theme.min.css">
 	<link rel="stylesheet" href="//code.jquery.com/ui/1.12.1/themes/base/jquery-ui.css">
-	<link rel="stylesheet" href="/resources/demos/style.css">
+  <!-- <link rel="stylesheet" href="/resources/demos/style.css"> -->
 	<script src="http://code.jquery.com/jquery-2.1.1.min.js"></script>
 	<script src="https://maxcdn.bootstrapcdn.com/bootstrap/3.2.0/js/bootstrap.min.js"></script>
 	<script src="http://d3js.org/d3.v3.min.js" charset="utf-8"></script>
 	<script src="https://ajax.googleapis.com/ajax/libs/angularjs/1.5.6/angular.min.js"></script>
 	<!-- <script src="app.js"></script> -->
+	<script src="js/maps.js"></script>
 	<script src="https://code.jquery.com/jquery-1.12.4.js"></script>
 	<script src="https://code.jquery.com/ui/1.12.1/jquery-ui.js"></script>
 	<script>
@@ -132,7 +133,8 @@ LIMIT 20";
 			});
 			$("#hospitalCapacity").val($("#slider-range1").slider("values", 0) +
 				" - " + $("#slider-range1").slider("values", 1));
-		});
+      }
+    );
 
 		$(function() {
 			$("#slider-range2").slider({
@@ -180,42 +182,70 @@ LIMIT 20";
 							<li class="list-group-item" ng-repeat="countrydata in filterTown" ng-click="fillTextbox(countrydata)">{{countrydata}}
 							</li>
 						</ul>
-						<div>
-							<div>
-								<p>
-									<label>Andover</label> Town
-								</p>
-							</div>
-						</div>
-						<div>
-							<label>Crime rate: 5.7% per 100,000</label>
+               <div ng-model="hideTownData" ng-hide="hideTownData">
+                <div><label>Town: {{selectedTown}}</label></div>
+								<div>
+										<label>Real Estate:</label>
+										<p>
+				 								Average assessed: {{avgAssessedValue}} <br/>
+				 								Average sales price: {{avgSalesPrice}} <br/>
+				 								Average sales ratio: {{avgSalesRatio}} <br/>
+										</p>
+								</div>
+
+								<div>
+										<label>Housing:</label>
+										<p>
+				 								Total houses: {{total_houses}} <br/>
+				 								Occupied houses: {{occupied_houses}} <br/>
+				 								Vacant houses: {{vacant_houses}} <br/>
+										</p>
+								</div>
+
+								<div>
+										<label>Demographic:</label>
+										<p>
+				 								Population: {{population}} <br/>
+				 								Sex Ratio: {{sex_ratio}} <br/>
+										</p>
+								</div>
+
 						</div>
 						<div>
 							<label>Arrest Rate: 1.2% per 100,000</label>
 						</div>
-						<div>
-							<label>Schools:</label>
-							<p>
-								Andover Elementary School
-								<br/> Public School
-								<br/> Accountability Index: 95.2
-								<br/> School low grade: PK
-								<br/> School high grade: 6
+								<div>
+										<label>School:</label>
+										<p>
+				 								Number of schools: {{schools_count}} <br/>
 								<br/>
-							</p>
-						</div>
-						<div>
-							<p>
-								<label>Number of Health Services</label>: 5
-							</p>
-						</div>
-					</div>
+										</p>
+								</div>
 
-					<div class="col-md-6">
-						<div id="map"></div>
+								<div>
+										<label>Police Dept:</label>
+										<p>
+				 								Number of Police Departments: {{policeDeptCount}} <br/>
+										</p>
+								</div>
+
+								<div>
+										<label>Crime statistics:</label>
+										<p>
+				 								Crime Rate: {{crime_rate}} per 100,000 <br/>
+												Arrests Rate: {{arrest_rate}} per 100,000 <br/>
+										</p>
+								</div>
+							 </div>
+						 </div>
+
+
+          	<div class="col-md-6">
+							<div id="map"></div>
+						</div>
 					</div>
 				</div>
-			</div>
+
 			<div class="tab-pane fade" id="Criteria">
 				<br>
 				<br>
@@ -240,6 +270,7 @@ LIMIT 20";
 						<div id="slider-range2" style="width:150px;"></div>
 						<input type="text" id="spRange" readonly style="border:0; font-weight:bold;">
 					</div>
+
 				</div>
 
 				<div class="modal-body row">
