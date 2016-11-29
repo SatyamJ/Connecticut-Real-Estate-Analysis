@@ -1,7 +1,7 @@
 (function(){
 //Width and height
 var w = 900;
-var h = 900;
+var h = 580;
 
 //Define map projection
 var projection = d3.geo.mercator()
@@ -28,7 +28,8 @@ d3.json("data/CT-towns.geojson", function(json) {
 
 });
 
-var call = function () {
+
+var calls = function () {
     //Load in cities data
     d3.csv("data/Coordinates.csv", function(data) {
 
@@ -45,12 +46,17 @@ var call = function () {
             .attr("r", function(d) {
                 return Math.sqrt(parseInt(d.total_houses)* 0.0009);
             })
-            .style("fill", "brown");
+            .style("fill", function(d){
+                if (d.total_houses<=10000) { return "blue"; }
+                else if (d.total_houses<=30000 && d.total_houses >10000) { return "green";}
+                else if (d.total_houses > 30000){return "red";}
+            });
 
 
 
     });
 };
-setTimeout(2000, call());
+setTimeout(3000, calls());
+
 
 })();
