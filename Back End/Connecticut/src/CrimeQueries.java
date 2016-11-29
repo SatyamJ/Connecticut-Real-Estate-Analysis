@@ -85,9 +85,9 @@ public class CrimeQueries {
 
     private void getResults(Model model){
         String town = "Andover";
-        String request = "PREFIX ds:<http://data.ct.gov/resource/_6ntu-dndh/>" +
-                "SELECT  ?jurisdiction ?crime_reported\n" +
-                "WHERE { ?rows ds:jurisdiction "+town+" }";
+        String request = "PREFIX ds:<http://data.ct.gov/resource/igy9-udjm/> \n" +
+                "SELECT  ?n ?rows " +
+                "WHERE { ?rows ds:jurisdiction ?n}";
         runQuery(request, model);
 
     }
@@ -95,7 +95,7 @@ public class CrimeQueries {
     private void runQuery(String queryRequest, Model model) {
         StringBuffer queryStr = new StringBuffer();
         // Establish Prefixes
-        queryStr.append("PREFIX ds:<http://data.ct.gov/resource/_6ntu-dndh/>");
+        queryStr.append("PREFIX ds:<http://data.ct.gov/resource/igy9-udjm/>");
         //Now add query
         queryStr.append(queryRequest);
         Query query = QueryFactory.create(queryStr.toString());
@@ -128,11 +128,16 @@ public class CrimeQueries {
         System.out.println("Enter name of a town in connecticut: ");
         String town = reader.nextLine(); // Scans the next token of the input as an int.
 
+//        QueryExecution qe = QueryExecutionFactory.sparqlService(
+//                "http://localhost:3030/ds/query",
+//                "PREFIX ds:<http://data.ct.gov/resource/igy9-udjm/> \n" +
+//                        "SELECT  ?n ?rows " +
+//                        "WHERE { ?rows ds:jurisdiction ?n}");
         QueryExecution qe = QueryExecutionFactory.sparqlService(
-                "http://localhost:3030/ds/query",
-                "PREFIX ds:<http://data.ct.gov/resource/_6ntu-dndh/>" +
-                        "SELECT  ?jurisdiction ?crime_reported" +
-                        "WHERE { ?rows ds:jurisdiction "+town+"}");
+                "http://ec2-54-149-233-81.us-west-2.compute.amazonaws.com:3030/ds/query",
+                "PREFIX ds:<http://data.ct.gov/resource/igy9-udjm/> \n" +
+                        "SELECT  ?n ?rows " +
+                        "WHERE { ?rows ds:jurisdiction ?n}");
         ResultSet results = qe.execSelect();
         //ResultSetFormatter.out(System.out, results);
         ResultSetFormatter.outputAsJSON(System.out, results);

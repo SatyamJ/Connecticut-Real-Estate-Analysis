@@ -664,7 +664,7 @@ public class CrimeReportingRDFTransform {
 
                 // display nice nice
                 xmlOutput.setFormat(Format.getPrettyFormat());
-                xmlOutput.output(doc, new FileWriter("Uniform Crime Reporting System Offenses By Department 2015.rdf"));
+                xmlOutput.output(doc, new FileWriter("Transformed_Uniform Crime Reporting System Offenses By Department 2015.rdf"));
             }
             System.out.println("File updated!");
         } catch (IOException io) {
