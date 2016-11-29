@@ -113,8 +113,8 @@ sampleApp.controller('MapCtrl', function($scope, $filter, $http) {
               var population = data.results.bindings[0].population.value;
               var arrests = data.results.bindings[0].arrests.value;
               console.log('Got crime data');
-              $scope.crime_rate = (crime_reported/population) * 100000;
-              $scope.arrest_rate = (arrests/population) * 100000;
+              $scope.crime_rate = ((crime_reported/population) * 100000).toFixed(2);
+              $scope.arrest_rate = ((arrests/population) * 100000).toFixed(2);
               $scope.$apply();
           }
         );
@@ -216,7 +216,7 @@ sampleApp.controller('MapCtrl', function($scope, $filter, $http) {
                     // console.log('population: '+$scope.population);
                     var males = parseInt(data.results.bindings[0].total_male_2015.value);
                     var females = parseInt(data.results.bindings[0].total_female_2015.value);
-                    $scope.sex_ratio = (males/females) * 100;
+                    $scope.sex_ratio = ((males/females) * 100).toFixed(2);
                     // console.log('sex_ratio: '+$scope.sex_ratio);
                     $scope.$apply();
                 }
@@ -252,11 +252,11 @@ sampleApp.controller('MapCtrl', function($scope, $filter, $http) {
                           sales_ratio_sum += parseFloat(data.results.bindings[res].sales_ratio.value);
                       }
 
-                      $scope.avgAssessedValue = assessed_value_sum/data.results.bindings.length;
+                      $scope.avgAssessedValue = (assessed_value_sum/data.results.bindings.length).toFixed(2);
                       // console.log('avgAssessedValue: '+$scope.avgAssessedValue);
-                      $scope.avgSalesPrice = sales_price_sum/data.results.bindings.length;
+                      $scope.avgSalesPrice = (sales_price_sum/data.results.bindings.length).toFixed(2);
                       // console.log('avgSalesPrice: '+$scope.avgSalesPrice);
-                      $scope.avgSalesRatio = sales_ratio_sum/data.results.bindings.length;
+                      $scope.avgSalesRatio = (sales_ratio_sum/data.results.bindings.length).toFixed(2);
                       // console.log('avgSalesRatio: '+$scope.avgSalesRatio);
                       $scope.$apply();
                     }else{
