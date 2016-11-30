@@ -64,7 +64,7 @@ function drawCrimeChart(crimeData){
             type: 'gauge',
             alignTicks: false,
             plotBackgroundColor: null,
-            backgroundColor:'rgba(79, 206, 238, 0.1)',
+            backgroundColor:'rgba(222, 73, 73, 0.1)',
             plotBackgroundImage: null,
             plotBorderWidth: 0,
             plotShadow: false
@@ -81,7 +81,7 @@ function drawCrimeChart(crimeData){
 
         yAxis: [{
             min: 0,
-            max: 2225,
+            max: 10000,
             lineColor: '#339',
             tickColor: '#339',
             minorTickColor: '#339',
@@ -134,7 +134,7 @@ function drawCrimeChart(crimeData){
                 }
             },
             tooltip: {
-                valueSuffix: ' km/h'
+                valueSuffix: ' per 100,000'
             }
         }]
 
@@ -154,7 +154,7 @@ function drawCrimeChart(crimeData){
           alignTicks: false,
           plotBackgroundColor: null,
           plotBackgroundImage: null,
-          backgroundColor:'rgba(79, 206, 238, 0.1)',
+          backgroundColor:'rgba(222, 73, 73, 0.1)',
           plotBorderWidth: 0,
           plotShadow: false
       },
@@ -170,7 +170,7 @@ function drawCrimeChart(crimeData){
 
       yAxis: [{
           min: 0,
-          max: 5000,
+          max: 10000,
           lineColor: '#339',
           tickColor: '#339',
           minorTickColor: '#339',
@@ -202,7 +202,7 @@ function drawCrimeChart(crimeData){
       }],
 
       series: [{
-          name: 'Arrest rate',
+          name: 'Crime rate',
           data: [parseFloat(crimeData.crimeRate)],
           dataLabels: {
               formatter: function () {
@@ -223,7 +223,7 @@ function drawCrimeChart(crimeData){
               }
           },
           tooltip: {
-              valueSuffix: ' km/h'
+              valueSuffix: ' per 100,000'
           }
       }]
 
