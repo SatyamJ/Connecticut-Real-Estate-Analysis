@@ -51,7 +51,7 @@ sampleApp.controller('MapCtrl', function($scope, $filter, $http) {
        $scope.selectedTown = string;
        $scope.populateFields(string);
 
-       $.post("http://localhost:3030/ds/query", {
+       $.post("http://ec2-54-149-233-81.us-west-2.compute.amazonaws.com:3030/ds/query", {
         query: "PREFIX ds:<http://data.ct.gov/resource/igy9-udjm/>\
                                         PREFIX geo:<http://www.w3.org/2003/01/geo/wgs84_pos#>\
                                         select DISTINCT ?name \
@@ -94,7 +94,7 @@ sampleApp.controller('MapCtrl', function($scope, $filter, $http) {
 
     $scope.populateCrimeData = function(town_name){
 
-        $.post("http://localhost:3030/ds/query",
+        $.post("http://ec2-54-149-233-81.us-west-2.compute.amazonaws.com:3030/ds/query",
         {
 
           query: "PREFIX ds:<http://data.ct.gov/resource/igy9-udjm/>\
@@ -164,7 +164,7 @@ sampleApp.controller('MapCtrl', function($scope, $filter, $http) {
 
         $scope.populatePoliceDeptData = function(town_name){
 
-            $.post("http://localhost:3030/ds/query",
+            $.post("http://ec2-54-149-233-81.us-west-2.compute.amazonaws.com:3030/ds/query",
             {
 
               query: "PREFIX ds:<http://data.ct.gov/resource/igy9-udjm/> \
@@ -186,7 +186,7 @@ sampleApp.controller('MapCtrl', function($scope, $filter, $http) {
 
         $scope.populateSchoolData = function(town_name){
 
-              $.post("http://localhost:3030/ds/query",
+              $.post("http://ec2-54-149-233-81.us-west-2.compute.amazonaws.com:3030/ds/query",
               {
 
                 query: "PREFIX ds:<http://data.ct.gov/resource/igy9-udjm/> \
@@ -207,7 +207,7 @@ sampleApp.controller('MapCtrl', function($scope, $filter, $http) {
 
         $scope.populateDemographicData = function(town_name){
 
-              $.post("http://localhost:3030/ds/query",
+              $.post("http://ec2-54-149-233-81.us-west-2.compute.amazonaws.com:3030/ds/query",
               {
 
                 query: "PREFIX ds:<http://data.ct.gov/resource/igy9-udjm/> \
@@ -236,7 +236,7 @@ sampleApp.controller('MapCtrl', function($scope, $filter, $http) {
 
         $scope.populateRealEstateData = function(town_name){
 
-              $.post("http://localhost:3030/ds/query",
+              $.post("http://ec2-54-149-233-81.us-west-2.compute.amazonaws.com:3030/ds/query  ",
               {
 
                 query: "PREFIX ds:<http://data.ct.gov/resource/igy9-udjm/> \
