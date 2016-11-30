@@ -2,7 +2,8 @@ function drawHousingChart(housingData) {
     console.log('inside drawHousingChart');
     Highcharts.chart('housingContainer', {
       chart: {
-          type: 'column'
+          type: 'column',
+          backgroundColor:'rgba(255, 255, 255, 0.1)'
       },
       title: {
           text: 'Housing stats'
