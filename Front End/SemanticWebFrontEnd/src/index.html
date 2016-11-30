@@ -284,9 +284,58 @@ LIMIT 20";
 			</div>
 			<div class="tab-pane fade" id="Charts">
 				<span id="cont" />
-				<h4>Connecticut house sales and geo locations</h4>
-				<script src="d3script.js"></script>
+				<style>
+					table, th, td {
+						border: 1px solid black;
+					}
+				</style>
+				<h2 style="color: crimson">Connecticut Houses and Geo-locations</h2>
+				<table style="width:30%; color: crimson">
+					<tr style="color:Black">
+						<th>Total houses</th>
+						<th>Color Indicator</th>
+					</tr>
+					<tr>
+						<td><10000</td>
+						<td>Blue</td>
+					</tr>
+					<tr>
+						<td>10000 - 30000</td>
+						<td>Green</td>
+					</tr>
+					<tr>
+						<td>> 30000</td>
+						<td>Red</td>
+					</tr>
+				</table>
+				<script src="d3script_houses.js"></script>
 
+				<span id="cont2" />
+				<h2 style="color: crimson">Connecticut Population hub and Geo-locations</h2>
+				<style>
+					table, th, td {
+						border: 1px solid black;
+					}
+				</style>
+				<table style="width:30%; color: crimson">
+					<tr style="color:Black">
+						<th>Total Population</th>
+						<th>Color Indicator</th>
+					</tr>
+					<tr>
+						<td>< 10000</td>
+						<td>Blue</td>
+					</tr>
+					<tr>
+						<td>10000 - 40000</td>
+						<td>Green</td>
+					</tr>
+					<tr>
+						<td> > 40000</td>
+						<td>Red</td>
+					</tr>
+				</table>
+				<script src="d3script_population.js"></script>
 			</div>
 		</div>
 	</div>
