@@ -116,6 +116,11 @@ sampleApp.controller('MapCtrl', function($scope, $filter, $http) {
               $scope.crime_rate = ((crime_reported/population) * 100000).toFixed(2);
               $scope.arrest_rate = ((arrests/population) * 100000).toFixed(2);
               $scope.$apply();
+              var crimeData = {
+                crimeRate: $scope.crime_rate,
+                arrestRate: $scope.arrest_rate
+              };
+              drawCrimeChart(crimeData);
           }
         );
 
@@ -147,6 +152,12 @@ sampleApp.controller('MapCtrl', function($scope, $filter, $http) {
                 $scope.vacant_houses = data.results.bindings[0].vacant_houses.value;
                 // console.log('vacant_houses:'+$scope.vacant_houses);
                 $scope.$apply();
+                var housingData = {
+                  totalHouses: parseInt($scope.total_houses),
+                  occupiedHouses: parseInt($scope.occupied_houses),
+                  vacantHouses: parseInt($scope.vacant_houses)
+                };
+                drawHousingChart(housingData);
             }
           );
         };

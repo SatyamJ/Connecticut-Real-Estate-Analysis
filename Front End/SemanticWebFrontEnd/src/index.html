@@ -17,9 +17,15 @@
 	<script src="https://maxcdn.bootstrapcdn.com/bootstrap/3.2.0/js/bootstrap.min.js"></script>
 	<script src="http://d3js.org/d3.v3.min.js" charset="utf-8"></script>
 	<script src="https://ajax.googleapis.com/ajax/libs/angularjs/1.5.6/angular.min.js"></script>
+	<script src="http://code.highcharts.com/highcharts.js"></script>
+	<script src="http://code.highcharts.com/modules/exporting.js"></script>
+	<script src="https://code.highcharts.com/highcharts-more.js"></script>
+
+
 	<!-- <script src="app.js"></script> -->
 
 	<script src="js/maps.js"></script>
+	<script src="js/charts.js"></script>
 	<script src="https://code.jquery.com/jquery-1.12.4.js"></script>
 	<script src="https://code.jquery.com/ui/1.12.1/jquery-ui.js"></script>
 	<script>
@@ -185,11 +191,6 @@ LIMIT 20";
 							</li>
 						</ul>
                <div ng-model="hideTownData" ng-hide="hideTownData">
-								 <div class="modal-body row">
-									 <div class="col-md-12">
-										 <div><label>Town: {{selectedTown}}</label></div>
-									 </div>
-								 </div>
 
 								<div class="modal-body row">
 									<div class="col-md-6">
@@ -199,58 +200,37 @@ LIMIT 20";
 						 								Average assessed value: {{avgAssessedValue}} <br/>
 						 								Average sales price: {{avgSalesPrice}} <br/>
 						 								Average sales ratio: {{avgSalesRatio}} <br/>
+
+														<div>
+															<p>
+																# schools: {{schools_count}} <br/>
+																# Police Departments: {{policeDeptCount}} <br/>
+															</p>
+														</div>
+														<div>
+																<label>Demographic:</label>
+																<p>
+										 								Population: {{population}} <br/>
+										 								Sex Ratio: {{sex_ratio}}
+																</p>
+														</div>
 												</p>
 										</div>
 									</div>
 									<div class="col-md-6">
-										<div>
-												<label>Housing:</label>
-												<p>
-						 								Total houses: {{total_houses}} <br/>
-						 								Occupied houses: {{occupied_houses}} <br/>
-						 								Vacant houses: {{vacant_houses}} <br/>
-												</p>
+										<div class="modal-body row" id="housingContainer" style="min-width: 300px; height: 300px; margin: 0 auto">
 										</div>
 									</div>
 								</div>
-
-								<div class="modal-body row">
-									<div class="col-md-6" >
-										<div>
-												<label>Demographic:</label>
-												<p>
-						 								Population: {{population}} <br/>
-						 								Sex Ratio: {{sex_ratio}}
-												</p>
+								<div class="modal-body row" style="min-width: 700px; height: 350px; margin: 0 auto">
+										<div class="col-md-6">
+											<div id="arrestContainer" style="min-width: 350px; height: 350px; margin: 0 auto">
+											</div>
 										</div>
-									</div>
-									<div class="col-md-6" >
-										<div>
-												<p>
-						 								Number of schools: {{schools_count}}
-												</p>
+										<div class="col-md-6">
+											<div id="crimeContainer" style="min-width: 350px; height: 350px; margin: 0 auto">
+											</div>
 										</div>
-									</div>
-								</div>
-
-								<div class="modal-body row">
-									<div class="col-md-6">
-										<div>
-												<label>Police Dept:</label>
-												<p>
-						 								Number of Police Departments: {{policeDeptCount}} <br/>
-												</p>
-										</div>
-									</div>
-									<div class="col-md-6">
-										<div>
-												<label>Crime statistics:</label>
-												<p>
-						 								Crime Rate: {{crime_rate}} per 100,000 <br/>
-														Arrests Rate: {{arrest_rate}} per 100,000 <br/>
-												</p>
-										</div>
-									</div>
 								</div>
 							</div>
 						</div>
