@@ -1,21 +1,21 @@
 function queryForLowEmployementRateInTheGivenTown(town, year, cb)
 {
   $.post("http://ec2-54-149-233-81.us-west-2.compute.amazonaws.com:3030/ds/query", {
-   query: "PREFIX rdf: <http://www.w3.org/1999/02/22-rdf-syntax-ns#>\
-PREFIX townuri: <http://connecticutsemwebtowndata.com/employementdata#>\
-PREFIX data: <http://www.semanticweb.org/satyam/ontologies/2016/9/untitled-ontology-9#>\
-PREFIX xsd: <http://www.w3.org/2001/XMLSchema#>\
+   query: "PREFIX rdf: <http://www.w3.org/1999/02/22-rdf-syntax-ns#> \
+PREFIX townuri: <http://connecticutsemwebtowndata.com/employementdata#> \
+PREFIX data: <http://www.semanticweb.org/satyam/ontologies/2016/9/untitled-ontology-9#> \
+PREFIX xsd: <http://www.w3.org/2001/XMLSchema#> \
 SELECT ?ptype ?erate  \
 WHERE {\
-  ?x a ?town.\
-  ?x data:townName ?tname\
-  FILTER (regex(str(?tname), \"" + town + "\")).\
-	?x data:professiontype ?ptype;\
-			data:employmentrate ?erate;\
-   			data:year ?yr\
-  FILTER (?yr = \""+ year + "\").\
+  ?x a ?town. \
+  ?x data:townName ?tname \
+  FILTER (regex(str(?tname), \"" + town + "\")). \
+	?x data:professiontype ?ptype; \
+			data:employmentrate ?erate; \
+   			data:year ?yr \
+  FILTER (?yr = \""+ year + "\"). \
 }\
-ORDER BY DESC (xsd:integer(?erate))\
+ORDER BY DESC (xsd:integer(?erate)) \
 LIMIT 5"
  },
  function(data, status) {
