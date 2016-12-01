@@ -55,7 +55,7 @@ var call = function () {
 
     });
 };
-setTimeout(2000, call());
+setInterval( 2000, call());
 
 
 })();
