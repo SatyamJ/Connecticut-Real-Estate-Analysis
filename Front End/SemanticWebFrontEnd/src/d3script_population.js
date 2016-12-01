@@ -26,10 +26,6 @@ d3.json("data/CT-towns.geojson", function(json) {
         .attr("d", path)
         .attr("fill","#666666");
 
-});
-
-var call = function () {
-    //Load in cities data
     d3.csv("data/Coordinates.csv", function(data) {
 
         svg.selectAll("circle")
@@ -52,10 +48,11 @@ var call = function () {
             });
 
 
-
+        console.log("population");
     });
-};
-setTimeout(2000, call());
+});
+
+
 
 
 })();
