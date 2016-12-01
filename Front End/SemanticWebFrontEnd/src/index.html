@@ -53,7 +53,7 @@
 			ORDER BY ASC(?town)\
 			LIMIT 20";
 
-				$.post("http://http://ec2-54-149-233-81.us-west-2.compute.amazonaws.com:3030/ds/query:3030/ds/query", {
+				$.post("http://ec2-54-149-233-81.us-west-2.compute.amazonaws.com:3030/ds/query:3030/ds/query", {
 						query: q
 					},
 					function(data, status) {
@@ -93,7 +93,7 @@ select DISTINCT ?name ?total_houses ?occupied_houses ?vacant_houses \
 					lowerSellPriceValue + " && xsd:double(?sales_price) <= " + higherSellPriceValue + ")\
 }\
 LIMIT 20";
-				$.post("http://http://ec2-54-149-233-81.us-west-2.compute.amazonaws.com:3030/ds/query:3030/ds/query", {
+				$.post("http://ec2-54-149-233-81.us-west-2.compute.amazonaws.com:3030/ds/query:3030/ds/query", {
 						query: q2
 					},
 					function(data, status) {
