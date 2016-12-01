@@ -39,14 +39,6 @@
 				var lowerSellPriceValue = $("#slider-range2").slider("values", 0);
 				var higherSellPriceValue = $("#slider-range2").slider("values", 1);
 
-				// alert(lowerPopulationValue);
-				// alert(higherPopulationValue);
-				// alert(lowerHealthCapacityValue);
-				// alert(higherHealthCapacityValue);
-				// alert(lowerSellPriceValue);
-				// alert(higherSellPriceValue);
-				// alert("i am here 00");
-
 				var q =
 					"PREFIX ds:<http://data.ct.gov/resource/rm6f-b9qj/>\
                         PREFIX xsd: <http://www.w3.org/2001/XMLSchema#>\
@@ -101,7 +93,6 @@ select DISTINCT ?name ?total_houses ?occupied_houses ?vacant_houses \
 					lowerSellPriceValue + " && xsd:double(?sales_price) <= " + higherSellPriceValue + ")\
 }\
 LIMIT 20";
-				alert("i am here 2");
 				$.post("http://http://ec2-54-149-233-81.us-west-2.compute.amazonaws.com:3030/ds/query:3030/ds/query", {
 						query: q2
 					},
@@ -132,9 +123,9 @@ LIMIT 20";
 		$(function() {
 			$("#slider-range1").slider({
 				range: true,
-				min: 0,
-				max: 500,
-				values: [75, 300],
+				min: 50000,
+				max: 500000,
+				values: [60000, 300000],
 				slide: function(event, ui) {
 					$("#hospitalCapacity").val(ui.values[0] + " - " + ui.values[1]);
 				}
