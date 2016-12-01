@@ -80,6 +80,7 @@ sampleApp.controller('MapCtrl', function($scope, $filter, $http) {
           $scope.map.fitBounds(bounds);
         }
       });
+      helper(string);
   }
 
   $scope.populateFields = function(town_name){
@@ -314,3 +315,56 @@ sampleApp.controller('MapCtrl', function($scope, $filter, $http) {
   }
 
 });
+
+var values = [];
+var x = 0;
+function helper(town)
+{
+  /*var year = 2012;
+  var values = [];
+  queryForLowEmployementRateInTheGivenTown(town, year, function(values_2012){
+    values.push(values_2012);
+      var temp = [[],[]];
+        for (var i = 0; i < values[0].length; i++) {
+              var temp1 = queryForEmployementRateInTheGivenTownAndJobType(town, y, values_2012[0][i]);
+              temp[0].push(temp1[0]);
+              temp[1].push(temp1[1]);
+              }
+              values.push(temp);
+  });*/
+
+  var year = 2012;
+  var list = [2013,2014,2015];
+  queryForLowEmployementRateInTheGivenTown(town, year, function(values_2012){
+    values.push(values_2012);
+    var c = "";
+
+    if(values_2012[0].length > 0)
+    {
+      c = "?ptype = \"" + values_2012[0][0] + "\"";
+    }
+    for (var index = 1; index < values_2012[0].length; index++)
+    {
+      //(?ptype = "Office & Administrative Support Occupations" || ?ptype = "Management Occupations" || ?ptype = "Construction & Extraction Occupations" || ?ptype = "Sales & Related Occupations" || ?ptype = "Building & Grounds Cleaning & Maintenance Occupations"))
+      c+= " || " + "?ptype = \"" + values_2012[0][index] + "\"";
+    }
+    loopArray(town, list, c);
+
+});
+
+}
+
+var loopArray = function(town, yrr, conditionString) {
+    queryForEmployementRateInTheGivenTownAndJobType(town, yrr[x], conditionString, function(values_year){
+        // set x to next item
+        x++;
+        values.push(values_year);
+        // any more items in array? continue loop
+        if(x < yrr.length) {
+            loopArray(town, yrr, conditionString);
+        }
+        else{
+          tableCreateFromList(values);
+        }
+    });
+}
