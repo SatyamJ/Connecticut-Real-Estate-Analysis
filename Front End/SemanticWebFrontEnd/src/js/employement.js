@@ -1,6 +1,6 @@
 function queryForLowEmployementRateInTheGivenTown(town, year, cb)
 {
-  $.post("http://localhost:3030/ds/query", {
+  $.post("http://ec2-54-149-233-81.us-west-2.compute.amazonaws.com:3030/ds/query", {
    query: "PREFIX rdf: <http://www.w3.org/1999/02/22-rdf-syntax-ns#>\
 PREFIX townuri: <http://connecticutsemwebtowndata.com/employementdata#>\
 PREFIX data: <http://www.semanticweb.org/satyam/ontologies/2016/9/untitled-ontology-9#>\
@@ -52,7 +52,7 @@ WHERE {\
    			data:year ?yr \
   FILTER (?yr = \""+ year + "\" && (" + professionlist + ") ). \
 }";
-$.post("http://localhost:3030/ds/query", {
+$.post("http://ec2-54-149-233-81.us-west-2.compute.amazonaws.com:3030/ds/query", {
  query: q
 },
 function(data, status) {
