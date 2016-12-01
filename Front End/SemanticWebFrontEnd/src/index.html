@@ -53,7 +53,7 @@
 			ORDER BY ASC(?town)\
 			LIMIT 20";
 
-				$.post("http://ec2-54-149-233-81.us-west-2.compute.amazonaws.com:3030/ds/query:3030/ds/query", {
+				$.post("http://ec2-54-149-233-81.us-west-2.compute.amazonaws.com:3030/ds/query", {
 						query: q
 					},
 					function(data, status) {
@@ -93,7 +93,7 @@ select DISTINCT ?name ?total_houses ?occupied_houses ?vacant_houses \
 					lowerSellPriceValue + " && xsd:double(?sales_price) <= " + higherSellPriceValue + ")\
 }\
 LIMIT 20";
-				$.post("http://ec2-54-149-233-81.us-west-2.compute.amazonaws.com:3030/ds/query:3030/ds/query", {
+				$.post("http://ec2-54-149-233-81.us-west-2.compute.amazonaws.com:3030/ds/query", {
 						query: q2
 					},
 					function(data, status) {
@@ -123,9 +123,9 @@ LIMIT 20";
 		$(function() {
 			$("#slider-range1").slider({
 				range: true,
-				min: 50000,
-				max: 500000,
-				values: [60000, 300000],
+				min: 0,
+				max: 200,
+				values: [50, 120],
 				slide: function(event, ui) {
 					$("#hospitalCapacity").val(ui.values[0] + " - " + ui.values[1]);
 				}
@@ -138,9 +138,9 @@ LIMIT 20";
 		$(function() {
 			$("#slider-range2").slider({
 				range: true,
-				min: 0,
-				max: 5000,
-				values: [750, 3000],
+				min: 50000,
+				max: 500000,
+				values: [60000, 300000],
 				slide: function(event, ui) {
 					$("#spRange").val(ui.values[0] + " - " + ui.values[1]);
 				}
