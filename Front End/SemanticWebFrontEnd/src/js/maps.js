@@ -80,7 +80,7 @@ sampleApp.controller('MapCtrl', function($scope, $filter, $http) {
           $scope.map.fitBounds(bounds);
         }
       });
-      helper(string);
+            helper(string);
   }
 
   $scope.populateFields = function(town_name){
@@ -315,6 +315,8 @@ sampleApp.controller('MapCtrl', function($scope, $filter, $http) {
   }
 
 });
+
+
 
 var values = [];
 var x = 0;

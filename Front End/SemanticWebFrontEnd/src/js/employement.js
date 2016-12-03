@@ -5,8 +5,8 @@ function queryForLowEmployementRateInTheGivenTown(town, year, cb)
 PREFIX townuri: <http://connecticutsemwebtowndata.com/employementdata#> \
 PREFIX data: <http://www.semanticweb.org/satyam/ontologies/2016/9/untitled-ontology-9#> \
 PREFIX xsd: <http://www.w3.org/2001/XMLSchema#> \
-SELECT ?ptype ?erate  \
-WHERE {\
+SELECT DISTINCT ?ptype ?erate  \
+WHERE { \
   ?x a ?town. \
   ?x data:townName ?tname \
   FILTER (regex(str(?tname), \"" + town + "\")). \

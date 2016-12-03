@@ -11,7 +11,7 @@
 	<!-- Optional theme -->
 	<link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/3.2.0/css/bootstrap-theme.min.css">
 	<link rel="stylesheet" href="//code.jquery.com/ui/1.12.1/themes/base/jquery-ui.css">
-	<link rel="stylesheet" href="style.css">
+  <link rel="stylesheet" href="style.css">
 
 	<script src="http://code.jquery.com/jquery-2.1.1.min.js"></script>
 	<script src="https://maxcdn.bootstrapcdn.com/bootstrap/3.2.0/js/bootstrap.min.js"></script>
@@ -53,7 +53,7 @@
 			ORDER BY ASC(?town)\
 			LIMIT 20";
 
-				$.post("http://ec2-54-149-233-81.us-west-2.compute.amazonaws.com:3030/ds/query:3030/ds/query", {
+				$.post("http://ec2-54-149-233-81.us-west-2.compute.amazonaws.com:3030/ds/query", {
 						query: q
 					},
 					function(data, status) {
@@ -93,7 +93,7 @@ select DISTINCT ?name ?total_houses ?occupied_houses ?vacant_houses \
 					lowerSellPriceValue + " && xsd:double(?sales_price) <= " + higherSellPriceValue + ")\
 }\
 LIMIT 20";
-				$.post("http://ec2-54-149-233-81.us-west-2.compute.amazonaws.com:3030/ds/query:3030/ds/query", {
+				$.post("http://ec2-54-149-233-81.us-west-2.compute.amazonaws.com:3030/ds/query", {
 						query: q2
 					},
 					function(data, status) {
@@ -123,23 +123,24 @@ LIMIT 20";
 		$(function() {
 			$("#slider-range1").slider({
 				range: true,
-				min: 50000,
-				max: 500000,
-				values: [60000, 300000],
+				min: 0,
+				max: 200,
+				values: [50, 120],
 				slide: function(event, ui) {
 					$("#hospitalCapacity").val(ui.values[0] + " - " + ui.values[1]);
 				}
 			});
 			$("#hospitalCapacity").val($("#slider-range1").slider("values", 0) +
 				" - " + $("#slider-range1").slider("values", 1));
-		});
+      }
+    );
 
 		$(function() {
 			$("#slider-range2").slider({
 				range: true,
-				min: 0,
-				max: 5000,
-				values: [750, 3000],
+				min: 50000,
+				max: 500000,
+				values: [60000, 300000],
 				slide: function(event, ui) {
 					$("#spRange").val(ui.values[0] + " - " + ui.values[1]);
 				}
@@ -151,8 +152,8 @@ LIMIT 20";
 	<link rel="stylesheet" type="text/css" href="style.css">
 	<link rel="stylesheet" href="css/maps.css">
 	<script src="http://maps.googleapis.com/maps/api/js?sensor=false&language=en&libraries=geometry&key=&key=AIzaSyA3yDkaER0a48RFurSyL0eDk4mWL81tF94"></script>
-	<script type="text/javascript" src="js/employement.js"> </script>
-	<script type="text/javascript" src="js/maps.js"></script>
+		<script type="text/javascript" src="js/employement.js"> </script>
+		<script type="text/javascript" src="js/maps.js"></script>
 	<script type="text/javascript" src="js/tableDisplay.js"></script>
 </head>
 
@@ -174,61 +175,57 @@ LIMIT 20";
 			<div class="tab-pane fade in active" id="Search" ng-app="mapsApp" ng-controller="MapCtrl">
 				<div class="modal-body row">
 					<div class="col-md-8">
-						<input type="text" name="town" id="town" class="form-control" ng-model="town" ng-keyup="complete(town)" placeholder="Search Town" />
+						<input type="text" name="town" id="town" class="form-control" ng-model="town" ng-keyup="complete(town)" placeholder="Search Town"/>
 
 						<ul class="list-group" ng-model="hidethis" ng-hide="hidethis">
 							<li class="list-group-item" ng-repeat="countrydata in filterTown" ng-click="fillTextbox(countrydata)">{{countrydata}}
 							</li>
 						</ul>
-						<div ng-model="hideTownData" ng-hide="hideTownData">
+               <div ng-model="hideTownData" ng-hide="hideTownData">
 
-							<div class="modal-body row">
-								<div class="col-md-6">
-									<div>
-										<p>
-											<div class="panel panel-success">
-												<div class="panel-body">Average assessed value: ${{avgAssessedValue}}</div>
-											</div>
-											<h4>
+								<div class="modal-body row">
+									<div class="col-md-6">
+										<div>
+												<p>
+													<div class="panel panel-success">
+														<div class="panel-body">Average assessed value: ${{avgAssessedValue}}</div>
+													</div>
+														<h4>
 															<span class="label label-success">Average sales price: ${{avgSalesPrice}}</span><br/><br/>
 															<span class="label label-info">Average sales ratio: {{avgSalesRatio}}</span><br/>
 														</h4>
 
-											<div>
-												<p>
-													<a href="#">Schools <span class="badge">{{schools_count}}</span></a>
-													<br>
-													<a href="#">Police Departments <span class="badge">{{policeDeptCount}}</span></a>
-													<br>
-													<a href="#">Population <span class="badge">{{population}}</span></a>
-													<br>
+														<div>
+															<p>
+																<a href="#">Schools <span class="badge">{{schools_count}}</span></a><br>
+																<a href="#">Police Departments <span class="badge">{{policeDeptCount}}</span></a><br>
+																<a href="#">Population <span class="badge">{{population}}</span></a><br>
+															</p>
+														</div>
+														<div class="numberCircle">Sex Ratio <br/>{{sex_ratio}}</div>
 												</p>
+										</div>
+									</div>
+									<div class="col-md-6">
+										<div class="modal-body row" id="housingContainer" style="min-width: 300px; height: 300px; margin: 0 auto">
+										</div>
+									</div>
+								</div>
+								<div class="modal-body row" style="min-width: 700px; height: 350px; margin: 0 auto">
+										<div class="col-md-6">
+											<div id="arrestContainer" style="min-width: 350px; height: 350px; margin: 0 auto">
 											</div>
-											<div class="numberCircle">Sex Ratio
-												<br/>{{sex_ratio}}</div>
-										</p>
-									</div>
-								</div>
-								<div class="col-md-6">
-									<div class="modal-body row" id="housingContainer" style="min-width: 300px; height: 300px; margin: 0 auto">
-									</div>
-								</div>
-							</div>
-							<div class="modal-body row" style="min-width: 700px; height: 350px; margin: 0 auto">
-								<div class="col-md-6">
-									<div id="arrestContainer" style="min-width: 350px; height: 350px; margin: 0 auto">
-									</div>
-								</div>
-								<div class="col-md-6">
-									<div id="crimeContainer" style="min-width: 350px; height: 350px; margin: 0 auto">
-									</div>
+										</div>
+										<div class="col-md-6">
+											<div id="crimeContainer" style="min-width: 350px; height: 350px; margin: 0 auto">
+											</div>
+										</div>
 								</div>
 							</div>
 						</div>
-					</div>
 					<div class="col-md-4">
-						<div id="map"></div>
-					</div>
+	 					<div id="map"></div>
+	 				</div>
 				</div>
 			</div>
 
@@ -275,74 +272,68 @@ LIMIT 20";
 				</div>
 			</div>
 			<div class="tab-pane fade" id="Charts">
-				<div class="modal-body row">
-					<div class="col-md-6">
-						<span id="cont" />
-						<style>
-							table,
-							th,
-							td {
-								border: 1px solid black;
-							}
-						</style>
-						<h2 style="color: crimson">Connecticut Houses and Geo-locations</h2>
-						<table style="width:30%; color: crimson">
-							<tr style="color:Black">
-								<th>Total houses</th>
-								<th>Color Indicator</th>
-							</tr>
-							<tr>
-								<td>
-									<10000</td>
-										<td>Blue</td>
-							</tr>
-							<tr>
-								<td>10000 - 30000</td>
-								<td>Green</td>
-							</tr>
-							<tr>
-								<td> 30000</td>
-								<td>Red</td>
-							</tr>
-						</table>
-						<script src="d3script_houses.js"></script>
+			<div class="modal-body row">
+				<div class="col-md-6">
+					<span id="cont" />
+				<style>
+					table, th, td {
+						border: 1px solid black;
+					}
+				</style>
+				<h2 style="color: crimson">Connecticut Houses and Geo-locations</h2>
+				<table style="width:30%; color: crimson">
+					<tr style="color:Black">
+						<th>Total houses</th>
+						<th>Color Indicator</th>
+					</tr>
+					<tr>
+						<td><10000</td>
+						<td>Blue</td>
+					</tr>
+					<tr>
+						<td>10000 - 30000</td>
+						<td>Green</td>
+					</tr>
+					<tr>
+						<td>> 30000</td>
+						<td>Red</td>
+					</tr>
+				</table>
+				<script src="d3script_houses.js"></script>
 
-						<span id="cont2" />
-						<h2 style="color: crimson">Connecticut Population hub and Geo-locations</h2>
-						<style>
-							table,
-							th,
-							td {
-								border: 1px solid black;
-							}
-						</style>
-						<table style="width:30%; color: crimson">
-							<tr style="color:Black">
-								<th>Total Population</th>
-								<th>Color Indicator</th>
-							</tr>
-							<tr>
-								<td>
-									< 10000</td>
-										<td>Blue</td>
-							</tr>
-							<tr>
-								<td>10000 - 40000</td>
-								<td>Green</td>
-							</tr>
-							<tr>
-								<td> > 40000</td>
-								<td>Red</td>
-							</tr>
-						</table>
-						<script src="d3script_population.js"></script>
-					</div>
-					<div class="col-md-6">
-						<!-- <script type="text/javascript"> </script> -->
-						<div id="prabhanjan"> </div>
-					</div>
-				</div>
+				<span id="cont2" />
+				<h2 style="color: crimson">Connecticut Population hub and Geo-locations</h2>
+				<style>
+					table, th, td {
+						border: 1px solid black;
+					}
+				</style>
+				<table style="width:30%; color: crimson">
+					<tr style="color:Black">
+						<th>Total Population</th>
+						<th>Color Indicator</th>
+					</tr>
+					<tr>
+						<td>< 10000</td>
+						<td>Blue</td>
+					</tr>
+					<tr>
+						<td>10000 - 40000</td>
+						<td>Green</td>
+					</tr>
+					<tr>
+						<td> > 40000</td>
+						<td>Red</td>
+					</tr>
+				</table>
+				<script src="d3script_population.js"></script>
 			</div>
+			<div class="col-md-6">
+				<!-- <script type="text/javascript"> </script> -->
+				<div id="prabhanjan"> </div>
+			</div>
+		</div>
+		</div>
 		</div>
 	</div>
 </body>

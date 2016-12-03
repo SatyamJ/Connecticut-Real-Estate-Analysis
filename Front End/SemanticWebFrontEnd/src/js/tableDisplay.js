@@ -64,7 +64,7 @@ for (var index = 0 ; index < data.length; index++){
   td = document.createElement('td');
   td.innerHTML = start;
   tr1.appendChild(td);
-  for (var j =0; j< data[index][1].length; j++){
+  for (var j =0; j< 5; j++){
     var td1 = document.createElement('td');
     td1.innerHTML = data[index][1][j];
     tr1.appendChild(td1);
